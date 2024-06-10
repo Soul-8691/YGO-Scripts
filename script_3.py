@@ -14,6 +14,8 @@ critter = date(2002, 6, 26)
 treasure = date(2002, 9, 16)
 eds = date(2002, 10, 15)
 imperial = date(2002, 10, 20)
+reaper = date(2006, 2, 18)
+
 eds_cards = [
     "7 Colored Fish",
     "7 Completed",
@@ -837,11 +839,131 @@ eds_cards = [
     "Insect Monster Token"
 ]
 
+um06_cards = [
+    "30,000-Year White Turtle",
+    "Akihiron",
+    "Ally Mind",
+    "Ancient Tool",
+    "Ansatsu",
+    "Battle Steer",
+    "Beautiful Beast Trainer",
+    "Bolt Escargot",
+    "Crawling Dragon",
+    "Crow Goblin",
+    "Cyber Soldier",
+    "Dark Chimera",
+    "Dark Witch",
+    "Dice Armadillo",
+    "Doma The Angel of Silence",
+    "Dungeon Worm",
+    "Emperor of the Land and Sea",
+    "Flame Champion",
+    "Garoozis",
+    "Gatekeeper",
+    "Giant Turtle Who Feeds on Flames",
+    "Giganto",
+    "Hercules Beetle",
+    "Hunter Spider",
+    "Ill Witch",
+    "Kairyu-Shin",
+    "Kuwagata α",
+    "LaMoon",
+    "Leo Wizard",
+    "Leogun",
+    "Mabarrel",
+    "Machine Attacker",
+    "Mech Bass",
+    "Megasonic Eye",
+    "Metal Fish",
+    "Metal Guardian",
+    "Misairuzame",
+    "Monster Tamer",
+    "Morinphen",
+    "Octoberser",
+    "Orion the Battle King",
+    "Parrot Dragon",
+    "Peacock",
+    "Queen Bird",
+    "Queen of Autumn Leaves",
+    "Rainbow Marine Mermaid",
+    "Rock Spirit",
+    "Rude Kaiser",
+    "Sand Stone",
+    "Seiyaryu",
+    "Shapesnatch",
+    "Spike Seadra",
+    "Spikebot",
+    "Spirit of the Mountain",
+    "Spirit of the Winds",
+    "Stone Ogre Grotto",
+    "Succubus Knight",
+    "Sword Slasher",
+    "Tatsunootoshigo",
+    "Togex",
+    "Trent",
+    "Wing Eagle",
+    "Winged Egg of New Life",
+    "Yamadron",
+    "Zanki",
+    "8-Claws Scorpion",
+    "Dragon Piper",
+    "Grave Protector",
+    "Gravekeeper's Chief",
+    "Great Phantom Thief",
+    "Legacy Hunter",
+    "Malice Doll of Demise",
+    "Skull Knight #2",
+    "Ante",
+    "Archfiend's Oath",
+    "Beast Fangs",
+    "Book of Secret Arts",
+    "Burning Spear",
+    "D.D. Designator",
+    "Dark Designator",
+    "Dark Energy",
+    "Darkness Approaches",
+    "Double Spell",
+    "Dragon Treasure",
+    "Electro-Whip",
+    "Elf's Light",
+    "Follow Wind",
+    "Gust Fan",
+    "Invigoration",
+    "Kaiser Colosseum",
+    "Laser Cannon Armor",
+    "Legendary Sword",
+    "Machine Conversion Factory",
+    "My Body as a Shield",
+    "Mystical Moon",
+    "Power of Kaishin",
+    "Prohibition",
+    "Question",
+    "Raise Body Heat",
+    "Secret Pass to the Treasures",
+    "Silver Bow and Arrow",
+    "Spirit Elimination",
+    "Spring of Rebirth",
+    "Steel Shell",
+    "Sword of Dark Destruction",
+    "The Puppet Magic of Dark Ruler",
+    "Vile Germs",
+    "Violet Crystal",
+    "Barrel Behind the Door",
+    "Grave Lure",
+    "Mind Crush",
+    "Null and Void",
+    "Penalty Game!",
+    "Pharaoh's Treasure",
+    "Pole Position",
+    "Trap of Board Eraser",
+    "Kwagar Hercules"
+]
+
 for card in data2:
     for set in data2[card]:
         try:
             date_ = parser.parse(data2[card][set]['set_chronology_tcg'][1]).date()
-            if date_ <= imperial:
+            if date_ <= reaper and card not in um06_cards:
                 attribute = 'None'
                 level = 0
                 atk = 0
@@ -857,50 +979,50 @@ for card in data2:
         except:
             pass
 
-for card in card_info:
-    printed = False
-    if card not in eds_cards:
-        try:
-            attribute = 'None'
-            level = 0
-            atk = 0
-            defn = 0
-            for set in data2[card]:
-                try:
-                    date_tcg = parser.parse(data2[card][set]['set_chronology_tcg'][1]).date()
-                    # date_ocg = parser.parse(data2[card][set]['set_chronology_ocg'][1]).date()
-                    if date_tcg <= imperial:
-                        try:
-                            attribute = card_info[card]['attribute']
-                            level = card_info[card]['level']
-                            atk = card_info[card]['atk']
-                            defn = card_info[card]['def']
-                            print(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + str(card_info[card]['id']) + '\t' + set + '\t' + data2[card][set]['set_chronology_tcg'][1])
-                        except:
-                            print(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + str(card_info[card]['id']) + '\t' + set + '\t' + data2[card][set]['set_chronology_tcg'][1])
-                        printed = True
-                    # else if date_ocg <= eds:
-                except:
-                    pass
+# for card in card_info:
+    # printed = False
+    # if card not in eds_cards:
+        # try:
+            # attribute = 'None'
+            # level = 0
+            # atk = 0
+            # defn = 0
             # for set in data2[card]:
                 # try:
-                    # if printed == False:
+                    # date_tcg = parser.parse(data2[card][set]['set_chronology_tcg'][1]).date()
+                    # # date_ocg = parser.parse(data2[card][set]['set_chronology_ocg'][1]).date()
+                    # if date_tcg <= imperial:
                         # try:
                             # attribute = card_info[card]['attribute']
                             # level = card_info[card]['level']
                             # atk = card_info[card]['atk']
                             # defn = card_info[card]['def']
-                            # # print(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + str(card_info[card]['id']) + '\t' + set + '\t' + data2[card][set]['set_chronology_ocg'][1])
-                            # print(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + str(card_info[card]['id']) + '\tUnknown\tUnknown')
-                            # break
+                            # print(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + str(card_info[card]['id']) + '\t' + set + '\t' + data2[card][set]['set_chronology_tcg'][1])
                         # except:
-                            # # print(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + str(card_info[card]['id']) + '\t' + set + '\t' + data2[card][set]['set_chronology_ocg'][1])
-                            # print(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + str(card_info[card]['id']) + '\tUnknown\tUnknown')
-                            # break
+                            # print(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + str(card_info[card]['id']) + '\t' + set + '\t' + data2[card][set]['set_chronology_tcg'][1])
+                        # printed = True
+                    # # else if date_ocg <= eds:
                 # except:
                     # pass
-        except:
-            pass
+            # # for set in data2[card]:
+                # # try:
+                    # # if printed == False:
+                        # # try:
+                            # # attribute = card_info[card]['attribute']
+                            # # level = card_info[card]['level']
+                            # # atk = card_info[card]['atk']
+                            # # defn = card_info[card]['def']
+                            # # # print(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + str(card_info[card]['id']) + '\t' + set + '\t' + data2[card][set]['set_chronology_ocg'][1])
+                            # # print(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + str(card_info[card]['id']) + '\tUnknown\tUnknown')
+                            # # break
+                        # # except:
+                            # # # print(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + str(card_info[card]['id']) + '\t' + set + '\t' + data2[card][set]['set_chronology_ocg'][1])
+                            # # print(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + str(card_info[card]['id']) + '\tUnknown\tUnknown')
+                            # # break
+                # # except:
+                    # # pass
+        # except:
+            # pass
 
 f.close()
 f2.close()
