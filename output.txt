@@ -1,0 +1,188 @@
+Acid Trap Hole	Trap Card	None	Normal	0	0	0	41356845	Yu-Gi-Oh! Dark Duel Stories promotional cards	19 March 2002
+Ancient Elf	Normal Monster	LIGHT	Spellcaster	4	1450	1200	93221206	Starter Deck: Yugi	29 March 2002
+Ancient Telescope	Spell Card	None	Normal	0	0	0	17092736	Starter Deck: Kaiba	29 March 2002
+Ansatsu	Normal Monster	EARTH	Warrior	5	1700	1200	48365709	Starter Deck: Yugi	29 March 2002
+Aqua Madoor	Normal Monster	WATER	Spellcaster	4	1200	2000	85639257	Legend of Blue Eyes White Dragon	8 March 2002
+Armaill	Normal Monster	EARTH	Warrior	3	700	1300	53153481	Legend of Blue Eyes White Dragon	8 March 2002
+Armed Ninja	Flip Effect Monster	EARTH	Warrior	1	300	300	9076207	Legend of Blue Eyes White Dragon	8 March 2002
+Armored Starfish	Normal Monster	WATER	Aqua	4	850	1400	17535588	Legend of Blue Eyes White Dragon	8 March 2002
+Baron of the Fiend Sword	Normal Monster	DARK	Fiend	4	1550	800	86325596	Starter Deck: Yugi	29 March 2002
+Basic Insect	Normal Monster	EARTH	Insect	2	500	700	89091579	Legend of Blue Eyes White Dragon	8 March 2002
+Battle Ox	Normal Monster	EARTH	Beast-Warrior	4	1700	1000	5053103	Starter Deck: Kaiba	29 March 2002
+Beast Fangs	Spell Card	None	Equip	0	0	0	46009906	Legend of Blue Eyes White Dragon	8 March 2002
+Beaver Warrior	Normal Monster	EARTH	Beast-Warrior	4	1200	1500	32452818	Legend of Blue Eyes White Dragon	8 March 2002
+Blue-Eyes White Dragon	Normal Monster	LIGHT	Dragon	8	3000	2500	89631139	Legend of Blue Eyes White Dragon	8 March 2002
+Book of Secret Arts	Spell Card	None	Equip	0	0	0	91595718	Legend of Blue Eyes White Dragon	8 March 2002
+Card Destruction	Spell Card	None	Normal	0	0	0	72892473	Starter Deck: Yugi	29 March 2002
+Castle Walls	Trap Card	None	Normal	0	0	0	44209392	Starter Deck: Kaiba	29 March 2002
+Celtic Guardian	Normal Monster	EARTH	Warrior	4	1400	1200	91152256	Legend of Blue Eyes White Dragon	8 March 2002
+Change of Heart	Spell Card	None	Normal	0	0	0	4031928	Starter Deck: Yugi	29 March 2002
+Charubin the Fire Knight	Fusion Monster	FIRE	Pyro	3	1100	800	37421579	Legend of Blue Eyes White Dragon	8 March 2002
+Claw Reacher	Normal Monster	DARK	Fiend	3	1000	800	41218256	Starter Deck: Yugi	29 March 2002
+Curse of Dragon	Normal Monster	DARK	Dragon	5	2000	1500	28279543	Legend of Blue Eyes White Dragon	8 March 2002
+D. Human	Normal Monster	EARTH	Warrior	4	1300	1100	81057959	Starter Deck: Kaiba	29 March 2002
+Dark Assailant	Normal Monster	DARK	Zombie	4	1200	1200	41949033	Starter Deck: Kaiba	29 March 2002
+Dark Energy	Spell Card	None	Equip	0	0	0	4614116	Legend of Blue Eyes White Dragon	8 March 2002
+Dark Gray	Normal Monster	EARTH	Beast	3	800	900	9159938	Legend of Blue Eyes White Dragon	8 March 2002
+Dark Hole	Spell Card	None	Normal	0	0	0	53129443	Legend of Blue Eyes White Dragon	8 March 2002
+Dark King of the Abyss	Normal Monster	DARK	Fiend	3	1200	800	53375573	Legend of Blue Eyes White Dragon	8 March 2002
+Dark Magician	Normal Monster	DARK	Spellcaster	7	2500	2100	46986414	Legend of Blue Eyes White Dragon	8 March 2002
+Dark Titan of Terror	Normal Monster	DARK	Fiend	4	1300	1100	89494469	Starter Deck: Kaiba	29 March 2002
+Darkfire Dragon	Fusion Monster	DARK	Dragon	4	1500	1250	17881964	Legend of Blue Eyes White Dragon	8 March 2002
+Darkworld Thorns	Normal Monster	EARTH	Plant	3	1200	900	43500484	Legend of Blue Eyes White Dragon	8 March 2002
+De-Spell	Spell Card	None	Normal	0	0	0	19159413	Starter Deck: Kaiba	29 March 2002
+Destroyer Golem	Normal Monster	EARTH	Rock	4	1500	1000	73481154	Starter Deck: Kaiba	29 March 2002
+Dian Keto the Cure Master	Spell Card	None	Normal	0	0	0	84257640	Starter Deck: Yugi	29 March 2002
+Dissolverock	Normal Monster	EARTH	Rock	3	900	1000	40826495	Legend of Blue Eyes White Dragon	8 March 2002
+Doma The Angel of Silence	Normal Monster	DARK	Fairy	5	1600	1400	16972957	Starter Deck: Yugi	29 March 2002
+Dragon Capture Jar	Trap Card	None	Continuous	0	0	0	50045299	Legend of Blue Eyes White Dragon	8 March 2002
+Dragon Treasure	Spell Card	None	Equip	0	0	0	1435851	Legend of Blue Eyes White Dragon	8 March 2002
+Dragon Zombie	Normal Monster	DARK	Zombie	3	1600	0	66672569	Starter Deck: Yugi	29 March 2002
+Dragoness the Wicked Knight	Fusion Monster	WIND	Warrior	3	1200	900	70681994	Legend of Blue Eyes White Dragon	8 March 2002
+Drooling Lizard	Normal Monster	EARTH	Reptile	3	900	800	16353197	Legend of Blue Eyes White Dragon	8 March 2002
+Electro-Whip	Spell Card	None	Equip	0	0	0	37820550	Legend of Blue Eyes White Dragon	8 March 2002
+Enchanting Mermaid	Normal Monster	WATER	Fish	3	1200	900	75376965	Legend of Blue Eyes White Dragon	8 March 2002
+Exodia the Forbidden One	Effect Monster	DARK	Spellcaster	3	1000	1000	33396948	Legend of Blue Eyes White Dragon	8 March 2002
+Feral Imp	Normal Monster	DARK	Fiend	4	1300	1400	41392891	Starter Deck: Yugi	29 March 2002
+Fiend Reflection #2	Normal Monster	LIGHT	Winged Beast	4	1100	1400	2863439	Legend of Blue Eyes White Dragon	8 March 2002
+Final Flame	Spell Card	None	Normal	0	0	0	73134082	Legend of Blue Eyes White Dragon	8 March 2002
+Firegrass	Normal Monster	EARTH	Plant	2	700	600	53293545	Legend of Blue Eyes White Dragon	8 March 2002
+Fireyarou	Normal Monster	FIRE	Pyro	4	1300	1000	71407486	Legend of Blue Eyes White Dragon	8 March 2002
+Fissure	Spell Card	None	Normal	0	0	0	66788016	Legend of Blue Eyes White Dragon	8 March 2002
+Flame Ghost	Fusion Monster	DARK	Zombie	3	1000	800	58528964	Legend of Blue Eyes White Dragon	8 March 2002
+Flame Manipulator	Normal Monster	FIRE	Spellcaster	3	900	1000	34460851	Legend of Blue Eyes White Dragon	8 March 2002
+Flame Swordsman	Fusion Monster	FIRE	Warrior	5	1800	1600	45231177	Legend of Blue Eyes White Dragon	8 March 2002
+Flower Wolf	Fusion Monster	EARTH	Beast	5	1800	1400	95952802	Legend of Blue Eyes White Dragon	8 March 2002
+Follow Wind	Spell Card	None	Equip	0	0	0	98252586	Legend of Blue Eyes White Dragon	8 March 2002
+Forest	Spell Card	None	Field	0	0	0	87430998	Legend of Blue Eyes White Dragon	8 March 2002
+Frenzied Panda	Normal Monster	EARTH	Beast	4	1200	1000	98818516	Legend of Blue Eyes White Dragon	8 March 2002
+Fusionist	Fusion Monster	EARTH	Beast	3	900	700	1641882	Legend of Blue Eyes White Dragon	8 March 2002
+Gaia the Dragon Champion	Fusion Monster	WIND	Dragon	7	2600	2100	66889139	Legend of Blue Eyes White Dragon	8 March 2002
+Gaia The Fierce Knight	Normal Monster	EARTH	Warrior	7	2300	2100	6368038	Legend of Blue Eyes White Dragon	8 March 2002
+Giant Soldier of Stone	Normal Monster	EARTH	Rock	3	1300	2000	13039848	Legend of Blue Eyes White Dragon	8 March 2002
+Goblin's Secret Remedy	Spell Card	None	Normal	0	0	0	11868825	Legend of Blue Eyes White Dragon	8 March 2002
+Gravedigger Ghoul	Spell Card	None	Normal	0	0	0	82542267	Legend of Blue Eyes White Dragon	8 March 2002
+Great White	Normal Monster	WATER	Fish	4	1600	800	13429800	Starter Deck: Yugi	29 March 2002
+Green Phantom King	Normal Monster	EARTH	Plant	3	500	1600	22910685	Legend of Blue Eyes White Dragon	8 March 2002
+Gyakutenno Megami	Normal Monster	LIGHT	Fairy	6	1800	2000	31122090	Starter Deck: Kaiba	29 March 2002
+Hane-Hane	Flip Effect Monster	EARTH	Beast	2	450	500	7089711	Legend of Blue Eyes White Dragon	8 March 2002
+Hard Armor	Normal Monster	EARTH	Warrior	3	300	1200	20060230	Legend of Blue Eyes White Dragon	8 March 2002
+Hinotama	Spell Card	None	Normal	0	0	0	46130346	Legend of Blue Eyes White Dragon	8 March 2002
+Hinotama Soul	Normal Monster	FIRE	Pyro	2	600	500	96851799	Legend of Blue Eyes White Dragon	8 March 2002
+Hitotsu-Me Giant	Normal Monster	EARTH	Beast-Warrior	4	1200	1000	76184692	Legend of Blue Eyes White Dragon	8 March 2002
+Invigoration	Spell Card	None	Equip	0	0	0	98374133	Starter Deck: Kaiba	29 March 2002
+Judge Man	Normal Monster	EARTH	Warrior	6	2200	1500	30113682	Starter Deck: Kaiba	29 March 2002
+Just Desserts	Trap Card	None	Normal	0	0	0	24068492	Starter Deck: Kaiba	29 March 2002
+Kagemusha of the Blue Flame	Normal Monster	EARTH	Warrior	2	800	400	15401633	Legend of Blue Eyes White Dragon	8 March 2002
+Karbonala Warrior	Fusion Monster	EARTH	Warrior	4	1500	1200	54541900	Legend of Blue Eyes White Dragon	8 March 2002
+King Fog	Normal Monster	DARK	Fiend	3	1000	900	84686841	Legend of Blue Eyes White Dragon	8 March 2002
+Kojikocy	Normal Monster	EARTH	Warrior	4	1500	1200	1184620	Starter Deck: Kaiba	29 March 2002
+Koumori Dragon	Normal Monster	DARK	Dragon	4	1500	1200	67724379	Starter Deck: Kaiba	29 March 2002
+Kumootoko	Normal Monster	EARTH	Insect	3	700	1400	56283725	Legend of Blue Eyes White Dragon	8 March 2002
+Kurama	Normal Monster	WIND	Winged Beast	3	800	800	85705804	Legend of Blue Eyes White Dragon	8 March 2002
+La Jinn the Mystical Genie of the Lamp	Normal Monster	DARK	Fiend	4	1800	1000	97590747	Starter Deck: Kaiba	29 March 2002
+Larvas	Normal Monster	EARTH	Beast	3	800	1000	94675535	Legend of Blue Eyes White Dragon	8 March 2002
+Laser Cannon Armor	Spell Card	None	Equip	0	0	0	77007920	Legend of Blue Eyes White Dragon	8 March 2002
+Last Will	Spell Card	None	Normal	0	0	0	85602018	Starter Deck: Yugi	29 March 2002
+Left Arm of the Forbidden One	Normal Monster	DARK	Spellcaster	1	200	300	7902349	Legend of Blue Eyes White Dragon	8 March 2002
+Left Leg of the Forbidden One	Normal Monster	DARK	Spellcaster	1	200	300	44519536	Legend of Blue Eyes White Dragon	8 March 2002
+Legendary Sword	Spell Card	None	Equip	0	0	0	61854111	Legend of Blue Eyes White Dragon	8 March 2002
+Lesser Dragon	Normal Monster	WIND	Dragon	4	1200	1000	55444629	Legend of Blue Eyes White Dragon	8 March 2002
+Lord of D.	Effect Monster	DARK	Spellcaster	4	1200	1100	17985575	Starter Deck: Kaiba	29 March 2002
+M-Warrior #1	Normal Monster	EARTH	Warrior	3	1000	500	56342351	Legend of Blue Eyes White Dragon	8 March 2002
+M-Warrior #2	Normal Monster	EARTH	Warrior	3	500	1000	92731455	Legend of Blue Eyes White Dragon	8 March 2002
+Machine Conversion Factory	Spell Card	None	Equip	0	0	0	25769732	Legend of Blue Eyes White Dragon	8 March 2002
+Magical Ghost	Normal Monster	DARK	Zombie	4	1300	1400	46474915	Starter Deck: Yugi	29 March 2002
+Mammoth Graveyard	Normal Monster	EARTH	Dinosaur	3	1200	800	40374923	Legend of Blue Eyes White Dragon	8 March 2002
+Man Eater	Normal Monster	EARTH	Plant	2	800	600	93553943	Legend of Blue Eyes White Dragon	8 March 2002
+Man-Eater Bug	Flip Effect Monster	EARTH	Insect	2	450	600	54652250	Legend of Blue Eyes White Dragon	8 March 2002
+Man-Eating Treasure Chest	Normal Monster	DARK	Fiend	4	1600	1000	13723605	Starter Deck: Yugi	29 March 2002
+Masaki the Legendary Swordsman	Normal Monster	EARTH	Warrior	4	1100	1100	44287299	Legend of Blue Eyes White Dragon	8 March 2002
+Master & Expert	Normal Monster	EARTH	Beast	4	1200	1000	75499502	Starter Deck: Kaiba	29 March 2002
+Meda Bat	Normal Monster	DARK	Fiend	2	800	400	76211194	Legend of Blue Eyes White Dragon	8 March 2002
+Metal Dragon	Fusion Monster	WIND	Machine	6	1850	1700	9293977	Legend of Blue Eyes White Dragon	8 March 2002
+Misairuzame	Normal Monster	WATER	Fish	5	1400	1600	33178416	Legend of Blue Eyes White Dragon	8 March 2002
+Monster Egg	Normal Monster	EARTH	Warrior	3	600	900	36121917	Legend of Blue Eyes White Dragon	8 March 2002
+Monster Reborn	Spell Card	None	Normal	0	0	0	83764719	Legend of Blue Eyes White Dragon	8 March 2002
+Mountain	Spell Card	None	Field	0	0	0	50913601	Legend of Blue Eyes White Dragon	8 March 2002
+Mysterious Puppeteer	Effect Monster	EARTH	Warrior	4	1000	1500	54098121	Starter Deck: Kaiba	29 March 2002
+Mystic Clown	Normal Monster	DARK	Fiend	4	1500	1000	47060154	Starter Deck: Kaiba	29 March 2002
+Mystic Horseman	Normal Monster	EARTH	Beast	4	1300	1550	68516705	Starter Deck: Kaiba	29 March 2002
+Mystical Elf	Normal Monster	LIGHT	Spellcaster	4	800	2000	15025844	Legend of Blue Eyes White Dragon	8 March 2002
+Mystical Moon	Spell Card	None	Equip	0	0	0	36607978	Legend of Blue Eyes White Dragon	8 March 2002
+Mystical Sheep #2	Normal Monster	EARTH	Beast	3	800	1000	83464209	Legend of Blue Eyes White Dragon	8 March 2002
+Nemuriko	Normal Monster	DARK	Spellcaster	3	800	700	90963488	Legend of Blue Eyes White Dragon	8 March 2002
+Neo the Magic Swordsman	Normal Monster	LIGHT	Spellcaster	4	1700	1000	50930991	Starter Deck: Yugi	29 March 2002
+Ogre of the Black Shadow	Normal Monster	EARTH	Beast-Warrior	4	1200	1400	45121025	Starter Deck: Kaiba	29 March 2002
+One-Eyed Shield Dragon	Normal Monster	WIND	Dragon	3	700	1300	33064647	Legend of Blue Eyes White Dragon	8 March 2002
+Ookazi	Spell Card	None	Normal	0	0	0	19523799	Starter Deck: Kaiba	29 March 2002
+Pale Beast	Normal Monster	EARTH	Beast	4	1500	1200	21263083	Starter Deck: Kaiba	29 March 2002
+Petit Angel	Normal Monster	LIGHT	Fairy	3	600	900	38142739	Legend of Blue Eyes White Dragon	8 March 2002
+Petit Dragon	Normal Monster	WIND	Dragon	2	600	700	75356564	Legend of Blue Eyes White Dragon	8 March 2002
+Polymerization	Spell Card	None	Normal	0	0	0	24094653	Legend of Blue Eyes White Dragon	8 March 2002
+Pot of Greed	Spell Card	None	Normal	0	0	0	55144522	Legend of Blue Eyes White Dragon	8 March 2002
+Power of Kaishin	Spell Card	None	Equip	0	0	0	77027445	Legend of Blue Eyes White Dragon	8 March 2002
+Raigeki	Spell Card	None	Normal	0	0	0	12580477	Legend of Blue Eyes White Dragon	8 March 2002
+Raise Body Heat	Spell Card	None	Equip	0	0	0	51267887	Legend of Blue Eyes White Dragon	8 March 2002
+Ray & Temperature	Normal Monster	LIGHT	Fairy	3	1000	1000	85309439	Legend of Blue Eyes White Dragon	8 March 2002
+Reaper of the Cards	Flip Effect Monster	DARK	Fiend	5	1380	1930	33066139	Legend of Blue Eyes White Dragon	8 March 2002
+Red Medicine	Spell Card	None	Normal	0	0	0	38199696	Legend of Blue Eyes White Dragon	8 March 2002
+Red-Eyes Black Dragon	Normal Monster	DARK	Dragon	7	2400	2000	74677422	Legend of Blue Eyes White Dragon	8 March 2002
+Reinforcements	Trap Card	None	Normal	0	0	0	17814387	Starter Deck: Kaiba	29 March 2002
+Remove Trap	Spell Card	None	Normal	0	0	0	51482758	Legend of Blue Eyes White Dragon	8 March 2002
+Reverse Trap	Trap Card	None	Normal	0	0	0	77622396	Starter Deck: Kaiba	29 March 2002
+Right Arm of the Forbidden One	Normal Monster	DARK	Spellcaster	1	200	300	70903634	Legend of Blue Eyes White Dragon	8 March 2002
+Right Leg of the Forbidden One	Normal Monster	DARK	Spellcaster	1	200	300	8124921	Legend of Blue Eyes White Dragon	8 March 2002
+Rogue Doll	Normal Monster	LIGHT	Spellcaster	4	1600	1000	91939608	Starter Deck: Kaiba	29 March 2002
+Root Water	Normal Monster	WATER	Fish	3	900	800	39004808	Legend of Blue Eyes White Dragon	8 March 2002
+Rude Kaiser	Normal Monster	EARTH	Beast-Warrior	5	1800	1600	26378150	Starter Deck: Kaiba	29 March 2002
+Ryu-Kishin	Normal Monster	DARK	Fiend	3	1000	500	15303296	Starter Deck: Kaiba	29 March 2002
+Ryu-Kishin Powered	Normal Monster	DARK	Fiend	4	1600	1200	24611934	Starter Deck: Kaiba	29 March 2002
+Salamandra	Spell Card	None	Equip	0	0	0	32268901	Yu-Gi-Oh! Dark Duel Stories promotional cards	19 March 2002
+Sand Stone	Normal Monster	EARTH	Rock	5	1300	1600	73051941	Legend of Blue Eyes White Dragon	8 March 2002
+Seiyaryu	Normal Monster	LIGHT	Dragon	7	2500	2300	6740720	Yu-Gi-Oh! Dark Duel Stories promotional cards	19 March 2002
+Silver Bow and Arrow	Spell Card	None	Equip	0	0	0	1557499	Legend of Blue Eyes White Dragon	8 March 2002
+Silver Fang	Normal Monster	EARTH	Beast	3	1200	800	90357090	Legend of Blue Eyes White Dragon	8 March 2002
+Skull Red Bird	Normal Monster	WIND	Winged Beast	4	1550	1200	10202894	Legend of Blue Eyes White Dragon	8 March 2002
+Skull Servant	Normal Monster	DARK	Zombie	1	300	200	32274490	Legend of Blue Eyes White Dragon	8 March 2002
+Sogen	Spell Card	None	Field	0	0	0	86318356	Legend of Blue Eyes White Dragon	8 March 2002
+Sorcerer of the Doomed	Normal Monster	DARK	Spellcaster	4	1450	1200	49218300	Starter Deck: Yugi	29 March 2002
+Soul Exchange	Spell Card	None	Normal	0	0	0	68005187	Starter Deck: Yugi	29 March 2002
+Sparks	Spell Card	None	Normal	0	0	0	76103675	Legend of Blue Eyes White Dragon	8 March 2002
+Spike Seadra	Normal Monster	WATER	Sea Serpent	5	1600	1300	85326399	Legend of Blue Eyes White Dragon	8 March 2002
+Spirit of the Harp	Normal Monster	LIGHT	Fairy	4	800	2000	80770678	Legend of Blue Eyes White Dragon	8 March 2002
+Steel Ogre Grotto #1	Normal Monster	EARTH	Machine	5	1400	1800	29172562	Legend of Blue Eyes White Dragon	8 March 2002
+Stop Defense	Spell Card	None	Normal	0	0	0	63102017	Legend of Blue Eyes White Dragon	8 March 2002
+Succubus Knight	Normal Monster	DARK	Warrior	5	1650	1300	55291359	Legend of Blue Eyes White Dragon	8 March 2002
+Summoned Skull	Normal Monster	DARK	Fiend	6	2500	1200	70781052	Starter Deck: Yugi	29 March 2002
+Sword of Dark Destruction	Spell Card	None	Equip	0	0	0	37120512	Starter Deck: Yugi	29 March 2002
+Swords of Revealing Light	Spell Card	None	Normal	0	0	0	72302403	Legend of Blue Eyes White Dragon	8 March 2002
+Swordstalker	Normal Monster	DARK	Warrior	6	2000	1600	50005633	Starter Deck: Kaiba	29 March 2002
+Terra the Terrible	Normal Monster	DARK	Fiend	4	1200	1300	63308047	Legend of Blue Eyes White Dragon	8 March 2002
+The 13th Grave	Normal Monster	DARK	Zombie	3	1200	900	32864	Legend of Blue Eyes White Dragon	8 March 2002
+The Flute of Summoning Dragon	Spell Card	None	Normal	0	0	0	43973174	Starter Deck: Kaiba	29 March 2002
+The Furious Sea King	Normal Monster	WATER	Aqua	3	800	700	18710707	Legend of Blue Eyes White Dragon	8 March 2002
+The Inexperienced Spy	Spell Card	None	Normal	0	0	0	81820689	Starter Deck: Kaiba	29 March 2002
+The Stern Mystic	Flip Effect Monster	LIGHT	Spellcaster	4	1500	1200	87557188	Starter Deck: Yugi	29 March 2002
+The Wicked Worm Beast	Effect Monster	EARTH	Beast	3	1400	700	6285791	Starter Deck: Kaiba	29 March 2002
+Trap Hole	Trap Card	None	Normal	0	0	0	4206964	Legend of Blue Eyes White Dragon	8 March 2002
+Trap Master	Flip Effect Monster	EARTH	Warrior	3	500	1100	46461247	Starter Deck: Kaiba	29 March 2002
+Tri-Horned Dragon	Normal Monster	DARK	Dragon	8	2850	2350	39111158	Legend of Blue Eyes White Dragon	8 March 2002
+Trial of Nightmare	Normal Monster	DARK	Fiend	4	1300	900	77827521	Legend of Blue Eyes White Dragon	8 March 2002
+Tripwire Beast	Normal Monster	EARTH	Thunder	4	1200	1300	45042329	Legend of Blue Eyes White Dragon	8 March 2002
+Turtle Tiger	Normal Monster	WATER	Aqua	4	1000	1500	37313348	Legend of Blue Eyes White Dragon	8 March 2002
+Two-Mouth Darkruler	Normal Monster	EARTH	Dinosaur	3	900	700	57305373	Legend of Blue Eyes White Dragon	8 March 2002
+Two-Pronged Attack	Trap Card	None	Normal	0	0	0	83887306	Legend of Blue Eyes White Dragon	8 March 2002
+Tyhone	Normal Monster	WIND	Winged Beast	4	1200	1400	72842870	Legend of Blue Eyes White Dragon	8 March 2002
+Ultimate Offering	Trap Card	None	Continuous	0	0	0	80604092	Starter Deck: Kaiba	29 March 2002
+Umi	Spell Card	None	Field	0	0	0	22702055	Legend of Blue Eyes White Dragon	8 March 2002
+Unknown Warrior of Fiend	Normal Monster	DARK	Warrior	3	1000	500	97360116	Starter Deck: Kaiba	29 March 2002
+Uraby	Normal Monster	EARTH	Dinosaur	4	1500	800	1784619	Legend of Blue Eyes White Dragon	8 March 2002
+Vile Germs	Spell Card	None	Equip	0	0	0	39774685	Legend of Blue Eyes White Dragon	8 March 2002
+Violet Crystal	Spell Card	None	Equip	0	0	0	15052462	Legend of Blue Eyes White Dragon	8 March 2002
+Waboku	Trap Card	None	Normal	0	0	0	12607053	Starter Deck: Yugi	29 March 2002
+Wall of Illusion	Effect Monster	DARK	Fiend	4	1000	1850	13945283	Starter Deck: Yugi	29 March 2002
+Wasteland	Spell Card	None	Field	0	0	0	23424603	Legend of Blue Eyes White Dragon	8 March 2002
+Winged Dragon, Guardian of the Fortress #1	Normal Monster	WIND	Dragon	4	1400	1200	87796900	Starter Deck: Yugi	29 March 2002
+Witty Phantom	Normal Monster	DARK	Fiend	4	1400	1300	36304921	Legend of Blue Eyes White Dragon	8 March 2002
+Yami	Spell Card	None	Field	0	0	0	59197169	Legend of Blue Eyes White Dragon	8 March 2002

@@ -1,0 +1,12 @@
+Goals:
+1. Make an EDS/UM06 Google Sheets
+2. Make a YGO tier maker and graphing program, with FL formats supported
+3. Make a tool for hacking EDS/UM06
+4. Make a C injection for hacking EDS
+5. Expand cards in EDS and be able to add new effects somewhat easily with C injection
+6. Expand AI in EDS to work with new cards and be able to edit existing AI to be better using C injection
+7. Add a card shop and a DP system in EDS, replacing the password system
+8. Be able to edit decks and packs in UM06
+9. Make an EDS/UM06 Google Docs
+10. Update PC thread
+11. Contribute to Data Crystal and Yugipedia
