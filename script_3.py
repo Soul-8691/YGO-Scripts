@@ -1572,47 +1572,47 @@ imperial_cards = [
     "Yami"
 ]
 
-for card in eds_cards:
-    if card not in imperial_cards:
-        attribute = 'None'
-        level = 0
-        atk = 0
-        defn = 0
-        try:
-            for set in data2[card]['set_chronology_ocg']:
-                try:
-                    attribute = card_info[card]['attribute']
-                    level = card_info[card]['level']
-                    atk = card_info[card]['atk']
-                    defn = card_info[card]['def']
-                    print(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + str(card_info[card]['id']) + '\t' + set[0] + ' (OCG)\t' + set[1].split('/')[3], months[int(set[1].split('/')[2])], set[1].split('/')[1])
-                except:
-                    print(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + str(card_info[card]['id']) + '\t' + set[0] + ' (OCG)\t' + set[1].split('/')[3], months[int(set[1].split('/')[2])], set[1].split('/')[1])
-        except:
-            try:
-                print(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + str(card_info[card]['id']))
-            except Exception as e:
-                pass
-
-# for card in data2:
-    # for set in data2[card]:
+# for card in eds_cards:
+    # if card not in imperial_cards:
+        # attribute = 'None'
+        # level = 0
+        # atk = 0
+        # defn = 0
         # try:
-            # date_ = parser.parse(data2[card][set]['set_chronology_tcg'][1]).date()
-            # if date_ <= android and card not in eds_cards:
-                # attribute = 'None'
-                # level = 0
-                # atk = 0
-                # defn = 0
+            # for set in data2[card]['set_chronology_ocg']:
                 # try:
                     # attribute = card_info[card]['attribute']
                     # level = card_info[card]['level']
                     # atk = card_info[card]['atk']
                     # defn = card_info[card]['def']
-                    # print(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + str(card_info[card]['id']) + '\t' + set + '\t' + data2[card][set]['set_chronology_tcg'][1])
+                    # print(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + str(card_info[card]['id']) + '\t' + set[0] + ' (OCG)\t' + set[1].split('/')[3], months[int(set[1].split('/')[2])], set[1].split('/')[1])
                 # except:
-                    # print(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + str(card_info[card]['id']) + '\t' + set + '\t' + data2[card][set]['set_chronology_tcg'][1])
+                    # print(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + str(card_info[card]['id']) + '\t' + set[0] + ' (OCG)\t' + set[1].split('/')[3], months[int(set[1].split('/')[2])], set[1].split('/')[1])
         # except:
-            # pass
+            # try:
+                # print(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + str(card_info[card]['id']))
+            # except Exception as e:
+                # pass
+
+for card in data2:
+    for set in data2[card]:
+        try:
+            date_ = parser.parse(data2[card][set]['set_chronology_tcg'][1]).date()
+            if date_ <= yugikaiba:
+                attribute = 'None'
+                level = 0
+                atk = 0
+                defn = 0
+                try:
+                    attribute = card_info[card]['attribute']
+                    level = card_info[card]['level']
+                    atk = card_info[card]['atk']
+                    defn = card_info[card]['def']
+                    print(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + str(card_info[card]['id']) + '\t' + set + '\t' + data2[card][set]['set_chronology_tcg'][1])
+                except:
+                    print(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + str(card_info[card]['id']) + '\t' + set + '\t' + data2[card][set]['set_chronology_tcg'][1])
+        except:
+            pass
 
 # for card in eds_cards:
     # # printed = False

@@ -1,386 +1,232 @@
-Acid Crawler	Normal Monster	EARTH	Insect	3	900	700	77568553	Vol.5 (OCG)	23 October 1999
-Air Eater	Normal Monster	WIND	Fiend	6	2100	1600	8353769	Vol.6 (OCG)	18 December 1999
-Archfiend Marmot of Nefariousness	Normal Monster	EARTH	Beast	2	400	600	75889523	Vol.1 (OCG)	4 March 1999
-Akakieisu	Normal Monster	DARK	Spellcaster	3	1000	800	38035986	Vol.7 (OCG)	27 February 2000
-Akihiron	Normal Monster	WATER	Aqua	5	1700	1400	36904469	Booster 2 (OCG)	25 June 1999
-Akihiron	Normal Monster	WATER	Aqua	5	1700	1400	36904469	Vol.3 (OCG)	27 June 1999
-Alligator's Sword	Normal Monster	EARTH	Beast	4	1500	1200	64428736	Limited Edition 2 (OCG)	1 May 2000
-Alligator's Sword	Normal Monster	EARTH	Beast	4	1500	1200	64428736	Limited Edition 2: Joey Pack (OCG)	1 May 2000
-Alligator's Sword	Normal Monster	EARTH	Beast	4	1500	1200	64428736	Structure Deck: Joey (OCG)	25 November 2001
-Alligator's Sword Dragon	Fusion Monster	WIND	Dragon	5	1700	1500	3366982	Structure Deck: Joey (OCG)	25 November 2001
-Alligator's Sword Dragon	Fusion Monster	WIND	Dragon	5	1700	1500	3366982
-Alpha The Magnet Warrior	Normal Monster	EARTH	Rock	4	1400	1700	99785935	Structure Deck: Yugi (OCG)	28 July 2001
-Alpha The Magnet Warrior	Normal Monster	EARTH	Rock	4	1400	1700	99785935	Yu-Gi-Oh! Duel Monsters III: Tri-Holy God Advent promotional cards (OCG)	13 August 2000
-Amazon of the Seas	Normal Monster	WATER	Fish	4	1300	1400	17968114	Booster 4 (OCG)	26 September 1999
-Amphibious Bugroth	Fusion Monster	WATER	Aqua	5	1850	1300	40173854
-Ancient Jar	Normal Monster	EARTH	Rock	1	400	200	81492226	Booster 1 (OCG)	1 April 1999
-Ancient Tool	Normal Monster	DARK	Machine	5	1700	1400	49587396	Vol.7 (OCG)	27 February 2000
-Anthrosaurus	Normal Monster	EARTH	Dinosaur	3	1000	850	89904598	Vol.3 (OCG)	27 June 1999
-Anti Raigeki	Trap Card	None	Normal	0	0	0	42364257	Booster 5 (OCG)	17 November 1999
-Anti Raigeki	Trap Card	None	Normal	0	0	0	42364257	Vol.5 (OCG)	23 October 1999
-Anti-Spell Fragrance	Trap Card	None	Continuous	0	0	0	58921041
-Aqua Chorus	Trap Card	None	Continuous	0	0	0	95132338
-Aqua Dragon	Fusion Monster	WATER	Sea Serpent	6	2250	1900	86164529	Booster 4 (OCG)	26 September 1999
-Arlownay	Normal Monster	EARTH	Plant	3	800	1000	14708569	Vol.7 (OCG)	27 February 2000
-Arma Knight	Normal Monster	WATER	Aqua	4	1000	1200	36151751	Vol.7 (OCG)	27 February 2000
-Armored Rat	Normal Monster	EARTH	Beast	3	950	1100	16246527	Vol.5 (OCG)	23 October 1999
-B. Dragon Jungle King	Normal Monster	EARTH	Dragon	6	2100	1800	89832901	Vol.7 (OCG)	27 February 2000
-Barox	Fusion Monster	DARK	Fiend	5	1380	1530	6840573	Vol.3 (OCG)	27 June 1999
-Barrel Lily	Normal Monster	EARTH	Plant	3	1100	600	67841515	Vol.4 (OCG)	22 August 1999
-Barrel Rock	Normal Monster	EARTH	Rock	4	1000	1300	10476868	Booster 4 (OCG)	26 September 1999
-Battle Warrior	Normal Monster	EARTH	Warrior	3	700	1000	55550921	Booster 1 (OCG)	1 April 1999
-Battle Warrior	Normal Monster	EARTH	Warrior	3	700	1000	55550921	Booster R1 (OCG)	23 July 2000
-Battle Warrior	Normal Monster	EARTH	Warrior	3	700	1000	55550921	Structure Deck: Joey (OCG)	25 November 2001
-Beastly Mirror Ritual	Spell Card	None	Ritual	0	0	0	81933259	Dark Ceremony Edition (OCG)	23 April 2000
-Beastly Mirror Ritual	Spell Card	None	Ritual	0	0	0	81933259
-Behegon	Normal Monster	WATER	Aqua	4	1350	1000	94022093	Booster 5 (OCG)	17 November 1999
-Behegon	Normal Monster	WATER	Aqua	4	1350	1000	94022093	Booster R3 (OCG)	23 December 2000
-Ring of Destruction	Trap Card	None	Normal	0	0	0	83555666	Structure Deck: Kaiba (OCG)	24 February 2002
-Ring of Destruction	Trap Card	None	Normal	0	0	0	83555666
-Beta The Magnet Warrior	Normal Monster	EARTH	Rock	4	1700	1600	39256679	Structure Deck: Yugi (OCG)	28 July 2001
-Beta The Magnet Warrior	Normal Monster	EARTH	Rock	4	1700	1600	39256679	Yu-Gi-Oh! Duel Monsters III: Tri-Holy God Advent promotional cards (OCG)	13 August 2000
-Big Insect	Normal Monster	EARTH	Insect	4	1200	1500	53606874	Booster 4 (OCG)	26 September 1999
-Big Shield Gardna	Effect Monster	EARTH	Warrior	4	100	2600	65240384	Duelist Legacy Volume.1 (OCG)	20 July 2002
-Big Shield Gardna	Effect Monster	EARTH	Warrior	4	100	2600	65240384	Yu-Gi-Oh! Duel Monsters 5: Expert 1 promotional cards (OCG)	5 August 2001
-Binding Chain	Normal Monster	LIGHT	Fairy	3	1000	1100	8058240	Vol.3 (OCG)	27 June 1999
-Bio Plant	Normal Monster	DARK	Fiend	3	600	1300	7670542	Vol.5 (OCG)	23 October 1999
-Black Luster Ritual	Spell Card	None	Ritual	0	0	0	55761792	Dark Ceremony Edition (OCG)	23 April 2000
-Black Luster Ritual	Spell Card	None	Ritual	0	0	0	55761792
-Black Luster Soldier	Ritual Monster	EARTH	Warrior	8	3000	2500	5405694	Dark Ceremony Edition (OCG)	23 April 2000
-Black Luster Soldier	Ritual Monster	EARTH	Warrior	8	3000	2500	5405694
-Blast Sphere	Effect Monster	DARK	Machine	4	1400	1400	26302522	Limited Edition 2 (OCG)	1 May 2000
-Blast Sphere	Effect Monster	DARK	Machine	4	1400	1400	26302522	Limited Edition 2: Keith Pack (OCG)	1 May 2000
-Blue-Eyed Silver Zombie	Normal Monster	DARK	Zombie	3	900	700	35282433	Vol.2 (OCG)	27 April 1999
-Blue-Eyes Ultimate Dragon	Fusion Monster	LIGHT	Dragon	12	4500	3800	23995346	Asia Championship 2001 prize cards (OCG)	20 September 2000
-Blue-Eyes Ultimate Dragon	Fusion Monster	LIGHT	Dragon	12	4500	3800	23995346	Premium Pack 3 (OCG)	10 September 2000
-Blue-Eyes Ultimate Dragon	Fusion Monster	LIGHT	Dragon	12	4500	3800	23995346	Structure Deck: Kaiba (OCG)	24 February 2002
-Blue-Eyes Ultimate Dragon	Fusion Monster	LIGHT	Dragon	12	4500	3800	23995346	Yu-Gi-Oh! Duel Monsters II: Dark duel Stories Duelist Legend in Tokyo Dome prize cards (OCG)	26 September 1999
-Bolt Escargot	Normal Monster	WATER	Thunder	5	1400	1500	12146024	Vol.6 (OCG)	18 December 1999
-Bracchio-raidus	Fusion Monster	WATER	Dinosaur	6	2200	2000	16507828	Booster 5 (OCG)	17 November 1999
-Bracchio-raidus	Fusion Monster	WATER	Dinosaur	6	2200	2000	16507828	Booster Chronicle (OCG)	30 September 2001
-Bracchio-raidus	Fusion Monster	WATER	Dinosaur	6	2200	2000	16507828	Booster R3 (OCG)	23 December 2000
-Breath of Light	Spell Card	None	Normal	0	0	0	20101223	Booster 4 (OCG)	26 September 1999
-Breath of Light	Spell Card	None	Normal	0	0	0	20101223	Vol.4 (OCG)	22 August 1999
-Shine Palace	Spell Card	None	Equip	0	0	0	82878489	Structure Deck: Pegasus (OCG)	21 April 2002
-Shine Palace	Spell Card	None	Equip	0	0	0	82878489	Yu-Gi-Oh! Duel Monsters II: Dark duel Stories promotional cards (OCG)	8 August 1999
-Burglar	Normal Monster	EARTH	Beast	3	850	800	6297941	Vol.6 (OCG)	18 December 1999
-Call of Darkness	Trap Card	None	Continuous	0	0	0	78637313	Booster 5 (OCG)	17 November 1999
-Call of Darkness	Trap Card	None	Continuous	0	0	0	78637313	Vol.5 (OCG)	23 October 1999
-Candle of Fate	Normal Monster	DARK	Fiend	2	600	600	47695416	Vol.1 (OCG)	4 March 1999
-Chakra	Ritual Monster	DARK	Fiend	7	2450	2000	65393205	Dark Ceremony Edition (OCG)	23 April 2000
-Clown Zombie	Normal Monster	DARK	Zombie	2	1350	0	92667214	Vol.7 (OCG)	27 February 2000
-Cosmo Queen	Normal Monster	DARK	Spellcaster	8	2900	2450	38999506	Premium Pack (Japanese) (OCG)	26 September 1999
-Crazy Fish	Normal Monster	WATER	Fish	4	1600	1200	53713014	Vol.7 (OCG)	27 February 2000
-Crimson Sunbird	Fusion Monster	FIRE	Winged Beast	6	2300	1800	46696593
-Crow Goblin	Normal Monster	WIND	Winged Beast	5	1850	1600	77998771	Booster 5 (OCG)	17 November 1999
-Crow Goblin	Normal Monster	WIND	Winged Beast	5	1850	1600	77998771	Vol.5 (OCG)	23 October 1999
-Crush Card Virus	Trap Card	None	Normal	0	0	0	57728570
-Curtain of the Dark Ones	Normal Monster	DARK	Spellcaster	2	600	500	22026707	Vol.1 (OCG)	4 March 1999
-Cyber Commander	Normal Monster	DARK	Machine	2	750	700	6400512	Vol.6 (OCG)	18 December 1999
-Cyber Shield	Spell Card	None	Equip	0	0	0	63224564	Yu-Gi-Oh! Duel Monsters II: Dark duel Stories promotional cards (OCG)	8 August 1999
-Cyber Soldier	Normal Monster	DARK	Machine	5	1500	1700	44865098	Vol.7 (OCG)	27 February 2000
-Cyber-Stein	Effect Monster	DARK	Machine	2	700	500	69015963
-Cyber-Tech Alligator	Normal Monster	WIND	Machine	5	2500	1600	48766543	Yu-Gi-Oh! Duel Monsters III: Tri-Holy God Advent promotional cards (OCG)	13 August 2000
-Dark Artist	Effect Monster	DARK	Fiend	3	600	1400	72520073	Booster 3 (OCG)	5 August 1999
-Dark Chimera	Normal Monster	DARK	Fiend	5	1610	1460	32344688	Vol.7 (OCG)	27 February 2000
-Black Magic Ritual	Spell Card	None	Ritual	0	0	0	76792184	Premium Pack 3 (OCG)	10 September 2000
-Black Magic Ritual	Spell Card	None	Ritual	0	0	0	76792184	Structure Deck: Yugi (OCG)	28 July 2001
-Black Magic Ritual	Spell Card	None	Ritual	0	0	0	76792184
-Dark Magician Girl	Effect Monster	DARK	Spellcaster	6	2000	1700	38033121
-Dark Rabbit	Normal Monster	DARK	Beast	4	1100	1500	99261403	Structure Deck: Pegasus (OCG)	21 April 2002
-Dark Rabbit	Normal Monster	DARK	Beast	4	1100	1500	99261403	Vol.5 (OCG)	23 October 1999
-Dark Sage	Effect Monster	DARK	Spellcaster	9	2800	3200	92377303	Duelist Legacy Volume.1 (OCG)	20 July 2002
-Dark Sage	Effect Monster	DARK	Spellcaster	9	2800	3200	92377303	Yu-Gi-Oh! Duel Monsters 5: Expert 1 promotional cards (OCG)	5 August 2001
-Dark Shade	Normal Monster	WIND	Fiend	3	1000	1000	40196604	Vol.5 (OCG)	23 October 1999
-Dark-Eyes Illusionist	Flip Effect Monster	DARK	Spellcaster	2	0	1400	38247752	Structure Deck: Pegasus (OCG)	21 April 2002
-Dark-Eyes Illusionist	Flip Effect Monster	DARK	Spellcaster	2	0	1400	38247752	The Valuable Book 2 promotional cards (OCG)	20 May 2000
-Dark-Piercing Light	Spell Card	None	Normal	0	0	0	45895206	Booster 2 (OCG)	25 June 1999
-Dark-Piercing Light	Spell Card	None	Normal	0	0	0	45895206	Booster Chronicle (OCG)	30 September 2001
-Dark-Piercing Light	Spell Card	None	Normal	0	0	0	45895206	Booster R1 (OCG)	23 July 2000
-Dice Armadillo	Normal Monster	EARTH	Machine	5	1650	1800	69893315	Vol.6 (OCG)	18 December 1999
-D.D. Warrior	Effect Monster	EARTH	Warrior	4	1200	1000	37043180	Vol.7 (OCG)	27 February 2000
-Dokuroizo the Grim Reaper	Normal Monster	DARK	Zombie	3	900	1200	25882881	Vol.4 (OCG)	22 August 1999
-Doron	Normal Monster	EARTH	Warrior	2	900	500	756652	Booster 1 (OCG)	1 April 1999
-Doron	Normal Monster	EARTH	Warrior	2	900	500	756652	Booster R1 (OCG)	23 July 2000
-Dorover	Normal Monster	WATER	Aqua	3	900	800	24194033	Vol.2 (OCG)	27 April 1999
-Doriado	Normal Monster	EARTH	Spellcaster	4	1200	1400	84916669	Booster 3 (OCG)	5 August 1999
-Dunames Dark Witch	Normal Monster	LIGHT	Fairy	4	1800	1050	12493482	Yu-Gi-Oh! Duel Monsters III: Tri-Holy God Advent pre-order promotional card (OCG)	13 August 2000
-Dungeon Worm	Normal Monster	EARTH	Insect	5	1800	1500	51228280	Booster 5 (OCG)	17 November 1999
-Dungeon Worm	Normal Monster	EARTH	Insect	5	1800	1500	51228280	Vol.5 (OCG)	23 October 1999
-Eldeen	Normal Monster	LIGHT	Spellcaster	3	950	1000	6367785	Vol.3 (OCG)	27 June 1999
-Eradicating Aerosol	Spell Card	None	Normal	0	0	0	94716515	Booster 4 (OCG)	26 September 1999
-Eradicating Aerosol	Spell Card	None	Normal	0	0	0	94716515	Vol.4 (OCG)	22 August 1999
-Eternal Drought	Spell Card	None	Normal	0	0	0	56606928	Booster 4 (OCG)	26 September 1999
-Eternal Drought	Spell Card	None	Normal	0	0	0	56606928	Vol.4 (OCG)	22 August 1999
-Eyearmor	Normal Monster	EARTH	Warrior	2	600	500	64511793	Vol.1 (OCG)	4 March 1999
-Fairy Dragon	Normal Monster	WIND	Dragon	4	1100	1200	20315854	Booster 4 (OCG)	26 September 1999
-Fairywitch	Normal Monster	DARK	Spellcaster	3	800	1000	37160778	Booster 2 (OCG)	25 June 1999
-Fairywitch	Normal Monster	DARK	Spellcaster	3	800	1000	37160778	Booster R1 (OCG)	23 July 2000
-Fiend Kraken	Normal Monster	WATER	Aqua	4	1200	1400	77456781	Booster 4 (OCG)	26 September 1999
-Fiend Reflection #1	Normal Monster	None	Winged Beast	0	0	0	68870276
-Fiend Sword	Normal Monster	DARK	Warrior	4	1400	800	22855882	Vol.7 (OCG)	27 February 2000
-Fiend's Hand	Normal Monster	DARK	Zombie	2	600	600	52800428	Vol.1 (OCG)	4 March 1999
-Fiend's Mirror	Ritual Monster	DARK	Fiend	6	2100	1800	31890399	Dark Ceremony Edition (OCG)	23 April 2000
-Fiend's Mirror	Ritual Monster	DARK	Fiend	6	2100	1800	31890399
-Fire Reaper	Normal Monster	DARK	Zombie	2	700	500	53581214	Vol.1 (OCG)	4 March 1999
-Firewing Pegasus	Normal Monster	FIRE	Beast	6	2250	1800	27054370	Premium Pack 3 (OCG)	10 September 2000
-Firewing Pegasus	Normal Monster	FIRE	Beast	6	2250	1800	27054370	Yu-Gi-Oh! Duel Monsters II: Dark duel Stories Duelist Legend in Tokyo Dome prize cards (OCG)	26 September 1999
-Flame Viper	Normal Monster	EARTH	Pyro	2	400	450	2830619	Vol.4 (OCG)	22 August 1999
-Fortress Whale	Ritual Monster	WATER	Fish	7	2350	2150	62337487	Dark Ceremony Edition (OCG)	23 April 2000
-Fortress Whale's Oath	Spell Card	None	Ritual	0	0	0	77454922	Dark Ceremony Edition (OCG)	23 April 2000
-Fusion Sage	Spell Card	None	Normal	0	0	0	26902560
-Gale Dogra	Effect Monster	EARTH	Insect	2	650	600	16229315
-Gamma the Magnet Warrior	Normal Monster	None	Rock	0	0	0	11549357
-Ganigumo	Normal Monster	EARTH	Insect	2	600	800	34536276	Vol.3 (OCG)	27 June 1999
-Garma Sword	Ritual Monster	DARK	Warrior	7	2550	2150	90844184	Yu-Gi-Oh! Duel Monsters III: Tri-Holy God Advent promotional cards (OCG)	13 August 2000
-Garma Sword Oath	Spell Card	None	Ritual	0	0	0	78577570	Yu-Gi-Oh! Duel Monsters III: Tri-Holy God Advent promotional cards (OCG)	13 August 2000
-Garvas	Normal Monster	EARTH	Beast	6	2000	1700	69780745
-Gatekeeper	Normal Monster	DARK	Machine	5	1500	1800	19737320	Vol.7 (OCG)	27 February 2000
-Gemini Elf	Normal Monster	EARTH	Spellcaster	4	1900	900	69140098	Asia Championship 2001 prize cards (OCG)	20 September 2000
-Gemini Elf	Normal Monster	EARTH	Spellcaster	4	1900	900	69140098	Booster 4 (OCG)	26 September 1999
-Gemini Elf	Normal Monster	EARTH	Spellcaster	4	1900	900	69140098	Booster Chronicle (OCG)	30 September 2001
-Gemini Elf	Normal Monster	EARTH	Spellcaster	4	1900	900	69140098	Booster R2 (OCG)	9 October 2000
-Genin	Normal Monster	LIGHT	Spellcaster	3	600	900	49370026	Starter Box (OCG)	18 April 1999
-Ghoul with an Appetite	Normal Monster	DARK	Zombie	4	1600	1200	95265975	Vol.7 (OCG)	27 February 2000
-Giant Mech-Soldier	Normal Monster	EARTH	Machine	6	1750	1900	72299832	Booster 2 (OCG)	25 June 1999
-Giant Mech-Soldier	Normal Monster	EARTH	Machine	6	1750	1900	72299832	Vol.3 (OCG)	27 June 1999
-Giant Scorpion of the Tundra	Normal Monster	EARTH	Insect	3	1100	1000	41403766	Vol.6 (OCG)	18 December 1999
-Giganto	Normal Monster	DARK	Machine	5	1700	1800	33621868	Vol.7 (OCG)	27 February 2000
-Goblin Fan	Trap Card	None	Continuous	0	0	0	4149689	Yu-Gi-Oh! Duel Monsters III: Tri-Holy God Advent promotional cards (OCG)	13 August 2000
-Goddess of Whim	Effect Monster	LIGHT	Fairy	3	950	700	67959180	Premium Pack (Japanese) (OCG)	26 September 1999
-Gokibore	Normal Monster	EARTH	Insect	4	1200	1400	15367030	Vol.6 (OCG)	18 December 1999
-Graceful Charity	Spell Card	None	Normal	0	0	0	79571449	Booster 4 (OCG)	26 September 1999
-Graceful Charity	Spell Card	None	Normal	0	0	0	79571449	Booster Chronicle (OCG)	30 September 2001
-Graceful Charity	Spell Card	None	Normal	0	0	0	79571449	Booster R2 (OCG)	9 October 2000
-Graceful Charity	Spell Card	None	Normal	0	0	0	79571449	Structure Deck: Kaiba (OCG)	24 February 2002
-Graceful Charity	Spell Card	None	Normal	0	0	0	79571449	Structure Deck: Yugi (OCG)	28 July 2001
-Grappler	Normal Monster	WATER	Reptile	4	1300	1200	2906250	Booster 7 (OCG)	1 April 2000
-Graveyard and the Hand of Invitation	Normal Monster	DARK	Zombie	3	700	900	27094595	Booster 1 (OCG)	1 April 1999
-Great Bill	Normal Monster	EARTH	Beast	4	1250	1300	55691901	Vol.4 (OCG)	22 August 1999
-Great Mammoth of Goldfine	Fusion Monster	DARK	Zombie	6	2200	1800	54622031	Booster 5 (OCG)	17 November 1999
-Great Mammoth of Goldfine	Fusion Monster	DARK	Zombie	6	2200	1800	54622031	Booster R3 (OCG)	23 December 2000
-Greenkappa	Flip Effect Monster	DARK	Warrior	3	650	900	61831093
-Griffore	Normal Monster	EARTH	Beast	4	1200	1500	53829412	Vol.6 (OCG)	18 December 1999
-Gruesome Goo	Normal Monster	WATER	Aqua	3	1300	700	65623423	Booster 4 (OCG)	26 September 1999
-Gryphon Wing	Trap Card	None	Normal	0	0	0	55608151	Booster 7 (OCG)	1 April 2000
-Gryphon Wing	Trap Card	None	Normal	0	0	0	55608151	Metal Raiders (Japanese) (OCG)	22 March 2001
-Sentinel of the Seas	Normal Monster	WATER	Aqua	4	1300	1000	85448931
-Haniwa	Normal Monster	EARTH	Rock	2	500	500	84285623	Vol.1 (OCG)	4 March 1999
-Happy Lover	Normal Monster	LIGHT	Fairy	2	800	500	99030164	Booster 1 (OCG)	1 April 1999
-Harpie's Feather Duster	Spell Card	None	Normal	0	0	0	18144507
-Harpie's Pet Dragon	Effect Monster	WIND	Dragon	7	2000	2500	52040216
-Hero of the East	Normal Monster	EARTH	Warrior	3	1100	1000	89987208	Vol.7 (OCG)	27 February 2000
-Hitodenchak	Normal Monster	WATER	Aqua	2	600	700	46718686	Vol.1 (OCG)	4 March 1999
-Holograh	Normal Monster	EARTH	Machine	3	1100	700	10859908	Vol.2 (OCG)	27 April 1999
-Horn Imp	Normal Monster	DARK	Fiend	4	1300	1000	69669405	Vol.6 (OCG)	18 December 1999
-Hourglass of Courage	Effect Monster	LIGHT	Fairy	4	1100	1200	43530283	Booster 3 (OCG)	5 August 1999
-Hourglass of Courage	Effect Monster	LIGHT	Fairy	4	1100	1200	43530283	Booster Chronicle (OCG)	30 September 2001
-Hourglass of Courage	Effect Monster	LIGHT	Fairy	4	1100	1200	43530283	Booster R2 (OCG)	9 October 2000
-Hourglass of Life	Normal Monster	LIGHT	Fairy	2	700	600	8783685	Vol.1 (OCG)	4 March 1999
-Hyo	Normal Monster	WATER	Warrior	3	800	1200	38982356	Vol.5 (OCG)	23 October 1999
-Ice Water	Normal Monster	WATER	Aqua	3	1150	900	20848593	Vol.6 (OCG)	18 December 1999
-Ill Witch	Normal Monster	LIGHT	Spellcaster	5	1600	1500	81686058
-Insect Armor with Laser Cannon	Spell Card	None	Equip	0	0	0	3492538	Yu-Gi-Oh! Duel Monsters II: Dark duel Stories promotional cards (OCG)	8 August 1999
-Insect Queen	Effect Monster	EARTH	Insect	7	2200	2400	91512835	Yu-Gi-Oh! Duel Monsters III: Tri-Holy God Advent promotional cards (OCG)	13 August 2000
-Invader from Another Dimension	Normal Monster	DARK	Fiend	4	950	1400	28450915	Booster 5 (OCG)	17 November 1999
-Javelin Beetle	Ritual Monster	EARTH	Insect	8	2450	2550	26932788	Dark Ceremony Edition (OCG)	23 April 2000
-Javelin Beetle Pact	Spell Card	None	Ritual	0	0	0	41182875	Dark Ceremony Edition (OCG)	23 April 2000
-Kageningen	Normal Monster	DARK	Warrior	2	800	600	80600490	Starter Box (OCG)	18 April 1999
-Kairyu-Shin	Normal Monster	WATER	Sea Serpent	5	1800	1500	76634149
-Kaiser Dragon	Fusion Monster	LIGHT	Dragon	7	2300	2000	94566432
-Kamakiriman	Normal Monster	EARTH	Insect	4	1150	1400	68928540	Vol.3 (OCG)	27 June 1999
-Thunder Kid	Normal Monster	WIND	Thunder	2	700	600	15510988	Vol.1 (OCG)	4 March 1999
-Kamionwizard	Fusion Monster	DARK	Spellcaster	4	1300	1100	41544074	Vol.2 (OCG)	27 April 1999
-Kanan the Swordmistress	Normal Monster	EARTH	Warrior	4	1400	1400	12829151	V Jump August 1999 Special Present (OCG)	21 July 1999
-Kanan the Swordmistress	Normal Monster	EARTH	Warrior	4	1400	1400	12829151	V Jump August 1999 Special Present Set A (OCG)	21 July 1999
-Kanan the Swordmistress	Normal Monster	EARTH	Warrior	4	1400	1400	12829151	Yu-Gi-Oh! Duel Monsters National Tournament attendance card (OCG)	21 March 1999
-Kanikabuto	Normal Monster	WATER	Aqua	3	650	900	84103702	Vol.6 (OCG)	18 December 1999
-Kattapillar	Normal Monster	EARTH	Insect	1	250	300	81179446	Vol.4 (OCG)	22 August 1999
-Key Mace #2	Normal Monster	None	Fiend	0	0	0	20541432
-Krokodilus	Normal Monster	WATER	Reptile	4	1100	1200	76512652	Booster 5 (OCG)	17 November 1999
-Kunai with Chain	Trap Card	None	Normal	0	0	0	37390589
-LaLa Li-oon	Normal Monster	WIND	Thunder	2	600	600	9430387	Vol.1 (OCG)	4 March 1999
-Last Day of Witch	Spell Card	None	Normal	0	0	0	90330453
-Laughing Flower	Normal Monster	EARTH	Plant	2	900	500	42591472	Vol.6 (OCG)	18 December 1999
-Little D	Normal Monster	EARTH	Dinosaur	3	1100	700	42625254	Booster 2 (OCG)	25 June 1999
-Little D	Normal Monster	EARTH	Dinosaur	3	1100	700	42625254	Booster R1 (OCG)	23 July 2000
-Lord of the Lamp	Normal Monster	DARK	Fiend	4	1400	1200	99510761	Booster 5 (OCG)	17 November 1999
-Lord of the Lamp	Normal Monster	DARK	Fiend	4	1400	1200	99510761	Booster Chronicle (OCG)	30 September 2001
-Lord of the Lamp	Normal Monster	DARK	Fiend	4	1400	1200	99510761	Booster R3 (OCG)	23 December 2000
-Lord of Zemia	Normal Monster	DARK	Fiend	4	1300	1000	81618817	Vol.6 (OCG)	18 December 1999
-Lunar Queen Elzaim	Normal Monster	LIGHT	Fairy	3	750	1100	62210247	Starter Box (OCG)	18 April 1999
-Lunar Queen Elzaim	Normal Monster	LIGHT	Fairy	3	750	1100	62210247	Starter Box: Theatrical Release (OCG)	6 April 1999
-Mabarrel	Normal Monster	DARK	Fiend	5	1700	1400	98795934	Booster 2 (OCG)	25 June 1999
-Mabarrel	Normal Monster	DARK	Fiend	5	1700	1400	98795934	Vol.3 (OCG)	27 June 1999
-Machine King	Effect Monster	EARTH	Machine	6	2200	2000	46700124	Booster 5 (OCG)	17 November 1999
-Machine King	Effect Monster	EARTH	Machine	6	2200	2000	46700124	Booster Chronicle (OCG)	30 September 2001
-Machine King	Effect Monster	EARTH	Machine	6	2200	2000	46700124	Booster R3 (OCG)	23 December 2000
-Magical Thorn	Trap Card	None	Continuous	0	0	0	53119267
-Magical Arm Shield	Trap Card	None	Normal	0	0	0	96008713	Structure Deck: Joey (OCG)	25 November 2001
-Magical Arm Shield	Trap Card	None	Normal	0	0	0	96008713
-Magician of Black Chaos	Ritual Monster	DARK	Spellcaster	8	2800	2600	30208479	Premium Pack 3 (OCG)	10 September 2000
-Magician of Black Chaos	Ritual Monster	DARK	Spellcaster	8	2800	2600	30208479	Structure Deck: Yugi (OCG)	28 July 2001
-Magician of Black Chaos	Ritual Monster	DARK	Spellcaster	8	2800	2600	30208479	Yu-Gi-Oh! Duel Monsters II: Dark duel Stories Duelist Legend in Tokyo Dome attendance cards (OCG)	26 September 1999
-Man-Eating Black Shark	Fusion Monster	None	Fish	0	0	0	80727036
-Man-Eating Plant	Normal Monster	EARTH	Plant	2	800	600	49127943	Booster 1 (OCG)	1 April 1999
-Marine Beast	Fusion Monster	WATER	Fish	5	1700	1600	29929832	Booster 5 (OCG)	17 November 1999
-Mavelus	Fusion Monster	WIND	Winged Beast	4	1300	900	59036972	Vol.2 (OCG)	27 April 1999
-Karakuri Spider	Effect Monster	EARTH	Machine	2	400	500	45688586	Booster 4 (OCG)	26 September 1999
-Megazowler	Normal Monster	EARTH	Dinosaur	6	1800	2000	75390004	Booster 7 (OCG)	1 April 2000
-Meotoko	Normal Monster	EARTH	Beast	2	700	600	53832650	Vol.1 (OCG)	4 March 1999
-Mesmeric Control	Spell Card	None	Normal	0	0	0	48642904	Structure Deck: Kaiba (OCG)	24 February 2002
-Mesmeric Control	Spell Card	None	Normal	0	0	0	48642904
-Metal Guardian	Normal Monster	DARK	Fiend	5	1150	2150	68339286	Booster 7 (OCG)	1 April 2000
-Metalmorph	Trap Card	None	Normal	0	0	0	68540059
-Metalzoa	Effect Monster	DARK	Machine	8	3000	2300	50705071
-Meteor Black Dragon	Fusion Monster	FIRE	Dragon	8	3500	2000	90660762	Premium Pack 3 (OCG)	10 September 2000
-Meteor Black Dragon	Fusion Monster	FIRE	Dragon	8	3500	2000	90660762	Yu-Gi-Oh! Duel Monsters II: Dark duel Stories Duelist Legend in Tokyo Dome prize cards (OCG)	26 September 1999
-Meteor Dragon	Normal Monster	EARTH	Dragon	6	1800	2000	64271667	Premium Pack (Japanese) (OCG)	26 September 1999
-Meteor Dragon	Normal Monster	EARTH	Dragon	6	1800	2000	64271667	Premium Pack 3 (OCG)	10 September 2000
-Millennium Golem	Normal Monster	EARTH	Rock	6	2000	2200	47986555	Booster 7 (OCG)	1 April 2000
-Millennium Shield	Normal Monster	EARTH	Warrior	5	0	3000	32012841
-Minomushi Warrior	Normal Monster	EARTH	Rock	4	1300	1200	46864967	Booster 3 (OCG)	5 August 1999
-Minomushi Warrior	Normal Monster	EARTH	Rock	4	1300	1200	46864967	Booster R2 (OCG)	9 October 2000
-Monster Eye	Effect Monster	DARK	Fiend	1	250	350	84133008
-Monster Tamer	Normal Monster	EARTH	Warrior	5	1800	1600	97612389	Booster 7 (OCG)	1 April 2000
-Monstrous Bird	Normal Monster	WIND	Winged Beast	6	2000	1900	35712107	Vol.7 (OCG)	27 February 2000
-Moon Envoy	Normal Monster	LIGHT	Warrior	4	1100	1000	45909477	Booster 7 (OCG)	1 April 2000
-Mooyan Curry	Spell Card	None	Normal	0	0	0	58074572	Starter Box (OCG)	18 April 1999
-Mooyan Curry	Spell Card	None	Normal	0	0	0	58074572	Starter Box: Theatrical Release (OCG)	6 April 1999
-Mountain Warrior	Normal Monster	EARTH	Beast-Warrior	3	600	1000	4931562	Starter Box (OCG)	18 April 1999
-Mountain Warrior	Normal Monster	EARTH	Beast-Warrior	3	600	1000	4931562	Starter Box: Theatrical Release (OCG)	6 April 1999
-Mushroom Man	Normal Monster	EARTH	Plant	2	800	600	14181608	Booster 7 (OCG)	1 April 2000
-Mystical Capture Chain	Normal Monster	LIGHT	Fairy	2	700	700	63515678	Booster 1 (OCG)	1 April 1999
-Mystical Sand	Fusion Monster	EARTH	Rock	6	2100	1700	32751480
-Needle Ball	Flip Effect Monster	DARK	Fiend	2	750	700	94230224	Booster 5 (OCG)	17 November 1999
-Needle Ball	Flip Effect Monster	DARK	Fiend	2	750	700	94230224	Booster Chronicle (OCG)	30 September 2001
-Needle Ball	Flip Effect Monster	DARK	Fiend	2	750	700	94230224	Booster R3 (OCG)	23 December 2000
-Needle Worm	Flip Effect Monster	EARTH	Insect	2	750	600	81843628	Booster 5 (OCG)	17 November 1999
-Needle Worm	Flip Effect Monster	EARTH	Insect	2	750	600	81843628	Booster Chronicle (OCG)	30 September 2001
-Needle Worm	Flip Effect Monster	EARTH	Insect	2	750	600	81843628	Booster R3 (OCG)	23 December 2000
-Needle Worm	Flip Effect Monster	EARTH	Insect	2	750	600	81843628	Structure Deck: Kaiba (OCG)	24 February 2002
-Negate Attack	Trap Card	None	Counter	0	0	0	14315573	Structure Deck: Kaiba (OCG)	24 February 2002
-Negate Attack	Trap Card	None	Counter	0	0	0	14315573
-Nekogal #1	Normal Monster	None	Beast	0	0	0	1761063
-Nekogal #2	Normal Monster	None	Beast-Warrior	0	0	0	43352213
-Orion the Battle King	Normal Monster	LIGHT	Fairy	5	1800	1500	2971090	Booster 4 (OCG)	26 September 1999
-Orion the Battle King	Normal Monster	LIGHT	Fairy	5	1800	1500	2971090	Booster R2 (OCG)	9 October 2000
-Panther Warrior	Effect Monster	EARTH	Beast-Warrior	4	2000	1600	42035044	Limited Edition 3 (OCG)	1 May 2001
-Panther Warrior	Effect Monster	EARTH	Beast-Warrior	4	2000	1600	42035044	Limited Edition 3: Joey Pack (OCG)	1 May 2001
-Panther Warrior	Effect Monster	EARTH	Beast-Warrior	4	2000	1600	42035044	Structure Deck: Joey (OCG)	25 November 2001
-Panther Warrior	Effect Monster	EARTH	Beast-Warrior	4	2000	1600	42035044	Yu-Gi-Oh! Duel Monsters III: Tri-Holy God Advent Game Guide 1 promotional card (OCG)	13 August 2000
-Pendulum Machine	Normal Monster	DARK	Machine	6	1750	2000	24433920	Limited Edition 2 (OCG)	1 May 2000
-Pendulum Machine	Normal Monster	DARK	Machine	6	1750	2000	24433920	Limited Edition 2: Keith Pack (OCG)	1 May 2000
-Pendulum Machine	Normal Monster	DARK	Machine	6	1750	2000	24433920	Vol.7 (OCG)	27 February 2000
-Pendulum Machine	Normal Monster	DARK	Machine	6	1750	2000	24433920	Limited Edition 2 (OCG)	1 May 2000
-Pendulum Machine	Normal Monster	DARK	Machine	6	1750	2000	24433920	Limited Edition 2: Keith Pack (OCG)	1 May 2000
-Pendulum Machine	Normal Monster	DARK	Machine	6	1750	2000	24433920	Vol.7 (OCG)	27 February 2000
-Penguin Soldier	Flip Effect Monster	WATER	Aqua	2	750	500	93920745
-Perfectly Ultimate Great Moth	Effect Monster	EARTH	Insect	8	3500	3000	48579379	Yu-Gi-Oh! Duel Monsters II: Dark duel Stories promotional cards (OCG)	8 August 1999
-Pragtical	Fusion Monster	EARTH	Dinosaur	5	1900	1500	33691040	Vol.4 (OCG)	22 August 1999
-Prisman	Normal Monster	LIGHT	Rock	3	800	1000	80234301	Vol.6 (OCG)	18 December 1999
-Rare Fish	Fusion Monster	WATER	Fish	4	1500	1200	80516007	Vol.3 (OCG)	27 June 1999
-Red-Eyes Black Metal Dragon	Effect Monster	DARK	Machine	8	2800	2400	64335805
-Restructer Revolution	Spell Card	None	Normal	0	0	0	99518961
-Resurrection of Chakra	Spell Card	None	Ritual	0	0	0	39399168	Dark Ceremony Edition (OCG)	23 April 2000
-Rhaimundos of the Red Sword	Normal Monster	EARTH	Warrior	4	1200	1300	62403074	Booster 3 (OCG)	5 August 1999
-Riryoku	Spell Card	None	Normal	0	0	0	34016756
-Rose Spectre of Dunn	Fusion Monster	DARK	Plant	6	2000	1800	32485271	Vol.5 (OCG)	23 October 1999
-Royal Decree	Trap Card	None	Continuous	0	0	0	51452091	Booster 5 (OCG)	17 November 1999
-Royal Decree	Trap Card	None	Continuous	0	0	0	51452091	Booster Chronicle (OCG)	30 September 2001
-Royal Decree	Trap Card	None	Continuous	0	0	0	51452091	Booster R3 (OCG)	23 December 2000
-Royal Guard	Normal Monster	EARTH	Machine	6	1900	2200	39239728	Vol.7 (OCG)	27 February 2000
-Sword Slasher	Normal Monster	DARK	Machine	5	1450	1500	73911410	Vol.7 (OCG)	27 February 2000
-Sea Kamen	Normal Monster	WATER	Aqua	4	1100	1300	71746462	Booster 4 (OCG)	26 September 1999
-Sea King Dragon	Normal Monster	WATER	Sea Serpent	6	2000	1700	23659124	Vol.6 (OCG)	18 December 1999
-Seal of the Ancients	Spell Card	None	Normal	0	0	0	97809599
-Sebek's Blessing	Spell Card	None	Quick-Play	0	0	0	22537443
-Sectarian of Secrets	Normal Monster	DARK	Spellcaster	2	700	500	15507080	Vol.1 (OCG)	4 March 1999
-Sengenjin	Normal Monster	EARTH	Beast-Warrior	8	2750	2500	76232340	Premium Pack 3 (OCG)	10 September 2000
-Sengenjin	Normal Monster	EARTH	Beast-Warrior	8	2750	2500	76232340	Yu-Gi-Oh! Duel Monsters II: Dark duel Stories Duelist Legend in Tokyo Dome participation cards (OCG)	26 September 1999
-Shadow Specter	Normal Monster	DARK	Zombie	1	500	200	40575313	Starter Box (OCG)	18 April 1999
-Shadow Specter	Normal Monster	DARK	Zombie	1	500	200	40575313	Starter Box: Theatrical Release (OCG)	6 April 1999
-Shovel Crusher	Normal Monster	EARTH	Machine	3	900	1200	71950093	Vol.6 (OCG)	18 December 1999
-Sinister Serpent	Effect Monster	WATER	Reptile	1	300	250	8131171	Yu-Gi-Oh! Duel Monsters III: Tri-Holy God Advent promotional cards (OCG)	13 August 2000
-Skelengel	Flip Effect Monster	LIGHT	Fairy	2	900	400	60694662	Vol.3 (OCG)	27 June 1999
-Skelgon	Fusion Monster	DARK	Zombie	6	1700	1900	32355828
-Skull Stalker	Normal Monster	DARK	Warrior	3	900	800	54844990	Vol.3 (OCG)	27 June 1999
-Skullbird	Fusion Monster	WIND	Winged Beast	6	1900	1700	8327462	Booster 3 (OCG)	5 August 1999
-Sleeping Lion	Normal Monster	EARTH	Beast	4	700	1700	40200834	Vol.3 (OCG)	27 June 1999
-Snakeyashi	Normal Monster	EARTH	Plant	4	1000	1200	29802344	Vol.5 (OCG)	23 October 1999
-Solitude	Normal Monster	EARTH	Beast-Warrior	3	1050	1000	84794011	Vol.2 (OCG)	27 April 1999
-Soul Hunter	Fusion Monster	DARK	Fiend	6	2200	1800	72869010	Booster 5 (OCG)	17 November 1999
-Soul Hunter	Fusion Monster	DARK	Fiend	6	2200	1800	72869010	Booster Chronicle (OCG)	30 September 2001
-Soul Hunter	Fusion Monster	DARK	Fiend	6	2200	1800	72869010	Booster R3 (OCG)	23 December 2000
-Acid Rain	Spell Card	None	Normal	0	0	0	21323861	Booster 4 (OCG)	26 September 1999
-Acid Rain	Spell Card	None	Normal	0	0	0	21323861	Vol.4 (OCG)	22 August 1999
-Stone Armadiller	Normal Monster	EARTH	Rock	3	800	1200	63432835	Vol.2 (OCG)	27 April 1999
-Super War-Lion	Ritual Monster	EARTH	Beast	7	2300	2100	33951077	Dark Ceremony Edition (OCG)	23 April 2000
-Super War-Lion	Ritual Monster	EARTH	Beast	7	2300	2100	33951077
-Supporter in the Shadows	Normal Monster	EARTH	Warrior	3	1000	1000	41422426	Vol.2 (OCG)	27 April 1999
-Sword Arm of Dragon	Normal Monster	EARTH	Dinosaur	6	1750	2030	13069066
-Sword of Dragon's Soul	Spell Card	None	Equip	0	0	0	61405855
-Swordsman from a Distant Land	Effect Monster	EARTH	Warrior	1	250	250	85255550	Booster 4 (OCG)	26 September 1999
-Takriminos	Normal Monster	WATER	Sea Serpent	4	1500	1200	44073668
-Tao the Chanter	Normal Monster	EARTH	Spellcaster	3	1200	900	46247516	Vol.4 (OCG)	22 August 1999
-Temple of Skulls	Normal Monster	DARK	Zombie	4	900	1300	732302	Booster 3 (OCG)	5 August 1999
-Tenderness	Normal Monster	LIGHT	Fairy	3	700	1400	57935140	Vol.6 (OCG)	18 December 1999
-The Bewitching Phantom Thief	Normal Monster	DARK	Spellcaster	2	700	700	24348204	Vol.2 (OCG)	27 April 1999
-The Drdek	Normal Monster	DARK	Fiend	3	700	800	8944575	Vol.1 (OCG)	4 March 1999
-The Snake Hair	Normal Monster	DARK	Zombie	4	1500	1200	29491031	Booster 5 (OCG)	17 November 1999
-The Snake Hair	Normal Monster	DARK	Zombie	4	1500	1200	29491031	Booster R3 (OCG)	23 December 2000
-The Thing That Hides in the Mud	Normal Monster	EARTH	Rock	4	1200	1300	18180762	Vol.5 (OCG)	23 October 1999
-The Wandering Doomed	Normal Monster	DARK	Zombie	2	800	600	93788854	Vol.3 (OCG)	27 June 1999
-Three-Legged Zombies	Normal Monster	DARK	Zombie	3	1100	800	33734439
-Time Machine	Trap Card	None	Normal	0	0	0	80987696	Yu-Gi-Oh! Duel Monsters III: Tri-Holy God Advent Game Guide 2 promotional card (OCG)	10 September 2000
-Toad Master	Normal Monster	WATER	Aqua	3	1000	1000	62671448	Vol.5 (OCG)	23 October 1999
-Togex	Normal Monster	EARTH	Beast	5	1600	1800	33878931	Vol.7 (OCG)	27 February 2000
-Tomozaurus	Normal Monster	EARTH	Dinosaur	2	500	400	46457856	Vol.1 (OCG)	4 March 1999
-Toon Alligator	Normal Monster	WATER	Reptile	4	800	1600	59383041	Structure Deck: Pegasus (OCG)	21 April 2002
-Toon Alligator	Normal Monster	WATER	Reptile	4	800	1600	59383041	Vol.7 (OCG)	27 February 2000
-Torike	Normal Monster	EARTH	Beast	3	1200	600	80813021	Vol.6 (OCG)	18 December 1999
-Total Defense Shogun	Effect Monster	DARK	Warrior	6	1550	2500	75372290	Booster Chronicle (OCG)	30 September 2001
-Total Defense Shogun	Effect Monster	DARK	Warrior	6	1550	2500	75372290	V Jump January 2001 promotional card (OCG)	21 February 2001
-Trakodon	Normal Monster	EARTH	Dinosaur	3	1300	800	42348802	Vol.4 (OCG)	22 August 1999
-Ushi Oni	Normal Monster	DARK	Fiend	6	2150	1950	48649353
-Valkyrion the Magna Warrior	Effect Monster	EARTH	Rock	8	3500	3850	75347539	Structure Deck: Yugi (OCG)	28 July 2001
-Valkyrion the Magna Warrior	Effect Monster	EARTH	Rock	8	3500	3850	75347539
-Vermillion Sparrow	Fusion Monster	FIRE	Pyro	5	1900	1500	35752363	Booster 3 (OCG)	5 August 1999
-Violent Rain	Normal Monster	WATER	Aqua	4	1550	800	94042337	Vol.6 (OCG)	18 December 1999
-Vishwar Randi	Normal Monster	DARK	Warrior	3	900	700	78556320	Booster 1 (OCG)	1 April 1999
-Vishwar Randi	Normal Monster	DARK	Warrior	3	900	700	78556320	Booster R1 (OCG)	23 July 2000
-Vorse Raider	Normal Monster	DARK	Beast-Warrior	4	1900	1200	14898066	Structure Deck: Kaiba (OCG)	24 February 2002
-Vorse Raider	Normal Monster	DARK	Beast-Warrior	4	1900	1200	14898066
-War-Lion Ritual	Spell Card	None	Ritual	0	0	0	54539105	Dark Ceremony Edition (OCG)	23 April 2000
-War-Lion Ritual	Spell Card	None	Ritual	0	0	0	54539105
-Warrior Elimination	Spell Card	None	Normal	0	0	0	90873992	Booster 4 (OCG)	26 September 1999
-Warrior Elimination	Spell Card	None	Normal	0	0	0	90873992	Vol.4 (OCG)	22 August 1999
-Water Element	Normal Monster	WATER	Aqua	3	900	700	3732747	Booster 1 (OCG)	1 April 1999
-Water Element	Normal Monster	WATER	Aqua	3	900	700	3732747	Booster R1 (OCG)	23 July 2000
-Water Girl	Normal Monster	WATER	Aqua	4	1250	1000	55014050	Vol.4 (OCG)	22 August 1999
-Waterdragon Fairy	Normal Monster	WATER	Aqua	3	1100	700	66836598	Vol.7 (OCG)	27 February 2000
-Weather Control	Normal Monster	LIGHT	Fairy	2	600	400	37243151	Booster 1 (OCG)	1 April 1999
-Archfiend Mirror	Normal Monster	DARK	Fiend	2	700	600	15150371	Vol.1 (OCG)	4 March 1999
-Widespread Ruin	Trap Card	None	Normal	0	0	0	77754944
-Windstorm of Etaqua	Trap Card	None	Normal	0	0	0	59744639
-Wing Egg Elf	Normal Monster	LIGHT	Fairy	3	500	1300	98582704	Vol.5 (OCG)	23 October 1999
-Winged Cleaver	Normal Monster	EARTH	Insect	2	700	700	39175982	Vol.1 (OCG)	4 March 1999
-Wings of Wicked Flame	Normal Monster	FIRE	Pyro	2	700	600	92944626	Booster 1 (OCG)	1 April 1999
-Wood Remains	Normal Monster	DARK	Zombie	3	1000	900	17733394	Vol.2 (OCG)	27 April 1999
-Wretched Ghost of the Attic	Normal Monster	DARK	Fiend	2	550	400	17238333	Vol.3 (OCG)	27 June 1999
-Yaiba Robo	Normal Monster	DARK	Machine	4	1000	1300	10315429	Vol.5 (OCG)	23 October 1999
-Yamatano Dragon Scroll	Normal Monster	WIND	Dragon	2	900	300	76704943	Booster 1 (OCG)	1 April 1999
-Yamatano Dragon Scroll	Normal Monster	WIND	Dragon	2	900	300	76704943	Booster R1 (OCG)	23 July 2000
-Yaranzo	Normal Monster	DARK	Zombie	4	1300	1500	71280811
-Zanki	Normal Monster	EARTH	Warrior	5	1500	1700	30090452	Vol.7 (OCG)	27 February 2000
-Zera Ritual	Spell Card	None	Ritual	0	0	0	81756897	Dark Ceremony Edition (OCG)	23 April 2000
-Zera Ritual	Spell Card	None	Ritual	0	0	0	81756897
-Zera the Mant	Ritual Monster	DARK	Fiend	8	2800	2300	69123138	Dark Ceremony Edition (OCG)	23 April 2000
-Zera the Mant	Ritual Monster	DARK	Fiend	8	2800	2300	69123138
-Zoa	Normal Monster	DARK	Fiend	7	2600	1900	24311372
-Zombie Warrior	Fusion Monster	DARK	Zombie	3	1200	900	31339260	Vol.2 (OCG)	27 April 1999
-Zone Eater	Effect Monster	WATER	Aqua	1	250	200	86100785	Booster 4 (OCG)	26 September 1999
-Obelisk the Tormentor	Effect Monster	None	Divine-Beast	0	0	0	10000000
-Slifer the Sky Dragon	Effect Monster	None	Divine-Beast	0	0	0	10000020
-The Winged Dragon of Ra	Effect Monster	None	Divine-Beast	0	0	0	10000010
-Insect Monster Token	Token	None	Insect	0	0	0	91512836
+Acid Trap Hole	Trap Card	None	Normal	0	0	0	41356845	Yu-Gi-Oh! Dark Duel Stories promotional cards	19 March 2002
+Ancient Elf	Normal Monster	LIGHT	Spellcaster	4	1450	1200	93221206	Starter Deck: Yugi	29 March 2002
+Ancient Telescope	Spell Card	None	Normal	0	0	0	17092736	Starter Deck: Kaiba	29 March 2002
+Ansatsu	Normal Monster	EARTH	Warrior	5	1700	1200	48365709	Starter Deck: Yugi	29 March 2002
+Aqua Madoor	Normal Monster	WATER	Spellcaster	4	1200	2000	85639257	Legend of Blue Eyes White Dragon	8 March 2002
+Armaill	Normal Monster	EARTH	Warrior	3	700	1300	53153481	Legend of Blue Eyes White Dragon	8 March 2002
+Armed Ninja	Flip Effect Monster	EARTH	Warrior	1	300	300	9076207	Legend of Blue Eyes White Dragon	8 March 2002
+Armored Starfish	Normal Monster	WATER	Aqua	4	850	1400	17535588	Legend of Blue Eyes White Dragon	8 March 2002
+Baron of the Fiend Sword	Normal Monster	DARK	Fiend	4	1550	800	86325596	Starter Deck: Yugi	29 March 2002
+Basic Insect	Normal Monster	EARTH	Insect	2	500	700	89091579	Legend of Blue Eyes White Dragon	8 March 2002
+Battle Ox	Normal Monster	EARTH	Beast-Warrior	4	1700	1000	5053103	Starter Deck: Kaiba	29 March 2002
+Beast Fangs	Spell Card	None	Equip	0	0	0	46009906	Legend of Blue Eyes White Dragon	8 March 2002
+Beaver Warrior	Normal Monster	EARTH	Beast-Warrior	4	1200	1500	32452818	Legend of Blue Eyes White Dragon	8 March 2002
+Beaver Warrior	Normal Monster	EARTH	Beast-Warrior	4	1200	1500	32452818	Starter Deck: Yugi	29 March 2002
+Blue-Eyes White Dragon	Normal Monster	LIGHT	Dragon	8	3000	2500	89631139	Legend of Blue Eyes White Dragon	8 March 2002
+Blue-Eyes White Dragon	Normal Monster	LIGHT	Dragon	8	3000	2500	89631139	Starter Deck: Kaiba	29 March 2002
+Blue-Eyes White Dragon	Normal Monster	LIGHT	Dragon	8	3000	2500	89631139	Yu-Gi-Oh! Dark Duel Stories promotional cards	19 March 2002
+Book of Secret Arts	Spell Card	None	Equip	0	0	0	91595718	Legend of Blue Eyes White Dragon	8 March 2002
+Book of Secret Arts	Spell Card	None	Equip	0	0	0	91595718	Starter Deck: Yugi	29 March 2002
+Card Destruction	Spell Card	None	Normal	0	0	0	72892473	Starter Deck: Yugi	29 March 2002
+Castle Walls	Trap Card	None	Normal	0	0	0	44209392	Starter Deck: Kaiba	29 March 2002
+Castle Walls	Trap Card	None	Normal	0	0	0	44209392	Starter Deck: Yugi	29 March 2002
+Celtic Guardian	Normal Monster	EARTH	Warrior	4	1400	1200	91152256	Legend of Blue Eyes White Dragon	8 March 2002
+Celtic Guardian	Normal Monster	EARTH	Warrior	4	1400	1200	91152256	Starter Deck: Yugi	29 March 2002
+Change of Heart	Spell Card	None	Normal	0	0	0	4031928	Starter Deck: Yugi	29 March 2002
+Charubin the Fire Knight	Fusion Monster	FIRE	Pyro	3	1100	800	37421579	Legend of Blue Eyes White Dragon	8 March 2002
+Claw Reacher	Normal Monster	DARK	Fiend	3	1000	800	41218256	Starter Deck: Yugi	29 March 2002
+Curse of Dragon	Normal Monster	DARK	Dragon	5	2000	1500	28279543	Legend of Blue Eyes White Dragon	8 March 2002
+Curse of Dragon	Normal Monster	DARK	Dragon	5	2000	1500	28279543	Starter Deck: Yugi	29 March 2002
+D. Human	Normal Monster	EARTH	Warrior	4	1300	1100	81057959	Starter Deck: Kaiba	29 March 2002
+Dark Assailant	Normal Monster	DARK	Zombie	4	1200	1200	41949033	Starter Deck: Kaiba	29 March 2002
+Dark Energy	Spell Card	None	Equip	0	0	0	4614116	Legend of Blue Eyes White Dragon	8 March 2002
+Dark Energy	Spell Card	None	Equip	0	0	0	4614116	Starter Deck: Kaiba	29 March 2002
+Dark Gray	Normal Monster	EARTH	Beast	3	800	900	9159938	Legend of Blue Eyes White Dragon	8 March 2002
+Dark Hole	Spell Card	None	Normal	0	0	0	53129443	Legend of Blue Eyes White Dragon	8 March 2002
+Dark Hole	Spell Card	None	Normal	0	0	0	53129443	Starter Deck: Kaiba	29 March 2002
+Dark Hole	Spell Card	None	Normal	0	0	0	53129443	Starter Deck: Yugi	29 March 2002
+Dark King of the Abyss	Normal Monster	DARK	Fiend	3	1200	800	53375573	Legend of Blue Eyes White Dragon	8 March 2002
+Dark Magician	Normal Monster	DARK	Spellcaster	7	2500	2100	46986414	Legend of Blue Eyes White Dragon	8 March 2002
+Dark Magician	Normal Monster	DARK	Spellcaster	7	2500	2100	46986414	Starter Deck: Yugi	29 March 2002
+Dark Magician	Normal Monster	DARK	Spellcaster	7	2500	2100	46986414	Yu-Gi-Oh! Dark Duel Stories promotional cards	19 March 2002
+Dark Titan of Terror	Normal Monster	DARK	Fiend	4	1300	1100	89494469	Starter Deck: Kaiba	29 March 2002
+Darkfire Dragon	Fusion Monster	DARK	Dragon	4	1500	1250	17881964	Legend of Blue Eyes White Dragon	8 March 2002
+Darkworld Thorns	Normal Monster	EARTH	Plant	3	1200	900	43500484	Legend of Blue Eyes White Dragon	8 March 2002
+De-Spell	Spell Card	None	Normal	0	0	0	19159413	Starter Deck: Kaiba	29 March 2002
+De-Spell	Spell Card	None	Normal	0	0	0	19159413	Starter Deck: Yugi	29 March 2002
+Destroyer Golem	Normal Monster	EARTH	Rock	4	1500	1000	73481154	Starter Deck: Kaiba	29 March 2002
+Dian Keto the Cure Master	Spell Card	None	Normal	0	0	0	84257640	Starter Deck: Yugi	29 March 2002
+Dissolverock	Normal Monster	EARTH	Rock	3	900	1000	40826495	Legend of Blue Eyes White Dragon	8 March 2002
+Doma The Angel of Silence	Normal Monster	DARK	Fairy	5	1600	1400	16972957	Starter Deck: Yugi	29 March 2002
+Dragon Capture Jar	Trap Card	None	Continuous	0	0	0	50045299	Legend of Blue Eyes White Dragon	8 March 2002
+Dragon Capture Jar	Trap Card	None	Continuous	0	0	0	50045299	Starter Deck: Yugi	29 March 2002
+Dragon Treasure	Spell Card	None	Equip	0	0	0	1435851	Legend of Blue Eyes White Dragon	8 March 2002
+Dragon Zombie	Normal Monster	DARK	Zombie	3	1600	0	66672569	Starter Deck: Yugi	29 March 2002
+Dragoness the Wicked Knight	Fusion Monster	WIND	Warrior	3	1200	900	70681994	Legend of Blue Eyes White Dragon	8 March 2002
+Drooling Lizard	Normal Monster	EARTH	Reptile	3	900	800	16353197	Legend of Blue Eyes White Dragon	8 March 2002
+Electro-Whip	Spell Card	None	Equip	0	0	0	37820550	Legend of Blue Eyes White Dragon	8 March 2002
+Enchanting Mermaid	Normal Monster	WATER	Fish	3	1200	900	75376965	Legend of Blue Eyes White Dragon	8 March 2002
+Exodia the Forbidden One	Effect Monster	DARK	Spellcaster	3	1000	1000	33396948	Legend of Blue Eyes White Dragon	8 March 2002
+Exodia the Forbidden One	Effect Monster	DARK	Spellcaster	3	1000	1000	33396948	Yu-Gi-Oh! Dark Duel Stories promotional cards	19 March 2002
+Feral Imp	Normal Monster	DARK	Fiend	4	1300	1400	41392891	Starter Deck: Yugi	29 March 2002
+Fiend Reflection #2	Normal Monster	LIGHT	Winged Beast	4	1100	1400	2863439	Legend of Blue Eyes White Dragon	8 March 2002
+Final Flame	Spell Card	None	Normal	0	0	0	73134082	Legend of Blue Eyes White Dragon	8 March 2002
+Firegrass	Normal Monster	EARTH	Plant	2	700	600	53293545	Legend of Blue Eyes White Dragon	8 March 2002
+Fireyarou	Normal Monster	FIRE	Pyro	4	1300	1000	71407486	Legend of Blue Eyes White Dragon	8 March 2002
+Fissure	Spell Card	None	Normal	0	0	0	66788016	Legend of Blue Eyes White Dragon	8 March 2002
+Fissure	Spell Card	None	Normal	0	0	0	66788016	Starter Deck: Kaiba	29 March 2002
+Fissure	Spell Card	None	Normal	0	0	0	66788016	Starter Deck: Yugi	29 March 2002
+Flame Ghost	Fusion Monster	DARK	Zombie	3	1000	800	58528964	Legend of Blue Eyes White Dragon	8 March 2002
+Flame Manipulator	Normal Monster	FIRE	Spellcaster	3	900	1000	34460851	Legend of Blue Eyes White Dragon	8 March 2002
+Flame Swordsman	Fusion Monster	FIRE	Warrior	5	1800	1600	45231177	Legend of Blue Eyes White Dragon	8 March 2002
+Flower Wolf	Fusion Monster	EARTH	Beast	5	1800	1400	95952802	Legend of Blue Eyes White Dragon	8 March 2002
+Follow Wind	Spell Card	None	Equip	0	0	0	98252586	Legend of Blue Eyes White Dragon	8 March 2002
+Forest	Spell Card	None	Field	0	0	0	87430998	Legend of Blue Eyes White Dragon	8 March 2002
+Frenzied Panda	Normal Monster	EARTH	Beast	4	1200	1000	98818516	Legend of Blue Eyes White Dragon	8 March 2002
+Fusionist	Fusion Monster	EARTH	Beast	3	900	700	1641882	Legend of Blue Eyes White Dragon	8 March 2002
+Gaia the Dragon Champion	Fusion Monster	WIND	Dragon	7	2600	2100	66889139	Legend of Blue Eyes White Dragon	8 March 2002
+Gaia The Fierce Knight	Normal Monster	EARTH	Warrior	7	2300	2100	6368038	Legend of Blue Eyes White Dragon	8 March 2002
+Gaia The Fierce Knight	Normal Monster	EARTH	Warrior	7	2300	2100	6368038	Starter Deck: Yugi	29 March 2002
+Giant Soldier of Stone	Normal Monster	EARTH	Rock	3	1300	2000	13039848	Legend of Blue Eyes White Dragon	8 March 2002
+Giant Soldier of Stone	Normal Monster	EARTH	Rock	3	1300	2000	13039848	Starter Deck: Yugi	29 March 2002
+Goblin's Secret Remedy	Spell Card	None	Normal	0	0	0	11868825	Legend of Blue Eyes White Dragon	8 March 2002
+Gravedigger Ghoul	Spell Card	None	Normal	0	0	0	82542267	Legend of Blue Eyes White Dragon	8 March 2002
+Great White	Normal Monster	WATER	Fish	4	1600	800	13429800	Starter Deck: Yugi	29 March 2002
+Green Phantom King	Normal Monster	EARTH	Plant	3	500	1600	22910685	Legend of Blue Eyes White Dragon	8 March 2002
+Gyakutenno Megami	Normal Monster	LIGHT	Fairy	6	1800	2000	31122090	Starter Deck: Kaiba	29 March 2002
+Hane-Hane	Flip Effect Monster	EARTH	Beast	2	450	500	7089711	Legend of Blue Eyes White Dragon	8 March 2002
+Hane-Hane	Flip Effect Monster	EARTH	Beast	2	450	500	7089711	Starter Deck: Kaiba	29 March 2002
+Hard Armor	Normal Monster	EARTH	Warrior	3	300	1200	20060230	Legend of Blue Eyes White Dragon	8 March 2002
+Hinotama	Spell Card	None	Normal	0	0	0	46130346	Legend of Blue Eyes White Dragon	8 March 2002
+Hinotama Soul	Normal Monster	FIRE	Pyro	2	600	500	96851799	Legend of Blue Eyes White Dragon	8 March 2002
+Hitotsu-Me Giant	Normal Monster	EARTH	Beast-Warrior	4	1200	1000	76184692	Legend of Blue Eyes White Dragon	8 March 2002
+Hitotsu-Me Giant	Normal Monster	EARTH	Beast-Warrior	4	1200	1000	76184692	Starter Deck: Kaiba	29 March 2002
+Invigoration	Spell Card	None	Equip	0	0	0	98374133	Starter Deck: Kaiba	29 March 2002
+Judge Man	Normal Monster	EARTH	Warrior	6	2200	1500	30113682	Starter Deck: Kaiba	29 March 2002
+Just Desserts	Trap Card	None	Normal	0	0	0	24068492	Starter Deck: Kaiba	29 March 2002
+Kagemusha of the Blue Flame	Normal Monster	EARTH	Warrior	2	800	400	15401633	Legend of Blue Eyes White Dragon	8 March 2002
+Karbonala Warrior	Fusion Monster	EARTH	Warrior	4	1500	1200	54541900	Legend of Blue Eyes White Dragon	8 March 2002
+King Fog	Normal Monster	DARK	Fiend	3	1000	900	84686841	Legend of Blue Eyes White Dragon	8 March 2002
+Kojikocy	Normal Monster	EARTH	Warrior	4	1500	1200	1184620	Starter Deck: Kaiba	29 March 2002
+Koumori Dragon	Normal Monster	DARK	Dragon	4	1500	1200	67724379	Starter Deck: Kaiba	29 March 2002
+Kumootoko	Normal Monster	EARTH	Insect	3	700	1400	56283725	Legend of Blue Eyes White Dragon	8 March 2002
+Kurama	Normal Monster	WIND	Winged Beast	3	800	800	85705804	Legend of Blue Eyes White Dragon	8 March 2002
+La Jinn the Mystical Genie of the Lamp	Normal Monster	DARK	Fiend	4	1800	1000	97590747	Starter Deck: Kaiba	29 March 2002
+Larvas	Normal Monster	EARTH	Beast	3	800	1000	94675535	Legend of Blue Eyes White Dragon	8 March 2002
+Laser Cannon Armor	Spell Card	None	Equip	0	0	0	77007920	Legend of Blue Eyes White Dragon	8 March 2002
+Last Will	Spell Card	None	Normal	0	0	0	85602018	Starter Deck: Yugi	29 March 2002
+Left Arm of the Forbidden One	Normal Monster	DARK	Spellcaster	1	200	300	7902349	Legend of Blue Eyes White Dragon	8 March 2002
+Left Leg of the Forbidden One	Normal Monster	DARK	Spellcaster	1	200	300	44519536	Legend of Blue Eyes White Dragon	8 March 2002
+Legendary Sword	Spell Card	None	Equip	0	0	0	61854111	Legend of Blue Eyes White Dragon	8 March 2002
+Lesser Dragon	Normal Monster	WIND	Dragon	4	1200	1000	55444629	Legend of Blue Eyes White Dragon	8 March 2002
+Lord of D.	Effect Monster	DARK	Spellcaster	4	1200	1100	17985575	Starter Deck: Kaiba	29 March 2002
+M-Warrior #1	Normal Monster	EARTH	Warrior	3	1000	500	56342351	Legend of Blue Eyes White Dragon	8 March 2002
+M-Warrior #2	Normal Monster	EARTH	Warrior	3	500	1000	92731455	Legend of Blue Eyes White Dragon	8 March 2002
+Machine Conversion Factory	Spell Card	None	Equip	0	0	0	25769732	Legend of Blue Eyes White Dragon	8 March 2002
+Magical Ghost	Normal Monster	DARK	Zombie	4	1300	1400	46474915	Starter Deck: Yugi	29 March 2002
+Mammoth Graveyard	Normal Monster	EARTH	Dinosaur	3	1200	800	40374923	Legend of Blue Eyes White Dragon	8 March 2002
+Mammoth Graveyard	Normal Monster	EARTH	Dinosaur	3	1200	800	40374923	Starter Deck: Yugi	29 March 2002
+Man Eater	Normal Monster	EARTH	Plant	2	800	600	93553943	Legend of Blue Eyes White Dragon	8 March 2002
+Man-Eater Bug	Flip Effect Monster	EARTH	Insect	2	450	600	54652250	Legend of Blue Eyes White Dragon	8 March 2002
+Man-Eater Bug	Flip Effect Monster	EARTH	Insect	2	450	600	54652250	Starter Deck: Yugi	29 March 2002
+Man-Eating Treasure Chest	Normal Monster	DARK	Fiend	4	1600	1000	13723605	Starter Deck: Yugi	29 March 2002
+Masaki the Legendary Swordsman	Normal Monster	EARTH	Warrior	4	1100	1100	44287299	Legend of Blue Eyes White Dragon	8 March 2002
+Master & Expert	Normal Monster	EARTH	Beast	4	1200	1000	75499502	Starter Deck: Kaiba	29 March 2002
+Meda Bat	Normal Monster	DARK	Fiend	2	800	400	76211194	Legend of Blue Eyes White Dragon	8 March 2002
+Metal Dragon	Fusion Monster	WIND	Machine	6	1850	1700	9293977	Legend of Blue Eyes White Dragon	8 March 2002
+Misairuzame	Normal Monster	WATER	Fish	5	1400	1600	33178416	Legend of Blue Eyes White Dragon	8 March 2002
+Monster Egg	Normal Monster	EARTH	Warrior	3	600	900	36121917	Legend of Blue Eyes White Dragon	8 March 2002
+Monster Reborn	Spell Card	None	Normal	0	0	0	83764719	Legend of Blue Eyes White Dragon	8 March 2002
+Monster Reborn	Spell Card	None	Normal	0	0	0	83764719	Starter Deck: Kaiba	29 March 2002
+Monster Reborn	Spell Card	None	Normal	0	0	0	83764719	Starter Deck: Yugi	29 March 2002
+Mountain	Spell Card	None	Field	0	0	0	50913601	Legend of Blue Eyes White Dragon	8 March 2002
+Mysterious Puppeteer	Effect Monster	EARTH	Warrior	4	1000	1500	54098121	Starter Deck: Kaiba	29 March 2002
+Mystic Clown	Normal Monster	DARK	Fiend	4	1500	1000	47060154	Starter Deck: Kaiba	29 March 2002
+Mystic Clown	Normal Monster	DARK	Fiend	4	1500	1000	47060154	Starter Deck: Yugi	29 March 2002
+Mystic Horseman	Normal Monster	EARTH	Beast	4	1300	1550	68516705	Starter Deck: Kaiba	29 March 2002
+Mystical Elf	Normal Monster	LIGHT	Spellcaster	4	800	2000	15025844	Legend of Blue Eyes White Dragon	8 March 2002
+Mystical Elf	Normal Monster	LIGHT	Spellcaster	4	800	2000	15025844	Starter Deck: Yugi	29 March 2002
+Mystical Moon	Spell Card	None	Equip	0	0	0	36607978	Legend of Blue Eyes White Dragon	8 March 2002
+Mystical Sheep #2	Normal Monster	EARTH	Beast	3	800	1000	83464209	Legend of Blue Eyes White Dragon	8 March 2002
+Nemuriko	Normal Monster	DARK	Spellcaster	3	800	700	90963488	Legend of Blue Eyes White Dragon	8 March 2002
+Neo the Magic Swordsman	Normal Monster	LIGHT	Spellcaster	4	1700	1000	50930991	Starter Deck: Yugi	29 March 2002
+Ogre of the Black Shadow	Normal Monster	EARTH	Beast-Warrior	4	1200	1400	45121025	Starter Deck: Kaiba	29 March 2002
+One-Eyed Shield Dragon	Normal Monster	WIND	Dragon	3	700	1300	33064647	Legend of Blue Eyes White Dragon	8 March 2002
+Ookazi	Spell Card	None	Normal	0	0	0	19523799	Starter Deck: Kaiba	29 March 2002
+Pale Beast	Normal Monster	EARTH	Beast	4	1500	1200	21263083	Starter Deck: Kaiba	29 March 2002
+Petit Angel	Normal Monster	LIGHT	Fairy	3	600	900	38142739	Legend of Blue Eyes White Dragon	8 March 2002
+Petit Dragon	Normal Monster	WIND	Dragon	2	600	700	75356564	Legend of Blue Eyes White Dragon	8 March 2002
+Polymerization	Spell Card	None	Normal	0	0	0	24094653	Legend of Blue Eyes White Dragon	8 March 2002
+Pot of Greed	Spell Card	None	Normal	0	0	0	55144522	Legend of Blue Eyes White Dragon	8 March 2002
+Power of Kaishin	Spell Card	None	Equip	0	0	0	77027445	Legend of Blue Eyes White Dragon	8 March 2002
+Raigeki	Spell Card	None	Normal	0	0	0	12580477	Legend of Blue Eyes White Dragon	8 March 2002
+Raise Body Heat	Spell Card	None	Equip	0	0	0	51267887	Legend of Blue Eyes White Dragon	8 March 2002
+Ray & Temperature	Normal Monster	LIGHT	Fairy	3	1000	1000	85309439	Legend of Blue Eyes White Dragon	8 March 2002
+Reaper of the Cards	Flip Effect Monster	DARK	Fiend	5	1380	1930	33066139	Legend of Blue Eyes White Dragon	8 March 2002
+Red Medicine	Spell Card	None	Normal	0	0	0	38199696	Legend of Blue Eyes White Dragon	8 March 2002
+Red-Eyes Black Dragon	Normal Monster	DARK	Dragon	7	2400	2000	74677422	Legend of Blue Eyes White Dragon	8 March 2002
+Reinforcements	Trap Card	None	Normal	0	0	0	17814387	Starter Deck: Kaiba	29 March 2002
+Reinforcements	Trap Card	None	Normal	0	0	0	17814387	Starter Deck: Yugi	29 March 2002
+Remove Trap	Spell Card	None	Normal	0	0	0	51482758	Legend of Blue Eyes White Dragon	8 March 2002
+Remove Trap	Spell Card	None	Normal	0	0	0	51482758	Starter Deck: Kaiba	29 March 2002
+Remove Trap	Spell Card	None	Normal	0	0	0	51482758	Starter Deck: Yugi	29 March 2002
+Reverse Trap	Trap Card	None	Normal	0	0	0	77622396	Starter Deck: Kaiba	29 March 2002
+Reverse Trap	Trap Card	None	Normal	0	0	0	77622396	Starter Deck: Yugi	29 March 2002
+Right Arm of the Forbidden One	Normal Monster	DARK	Spellcaster	1	200	300	70903634	Legend of Blue Eyes White Dragon	8 March 2002
+Right Leg of the Forbidden One	Normal Monster	DARK	Spellcaster	1	200	300	8124921	Legend of Blue Eyes White Dragon	8 March 2002
+Rogue Doll	Normal Monster	LIGHT	Spellcaster	4	1600	1000	91939608	Starter Deck: Kaiba	29 March 2002
+Root Water	Normal Monster	WATER	Fish	3	900	800	39004808	Legend of Blue Eyes White Dragon	8 March 2002
+Rude Kaiser	Normal Monster	EARTH	Beast-Warrior	5	1800	1600	26378150	Starter Deck: Kaiba	29 March 2002
+Ryu-Kishin	Normal Monster	DARK	Fiend	3	1000	500	15303296	Starter Deck: Kaiba	29 March 2002
+Ryu-Kishin Powered	Normal Monster	DARK	Fiend	4	1600	1200	24611934	Starter Deck: Kaiba	29 March 2002
+Salamandra	Spell Card	None	Equip	0	0	0	32268901	Yu-Gi-Oh! Dark Duel Stories promotional cards	19 March 2002
+Sand Stone	Normal Monster	EARTH	Rock	5	1300	1600	73051941	Legend of Blue Eyes White Dragon	8 March 2002
+Seiyaryu	Normal Monster	LIGHT	Dragon	7	2500	2300	6740720	Yu-Gi-Oh! Dark Duel Stories promotional cards	19 March 2002
+Silver Bow and Arrow	Spell Card	None	Equip	0	0	0	1557499	Legend of Blue Eyes White Dragon	8 March 2002
+Silver Fang	Normal Monster	EARTH	Beast	3	1200	800	90357090	Legend of Blue Eyes White Dragon	8 March 2002
+Silver Fang	Normal Monster	EARTH	Beast	3	1200	800	90357090	Starter Deck: Yugi	29 March 2002
+Skull Red Bird	Normal Monster	WIND	Winged Beast	4	1550	1200	10202894	Legend of Blue Eyes White Dragon	8 March 2002
+Skull Red Bird	Normal Monster	WIND	Winged Beast	4	1550	1200	10202894	Starter Deck: Kaiba	29 March 2002
+Skull Servant	Normal Monster	DARK	Zombie	1	300	200	32274490	Legend of Blue Eyes White Dragon	8 March 2002
+Sogen	Spell Card	None	Field	0	0	0	86318356	Legend of Blue Eyes White Dragon	8 March 2002
+Sogen	Spell Card	None	Field	0	0	0	86318356	Starter Deck: Kaiba	29 March 2002
+Sorcerer of the Doomed	Normal Monster	DARK	Spellcaster	4	1450	1200	49218300	Starter Deck: Yugi	29 March 2002
+Soul Exchange	Spell Card	None	Normal	0	0	0	68005187	Starter Deck: Yugi	29 March 2002
+Sparks	Spell Card	None	Normal	0	0	0	76103675	Legend of Blue Eyes White Dragon	8 March 2002
+Spike Seadra	Normal Monster	WATER	Sea Serpent	5	1600	1300	85326399	Legend of Blue Eyes White Dragon	8 March 2002
+Spirit of the Harp	Normal Monster	LIGHT	Fairy	4	800	2000	80770678	Legend of Blue Eyes White Dragon	8 March 2002
+Steel Ogre Grotto #1	Normal Monster	EARTH	Machine	5	1400	1800	29172562	Legend of Blue Eyes White Dragon	8 March 2002
+Stop Defense	Spell Card	None	Normal	0	0	0	63102017	Legend of Blue Eyes White Dragon	8 March 2002
+Succubus Knight	Normal Monster	DARK	Warrior	5	1650	1300	55291359	Legend of Blue Eyes White Dragon	8 March 2002
+Summoned Skull	Normal Monster	DARK	Fiend	6	2500	1200	70781052	Starter Deck: Yugi	29 March 2002
+Sword of Dark Destruction	Spell Card	None	Equip	0	0	0	37120512	Starter Deck: Yugi	29 March 2002
+Swords of Revealing Light	Spell Card	None	Normal	0	0	0	72302403	Legend of Blue Eyes White Dragon	8 March 2002
+Swordstalker	Normal Monster	DARK	Warrior	6	2000	1600	50005633	Starter Deck: Kaiba	29 March 2002
+Terra the Terrible	Normal Monster	DARK	Fiend	4	1200	1300	63308047	Legend of Blue Eyes White Dragon	8 March 2002
+Terra the Terrible	Normal Monster	DARK	Fiend	4	1200	1300	63308047	Starter Deck: Kaiba	29 March 2002
+The 13th Grave	Normal Monster	DARK	Zombie	3	1200	900	32864	Legend of Blue Eyes White Dragon	8 March 2002
+The Flute of Summoning Dragon	Spell Card	None	Normal	0	0	0	43973174	Starter Deck: Kaiba	29 March 2002
+The Furious Sea King	Normal Monster	WATER	Aqua	3	800	700	18710707	Legend of Blue Eyes White Dragon	8 March 2002
+The Inexperienced Spy	Spell Card	None	Normal	0	0	0	81820689	Starter Deck: Kaiba	29 March 2002
+The Stern Mystic	Flip Effect Monster	LIGHT	Spellcaster	4	1500	1200	87557188	Starter Deck: Yugi	29 March 2002
+The Wicked Worm Beast	Effect Monster	EARTH	Beast	3	1400	700	6285791	Starter Deck: Kaiba	29 March 2002
+Trap Hole	Trap Card	None	Normal	0	0	0	4206964	Legend of Blue Eyes White Dragon	8 March 2002
+Trap Hole	Trap Card	None	Normal	0	0	0	4206964	Starter Deck: Kaiba	29 March 2002
+Trap Hole	Trap Card	None	Normal	0	0	0	4206964	Starter Deck: Yugi	29 March 2002
+Trap Master	Flip Effect Monster	EARTH	Warrior	3	500	1100	46461247	Starter Deck: Kaiba	29 March 2002
+Trap Master	Flip Effect Monster	EARTH	Warrior	3	500	1100	46461247	Starter Deck: Yugi	29 March 2002
+Tri-Horned Dragon	Normal Monster	DARK	Dragon	8	2850	2350	39111158	Legend of Blue Eyes White Dragon	8 March 2002
+Trial of Nightmare	Normal Monster	DARK	Fiend	4	1300	900	77827521	Legend of Blue Eyes White Dragon	8 March 2002
+Tripwire Beast	Normal Monster	EARTH	Thunder	4	1200	1300	45042329	Legend of Blue Eyes White Dragon	8 March 2002
+Turtle Tiger	Normal Monster	WATER	Aqua	4	1000	1500	37313348	Legend of Blue Eyes White Dragon	8 March 2002
+Two-Mouth Darkruler	Normal Monster	EARTH	Dinosaur	3	900	700	57305373	Legend of Blue Eyes White Dragon	8 March 2002
+Two-Pronged Attack	Trap Card	None	Normal	0	0	0	83887306	Legend of Blue Eyes White Dragon	8 March 2002
+Two-Pronged Attack	Trap Card	None	Normal	0	0	0	83887306	Starter Deck: Kaiba	29 March 2002
+Two-Pronged Attack	Trap Card	None	Normal	0	0	0	83887306	Starter Deck: Yugi	29 March 2002
+Tyhone	Normal Monster	WIND	Winged Beast	4	1200	1400	72842870	Legend of Blue Eyes White Dragon	8 March 2002
+Ultimate Offering	Trap Card	None	Continuous	0	0	0	80604092	Starter Deck: Kaiba	29 March 2002
+Ultimate Offering	Trap Card	None	Continuous	0	0	0	80604092	Starter Deck: Yugi	29 March 2002
+Umi	Spell Card	None	Field	0	0	0	22702055	Legend of Blue Eyes White Dragon	8 March 2002
+Unknown Warrior of Fiend	Normal Monster	DARK	Warrior	3	1000	500	97360116	Starter Deck: Kaiba	29 March 2002
+Uraby	Normal Monster	EARTH	Dinosaur	4	1500	800	1784619	Legend of Blue Eyes White Dragon	8 March 2002
+Uraby	Normal Monster	EARTH	Dinosaur	4	1500	800	1784619	Starter Deck: Kaiba	29 March 2002
+Vile Germs	Spell Card	None	Equip	0	0	0	39774685	Legend of Blue Eyes White Dragon	8 March 2002
+Violet Crystal	Spell Card	None	Equip	0	0	0	15052462	Legend of Blue Eyes White Dragon	8 March 2002
+Waboku	Trap Card	None	Normal	0	0	0	12607053	Starter Deck: Yugi	29 March 2002
+Wall of Illusion	Effect Monster	DARK	Fiend	4	1000	1850	13945283	Starter Deck: Yugi	29 March 2002
+Wasteland	Spell Card	None	Field	0	0	0	23424603	Legend of Blue Eyes White Dragon	8 March 2002
+Winged Dragon, Guardian of the Fortress #1	Normal Monster	WIND	Dragon	4	1400	1200	87796900	Starter Deck: Yugi	29 March 2002
+Witty Phantom	Normal Monster	DARK	Fiend	4	1400	1300	36304921	Legend of Blue Eyes White Dragon	8 March 2002
+Witty Phantom	Normal Monster	DARK	Fiend	4	1400	1300	36304921	Starter Deck: Yugi	29 March 2002
+Yami	Spell Card	None	Field	0	0	0	59197169	Legend of Blue Eyes White Dragon	8 March 2002
+Yami	Spell Card	None	Field	0	0	0	59197169	Starter Deck: Yugi	29 March 2002
