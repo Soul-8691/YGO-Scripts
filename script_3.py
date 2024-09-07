@@ -17,7 +17,9 @@ treasure = date(2002, 9, 16)
 eds = date(2002, 10, 15)
 imperial = date(2002, 10, 20)
 android = date(2003, 3, 1)
+warrior = date(2004, 12, 1)
 reaper = date(2006, 2, 18)
+gladiator = date(2008, 8, 1)
 
 months = [
     "January",
@@ -1594,9 +1596,184 @@ imperial_cards = [
             # except Exception as e:
                 # pass
 
+mod = [
+    "Alba-Lenatus the Abyss Dragon",
+    "Amazoness Spiritualist",
+    "Amazoness War Chief",
+    "Amphibious Bugroth MK-11",
+    "Amphibious Bugroth MK-3",
+    "Archfiend Black Skull Dragon",
+    "Archfiend Giant",
+    "Archfiend's Ascent",
+    "Archfiend's Awakening",
+    "Archfiend's Call",
+    "Archfiend's Manifestation",
+    "Arisen Gaia the Fierce Knight",
+    "Armaill",
+    "Armored Starfish",
+    "Artillery Catapult Turtle",
+    "Baku the Beast Ninja",
+    "Battle-Scarred",
+    "Black Luster Soldier - Super Soldier",
+    "Blade Armor Ninja",
+    "Blue-Eyes Abyss Dragon",
+    "Blue-Eyes Alternative Ultimate Dragon",
+    "Blue-Eyes Alternative White Dragon",
+    "Blue-Eyes Chaos Dragon",
+    "Blue-Eyes Jet Dragon",
+    "Blue-Eyes Spirit Dragon",
+    "Blue-Eyes Twin Burst Dragon",
+    "Blue-Eyes Tyrant Dragon",
+    "Chaos Form",
+    "Checkmate",
+    "Chronicle Magician",
+    "Cyberdark Inferno",
+    "Dark Cavalry",
+    "Dark Dragon Ritual",
+    "Dark Hole Dragon",
+    "Dark Magic Mirror Force",
+    "Dark Magician the Dragon Knight",
+    "Dark Magician the Knight of Dragon Magic",
+    "Dark Paladin",
+    "Dark Spell Regeneration",
+    "Darkbishop Archfiend",
+    "Deep-Eyes White Dragon",
+    "Dictator of D.",
+    "Doom Kraken",
+    "EN - Engage Neo Space",
+    "Eternal Soul",
+    "Evil Mind",
+    "Exodius the Ultimate Forbidden Lord",
+    "Exxod Fires of Rage",
+    "Fighting Flame Sword",
+    "Fighting Flame Swordsman",
+    "Flame Swordsrealm",
+    "Fluffal Bear",
+    "Fluffal Cat",
+    "Fluffal Dolphin",
+    "Fluffal Owl",
+    "Forgotten Temple of the Deep",
+    "Frightfur Factory",
+    "Frightfur Patchwork",
+    "Fuhma Shuriken",
+    "Fusion Duplication",
+    "Gaia the Magical Knight of Dragons",
+    "Gem-Knight Quartz",
+    "Guardian Chimera",
+    "Hidden Village of Ninjitsu Arts",
+    "Illusion of Chaos",
+    "Infernalqueen Archfiend",
+    "Kagero the Cannon Ninja",
+    "Kahyoreigetsu",
+    "Kaibaman",
+    "Keeper of Dragon Magic",
+    "King of the Skull Servants",
+    "Lady of D.",
+    "Lord Gaia the Fierce Knight",
+    "Lord of the Red",
+    "Magical Trick Mirror",
+    "Magician Navigation",
+    "Magician of Chaos",
+    "Magician of Dark Illusion",
+    "Magician's Robe",
+    "Magician's Salvation",
+    "Magicians' Souls",
+    "Magikuriboh",
+    "Maiden with Eyes of Blue",
+    "Master of Chaos",
+    "Master with Eyes of Blue",
+    "Mega Fortress Whale",
+    "Meizen the Battle Ninja",
+    "Meteor Dragon Red-Eyes Impact",
+    "Millennium Ankh",
+    "Millennium Revelation",
+    "Mirage Swordsman",
+    "Mitsu the Insect Ninja",
+    "Neo Blue-Eyes Ultimate Dragon",
+    "Ninja Grandmaster Hanzo",
+    "Ninja Grandmaster Saizo",
+    "Ninjitsu Art Notebook",
+    "Ninjitsu Art Notebook of Mystery",
+    "Ninjitsu Art of Dancing Leaves",
+    "Ninjitsu Art of Duplication",
+    "Ninjitsu Art of Super-Transformation",
+    "Ninjitsu Art of Transformation",
+    "Ninjitsu Art Tool - Iron Digger",
+    "Number 12: Crimson Shadow Armor Ninja",
+    "Obliterate!!! Blaze",
+    "Pacifis, the Phantasm City",
+    "Paladin of Dark Dragon",
+    "Paladin of White Dragon",
+    "Palladium Oracle Mahad",
+    "Pendulum Dimension",
+    "Performapal Odd-Eyes Metal Claw",
+    "Performapal Trump Witch",
+    "Phantasm Spiral Assault",
+    "Predaplant Chimerafflesia",
+    "Predaplant Darlingtonia Cobra",
+    "Predaplant Verte Anaconda",
+    "Priestess with Eyes of Blue",
+    "Protector with Eyes of Blue",
+    "Rage with Eyes of Blue",
+    "Red-Eyes Alternative Black Dragon",
+    "Red-Eyes Baby Dragon",
+    "Red-Eyes Black Metal Dragon",
+    "Red-Eyes Dark Dragoon",
+    "Red-Eyes Fang with Chain",
+    "Red-Eyes Flare Metal Dragon",
+    "Red-Eyes Fusion",
+    "Red-Eyes Insight",
+    "Red-Eyes Retro Dragon",
+    "Red-Eyes Soul",
+    "Red-Eyes Spirit",
+    "Red-Eyes Transmigration",
+    "Return of the Red-Eyes",
+    "Revoke Fusion",
+    "Sage with Eyes of Blue",
+    "Spiral Discharge",
+    "Spiral Fusion",
+    "Spiral Reborn",
+    "Supreme King Gate Zero",
+    "Synchro Fusionist",
+    "Tamtam the Melodious Diva",
+    "Tenchi Kaimei",
+    "Terrifying Trap Hole Nightmare",
+    "Terrorking Archfiend",
+    "The Black Stone of Legend",
+    "The Dark Magicians",
+    "The Lady in Wight",
+    "The Legendary Exodia Incarnate",
+    "The Revived Sky God",
+    "The Unstoppable Exodia Incarnate",
+    "The White Stone of Ancients",
+    "Timaeus the United Dragon",
+    "Tobari the Sky Ninja",
+    "Toon Dark Magician",
+    "Traptrip Garden",
+    "Traptrix Atrax",
+    "Traptrix Cularia",
+    "Traptrix Dionaea",
+    "Traptrix Nepenthes",
+    "Traptrix Pudica",
+    "Traptrix Rafflesia",
+    "Traptrix Sera",
+    "True Light",
+    "Twilight Ninja Getsuga, the Shogun",
+    "Twilight Ninja Jogen",
+    "Twilight Ninja Kagen",
+    "Ultimate Flame Swordsman",
+    "Vilepawn Archfiend",
+    "Vision HERO Vyon",
+    "Vision with Eyes of Blue",
+    "White Dragon Ritual",
+    "Wroughtweiler",
+    "Xtra HERO Wonder Driver",
+    "Yellow Ninja"
+]
+
 output = open('output.txt', 'w', encoding='utf8')
 
-for card in data2:
+for card in mod:
     count = 0
     for set in data2[card]:
         try:
@@ -1619,6 +1796,18 @@ for card in data2:
                 count = count + 1
         except:
             pass
+    attribute = 'None'
+    level = 0
+    atk = 0
+    defn = 0
+    try:
+        attribute = card_info[card]['attribute']
+        level = card_info[card]['level']
+        atk = card_info[card]['atk']
+        defn = card_info[card]['def']
+        output.write(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\tN\n')
+    except:
+        output.write(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\tN\n')
 
 # for card in eds_cards:
     # # printed = False
