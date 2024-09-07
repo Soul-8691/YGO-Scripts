@@ -1594,7 +1594,10 @@ imperial_cards = [
             # except Exception as e:
                 # pass
 
+output = open('output.txt', 'w', encoding='utf8')
+
 for card in data2:
+    count = 0
     for set in data2[card]:
         try:
             date_ = parser.parse(data2[card][set]['set_chronology_tcg'][1]).date()
@@ -1608,9 +1611,12 @@ for card in data2:
                     level = card_info[card]['level']
                     atk = card_info[card]['atk']
                     defn = card_info[card]['def']
-                    print(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + str(card_info[card]['id']) + '\t' + set + '\t' + data2[card][set]['set_chronology_tcg'][1])
+                    if count == 0:
+                        output.write(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\tY\n')
                 except:
-                    print(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + str(card_info[card]['id']) + '\t' + set + '\t' + data2[card][set]['set_chronology_tcg'][1])
+                    if count == 0:
+                        output.write(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\tY\n')
+                count = count + 1
         except:
             pass
 
