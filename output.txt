@@ -1,174 +1,2051 @@
-Alba-Lenatus the Abyss Dragon	Fusion Monster	DARK	Dragon	8	2500	2500	N
-Amazoness Spiritualist	Effect Monster	EARTH	Warrior	2	800	1800	N
-Amazoness War Chief	Effect Monster	EARTH	Warrior	5	1900	0	N
-Amphibious Bugroth MK-11	Effect Monster	WATER	Machine	5	1850	1500	N
-Amphibious Bugroth MK-3	Effect Monster	WATER	Machine	4	1500	1300	N
-Archfiend Black Skull Dragon	Fusion Monster	DARK	Dragon	9	3200	2500	N
-Archfiend Giant	Effect Monster	DARK	Fiend	6	2400	1600	N
-Archfiend's Ascent	XYZ Monster	DARK	Fiend	6	2500	1200	N
-Archfiend's Awakening	Ritual Effect Monster	DARK	Fiend	6	2500	1200	N
-Archfiend's Call	Synchro Monster	DARK	Fiend	6	2500	1200	N
-Archfiend's Manifestation	Fusion Monster	DARK	Fiend	6	2500	1200	N
-Arisen Gaia the Fierce Knight	Effect Monster	DARK	Warrior	7	2300	2100	N
+7	Spell Card	None	Continuous	0	0	0	N
+Blue-Eyes White Dragon	Normal Monster	LIGHT	Dragon	8	3000	2500	Y
+Mystical Elf	Normal Monster	LIGHT	Spellcaster	4	800	2000	Y
+Hitotsu-Me Giant	Normal Monster	EARTH	Beast-Warrior	4	1200	1000	Y
+Baby Dragon	Normal Monster	WIND	Dragon	3	1200	700	Y
+Ryu-Kishin	Normal Monster	DARK	Fiend	3	1000	500	Y
+Feral Imp	Normal Monster	DARK	Fiend	4	1300	1400	Y
+Winged Dragon, Guardian of the Fortress #1	Normal Monster	WIND	Dragon	4	1400	1200	Y
+Mushroom Man	Normal Monster	EARTH	Plant	2	800	600	N
+Blackland Fire Dragon	Normal Monster	DARK	Dragon	4	1500	800	Y
+Tyhone	Normal Monster	WIND	Winged Beast	4	1200	1400	Y
+Flame Swordsman	Fusion Monster	FIRE	Warrior	5	1800	1600	Y
+Time Wizard	Effect Monster	LIGHT	Spellcaster	2	500	400	Y
+Right Leg of the Forbidden One	Normal Monster	DARK	Spellcaster	1	200	300	Y
+Left Leg of the Forbidden One	Normal Monster	DARK	Spellcaster	1	200	300	Y
+Right Arm of the Forbidden One	Normal Monster	DARK	Spellcaster	1	200	300	Y
+Left Arm of the Forbidden One	Normal Monster	DARK	Spellcaster	1	200	300	Y
+Exodia the Forbidden One	Effect Monster	DARK	Spellcaster	3	1000	1000	Y
+Summoned Skull	Normal Monster	DARK	Fiend	6	2500	1200	Y
+The Wicked Worm Beast	Effect Monster	EARTH	Beast	3	1400	700	Y
+Skull Servant	Normal Monster	DARK	Zombie	1	300	200	Y
+Horn Imp	Normal Monster	DARK	Fiend	4	1300	1000	N
+Battle Ox	Normal Monster	EARTH	Beast-Warrior	4	1700	1000	Y
+Beaver Warrior	Normal Monster	EARTH	Beast-Warrior	4	1200	1500	Y
+Rock Ogre Grotto #1	Normal Monster	EARTH	Rock	3	800	1200	Y
+Mountain Warrior	Normal Monster	EARTH	Beast-Warrior	3	600	1000	N
+Zombie Warrior	Fusion Monster	DARK	Zombie	3	1200	900	N
+Koumori Dragon	Normal Monster	DARK	Dragon	4	1500	1200	Y
+Two-Headed King Rex	Normal Monster	EARTH	Dinosaur	4	1600	1200	N
+Judge Man	Normal Monster	EARTH	Warrior	6	2200	1500	Y
+Saggi the Dark Clown	Normal Monster	DARK	Spellcaster	3	600	1500	Y
+Dark Magician	Normal Monster	DARK	Spellcaster	7	2500	2100	Y
+The Snake Hair	Normal Monster	DARK	Zombie	4	1500	1200	N
+Gaia the Dragon Champion	Fusion Monster	WIND	Dragon	7	2600	2100	Y
+Gaia The Fierce Knight	Normal Monster	EARTH	Warrior	7	2300	2100	Y
+Curse of Dragon	Normal Monster	DARK	Dragon	5	2000	1500	Y
+Celtic Guardian	Normal Monster	EARTH	Warrior	4	1400	1200	Y
+Illusionist Faceless Mage	Normal Monster	DARK	Spellcaster	5	1200	2200	Y
+Karbonala Warrior	Fusion Monster	EARTH	Warrior	4	1500	1200	Y
+Rogue Doll	Normal Monster	LIGHT	Spellcaster	4	1600	1000	Y
+Wattkid	Normal Monster	LIGHT	Thunder	3	1000	500	N
+Griffore	Normal Monster	EARTH	Beast	4	1200	1500	N
+Torike	Normal Monster	EARTH	Beast	3	1200	600	N
+Sangan	Effect Monster	DARK	Fiend	3	1000	600	Y
+Big Insect	Normal Monster	EARTH	Insect	4	1200	1500	N
+Basic Insect	Normal Monster	EARTH	Insect	2	500	700	Y
+Armored Lizard	Normal Monster	EARTH	Reptile	4	1500	1200	Y
+Killer Needle	Normal Monster	WIND	Insect	4	1200	1000	Y
+Gokibore	Normal Monster	EARTH	Insect	4	1200	1400	N
+Giant Flea	Normal Monster	EARTH	Insect	4	1500	1200	N
+Larvae Moth	Effect Monster	EARTH	Insect	2	500	400	Y
+Great Moth	Effect Monster	EARTH	Insect	8	2600	2500	Y
+Kuriboh	Effect Monster	DARK	Fiend	1	300	200	Y
+Mammoth Graveyard	Normal Monster	EARTH	Dinosaur	3	1200	800	Y
+Great White	Normal Monster	WATER	Fish	4	1600	800	Y
+Wolf	Normal Monster	EARTH	Beast	3	1200	800	N
+Harpie Lady	Normal Monster	WIND	Winged Beast	4	1300	1400	Y
+Harpie Lady Sisters	Effect Monster	WIND	Winged Beast	6	1950	2100	Y
+Tiger Axe	Normal Monster	EARTH	Beast-Warrior	4	1300	1100	N
+Silver Fang	Normal Monster	EARTH	Beast	3	1200	800	Y
+Kojikocy	Normal Monster	EARTH	Warrior	4	1500	1200	Y
+Perfectly Ultimate Great Moth	Effect Monster	EARTH	Insect	8	3500	3000	N
+Thousand Dragon	Fusion Monster	WIND	Dragon	7	2400	2000	Y
+Fiend Kraken	Normal Monster	WATER	Aqua	4	1200	1400	N
+Jellyfish	Normal Monster	WATER	Aqua	4	1200	1500	Y
+Cocoon of Evolution	Effect Monster	EARTH	Insect	3	0	2000	Y
+Giant Soldier of Stone	Normal Monster	EARTH	Rock	3	1300	2000	Y
+Man-Eating Plant	Normal Monster	EARTH	Plant	2	800	600	N
+Krokodilus	Normal Monster	WATER	Reptile	4	1100	1200	N
+Grappler	Normal Monster	WATER	Reptile	4	1300	1200	N
+Axe Raider	Normal Monster	EARTH	Warrior	4	1700	1150	N
+Megazowler	Normal Monster	EARTH	Dinosaur	6	1800	2000	N
+Uraby	Normal Monster	EARTH	Dinosaur	4	1500	800	Y
+Crawling Dragon #2	Normal Monster	EARTH	Dinosaur	4	1600	1200	N
+Red-Eyes Black Dragon	Normal Monster	DARK	Dragon	7	2400	2000	Y
+Castle of Dark Illusions	Flip Effect Monster	DARK	Fiend	4	920	1930	Y
+Reaper of the Cards	Flip Effect Monster	DARK	Fiend	5	1380	1930	Y
+King of Yamimakai	Normal Monster	DARK	Fiend	5	2000	1530	Y
+Barox	Fusion Monster	DARK	Fiend	5	1380	1530	N
+Metal Guardian	Normal Monster	DARK	Fiend	5	1150	2150	N
+Catapult Turtle	Effect Monster	WATER	Aqua	5	1000	2000	Y
+Gyakutenno Megami	Normal Monster	LIGHT	Fairy	6	1800	2000	Y
+Mystic Horseman	Normal Monster	EARTH	Beast	4	1300	1550	Y
+Rabid Horseman	Fusion Monster	EARTH	Beast-Warrior	6	2000	1700	Y
+Crass Clown	Effect Monster	DARK	Fiend	4	1350	1400	Y
+Armored Zombie	Normal Monster	DARK	Zombie	3	1500	0	Y
+Dragon Zombie	Normal Monster	DARK	Zombie	3	1600	0	Y
+Clown Zombie	Normal Monster	DARK	Zombie	2	1350	0	N
+Pumpking the King of Ghosts	Effect Monster	DARK	Zombie	6	1800	2000	Y
+Battle Warrior	Normal Monster	EARTH	Warrior	3	700	1000	N
+Wings of Wicked Flame	Normal Monster	FIRE	Pyro	2	700	600	N
+Mask of Darkness	Flip Effect Monster	DARK	Fiend	2	900	400	Y
+Job-Change Mirror	Normal Monster	DARK	Fiend	3	800	1300	N
+Curtain of the Dark Ones	Normal Monster	DARK	Spellcaster	2	600	500	N
+Kageningen	Normal Monster	DARK	Warrior	2	800	600	N
+Graveyard and the Hand of Invitation	Normal Monster	DARK	Zombie	3	700	900	N
+Goddess with the Third Eye	Effect Monster	LIGHT	Fairy	4	1200	1000	N
+Hero of the East	Normal Monster	EARTH	Warrior	3	1100	1000	N
+That Which Feeds on Life	Normal Monster	DARK	Fiend	4	1200	1000	N
+Dark Gray	Normal Monster	EARTH	Beast	3	800	900	Y
+White Magical Hat	Effect Monster	LIGHT	Spellcaster	3	1000	700	Y
+Kamionwizard	Fusion Monster	DARK	Spellcaster	4	1300	1100	N
+Nightmare Scorpion	Normal Monster	EARTH	Insect	3	900	800	N
+Spirit of the Books	Normal Monster	WIND	Winged Beast	4	1400	1200	N
+Supporter in the Shadows	Normal Monster	EARTH	Warrior	3	1000	1000	N
+Trial of Nightmare	Normal Monster	DARK	Fiend	4	1300	900	Y
+Dream Clown	Effect Monster	EARTH	Warrior	3	1200	900	Y
+Sleeping Lion	Normal Monster	EARTH	Beast	4	700	1700	N
+Yamatano Dragon Scroll	Normal Monster	WIND	Dragon	2	900	300	N
+Faith Bird	Normal Monster	WIND	Winged Beast	4	1500	1100	N
+Nemuriko	Normal Monster	DARK	Spellcaster	3	800	700	Y
+Weather Control	Normal Monster	LIGHT	Fairy	2	600	400	N
+The 13th Grave	Normal Monster	DARK	Zombie	3	1200	900	Y
+Charubin the Fire Knight	Fusion Monster	FIRE	Pyro	3	1100	800	Y
+Mystical Capture Chain	Normal Monster	LIGHT	Fairy	2	700	700	N
+Fiend's Hand	Normal Monster	DARK	Zombie	2	600	600	N
+Witty Phantom	Normal Monster	DARK	Fiend	4	1400	1300	Y
+Dragon Statue	Normal Monster	EARTH	Warrior	3	1100	900	N
+Blue-Eyed Silver Zombie	Normal Monster	DARK	Zombie	3	900	700	N
+Toad Master	Normal Monster	WATER	Aqua	3	1000	1000	N
+Spiked Snail	Normal Monster	DARK	Insect	3	700	1300	N
+Flame Manipulator	Normal Monster	FIRE	Spellcaster	3	900	1000	Y
+Necrolancer the Time-lord	Normal Monster	DARK	Spellcaster	3	800	900	N
+Djinn the Watcher of the Wind	Normal Monster	WIND	Spellcaster	3	700	900	N
+The Bewitching Phantom Thief	Normal Monster	DARK	Spellcaster	2	700	700	N
+Temple of Skulls	Normal Monster	DARK	Zombie	4	900	1300	N
+Monster Egg	Normal Monster	EARTH	Warrior	3	600	900	Y
+The Shadow Who Controls the Dark	Normal Monster	DARK	Fiend	3	800	700	N
+Lord of the Lamp	Normal Monster	DARK	Fiend	4	1400	1200	N
+Rhaimundos of the Red Sword	Normal Monster	EARTH	Warrior	4	1200	1300	N
+The Melting Red Shadow	Normal Monster	WATER	Aqua	2	500	700	N
+Dokuroizo the Grim Reaper	Normal Monster	DARK	Zombie	3	900	1200	N
+Fire Reaper	Normal Monster	DARK	Zombie	2	700	500	N
+Larvas	Normal Monster	EARTH	Beast	3	800	1000	Y
+Hard Armor	Normal Monster	EARTH	Warrior	3	300	1200	Y
+Firegrass	Normal Monster	EARTH	Plant	2	700	600	Y
+Man Eater	Normal Monster	EARTH	Plant	2	800	600	Y
+Dig Beak	Normal Monster	EARTH	Beast	2	500	800	N
+M-Warrior #1	Normal Monster	EARTH	Warrior	3	1000	500	Y
+M-Warrior #2	Normal Monster	EARTH	Warrior	3	500	1000	Y
+Lisark	Normal Monster	EARTH	Beast	4	1300	1300	N
+Lord of Zemia	Normal Monster	DARK	Fiend	4	1300	1000	N
+The Judgement Hand	Normal Monster	EARTH	Warrior	3	1400	700	N
+Mysterious Puppeteer	Effect Monster	EARTH	Warrior	4	1000	1500	Y
+Darkfire Dragon	Fusion Monster	DARK	Dragon	4	1500	1250	Y
+Dark King of the Abyss	Normal Monster	DARK	Fiend	3	1200	800	Y
+Spirit of the Harp	Normal Monster	LIGHT	Fairy	4	800	2000	Y
 Armaill	Normal Monster	EARTH	Warrior	3	700	1300	Y
-Armaill	Normal Monster	EARTH	Warrior	3	700	1300	N
+Dark Prisoner	Normal Monster	DARK	Fiend	3	600	1000	N
+Hurricail	Normal Monster	WIND	Spellcaster	2	900	200	N
+Fire Eye	Normal Monster	FIRE	Pyro	2	800	600	N
+Monsturtle	Normal Monster	WATER	Aqua	3	800	1000	N
+Claw Reacher	Normal Monster	DARK	Fiend	3	1000	800	Y
+Phantom Dewan	Normal Monster	DARK	Spellcaster	2	700	600	N
+Arlownay	Normal Monster	EARTH	Plant	3	800	1000	N
+Dark Shade	Normal Monster	WIND	Fiend	3	1000	1000	N
+Masked Clown	Normal Monster	DARK	Warrior	2	500	700	N
+Lucky Trinket	Normal Monster	LIGHT	Spellcaster	2	600	800	N
+Genin	Normal Monster	LIGHT	Spellcaster	3	600	900	N
+Eyearmor	Normal Monster	EARTH	Warrior	2	600	500	N
+Fiend Reflection #2	Normal Monster	LIGHT	Winged Beast	4	1100	1400	Y
+Gate Deeg	Normal Monster	DARK	Beast	3	700	800	N
+Synchar	Normal Monster	EARTH	Beast	3	800	900	N
+Fusionist	Fusion Monster	EARTH	Beast	3	900	700	Y
+Akakieisu	Normal Monster	DARK	Spellcaster	3	1000	800	N
+LaLa Li-oon	Normal Monster	WIND	Thunder	2	600	600	N
+Turtle Tiger	Normal Monster	WATER	Aqua	4	1000	1500	Y
+Terra the Terrible	Normal Monster	DARK	Fiend	4	1200	1300	Y
+Doron	Normal Monster	EARTH	Warrior	2	900	500	N
+Arma Knight	Normal Monster	WATER	Aqua	4	1000	1200	N
+Happy Lover	Normal Monster	LIGHT	Fairy	2	800	500	N
+Penguin Knight	Effect Monster	WATER	Aqua	3	900	800	N
+Petit Dragon	Normal Monster	WIND	Dragon	2	600	700	Y
+Frenzied Panda	Normal Monster	EARTH	Beast	4	1200	1000	Y
+Archfiend Marmot of Nefariousness	Normal Monster	EARTH	Beast	2	400	600	N
+Phantom Ghost	Normal Monster	DARK	Zombie	2	600	800	N
+Dorover	Normal Monster	WATER	Aqua	3	900	800	N
+Twin Long Rods #1	Normal Monster	WATER	Aqua	3	900	700	N
+Droll Bird	Normal Monster	WIND	Winged Beast	2	600	500	N
+Petit Angel	Normal Monster	LIGHT	Fairy	3	600	900	Y
+Winged Cleaver	Normal Monster	EARTH	Insect	2	700	700	N
+Hinotama Soul	Normal Monster	FIRE	Pyro	2	600	500	Y
+Thunder Kid	Normal Monster	WIND	Thunder	2	700	600	N
+Meotoko	Normal Monster	EARTH	Beast	2	700	600	N
+Aqua Madoor	Normal Monster	WATER	Spellcaster	4	1200	2000	Y
+Kagemusha of the Blue Flame	Normal Monster	EARTH	Warrior	2	800	400	Y
+Flame Ghost	Fusion Monster	DARK	Zombie	3	1000	800	Y
+Doriado	Normal Monster	EARTH	Spellcaster	4	1200	1400	N
+Black Skull Dragon	Fusion Monster	DARK	Dragon	9	3200	2500	Y
+Two-Mouth Darkruler	Normal Monster	EARTH	Dinosaur	3	900	700	Y
+Solitude	Normal Monster	EARTH	Beast-Warrior	3	1050	1000	N
+Masked Sorcerer	Effect Monster	DARK	Spellcaster	4	900	1400	Y
+Kumootoko	Normal Monster	EARTH	Insect	3	700	1400	Y
+Midnight Fiend	Normal Monster	DARK	Fiend	2	800	600	N
+Trap Master	Flip Effect Monster	EARTH	Warrior	3	500	1100	Y
+Fiend Sword	Normal Monster	DARK	Warrior	4	1400	800	N
+Skull Stalker	Normal Monster	DARK	Warrior	3	900	800	N
+Hitodenchak	Normal Monster	WATER	Aqua	2	600	700	N
+Wood Remains	Normal Monster	DARK	Zombie	3	1000	900	N
+Hourglass of Life	Normal Monster	LIGHT	Fairy	2	700	600	N
+Rare Fish	Fusion Monster	WATER	Fish	4	1500	1200	N
+Wood Clown	Normal Monster	EARTH	Warrior	3	800	1200	N
+Madjinn Gunn	Normal Monster	DARK	Fiend	2	600	800	N
+Dark Titan of Terror	Normal Monster	DARK	Fiend	4	1300	1100	Y
+Beautiful Headhuntress	Normal Monster	EARTH	Warrior	4	1600	800	N
+Guardian of the Labyrinth	Normal Monster	EARTH	Warrior	4	1000	1200	Y
+Yashinoki	Normal Monster	EARTH	Plant	2	800	600	N
+Vishwar Randi	Normal Monster	DARK	Warrior	3	900	700	N
+The Drdek	Normal Monster	DARK	Fiend	3	700	800	N
+Dark Assailant	Normal Monster	DARK	Zombie	4	1200	1200	Y
+Candle of Fate	Normal Monster	DARK	Fiend	2	600	600	N
+Water Element	Normal Monster	WATER	Aqua	3	900	700	N
+Dissolverock	Normal Monster	EARTH	Rock	3	900	1000	Y
+Meda Bat	Normal Monster	DARK	Fiend	2	800	400	Y
+One Who Hunts Souls	Normal Monster	EARTH	Beast-Warrior	4	1100	1000	N
+Root Water	Normal Monster	WATER	Fish	3	900	800	Y
+Master & Expert	Normal Monster	EARTH	Beast	4	1200	1000	Y
+Water Omotics	Normal Monster	WATER	Aqua	4	1400	1200	Y
+Hyo	Normal Monster	WATER	Warrior	3	800	1200	N
+Enchanting Mermaid	Normal Monster	WATER	Fish	3	1200	900	Y
+Nekogal #1	Normal Monster	EARTH	Beast	3	1100	900	N
+Fairywitch	Normal Monster	DARK	Spellcaster	3	800	1000	N
+Embryonic Beast	Normal Monster	DARK	Fiend	2	500	750	N
+Prevent Rat	Normal Monster	EARTH	Beast	4	500	2000	Y
+D.D. Warrior	Effect Monster	EARTH	Warrior	4	1200	1000	N
+Stone Armadiller	Normal Monster	EARTH	Rock	3	800	1200	N
+Beastking of the Swamps	Effect Monster	WATER	Aqua	4	1000	1100	N
+Ancient Sorcerer	Normal Monster	DARK	Spellcaster	4	1000	1300	N
+Lunar Queen Elzaim	Normal Monster	LIGHT	Fairy	3	750	1100	N
+Archfiend Mirror	Normal Monster	DARK	Fiend	2	700	600	N
+The Little Swordsman of Aile	Effect Monster	WATER	Warrior	3	800	1300	Y
+Rock Ogre Grotto #2	Normal Monster	EARTH	Rock	3	700	1400	N
+Wing Egg Elf	Normal Monster	LIGHT	Fairy	3	500	1300	N
+The Furious Sea King	Normal Monster	WATER	Aqua	3	800	700	Y
+Princess of Tsurugi	Flip Effect Monster	WIND	Warrior	3	900	700	Y
+Unknown Warrior of Fiend	Normal Monster	DARK	Warrior	3	1000	500	Y
+Sectarian of Secrets	Normal Monster	DARK	Spellcaster	2	700	500	N
+Versago the Destroyer	Effect Monster	DARK	Fiend	3	1100	900	N
+Wetha	Normal Monster	WATER	Aqua	3	1000	900	N
+Megirus Light	Normal Monster	DARK	Fiend	3	900	600	N
+Mavelus	Fusion Monster	WIND	Winged Beast	4	1300	900	N
+Ancient Tree of Enlightenment	Normal Monster	EARTH	Plant	3	600	1500	N
+Green Phantom King	Normal Monster	EARTH	Plant	3	500	1600	Y
+Ground Attacker Bugroth	Normal Monster	EARTH	Machine	4	1500	1000	Y
+Ray & Temperature	Normal Monster	LIGHT	Fairy	3	1000	1000	Y
+Gorgon Egg	Normal Monster	DARK	Fiend	3	300	1300	N
+Petit Moth	Normal Monster	EARTH	Insect	1	300	200	Y
+King Fog	Normal Monster	DARK	Fiend	3	1000	900	Y
+Protector of the Throne	Normal Monster	EARTH	Warrior	4	800	1500	Y
+Mystic Clown	Normal Monster	DARK	Fiend	4	1500	1000	Y
+Mystical Sheep #2	Normal Monster	EARTH	Beast	3	800	1000	Y
+Holograh	Normal Monster	EARTH	Machine	3	1100	700	N
+Tao the Chanter	Normal Monster	EARTH	Spellcaster	3	1200	900	N
+Serpent Marauder	Normal Monster	EARTH	Reptile	2	700	600	N
+Ogre of the Black Shadow	Normal Monster	EARTH	Beast-Warrior	4	1200	1400	Y
+Moon Envoy	Normal Monster	LIGHT	Warrior	4	1100	1000	N
+Fireyarou	Normal Monster	FIRE	Pyro	4	1300	1000	Y
+Psychic Kappa	Normal Monster	WATER	Aqua	2	400	1000	N
+Masaki the Legendary Swordsman	Normal Monster	EARTH	Warrior	4	1100	1100	Y
+Dragoness the Wicked Knight	Fusion Monster	WIND	Warrior	3	1200	900	Y
+Bio Plant	Normal Monster	DARK	Fiend	3	600	1300	N
+One-Eyed Shield Dragon	Normal Monster	WIND	Dragon	3	700	1300	Y
+Cyber Soldier of Darkworld	Normal Monster	DARK	Machine	4	1400	1200	N
+Wicked Dragon with the Ersatz Head	Normal Monster	WIND	Dragon	3	900	900	N
+Sonic Maid	Normal Monster	EARTH	Warrior	3	1200	900	N
+Kurama	Normal Monster	WIND	Winged Beast	3	800	800	Y
+Axe of Despair	Spell Card	None	Equip	0	0	0	N
+Insect Armor with Laser Cannon	Spell Card	None	Equip	0	0	0	N
+Black Pendant	Spell Card	None	Equip	0	0	0	N
+Horn of Light	Spell Card	None	Equip	0	0	0	N
+Horn of the Unicorn	Spell Card	None	Equip	0	0	0	N
+Elegant Egotist	Spell Card	None	Normal	0	0	0	Y
+Stop Defense	Spell Card	None	Normal	0	0	0	Y
+Malevolent Nuzzler	Spell Card	None	Equip	0	0	0	N
+Dragon Capture Jar	Trap Card	None	Continuous	0	0	0	Y
+Forest	Spell Card	None	Field	0	0	0	Y
+Wasteland	Spell Card	None	Field	0	0	0	Y
+Mountain	Spell Card	None	Field	0	0	0	Y
+Sogen	Spell Card	None	Field	0	0	0	Y
+Umi	Spell Card	None	Field	0	0	0	Y
+Yami	Spell Card	None	Field	0	0	0	Y
+Dark Hole	Spell Card	None	Normal	0	0	0	Y
+Raigeki	Spell Card	None	Normal	0	0	0	Y
+Mooyan Curry	Spell Card	None	Normal	0	0	0	N
+Red Medicine	Spell Card	None	Normal	0	0	0	Y
+Goblin's Secret Remedy	Spell Card	None	Normal	0	0	0	Y
+Soul of the Pure	Spell Card	None	Normal	0	0	0	N
+Dian Keto the Cure Master	Spell Card	None	Normal	0	0	0	Y
+Sparks	Spell Card	None	Normal	0	0	0	Y
+Ookazi	Spell Card	None	Normal	0	0	0	Y
+Tremendous Fire	Spell Card	None	Normal	0	0	0	Y
+Swords of Revealing Light	Spell Card	None	Normal	0	0	0	Y
+Spellbinding Circle	Trap Card	None	Continuous	0	0	0	N
+Dark-Piercing Light	Spell Card	None	Normal	0	0	0	N
+Yaranzo	Normal Monster	DARK	Zombie	4	1300	1500	N
+Kanan the Swordmistress	Normal Monster	EARTH	Warrior	4	1400	1400	N
+Takriminos	Normal Monster	WATER	Sea Serpent	4	1500	1200	N
+Stuffed Animal	Normal Monster	EARTH	Warrior	3	1200	900	N
+Super War-Lion	Ritual Monster	EARTH	Beast	7	2300	2100	N
+Three-Legged Zombies	Normal Monster	DARK	Zombie	3	1100	800	N
+Zera the Mant	Ritual Monster	DARK	Fiend	8	2800	2300	N
+Flying Penguin	Normal Monster	WATER	Aqua	4	1200	1000	N
+Millennium Shield	Normal Monster	EARTH	Warrior	5	0	3000	N
+Fairy's Gift	Normal Monster	LIGHT	Spellcaster	4	1400	1000	N
+Black Luster Soldier	Ritual Monster	EARTH	Warrior	8	3000	2500	N
+Fiend's Mirror	Ritual Monster	DARK	Fiend	6	2100	1800	N
+Labyrinth Wall	Normal Monster	EARTH	Rock	5	0	3000	N
+Jirai Gumo	Effect Monster	EARTH	Insect	4	2200	100	Y
+Shadow Ghoul	Effect Monster	DARK	Zombie	5	1600	1300	Y
+Wall Shadow	Effect Monster	DARK	Warrior	7	1600	3000	N
+Labyrinth Tank	Fusion Monster	DARK	Machine	7	2400	2400	Y
+Sanga of the Thunder	Effect Monster	LIGHT	Thunder	7	2600	2200	Y
+Kazejin	Effect Monster	WIND	Spellcaster	7	2400	2200	Y
+Suijin	Effect Monster	WATER	Aqua	7	2500	2400	Y
+Gate Guardian	Effect Monster	DARK	Warrior	11	3750	3400	Y
+Ryu-Kishin Powered	Normal Monster	DARK	Fiend	4	1600	1200	Y
+Swordstalker	Normal Monster	DARK	Warrior	6	2000	1600	Y
+La Jinn the Mystical Genie of the Lamp	Normal Monster	DARK	Fiend	4	1800	1000	Y
+Blue-Eyes Ultimate Dragon	Fusion Monster	LIGHT	Dragon	12	4500	3800	N
+Toon Alligator	Normal Monster	WATER	Reptile	4	800	1600	N
+Parrot Dragon	Normal Monster	WIND	Dragon	5	2000	1300	N
+Dark Rabbit	Normal Monster	DARK	Beast	4	1100	1500	N
+Bickuribox	Fusion Monster	DARK	Fiend	7	2300	2000	Y
+Harpie's Pet Dragon	Effect Monster	WIND	Dragon	7	2000	2500	N
+Pendulum Machine	Normal Monster	DARK	Machine	6	1750	2000	N
+Giltia the D. Knight	Fusion Monster	LIGHT	Warrior	5	1850	1500	Y
+Launcher Spider	Normal Monster	FIRE	Machine	7	2200	2500	Y
+Zoa	Normal Monster	DARK	Fiend	7	2600	1900	N
+Metalzoa	Effect Monster	DARK	Machine	8	3000	2300	N
+Ocubeam	Normal Monster	LIGHT	Fairy	5	1550	1650	Y
+Monster Eye	Effect Monster	DARK	Fiend	1	250	350	N
+Yaiba Robo	Normal Monster	DARK	Machine	4	1000	1300	N
+Machine King	Effect Monster	EARTH	Machine	6	2200	2000	N
+Metal Dragon	Fusion Monster	WIND	Machine	6	1850	1700	Y
+Giga-Tech Wolf	Normal Monster	FIRE	Machine	4	1200	1400	Y
+Shovel Crusher	Normal Monster	EARTH	Machine	3	900	1200	N
+Mechanicalchaser	Normal Monster	DARK	Machine	4	1850	800	N
+Blocker	Normal Monster	DARK	Machine	4	850	1800	N
+Golgoil	Normal Monster	EARTH	Machine	4	900	1600	N
+Cyber-Stein	Effect Monster	DARK	Machine	2	700	500	N
+Cyber Commander	Normal Monster	DARK	Machine	2	750	700	N
+Jinzo #7	Effect Monster	DARK	Machine	2	500	400	Y
+Thunder Dragon	Effect Monster	LIGHT	Thunder	5	1600	1500	Y
+Kaiser Dragon	Fusion Monster	LIGHT	Dragon	7	2300	2000	N
+Magician of Faith	Flip Effect Monster	LIGHT	Spellcaster	1	300	400	Y
+Goddess of Whim	Effect Monster	LIGHT	Fairy	3	950	700	N
+Water Magician	Normal Monster	WATER	Aqua	4	1400	1000	N
+Ice Water	Normal Monster	WATER	Aqua	3	1150	900	N
+Waterdragon Fairy	Normal Monster	WATER	Aqua	3	1100	700	N
+Ancient Elf	Normal Monster	LIGHT	Spellcaster	4	1450	1200	Y
+Water Girl	Normal Monster	WATER	Aqua	4	1250	1000	N
+Deepsea Shark	Fusion Monster	WATER	Fish	5	1900	1600	Y
+Bottom Dweller	Normal Monster	WATER	Fish	5	1650	1700	Y
+7 Colored Fish	Normal Monster	WATER	Fish	4	1800	800	Y
+Sentinel of the Seas	Normal Monster	WATER	Aqua	4	1300	1000	N
+Aqua Snake	Normal Monster	WATER	Aqua	3	1050	900	N
+Giant Red Seasnake	Normal Monster	WATER	Aqua	4	1800	800	N
+Kappa Avenger	Normal Monster	WATER	Aqua	3	1200	900	N
+Kanikabuto	Normal Monster	WATER	Aqua	3	650	900	N
+Zarigun	Normal Monster	WATER	Aqua	2	600	700	N
+Millennium Golem	Normal Monster	EARTH	Rock	6	2000	2200	N
+Destroyer Golem	Normal Monster	EARTH	Rock	4	1500	1000	Y
+Barrel Rock	Normal Monster	EARTH	Rock	4	1000	1300	N
+Minomushi Warrior	Normal Monster	EARTH	Rock	4	1300	1200	N
+Stone Ghost	Normal Monster	EARTH	Rock	4	1200	1000	N
+Kaminari Attack	Fusion Monster	WIND	Thunder	5	1900	1400	Y
+Tripwire Beast	Normal Monster	EARTH	Thunder	4	1200	1300	Y
+Bolt Penguin	Normal Monster	WATER	Thunder	3	1100	800	N
+The Immortal of Thunder	Flip Effect Monster	LIGHT	Thunder	4	1500	1300	Y
+Electric Snake	Effect Monster	LIGHT	Thunder	3	800	900	N
+Punished Eagle	Fusion Monster	WIND	Winged Beast	6	2100	1800	Y
+Skull Red Bird	Normal Monster	WIND	Winged Beast	4	1550	1200	Y
+Crimson Sunbird	Fusion Monster	FIRE	Winged Beast	6	2300	1800	N
+Armed Ninja	Flip Effect Monster	EARTH	Warrior	1	300	300	Y
+Magical Ghost	Normal Monster	DARK	Zombie	4	1300	1400	Y
+Soul Hunter	Fusion Monster	DARK	Fiend	6	2200	1800	N
+Vermillion Sparrow	Fusion Monster	FIRE	Pyro	5	1900	1500	N
+Sea Kamen	Normal Monster	WATER	Aqua	4	1100	1300	N
+Sinister Serpent	Effect Monster	WATER	Reptile	1	300	250	N
+Ganigumo	Normal Monster	EARTH	Insect	2	600	800	N
+Alinsection	Normal Monster	EARTH	Insect	3	950	700	N
+Insect Soldiers of the Sky	Effect Monster	WIND	Insect	3	1000	800	Y
+Cockroach Knight	Effect Monster	EARTH	Insect	3	800	900	N
+Burglar	Normal Monster	EARTH	Beast	3	850	800	N
+Pragtical	Fusion Monster	EARTH	Dinosaur	5	1900	1500	N
+Ameba	Effect Monster	WATER	Aqua	1	300	350	N
+Korogashi	Normal Monster	EARTH	Insect	2	550	400	N
+Boo Koo	Normal Monster	DARK	Spellcaster	2	650	500	N
+Flower Wolf	Fusion Monster	EARTH	Beast	5	1800	1400	Y
+Rainbow Flower	Effect Monster	EARTH	Plant	2	400	500	Y
+Barrel Lily	Normal Monster	EARTH	Plant	3	1100	600	N
+Hoshiningen	Effect Monster	LIGHT	Fairy	2	500	700	Y
+Maha Vailo	Effect Monster	LIGHT	Spellcaster	4	1550	1400	N
+Musician King	Fusion Monster	LIGHT	Spellcaster	5	1750	1500	Y
+Wilmee	Normal Monster	EARTH	Beast	4	1000	1200	N
+Dragon Seeker	Effect Monster	DARK	Fiend	6	2000	2100	N
+Man-Eater Bug	Flip Effect Monster	EARTH	Insect	2	450	600	Y
+D. Human	Normal Monster	EARTH	Warrior	4	1300	1100	Y
+Turtle Raccoon	Normal Monster	WATER	Aqua	3	700	900	N
+Prisman	Normal Monster	LIGHT	Rock	3	800	1000	N
+Crazy Fish	Normal Monster	WATER	Fish	4	1600	1200	N
+Bracchio-raidus	Fusion Monster	WATER	Dinosaur	6	2200	2000	N
+Laughing Flower	Normal Monster	EARTH	Plant	2	900	500	N
+Bean Soldier	Normal Monster	EARTH	Plant	4	1400	1300	N
+Cannon Soldier	Effect Monster	DARK	Machine	4	1400	1300	Y
+Guardian of the Throne Room	Normal Monster	LIGHT	Machine	4	1650	1600	N
+Brave Scizzar	Normal Monster	DARK	Machine	4	1300	1000	N
+The Statue of Easter Island	Normal Monster	EARTH	Rock	4	1100	1400	N
+Muka Muka	Effect Monster	EARTH	Rock	2	600	300	Y
+Boulder Tortoise	Normal Monster	WATER	Aqua	6	1450	2200	N
+Fire Kraken	Normal Monster	FIRE	Aqua	4	1600	1500	N
+Turtle Bird	Normal Monster	WATER	Aqua	6	1900	1700	N
+Skullbird	Fusion Monster	WIND	Winged Beast	6	1900	1700	N
+Monstrous Bird	Normal Monster	WIND	Winged Beast	6	2000	1900	N
+The Bistro Butcher	Effect Monster	DARK	Fiend	4	1800	1000	Y
+Star Boy	Effect Monster	WATER	Aqua	2	550	500	Y
+Milus Radiant	Effect Monster	EARTH	Beast	1	300	250	Y
+Flame Cerebrus	Normal Monster	FIRE	Pyro	6	2100	1800	Y
+Eldeen	Normal Monster	LIGHT	Spellcaster	3	950	1000	N
+Mystical Sand	Fusion Monster	EARTH	Rock	6	2100	1700	N
+Gemini Elf	Normal Monster	EARTH	Spellcaster	4	1900	900	N
+Minar	Effect Monster	EARTH	Insect	3	850	750	N
+Kamakiriman	Normal Monster	EARTH	Insect	4	1150	1400	N
+Mechaleon	Normal Monster	WATER	Reptile	2	800	600	N
+Mega Thunderball	Normal Monster	WIND	Thunder	2	750	600	Y
+Niwatori	Normal Monster	EARTH	Winged Beast	3	900	800	Y
+Corroding Shark	Normal Monster	DARK	Zombie	3	1100	700	N
+Skelengel	Flip Effect Monster	LIGHT	Fairy	2	900	400	N
+Hane-Hane	Flip Effect Monster	EARTH	Beast	2	450	500	Y
+Tongyo	Normal Monster	WATER	Fish	4	1350	800	Y
+Dharma Cannon	Normal Monster	DARK	Machine	2	900	500	N
+Skelgon	Fusion Monster	DARK	Zombie	6	1700	1900	N
+Wow Warrior	Normal Monster	WATER	Fish	4	1250	900	N
+Griggle	Effect Monster	EARTH	Plant	1	350	300	N
+Slime Toad	Normal Monster	WATER	Aqua	2	700	500	N
+Behegon	Normal Monster	WATER	Aqua	4	1350	1000	N
+Dark Elf	Effect Monster	DARK	Spellcaster	4	2000	800	Y
+Winged Dragon, Guardian of the Fortress #2	Normal Monster	WIND	Winged Beast	4	1200	1000	N
+The Wandering Doomed	Normal Monster	DARK	Zombie	2	800	600	N
+Steel Ogre Grotto #1	Normal Monster	EARTH	Machine	5	1400	1800	Y
+Oscillo Hero	Normal Monster	EARTH	Warrior	3	1250	700	N
+Invader from Another Dimension	Normal Monster	DARK	Fiend	4	950	1400	N
+Lesser Dragon	Normal Monster	WIND	Dragon	4	1200	1000	Y
+Needle Worm	Flip Effect Monster	EARTH	Insect	2	750	600	N
+Wretched Ghost of the Attic	Normal Monster	DARK	Fiend	2	550	400	N
+Great Mammoth of Goldfine	Fusion Monster	DARK	Zombie	6	2200	1800	N
+Man-Eating Black Shark	Fusion Monster	WATER	Fish	5	2100	1300	N
+Yormungarde	Normal Monster	EARTH	Reptile	3	1200	900	N
+Darkworld Thorns	Normal Monster	EARTH	Plant	3	1200	900	Y
+Anthrosaurus	Normal Monster	EARTH	Dinosaur	3	1000	850	N
+Drooling Lizard	Normal Monster	EARTH	Reptile	3	900	800	Y
+Trakodon	Normal Monster	EARTH	Dinosaur	3	1300	800	N
+B. Dragon Jungle King	Normal Monster	EARTH	Dragon	6	2100	1800	N
+Little D	Normal Monster	EARTH	Dinosaur	3	1100	700	N
+Witch of the Black Forest	Effect Monster	DARK	Spellcaster	4	1100	1200	Y
+Giant Scorpion of the Tundra	Normal Monster	EARTH	Insect	3	1100	1000	N
+Abyss Flower	Normal Monster	EARTH	Plant	2	750	400	N
+Takuhee	Normal Monster	WIND	Winged Beast	4	1450	1000	N
+Binding Chain	Normal Monster	LIGHT	Fairy	3	1000	1100	N
+Mechanical Snail	Normal Monster	DARK	Machine	3	800	1000	N
+Greenkappa	Flip Effect Monster	DARK	Warrior	3	650	900	N
+Mon Larvas	Normal Monster	EARTH	Beast	4	1300	1400	N
+Living Vase	Normal Monster	EARTH	Plant	3	900	1100	N
+Tentacle Plant	Normal Monster	WATER	Plant	2	500	600	N
+Beaked Snake	Normal Monster	EARTH	Reptile	3	800	900	N
+Morphing Jar	Flip Effect Monster	EARTH	Rock	2	700	600	N
+Muse-A	Normal Monster	LIGHT	Fairy	3	850	900	N
+Rose Spectre of Dunn	Fusion Monster	DARK	Plant	6	2000	1800	N
+Fiend Reflection #1	Normal Monster	WIND	Winged Beast	4	1300	1400	N
+Ghoul with an Appetite	Normal Monster	DARK	Zombie	4	1600	1200	N
+Pale Beast	Normal Monster	EARTH	Beast	4	1500	1200	Y
+Little Chimera	Effect Monster	FIRE	Beast	2	600	550	Y
+Violent Rain	Normal Monster	WATER	Aqua	4	1550	800	N
+Key Mace #2	Normal Monster	DARK	Fiend	4	1050	1200	N
+Tenderness	Normal Monster	LIGHT	Fairy	3	700	1400	N
+Penguin Soldier	Flip Effect Monster	WATER	Aqua	2	750	500	N
+Fairy Dragon	Normal Monster	WIND	Dragon	4	1100	1200	N
+Obese Marmot of Nefariousness	Normal Monster	EARTH	Beast	3	750	800	N
+Liquid Beast	Normal Monster	WATER	Aqua	3	950	800	N
+Twin Long Rods #2	Normal Monster	WATER	Aqua	3	850	700	N
+Great Bill	Normal Monster	EARTH	Beast	4	1250	1300	N
+Shining Friendship	Normal Monster	LIGHT	Fairy	4	1300	1100	N
+Bladefly	Effect Monster	WIND	Insect	2	600	700	Y
+Hiro's Shadow Scout	Flip Effect Monster	DARK	Fiend	2	650	500	N
+Lady of Faith	Normal Monster	LIGHT	Spellcaster	3	1100	800	Y
+Twin-Headed Thunder Dragon	Fusion Monster	LIGHT	Thunder	7	2800	2100	Y
 Armored Starfish	Normal Monster	WATER	Aqua	4	850	1400	Y
-Armored Starfish	Normal Monster	WATER	Aqua	4	850	1400	N
-Artillery Catapult Turtle	Effect Monster	WATER	Aqua	4	1000	2000	N
-Baku the Beast Ninja	Effect Monster	WIND	Beast	3	1500	600	N
-Battle-Scarred	Trap Card	None	Continuous	0	0	0	N
-Black Luster Soldier - Super Soldier	Ritual Effect Monster	EARTH	Warrior	8	3000	2500	N
-Blade Armor Ninja	XYZ Monster	WIND	Warrior	4	2200	1000	N
-Blue-Eyes Abyss Dragon	Effect Monster	LIGHT	Dragon	8	2500	2500	N
-Blue-Eyes Alternative Ultimate Dragon	Fusion Monster	LIGHT	Dragon	12	4500	3800	N
-Blue-Eyes Alternative White Dragon	Effect Monster	LIGHT	Dragon	8	3000	2500	N
-Blue-Eyes Chaos Dragon	Ritual Effect Monster	DARK	Dragon	8	3000	0	N
-Blue-Eyes Jet Dragon	Effect Monster	LIGHT	Dragon	8	3000	0	N
-Blue-Eyes Spirit Dragon	Synchro Monster	LIGHT	Dragon	9	2500	3000	N
-Blue-Eyes Twin Burst Dragon	Fusion Monster	LIGHT	Dragon	10	3000	2500	N
-Blue-Eyes Tyrant Dragon	Fusion Monster	LIGHT	Dragon	8	3400	2900	N
-Chaos Form	Spell Card	None	Ritual	0	0	0	N
-Checkmate	Spell Card	None	Normal	0	0	0	N
-Chronicle Magician	Effect Monster	DARK	Spellcaster	7	2500	2500	N
-Cyberdark Inferno	Spell Card	None	Field	0	0	0	N
-Dark Cavalry	Fusion Monster	DARK	Spellcaster	8	2800	2300	N
-Dark Dragon Ritual	Spell Card	None	Ritual	0	0	0	N
-Dark Hole Dragon	Effect Monster	DARK	Dragon	8	3000	2000	N
-Dark Magic Mirror Force	Trap Card	None	Normal	0	0	0	N
-Dark Magician the Dragon Knight	Fusion Monster	DARK	Dragon	8	3000	2500	N
-Dark Magician the Knight of Dragon Magic	Fusion Monster	DARK	Dragon	8	2900	2400	N
-Dark Paladin	Fusion Monster	DARK	Spellcaster	8	2900	2400	N
-Dark Spell Regeneration	Trap Card	None	Normal	0	0	0	N
-Darkbishop Archfiend	Effect Monster	WATER	Fiend	3	300	1400	N
-Deep-Eyes White Dragon	Effect Monster	LIGHT	Dragon	10	0	0	N
-Dictator of D.	Effect Monster	DARK	Spellcaster	4	1200	1100	N
-Doom Kraken	Effect Monster	WATER	Aqua	4	1400	1600	N
-EN - Engage Neo Space	Spell Card	None	Normal	0	0	0	N
-Eternal Soul	Trap Card	None	Continuous	0	0	0	N
-Evil Mind	Spell Card	None	Normal	0	0	0	N
-Exodius the Ultimate Forbidden Lord	Effect Monster	DARK	Spellcaster	10	-1	0	N
-Exxod Fires of Rage	Trap Card	None	Normal	0	0	0	N
-Fighting Flame Sword	Spell Card	None	Quick-Play	0	0	0	N
-Fighting Flame Swordsman	Effect Monster	FIRE	Warrior	4	1800	1600	N
-Flame Swordsrealm	Spell Card	None	Continuous	0	0	0	N
-Fluffal Bear	Effect Monster	EARTH	Fairy	3	1200	800	N
-Fluffal Cat	Effect Monster	EARTH	Fairy	1	700	300	N
-Fluffal Dolphin	Effect Monster	WATER	Fairy	4	1600	1000	N
-Fluffal Owl	Effect Monster	EARTH	Fairy	2	1000	1000	N
-Forgotten Temple of the Deep	Trap Card	None	Continuous	0	0	0	N
-Frightfur Factory	Spell Card	None	Continuous	0	0	0	N
-Frightfur Patchwork	Spell Card	None	Normal	0	0	0	N
-Fuhma Shuriken	Spell Card	None	Equip	0	0	0	N
-Fusion Duplication	Trap Card	None	Normal	0	0	0	N
-Gaia the Magical Knight of Dragons	Fusion Monster	WIND	Dragon	7	2600	2100	N
-Gem-Knight Quartz	Effect Monster	EARTH	Fairy	4	1500	1500	N
-Guardian Chimera	Fusion Monster	DARK	Beast	9	3300	3300	N
-Hidden Village of Ninjitsu Arts	Spell Card	None	Field	0	0	0	N
-Illusion of Chaos	Ritual Effect Monster	DARK	Spellcaster	7	2100	2500	N
-Infernalqueen Archfiend	Effect Monster	FIRE	Fiend	4	900	1500	N
-Kagero the Cannon Ninja	Effect Monster	FIRE	Warrior	4	1600	2000	N
-Kahyoreigetsu	Spell Card	None	Equip	0	0	0	N
-Kaibaman	Effect Monster	LIGHT	Warrior	3	200	700	N
-Keeper of Dragon Magic	Effect Monster	DARK	Dragon	4	1800	1300	N
-King of the Skull Servants	Effect Monster	DARK	Zombie	1	-1	0	N
-Lady of D.	Effect Monster	DARK	Spellcaster	4	1500	1100	N
-Lord Gaia the Fierce Knight	Effect Monster	EARTH	Warrior	7	2300	2100	N
-Lord of the Red	Ritual Effect Monster	FIRE	Dragon	8	2400	2100	N
-Magical Trick Mirror	Trap Card	None	Normal	0	0	0	N
-Magician Navigation	Trap Card	None	Normal	0	0	0	N
-Magician of Chaos	Ritual Effect Monster	DARK	Spellcaster	7	2500	2100	N
-Magician of Dark Illusion	Effect Monster	DARK	Spellcaster	7	2100	2500	N
-Magician's Robe	Effect Monster	DARK	Spellcaster	2	700	2000	N
-Magician's Salvation	Spell Card	None	Field	0	0	0	N
-Magicians' Souls	Effect Monster	DARK	Spellcaster	1	0	0	N
-Magikuriboh	Effect Monster	DARK	Fiend	1	300	200	N
-Maiden with Eyes of Blue	Tuner Monster	LIGHT	Spellcaster	1	0	0	N
-Master of Chaos	Fusion Monster	DARK	Spellcaster	8	3000	2500	N
-Master with Eyes of Blue	Tuner Monster	LIGHT	Spellcaster	1	300	1200	N
-Mega Fortress Whale	Effect Monster	WATER	Fish	7	2550	2350	N
-Meizen the Battle Ninja	Fusion Monster	DARK	Warrior	6	2500	1500	N
-Meteor Dragon Red-Eyes Impact	Gemini Monster	DARK	Dragon	6	1800	2000	N
-Millennium Ankh	Spell Card	None	Normal	0	0	0	N
-Millennium Revelation	Spell Card	None	Continuous	0	0	0	N
-Mirage Swordsman	Effect Monster	FIRE	Warrior	8	2800	2000	N
-Mitsu the Insect Ninja	Effect Monster	WATER	Insect	2	200	2100	N
-Neo Blue-Eyes Ultimate Dragon	Fusion Monster	LIGHT	Dragon	12	4500	3800	N
-Ninja Grandmaster Hanzo	Effect Monster	DARK	Warrior	4	1800	1000	N
-Ninja Grandmaster Saizo	Link Monster	LIGHT	Warrior	None	2000	None	N
-Ninjitsu Art Notebook	Spell Card	None	Continuous	0	0	0	N
-Ninjitsu Art Notebook of Mystery	Spell Card	None	Quick-Play	0	0	0	N
-Ninjitsu Art of Dancing Leaves	Trap Card	None	Continuous	0	0	0	N
-Ninjitsu Art of Duplication	Trap Card	None	Continuous	0	0	0	N
-Ninjitsu Art of Super-Transformation	Trap Card	None	Continuous	0	0	0	N
-Ninjitsu Art of Transformation	Trap Card	None	Continuous	0	0	0	N
-Ninjitsu Art Tool - Iron Digger	Spell Card	None	Equip	0	0	0	N
-Number 12: Crimson Shadow Armor Ninja	XYZ Monster	EARTH	Warrior	5	2400	1700	N
-Obliterate!!! Blaze	Spell Card	None	Quick-Play	0	0	0	N
-Pacifis, the Phantasm City	Spell Card	None	Field	0	0	0	N
-Paladin of Dark Dragon	Ritual Effect Monster	DARK	Dragon	4	1900	1200	N
-Paladin of White Dragon	Ritual Effect Monster	LIGHT	Dragon	4	1900	1200	N
-Palladium Oracle Mahad	Effect Monster	LIGHT	Spellcaster	7	2500	2100	N
-Pendulum Dimension	Trap Card	None	Continuous	0	0	0	N
-Performapal Odd-Eyes Metal Claw	Fusion Monster	DARK	Dragon	8	3000	3000	N
-Performapal Trump Witch	Pendulum Effect Monster	DARK	Spellcaster	1	100	100	N
-Phantasm Spiral Assault	Trap Card	None	Normal	0	0	0	N
-Predaplant Chimerafflesia	Fusion Monster	DARK	Plant	7	2500	2000	N
-Predaplant Darlingtonia Cobra	Effect Monster	DARK	Plant	3	1000	1500	N
-Predaplant Verte Anaconda	Link Monster	DARK	Plant	None	500	None	N
-Priestess with Eyes of Blue	Tuner Monster	LIGHT	Spellcaster	1	0	0	N
-Protector with Eyes of Blue	Tuner Monster	LIGHT	Spellcaster	1	800	1300	N
-Rage with Eyes of Blue	Spell Card	None	Quick-Play	0	0	0	N
-Red-Eyes Alternative Black Dragon	Effect Monster	DARK	Dragon	7	2400	2000	N
-Red-Eyes Baby Dragon	Effect Monster	DARK	Dragon	3	1200	700	N
+Marine Beast	Fusion Monster	WATER	Fish	5	1700	1600	N
+Warrior of Tradition	Fusion Monster	EARTH	Warrior	6	1900	1700	N
+Snakeyashi	Normal Monster	EARTH	Plant	4	1000	1200	N
+The Thing That Hides in the Mud	Normal Monster	EARTH	Rock	4	1200	1300	N
+High Tide Gyojin	Normal Monster	WATER	Aqua	4	1650	1300	N
+Fairy of the Fountain	Normal Monster	WATER	Aqua	4	1600	1100	N
+Amazon of the Seas	Normal Monster	WATER	Fish	4	1300	1400	N
+Nekogal #2	Normal Monster	EARTH	Beast-Warrior	6	1900	2000	N
+Witch's Apprentice	Effect Monster	DARK	Spellcaster	2	550	500	Y
+Armored Rat	Normal Monster	EARTH	Beast	3	950	1100	N
+Ancient Lizard Warrior	Normal Monster	EARTH	Reptile	4	1400	1100	Y
+Maiden of the Moonlight	Normal Monster	LIGHT	Spellcaster	4	1500	1300	N
+Night Lizard	Normal Monster	WATER	Aqua	4	1150	1300	N
+Blue-Winged Crown	Normal Monster	WIND	Winged Beast	4	1600	1200	Y
+Amphibious Bugroth	Fusion Monster	WATER	Aqua	5	1850	1300	N
+Acid Crawler	Normal Monster	EARTH	Insect	3	900	700	N
+Invader of the Throne	Flip Effect Monster	EARTH	Warrior	4	1350	1700	N
+Mystical Sheep #1	Effect Monster	EARTH	Beast	3	1150	900	N
+Disk Magician	Normal Monster	DARK	Machine	4	1350	1000	Y
+Flame Viper	Normal Monster	EARTH	Pyro	2	400	450	N
+Royal Guard	Normal Monster	EARTH	Machine	6	1900	2200	N
+Gruesome Goo	Normal Monster	WATER	Aqua	3	1300	700	N
+Whiptail Crow	Normal Monster	DARK	Fiend	4	1650	1600	N
+Kunai with Chain	Trap Card	None	Normal	0	0	0	N
+Magical Labyrinth	Spell Card	None	Equip	0	0	0	N
+Salamandra	Spell Card	None	Equip	0	0	0	Y
+Eternal Rest	Spell Card	None	Normal	0	0	0	N
+Megamorph	Spell Card	None	Equip	0	0	0	N
+Metalmorph	Trap Card	None	Normal	0	0	0	N
+Crush Card Virus	Trap Card	None	Normal	0	0	0	N
+Shine Palace	Spell Card	None	Equip	0	0	0	N
+Shadow Spell	Trap Card	None	Continuous	0	0	0	N
+Black Luster Ritual	Spell Card	None	Ritual	0	0	0	N
+Zera Ritual	Spell Card	None	Ritual	0	0	0	N
+Harpie's Feather Duster	Spell Card	None	Normal	0	0	0	N
+War-Lion Ritual	Spell Card	None	Ritual	0	0	0	N
+Beastly Mirror Ritual	Spell Card	None	Ritual	0	0	0	N
+Commencement Dance	Spell Card	None	Ritual	0	0	0	N
+Hamburger Recipe	Spell Card	None	Ritual	0	0	0	N
+Novox's Prayer	Spell Card	None	Ritual	0	0	0	N
+House of Adhesive Tape	Trap Card	None	Normal	0	0	0	N
+Acid Trap Hole	Trap Card	None	Normal	0	0	0	Y
+Widespread Ruin	Trap Card	None	Normal	0	0	0	N
+Bad Reaction to Simochi	Trap Card	None	Continuous	0	0	0	N
+Reverse Trap	Trap Card	None	Normal	0	0	0	Y
+Turtle Oath	Spell Card	None	Ritual	0	0	0	N
+Resurrection of Chakra	Spell Card	None	Ritual	0	0	0	N
+Javelin Beetle Pact	Spell Card	None	Ritual	0	0	0	N
+Garma Sword Oath	Spell Card	None	Ritual	0	0	0	N
+Revival of Dokurorider	Spell Card	None	Ritual	0	0	0	N
+Fortress Whale's Oath	Spell Card	None	Ritual	0	0	0	N
+Performance of Sword	Ritual Monster	EARTH	Warrior	6	1950	1850	N
+Hungry Burger	Ritual Monster	DARK	Warrior	6	2000	1850	N
+Sengenjin	Normal Monster	EARTH	Beast-Warrior	8	2750	2500	N
+Skull Guardian	Ritual Monster	LIGHT	Warrior	7	2050	2500	N
+Tri-Horned Dragon	Normal Monster	DARK	Dragon	8	2850	2350	Y
+Serpent Night Dragon	Normal Monster	DARK	Dragon	7	2350	2400	N
+Cosmo Queen	Normal Monster	DARK	Spellcaster	8	2900	2450	N
+Chakra	Ritual Monster	DARK	Fiend	7	2450	2000	N
+Crab Turtle	Ritual Monster	WATER	Aqua	8	2550	2500	N
+Mikazukinoyaiba	Normal Monster	DARK	Dragon	7	2200	2350	N
+Meteor Dragon	Normal Monster	EARTH	Dragon	6	1800	2000	N
+Meteor Black Dragon	Fusion Monster	FIRE	Dragon	8	3500	2000	N
+Firewing Pegasus	Normal Monster	FIRE	Beast	6	2250	1800	N
+Garma Sword	Ritual Monster	DARK	Warrior	7	2550	2150	N
+Javelin Beetle	Ritual Monster	EARTH	Insect	8	2450	2550	N
+Fortress Whale	Ritual Monster	WATER	Fish	7	2350	2150	N
+Dokurorider	Ritual Monster	DARK	Zombie	6	1900	1850	N
+Black Magic Ritual	Spell Card	None	Ritual	0	0	0	N
+Magician of Black Chaos	Ritual Monster	DARK	Spellcaster	8	2800	2600	N
+Slot Machine	Normal Monster	DARK	Machine	7	2000	2300	N
+Red Archery Girl	Normal Monster	WATER	Aqua	4	1400	1500	N
+Ryu-Ran	Normal Monster	FIRE	Dragon	7	2200	2600	N
+Manga Ryu-Ran	Toon Monster	FIRE	Dragon	7	2200	2600	N
+Toon Mermaid	Toon Monster	WATER	Aqua	4	1400	1500	N
+Toon Summoned Skull	Toon Monster	DARK	Fiend	6	2500	1200	N
+Relinquished	Ritual Effect Monster	DARK	Spellcaster	1	0	0	N
+Thousand-Eyes Idol	Normal Monster	DARK	Spellcaster	1	0	0	N
+Thousand-Eyes Restrict	Fusion Monster	DARK	Spellcaster	1	0	0	N
+Steel Ogre Grotto #2	Normal Monster	EARTH	Machine	6	1900	2200	N
+Blast Sphere	Effect Monster	DARK	Machine	4	1400	1400	N
+Hyozanryu	Normal Monster	LIGHT	Dragon	7	2100	2800	N
+Alpha The Magnet Warrior	Normal Monster	EARTH	Rock	4	1400	1700	N
+Lord of D.	Effect Monster	DARK	Spellcaster	4	1200	1100	Y
 Red-Eyes Black Metal Dragon	Effect Monster	DARK	Machine	8	2800	2400	N
-Red-Eyes Dark Dragoon	Fusion Monster	DARK	Spellcaster	8	3000	2500	N
-Red-Eyes Fang with Chain	Trap Card	None	Normal	0	0	0	N
-Red-Eyes Flare Metal Dragon	XYZ Monster	DARK	Dragon	7	2800	2400	N
-Red-Eyes Fusion	Spell Card	None	Normal	0	0	0	N
-Red-Eyes Insight	Spell Card	None	Normal	0	0	0	N
-Red-Eyes Retro Dragon	Effect Monster	DARK	Dragon	4	1700	1600	N
-Red-Eyes Soul	Effect Monster	DARK	Dragon	7	900	2000	N
-Red-Eyes Spirit	Trap Card	None	Normal	0	0	0	N
-Red-Eyes Transmigration	Spell Card	None	Ritual	0	0	0	N
-Return of the Red-Eyes	Trap Card	None	Continuous	0	0	0	N
-Revoke Fusion	Spell Card	None	Normal	0	0	0	N
-Sage with Eyes of Blue	Tuner Monster	LIGHT	Spellcaster	1	0	1500	N
-Spiral Discharge	Trap Card	None	Continuous	0	0	0	N
-Spiral Fusion	Spell Card	None	Normal	0	0	0	N
-Spiral Reborn	Trap Card	None	Normal	0	0	0	N
-Supreme King Gate Zero	Pendulum Effect Monster	DARK	Fiend	7	0	0	N
-Synchro Fusionist	Effect Monster	DARK	Spellcaster	2	800	600	N
-Tamtam the Melodious Diva	Effect Monster	LIGHT	Fairy	4	1000	2000	N
-Tenchi Kaimei	Spell Card	None	Field	0	0	0	N
-Terrifying Trap Hole Nightmare	Trap Card	None	Normal	0	0	0	N
-Terrorking Archfiend	Effect Monster	DARK	Fiend	4	2000	1500	N
-The Black Stone of Legend	Effect Monster	DARK	Dragon	1	0	0	N
-The Dark Magicians	Fusion Monster	DARK	Spellcaster	8	2800	2300	N
-The Lady in Wight	Effect Monster	DARK	Zombie	3	0	2200	N
-The Legendary Exodia Incarnate	Effect Monster	DARK	Spellcaster	10	-1	0	N
-The Revived Sky God	Trap Card	None	Normal	0	0	0	N
-The Unstoppable Exodia Incarnate	Fusion Monster	DARK	Spellcaster	10	-1	0	N
-The White Stone of Ancients	Tuner Monster	LIGHT	Dragon	1	600	500	N
-Timaeus the United Dragon	Effect Monster	LIGHT	Dragon	8	2800	1800	N
-Tobari the Sky Ninja	Effect Monster	EARTH	Winged Beast	1	0	0	N
-Toon Dark Magician	Toon Monster	DARK	Spellcaster	7	2500	2100	N
-Traptrip Garden	Spell Card	None	Field	0	0	0	N
-Traptrix Atrax	Effect Monster	EARTH	Insect	4	1800	1000	N
-Traptrix Cularia	Link Monster	EARTH	Plant	None	1800	None	N
-Traptrix Dionaea	Effect Monster	EARTH	Plant	4	1700	1100	N
-Traptrix Nepenthes	Effect Monster	EARTH	Plant	4	800	2000	N
-Traptrix Pudica	Effect Monster	EARTH	Plant	4	900	1900	N
-Traptrix Rafflesia	XYZ Monster	EARTH	Plant	4	300	2500	N
-Traptrix Sera	Link Monster	EARTH	Plant	None	800	None	N
-True Light	Trap Card	None	Continuous	0	0	0	N
-Twilight Ninja Getsuga, the Shogun	Effect Monster	DARK	Warrior	8	2000	3000	N
-Twilight Ninja Jogen	Pendulum Effect Monster	DARK	Warrior	7	2000	1000	N
-Twilight Ninja Kagen	Pendulum Effect Monster	DARK	Warrior	1	0	2000	N
-Ultimate Flame Swordsman	Fusion Monster	FIRE	Warrior	8	2800	1600	N
-Vilepawn Archfiend	Effect Monster	EARTH	Fiend	2	1200	200	N
-Vision HERO Vyon	Effect Monster	DARK	Warrior	4	1000	1200	N
-Vision with Eyes of Blue	Spell Card	None	Continuous	0	0	0	N
+Barrel Dragon	Effect Monster	DARK	Machine	7	2600	2200	Y
+Hannibal Necromancer	Effect Monster	DARK	Spellcaster	4	1400	1800	N
+Panther Warrior	Effect Monster	EARTH	Beast-Warrior	4	2000	1600	N
+Three-Headed Geedo	Normal Monster	DARK	Fiend	4	1200	1400	N
+Gazelle the King of Mythical Beasts	Normal Monster	EARTH	Beast	4	1500	1200	Y
+Stone Statue of the Aztecs	Effect Monster	EARTH	Rock	4	300	2000	N
+Berfomet	Effect Monster	DARK	Fiend	5	1400	1800	N
+Chimera the Flying Mythical Beast	Fusion Monster	WIND	Beast	6	2100	1800	N
+Gear Golem the Moving Fortress	Effect Monster	EARTH	Machine	4	800	2200	N
+Jinzo	Effect Monster	DARK	Machine	6	2400	1500	N
+Swordsman of Landstar	Normal Monster	EARTH	Warrior	3	500	1200	N
+Cyber Raider	Effect Monster	DARK	Machine	4	1400	1000	N
+The Fiend Megacyber	Effect Monster	DARK	Warrior	6	2200	1200	N
+Reflect Bounder	Effect Monster	LIGHT	Machine	4	1700	1000	N
+Beta The Magnet Warrior	Normal Monster	EARTH	Rock	4	1700	1600	N
+Big Shield Gardna	Effect Monster	EARTH	Warrior	4	100	2600	N
+Dark Magician Girl	Effect Monster	DARK	Spellcaster	6	2000	1700	N
+Alligator's Sword	Normal Monster	EARTH	Beast	4	1500	1200	N
+Insect Queen	Effect Monster	EARTH	Insect	7	2200	2400	N
+Parasite Paracide	Flip Effect Monster	EARTH	Insect	2	500	300	N
+Skull-Mark Ladybug	Effect Monster	EARTH	Insect	4	500	1500	N
+Little-Winguard	Effect Monster	WIND	Warrior	4	1400	1800	N
+Pinch Hopper	Effect Monster	EARTH	Insect	4	1000	1200	N
+Blue-Eyes Toon Dragon	Toon Monster	LIGHT	Dragon	8	3000	2500	N
+Sword Hunter	Effect Monster	EARTH	Warrior	7	2450	1700	N
+Drill Bug	Effect Monster	EARTH	Insect	2	1100	200	N
+Deepsea Warrior	Effect Monster	WATER	Warrior	5	1600	1800	N
+Satellite Cannon	Effect Monster	LIGHT	Machine	5	0	0	N
+The Last Warrior from Another Planet	Fusion Monster	EARTH	Warrior	7	2350	2300	N
+Dunames Dark Witch	Normal Monster	LIGHT	Fairy	4	1800	1050	N
+Garnecia Elefantis	Normal Monster	EARTH	Beast-Warrior	7	2400	2000	Y
+Total Defense Shogun	Effect Monster	DARK	Warrior	6	1550	2500	N
+Beast of Talwar	Normal Monster	DARK	Fiend	6	2400	2150	N
+Cyber-Tech Alligator	Normal Monster	WIND	Machine	5	2500	1600	N
+Gamma the Magnet Warrior	Normal Monster	EARTH	Rock	4	1500	1800	N
+Time Machine	Trap Card	None	Normal	0	0	0	N
+Copycat	Effect Monster	LIGHT	Spellcaster	1	0	0	N
+Toon World	Spell Card	None	Continuous	0	0	0	N
+Gorgon's Eye	Trap Card	None	Normal	0	0	0	N
+Black Illusion Ritual	Spell Card	None	Ritual	0	0	0	N
+Brain Control	Spell Card	None	Normal	0	0	0	N
+Negate Attack	Trap Card	None	Counter	0	0	0	N
+Multiply	Spell Card	None	Quick-Play	0	0	0	N
+Lightforce Sword	Trap Card	None	Normal	0	0	0	N
+The Flute of Summoning Dragon	Spell Card	None	Normal	0	0	0	Y
+Shield & Sword	Spell Card	None	Normal	0	0	0	Y
+Graceful Charity	Spell Card	None	Normal	0	0	0	N
+Chain Destruction	Trap Card	None	Normal	0	0	0	N
+Mesmeric Control	Spell Card	None	Normal	0	0	0	N
+Graceful Dice	Spell Card	None	Quick-Play	0	0	0	N
+Skull Dice	Trap Card	None	Normal	0	0	0	N
+Mind Control	Spell Card	None	Normal	0	0	0	N
+Scapegoat	Spell Card	None	Quick-Play	0	0	0	N
+Amplifier	Spell Card	None	Equip	0	0	0	N
+Card Destruction	Spell Card	None	Normal	0	0	0	Y
+Tragedy	Trap Card	None	Normal	0	0	0	N
+Ectoplasmer	Spell Card	None	Continuous	0	0	0	N
+Dark Magic Curtain	Spell Card	None	Normal	0	0	0	N
+Insect Barrier	Spell Card	None	Continuous	0	0	0	N
+Magical Arm Shield	Trap Card	None	Normal	0	0	0	N
+Fissure	Spell Card	None	Normal	0	0	0	Y
+Trap Hole	Trap Card	None	Normal	0	0	0	Y
+Polymerization	Spell Card	None	Normal	0	0	0	Y
+Remove Trap	Spell Card	None	Normal	0	0	0	Y
+Two-Pronged Attack	Trap Card	None	Normal	0	0	0	Y
+Monster Reborn	Spell Card	None	Normal	0	0	0	Y
+De-Spell	Spell Card	None	Normal	0	0	0	Y
+Pot of Greed	Spell Card	None	Normal	0	0	0	Y
+Gravedigger Ghoul	Spell Card	None	Normal	0	0	0	Y
+Reinforcements	Trap Card	None	Normal	0	0	0	Y
+Castle Walls	Trap Card	None	Normal	0	0	0	Y
+Ultimate Offering	Trap Card	None	Continuous	0	0	0	Y
+Tribute to the Doomed	Spell Card	None	Normal	0	0	0	Y
+Soul Release	Spell Card	None	Normal	0	0	0	Y
+The Cheerful Coffin	Spell Card	None	Normal	0	0	0	Y
+Change of Heart	Spell Card	None	Normal	0	0	0	Y
+Solemn Judgment	Trap Card	None	Counter	0	0	0	Y
+Magic Jammer	Trap Card	None	Counter	0	0	0	Y
+Seven Tools of the Bandit	Trap Card	None	Counter	0	0	0	Y
+Horn of Heaven	Trap Card	None	Counter	0	0	0	Y
+Just Desserts	Trap Card	None	Normal	0	0	0	Y
+Royal Decree	Trap Card	None	Continuous	0	0	0	N
+Magical Thorn	Trap Card	None	Continuous	0	0	0	N
+Restructer Revolution	Spell Card	None	Normal	0	0	0	N
+Fusion Sage	Spell Card	None	Normal	0	0	0	N
+Sword of Deep-Seated	Spell Card	None	Equip	0	0	0	Y
+Block Attack	Spell Card	None	Normal	0	0	0	Y
+The Unhappy Maiden	Effect Monster	LIGHT	Spellcaster	1	0	100	Y
+Robbin' Goblin	Trap Card	None	Continuous	0	0	0	Y
+Germ Infection	Spell Card	None	Equip	0	0	0	Y
+Wall of Illusion	Effect Monster	DARK	Fiend	4	1000	1850	Y
+Neo the Magic Swordsman	Normal Monster	LIGHT	Spellcaster	4	1700	1000	Y
+Baron of the Fiend Sword	Normal Monster	DARK	Fiend	4	1550	800	Y
+Man-Eating Treasure Chest	Normal Monster	DARK	Fiend	4	1600	1000	Y
+Sorcerer of the Doomed	Normal Monster	DARK	Spellcaster	4	1450	1200	Y
+Last Will	Spell Card	None	Normal	0	0	0	Y
+Waboku	Trap Card	None	Normal	0	0	0	Y
+Mirror Force	Trap Card	None	Normal	0	0	0	Y
+Ring of Magnetism	Spell Card	None	Equip	0	0	0	Y
+Share the Pain	Spell Card	None	Normal	0	0	0	Y
+Stim-Pack	Spell Card	None	Equip	0	0	0	Y
+Heavy Storm	Spell Card	None	Normal	0	0	0	Y
+Gravekeeper's Servant	Spell Card	None	Continuous	0	0	0	N
+Upstart Goblin	Spell Card	None	Normal	0	0	0	N
+Toll	Spell Card	None	Continuous	0	0	0	N
+Final Destiny	Spell Card	None	Normal	0	0	0	N
+Snatch Steal	Spell Card	None	Equip	0	0	0	N
+Chorus of Sanctuary	Spell Card	None	Field	0	0	0	N
+Confiscation	Spell Card	None	Normal	0	0	0	N
+Delinquent Duo	Spell Card	None	Normal	0	0	0	N
+Fairy's Hand Mirror	Trap Card	None	Normal	0	0	0	N
+Tailor of the Fickle	Spell Card	None	Quick-Play	0	0	0	N
+Rush Recklessly	Spell Card	None	Quick-Play	0	0	0	N
+The Reliable Guardian	Spell Card	None	Quick-Play	0	0	0	N
+The Forceful Sentry	Spell Card	None	Normal	0	0	0	N
+Chain Energy	Spell Card	None	Continuous	0	0	0	N
+Mystical Space Typhoon	Spell Card	None	Quick-Play	0	0	0	N
+Giant Trunade	Spell Card	None	Normal	0	0	0	N
+Painful Choice	Spell Card	None	Normal	0	0	0	N
+Snake Fang	Trap Card	None	Normal	0	0	0	N
+Cyber Jar	Flip Effect Monster	DARK	Rock	3	900	900	N
+Banisher of the Light	Effect Monster	LIGHT	Fairy	3	100	2000	N
+Giant Rat	Effect Monster	EARTH	Beast	4	1400	1450	N
+Senju of the Thousand Hands	Effect Monster	LIGHT	Fairy	4	1400	1000	N
+UFO Turtle	Effect Monster	FIRE	Machine	4	1400	1200	N
+Flash Assailant	Effect Monster	DARK	Fiend	4	2000	2000	N
+Karate Man	Effect Monster	EARTH	Warrior	3	1000	1000	N
+Giant Germ	Effect Monster	DARK	Fiend	2	1000	100	N
+Nimble Momonga	Effect Monster	EARTH	Beast	2	1000	100	N
+Spear Cretin	Flip Effect Monster	DARK	Fiend	2	500	500	N
+Shining Angel	Effect Monster	LIGHT	Fairy	4	1400	800	N
+Mother Grizzly	Effect Monster	WATER	Beast-Warrior	4	1400	1000	N
+Flying Kamakiri #1	Effect Monster	WIND	Insect	4	1400	900	N
+Ceremonial Bell	Effect Monster	LIGHT	Spellcaster	3	0	1850	N
+Sonic Bird	Effect Monster	WIND	Winged Beast	4	1400	1000	N
+Mystic Tomato	Effect Monster	DARK	Plant	4	1400	1100	N
+Kotodama	Effect Monster	EARTH	Fairy	3	0	1600	N
+Gaia Power	Spell Card	None	Field	0	0	0	N
+Umiiruka	Spell Card	None	Field	0	0	0	N
+Molten Destruction	Spell Card	None	Field	0	0	0	N
+Rising Air Current	Spell Card	None	Field	0	0	0	N
+Luminous Spark	Spell Card	None	Field	0	0	0	N
+Mystic Plasma Zone	Spell Card	None	Field	0	0	0	N
+Messenger of Peace	Spell Card	None	Continuous	0	0	0	N
+Michizure	Trap Card	None	Normal	0	0	0	N
+Gust	Trap Card	None	Normal	0	0	0	N
+Driving Snow	Trap Card	None	Normal	0	0	0	N
+Numinous Healer	Trap Card	None	Normal	0	0	0	N
+Appropriate	Trap Card	None	Continuous	0	0	0	N
+Forced Requisition	Trap Card	None	Continuous	0	0	0	N
+Minor Goblin Official	Trap Card	None	Continuous	0	0	0	N
+Gamble	Trap Card	None	Normal	0	0	0	N
+DNA Surgery	Trap Card	None	Continuous	0	0	0	N
+The Regulation of Tribe	Trap Card	None	Continuous	0	0	0	N
+Backup Soldier	Trap Card	None	Normal	0	0	0	N
+Attack and Receive	Trap Card	None	Normal	0	0	0	N
+Ceasefire	Trap Card	None	Normal	0	0	0	N
+Light of Intervention	Trap Card	None	Continuous	0	0	0	N
+Respect Play	Trap Card	None	Continuous	0	0	0	N
+Imperial Order	Trap Card	None	Continuous	0	0	0	N
+Skull Invitation	Trap Card	None	Continuous	0	0	0	N
+Magical Hats	Trap Card	None	Normal	0	0	0	N
+Nobleman of Crossout	Spell Card	None	Normal	0	0	0	N
+Nobleman of Extermination	Spell Card	None	Normal	0	0	0	N
+The Shallow Grave	Spell Card	None	Normal	0	0	0	N
+Premature Burial	Spell Card	None	Equip	0	0	0	N
+Morphing Jar #2	Flip Effect Monster	EARTH	Rock	3	800	700	N
+Bubonic Vermin	Flip Effect Monster	EARTH	Beast	3	900	600	N
+Twin-Headed Fire Dragon	Normal Monster	FIRE	Pyro	6	2200	1700	N
+Darkfire Soldier #1	Normal Monster	FIRE	Pyro	4	1700	1150	N
+Mr. Volcano	Normal Monster	FIRE	Pyro	5	2100	1300	N
+Darkfire Soldier #2	Normal Monster	FIRE	Pyro	4	1700	1100	N
+Kiseitai	Effect Monster	DARK	Fiend	2	300	800	N
+Cyber Falcon	Normal Monster	WIND	Machine	4	1400	1200	N
+Dark Bat	Normal Monster	WIND	Winged Beast	3	1000	1000	N
+Flying Kamakiri #2	Normal Monster	WIND	Insect	4	1500	800	N
+Sky Scout	Normal Monster	WIND	Winged Beast	4	1800	600	N
+Oni Tank T-34	Normal Monster	EARTH	Machine	4	1400	1700	N
+Overdrive	Normal Monster	EARTH	Machine	4	1600	1500	N
+Buster Blader	Effect Monster	EARTH	Warrior	7	2600	2300	N
+Time Seal	Trap Card	None	Normal	0	0	0	N
+Graverobber	Trap Card	None	Normal	0	0	0	N
+Gift of The Mystical Elf	Trap Card	None	Normal	0	0	0	N
+The Eye of Truth	Trap Card	None	Continuous	0	0	0	N
+Dust Tornado	Trap Card	None	Normal	0	0	0	N
+Call of the Haunted	Trap Card	None	Continuous	0	0	0	N
+Solomon's Lawbook	Trap Card	None	Normal	0	0	0	N
+Enchanted Javelin	Trap Card	None	Normal	0	0	0	N
+Mirror Wall	Trap Card	None	Continuous	0	0	0	N
+Windstorm of Etaqua	Trap Card	None	Normal	0	0	0	N
+Valkyrion the Magna Warrior	Effect Monster	EARTH	Rock	8	3500	3850	N
+Alligator's Sword Dragon	Fusion Monster	WIND	Dragon	5	1700	1500	N
+Vorse Raider	Normal Monster	DARK	Beast-Warrior	4	1900	1200	N
+Ring of Destruction	Trap Card	None	Normal	0	0	0	N
+Aqua Chorus	Trap Card	None	Continuous	0	0	0	N
+Sebek's Blessing	Spell Card	None	Quick-Play	0	0	0	N
+Anti-Spell Fragrance	Trap Card	None	Continuous	0	0	0	N
+Riryoku	Spell Card	None	Normal	0	0	0	N
+Sword of Dragon's Soul	Spell Card	None	Equip	0	0	0	N
+Luminous Soldier	Effect Monster	LIGHT	Warrior	5	2100	1400	N
+King Tiger Wanghu	Effect Monster	EARTH	Beast	4	1700	1000	N
+Command Knight	Effect Monster	FIRE	Warrior	4	1200	1900	N
+Wolf Axwielder	Normal Monster	EARTH	Beast-Warrior	4	1650	1000	N
+The Illusory Gentleman	Normal Monster	DARK	Spellcaster	4	1500	1600	N
+Patrician of Darkness	Effect Monster	DARK	Zombie	5	2000	1400	N
+Birdface	Effect Monster	WIND	Winged Beast	4	1600	1600	N
+Kryuel	Effect Monster	DARK	Fiend	4	1000	1700	N
+Airknight Parshath	Effect Monster	LIGHT	Fairy	5	1900	1400	N
+Fairy King Truesdale	Effect Monster	WATER	Plant	6	2200	1500	N
+Serpentine Princess	Effect Monster	WATER	Reptile	4	1400	2000	N
+Maiden of the Aqua	Effect Monster	WATER	Aqua	4	700	2000	N
+Robotic Knight	Normal Monster	FIRE	Machine	4	1600	1800	N
+Thunder Nyan Nyan	Effect Monster	LIGHT	Thunder	4	1900	800	N
+Molten Behemoth	Normal Monster	FIRE	Pyro	5	1000	2200	N
+Twin-Headed Behemoth	Effect Monster	WIND	Dragon	3	1500	1200	N
+Injection Fairy Lily	Effect Monster	EARTH	Spellcaster	3	400	1500	N
+Woodland Sprite	Effect Monster	EARTH	Plant	3	900	400	N
+Arsenal Bug	Effect Monster	EARTH	Insect	3	2000	2000	N
+Cipher Soldier	Effect Monster	EARTH	Machine	3	1350	1800	N
+Jowls of Dark Demise	Flip Effect Monster	WATER	Fiend	2	200	100	N
+Souleater	Normal Monster	EARTH	Fish	4	1200	0	N
+Slate Warrior	Flip Effect Monster	WIND	Fiend	4	1900	400	N
+Timeater	Effect Monster	DARK	Machine	6	1900	1700	N
+Mucus Yolk	Effect Monster	DARK	Aqua	3	0	100	N
+Servant of Catabolism	Effect Monster	LIGHT	Aqua	3	700	500	N
+Rigorous Reaver	Flip Effect Monster	FIRE	Plant	3	1600	100	N
+Moisture Creature	Effect Monster	LIGHT	Fairy	9	2800	2900	N
+Boneheimer	Normal Monster	WATER	Aqua	3	850	400	N
+Flame Dancer	Normal Monster	FIRE	Pyro	2	550	450	N
+Sonic Jammer	Flip Effect Monster	WIND	Machine	2	350	650	N
+Gearfried the Iron Knight	Effect Monster	EARTH	Warrior	4	1800	1600	N
+Humanoid Slime	Normal Monster	WATER	Aqua	4	800	2000	N
+Worm Drake	Normal Monster	EARTH	Reptile	4	1400	1500	N
+Humanoid Worm Drake	Fusion Monster	WATER	Aqua	7	2200	2000	N
+Revival Jam	Effect Monster	WATER	Aqua	4	1500	500	N
+Flying Fish	Normal Monster	WIND	Fish	4	800	500	N
+Amphibian Beast	Normal Monster	WATER	Fish	6	2400	2000	N
+Rocket Warrior	Effect Monster	LIGHT	Warrior	4	1500	1300	N
+The Legendary Fisherman	Effect Monster	WATER	Warrior	5	1850	1600	N
+Robolady	Normal Monster	EARTH	Machine	3	450	900	N
+Roboyarou	Normal Monster	EARTH	Machine	3	900	450	N
+Lightning Conger	Normal Monster	WATER	Thunder	3	350	750	N
+Spherous Lady	Normal Monster	EARTH	Rock	3	400	1400	N
+Shining Abyss	Normal Monster	LIGHT	Fairy	4	1600	1800	N
+Archfiend of Gilfer	Effect Monster	DARK	Fiend	6	2200	2500	N
+Gadget Soldier	Normal Monster	FIRE	Machine	6	1800	2000	N
+Grand Tiki Elder	Normal Monster	DARK	Fiend	4	1500	800	N
+The Masked Beast	Ritual Monster	DARK	Fiend	8	3200	1800	N
+Melchid the Four-Face Beast	Normal Monster	DARK	Fiend	4	1500	1200	N
+Nuvia the Wicked	Effect Monster	DARK	Fiend	4	2000	800	N
+Soul Exchange	Spell Card	None	Normal	0	0	0	Y
+Mask of Weakness	Trap Card	None	Normal	0	0	0	N
+Curse of the Masked Beast	Spell Card	None	Ritual	0	0	0	N
+Mask of Dispel	Spell Card	None	Continuous	0	0	0	N
+Mask of Restrict	Trap Card	None	Continuous	0	0	0	N
+Mask of the Accursed	Spell Card	None	Equip	0	0	0	N
+Mask of Brutality	Spell Card	None	Equip	0	0	0	N
+Return of the Doomed	Spell Card	None	Normal	0	0	0	N
+Lightning Blade	Spell Card	None	Equip	0	0	0	N
+Tornado Wall	Trap Card	None	Continuous	0	0	0	N
+Infinite Dismissal	Trap Card	None	Continuous	0	0	0	N
+Fairy Box	Trap Card	None	Continuous	0	0	0	N
+Torrential Tribute	Trap Card	None	Normal	0	0	0	N
+Multiplication of Ants	Spell Card	None	Normal	0	0	0	N
+De-Fusion	Spell Card	None	Quick-Play	0	0	0	N
+Jam Breeding Machine	Spell Card	None	Continuous	0	0	0	N
+Nightmare's Steelcage	Spell Card	None	Normal	0	0	0	N
+Infinite Cards	Spell Card	None	Continuous	0	0	0	N
+Jam Defender	Trap Card	None	Continuous	0	0	0	N
+Card of Safe Return	Spell Card	None	Continuous	0	0	0	N
+Magic Cylinder	Trap Card	None	Normal	0	0	0	N
+Solemn Wishes	Trap Card	None	Continuous	0	0	0	N
+Burning Land	Spell Card	None	Continuous	0	0	0	N
+Cold Wave	Spell Card	None	Normal	0	0	0	N
+Fairy Meteor Crush	Spell Card	None	Equip	0	0	0	N
+Limiter Removal	Spell Card	None	Quick-Play	0	0	0	N
+Shift	Trap Card	None	Normal	0	0	0	N
+Insect Imitation	Spell Card	None	Normal	0	0	0	N
+Dimensionhole	Spell Card	None	Normal	0	0	0	N
+Magic Drain	Trap Card	None	Counter	0	0	0	N
+Gravity Bind	Trap Card	None	Continuous	0	0	0	N
+Shadow of Eyes	Trap Card	None	Normal	0	0	0	N
+Girochin Kuwagata	Normal Monster	WIND	Insect	4	1700	1000	N
+Hayabusa Knight	Effect Monster	EARTH	Warrior	3	1000	700	N
+Bombardment Beetle	Flip Effect Monster	WIND	Insect	2	400	900	N
+4-Starred Ladybug of Doom	Flip Effect Monster	WIND	Insect	3	800	1200	N
+Gradius	Normal Monster	LIGHT	Machine	4	1200	800	N
+Vampire Baby	Effect Monster	DARK	Zombie	3	700	1000	N
+Mad Sword Beast	Effect Monster	EARTH	Dinosaur	4	1400	1200	N
+Skull Mariner	Normal Monster	WATER	Warrior	4	1600	900	N
+The All-Seeing White Tiger	Normal Monster	WIND	Beast	3	1300	500	N
+Goblin Attack Force	Effect Monster	EARTH	Warrior	4	2300	0	N
+Island Turtle	Normal Monster	WATER	Aqua	4	1100	2000	N
+Wingweaver	Normal Monster	LIGHT	Fairy	7	2750	2400	N
+Science Soldier	Normal Monster	DARK	Warrior	3	800	800	N
+Souls of the Forgotten	Normal Monster	DARK	Fiend	2	900	200	N
+Dokuroyaiba	Normal Monster	FIRE	Fiend	3	1000	400	N
+Rain of Mercy	Spell Card	None	Normal	0	0	0	N
+Monster Recovery	Spell Card	None	Quick-Play	0	0	0	N
+Type Zero Magic Crusher	Trap Card	None	Continuous	0	0	0	N
+Yellow Luster Shield	Spell Card	None	Continuous	0	0	0	N
+Creature Swap	Spell Card	None	Normal	0	0	0	N
+Thousand Knives	Spell Card	None	Normal	0	0	0	N
+Mystic Box	Spell Card	None	Normal	0	0	0	N
+Ground Collapse	Spell Card	None	Continuous	0	0	0	N
+Amazoness Archer	Effect Monster	EARTH	Warrior	4	1400	1000	N
+Fire Princess	Effect Monster	FIRE	Pyro	4	1300	1500	N
+Spirit of the Breeze	Effect Monster	WIND	Fairy	3	0	1800	N
+Dancing Fairy	Effect Monster	WIND	Fairy	4	1700	1000	N
+Empress Mantis	Normal Monster	WIND	Insect	6	2200	1400	N
+Cure Mermaid	Effect Monster	WATER	Fish	4	1500	800	N
+Hysteric Fairy	Effect Monster	LIGHT	Fairy	4	1800	500	N
+Bio-Mage	Normal Monster	LIGHT	Fairy	3	1150	1000	N
+The Forgiving Maiden	Effect Monster	LIGHT	Fairy	4	850	2000	N
+St. Joan	Fusion Monster	LIGHT	Fairy	7	2800	2000	N
+Darklord Marie	Effect Monster	DARK	Fiend	5	1700	1200	N
+Jar of Greed	Trap Card	None	Normal	0	0	0	N
+Scroll of Bewitchment	Spell Card	None	Equip	0	0	0	N
+United We Stand	Spell Card	None	Equip	0	0	0	N
+Mage Power	Spell Card	None	Equip	0	0	0	N
+Offerings to the Doomed	Spell Card	None	Quick-Play	0	0	0	N
+Meteor of Destruction	Spell Card	None	Normal	0	0	0	N
+Lightning Vortex	Spell Card	None	Normal	0	0	0	N
+Exchange	Spell Card	None	Normal	0	0	0	N
+The Portrait's Secret	Normal Monster	EARTH	Fiend	4	1200	1500	N
+The Gross Ghost of Fled Dreams	Normal Monster	DARK	Fiend	4	1300	1800	N
+Headless Knight	Normal Monster	EARTH	Fiend	4	1450	1700	N
+Dark Necrofear	Effect Monster	DARK	Fiend	8	2200	2800	N
+Magic Formula	Spell Card	None	Equip	0	0	0	N
+Destiny Board	Trap Card	None	Continuous	0	0	0	N
+The Dark Door	Spell Card	None	Continuous	0	0	0	N
+Earthbound Spirit	Normal Monster	EARTH	Fiend	4	500	2000	N
+Dark Spirit of the Silent	Trap Card	None	Normal	0	0	0	N
+The Earl of Demise	Normal Monster	DARK	Fiend	5	2000	700	N
+Dark Sage	Effect Monster	DARK	Spellcaster	9	2800	3200	N
+Temple of the Kings	Spell Card	None	Continuous	0	0	0	N
+Judgment of Anubis	Trap Card	None	Counter	0	0	0	N
+Embodiment of Apophis	Trap Card	None	Continuous	0	0	0	N
+Foolish Burial	Spell Card	None	Normal	0	0	0	N
+Makiu, the Magical Mist	Spell Card	None	Normal	0	0	0	N
+Ancient Lamp	Effect Monster	WIND	Spellcaster	3	900	1400	N
+Cyber Harpie Lady	Effect Monster	WIND	Winged Beast	4	1800	1300	N
+Mystical Beast of Serket	Effect Monster	EARTH	Fairy	6	2500	2000	N
+Swift Gaia the Fierce Knight	Effect Monster	DARK	Warrior	7	2300	2100	N
+Obnoxious Celtic Guard	Effect Monster	EARTH	Warrior	4	1400	1200	N
+Zombyra the Dark	Effect Monster	DARK	Warrior	4	2100	500	N
+Spiritualism	Spell Card	None	Normal	0	0	0	N
+Jowgen the Spiritualist	Effect Monster	LIGHT	Spellcaster	3	200	1300	N
+Kycoo the Ghost Destroyer	Effect Monster	DARK	Spellcaster	4	1800	700	N
+Summoner of Illusions	Flip Effect Monster	LIGHT	Spellcaster	3	800	900	N
+Bazoo the Soul-Eater	Effect Monster	EARTH	Beast	4	1600	900	N
+Soul of Purity and Light	Effect Monster	LIGHT	Fairy	6	2000	1800	N
+Spirit of Flames	Effect Monster	FIRE	Pyro	4	1700	1000	N
+Aqua Spirit	Effect Monster	WATER	Aqua	4	1600	1200	N
+The Rock Spirit	Effect Monster	EARTH	Rock	4	1700	1000	N
+Garuda the Wind Spirit	Effect Monster	WIND	Winged Beast	4	1600	1200	N
+Gilasaurus	Effect Monster	EARTH	Dinosaur	3	1400	400	N
+Tornado Bird	Flip Effect Monster	WIND	Winged Beast	4	1100	1000	N
+Dreamsprite	Effect Monster	LIGHT	Plant	2	300	200	N
+Supply	Flip Effect Monster	EARTH	Warrior	4	1300	800	N
+Maryokutai	Effect Monster	WATER	Aqua	3	900	900	N
+Collected Power	Trap Card	None	Normal	0	0	0	N
+Royal Command	Trap Card	None	Continuous	0	0	0	N
+Riryoku Field	Trap Card	None	Counter	0	0	0	N
+Skull Lair	Trap Card	None	Continuous	0	0	0	N
+Graverobber's Retribution	Trap Card	None	Continuous	0	0	0	N
+Deal of Phantom	Trap Card	None	Normal	0	0	0	N
+Destruction Punch	Trap Card	None	Normal	0	0	0	N
+Blind Destruction	Trap Card	None	Continuous	0	0	0	N
+The Emperor's Holiday	Trap Card	None	Continuous	0	0	0	N
+Cyclon Laser	Spell Card	None	Equip	0	0	0	N
+Spirit Message "I"	Spell Card	None	Continuous	0	0	0	N
+Spirit Message "N"	Spell Card	None	Continuous	0	0	0	N
+Spirit Message "A"	Spell Card	None	Continuous	0	0	0	N
+Spirit Message "L"	Spell Card	None	Continuous	0	0	0	N
+Bait Doll	Spell Card	None	Normal	0	0	0	N
+Fusion Gate	Spell Card	None	Field	0	0	0	N
+Ekibyo Drakmord	Spell Card	None	Equip	0	0	0	N
+Miracle Dig	Spell Card	None	Normal	0	0	0	N
+Vengeful Bog Spirit	Spell Card	None	Continuous	0	0	0	N
+Amazoness Swords Woman	Effect Monster	EARTH	Warrior	4	1500	1600	N
+Makyura the Destructor	Effect Monster	DARK	Warrior	4	1600	1200	N
+Amazoness Archers	Trap Card	None	Normal	0	0	0	N
+Rope of Life	Trap Card	None	Normal	0	0	0	N
+Spell Shattering Arrow	Spell Card	None	Quick-Play	0	0	0	N
+Amazoness Chain Master	Effect Monster	EARTH	Warrior	4	1500	1300	N
+Viser Des	Effect Monster	DARK	Fiend	4	500	1200	N
+Amazoness Fighter	Effect Monster	EARTH	Warrior	4	1500	1300	N
+Nightmare Wheel	Trap Card	None	Continuous	0	0	0	N
+Byser Shock	Effect Monster	DARK	Fiend	5	800	600	N
+Dark Ruler Ha Des	Effect Monster	DARK	Fiend	6	2450	1600	N
+Dark Balter the Terrible	Fusion Monster	DARK	Fiend	5	2000	1200	N
+Lesser Fiend	Effect Monster	DARK	Fiend	5	2100	1000	N
+Possessed Dark Soul	Effect Monster	DARK	Fiend	3	1200	800	N
+Winged Minion	Effect Monster	DARK	Fiend	2	700	700	N
+Ryu-Kishin Clown	Effect Monster	DARK	Fiend	2	800	500	N
+Twin-Headed Wolf	Effect Monster	DARK	Fiend	4	1500	1000	N
+Opticlops	Normal Monster	DARK	Fiend	4	1800	1700	N
+Bark of Dark Ruler	Trap Card	None	Normal	0	0	0	N
+Fatal Abacus	Trap Card	None	Continuous	0	0	0	N
+Life Absorbing Machine	Trap Card	None	Continuous	0	0	0	N
+Double Snare	Spell Card	None	Normal	0	0	0	N
+Freed the Matchless General	Effect Monster	EARTH	Warrior	5	2300	1700	N
+Throwstone Unit	Effect Monster	EARTH	Warrior	4	900	2000	N
+Marauding Captain	Effect Monster	EARTH	Warrior	3	1200	400	N
+Ryu Senshi	Fusion Monster	EARTH	Warrior	6	2000	1200	N
+Warrior Dai Grepher	Normal Monster	EARTH	Warrior	4	1700	1600	N
+Frontier Wiseman	Effect Monster	EARTH	Spellcaster	3	1600	800	N
+Exiled Force	Effect Monster	EARTH	Warrior	4	1000	1000	N
+The Hunter with 7 Weapons	Effect Monster	EARTH	Warrior	3	1000	600	N
+Shadow Tamer	Flip Effect Monster	EARTH	Warrior	3	800	700	N
+Dragon Manipulator	Flip Effect Monster	EARTH	Warrior	3	700	800	N
+The A. Forces	Spell Card	None	Continuous	0	0	0	N
+Reinforcement of the Army	Spell Card	None	Normal	0	0	0	N
+Array of Revealing Light	Spell Card	None	Field	0	0	0	N
+The Warrior Returning Alive	Spell Card	None	Normal	0	0	0	N
+Ready for Intercepting	Trap Card	None	Normal	0	0	0	N
+A Feint Plan	Trap Card	None	Normal	0	0	0	N
+Tyrant Dragon	Effect Monster	FIRE	Dragon	8	2900	2500	N
+Spear Dragon	Effect Monster	WIND	Dragon	4	1900	0	N
+Spirit Ryu	Effect Monster	WIND	Dragon	4	1000	1000	N
+The Dragon Dwelling in the Cave	Normal Monster	WIND	Dragon	4	1300	2000	N
+Lizard Soldier	Normal Monster	WIND	Dragon	3	1100	800	N
+Fiend Skull Dragon	Fusion Monster	WIND	Dragon	5	2000	1200	N
+Cave Dragon	Effect Monster	WIND	Dragon	4	2000	100	N
+Gray Wing	Effect Monster	WIND	Dragon	3	1300	700	N
+Troop Dragon	Effect Monster	WIND	Dragon	2	700	800	N
+The Dragon's Bead	Trap Card	None	Continuous	0	0	0	N
+A Wingbeat of Giant Dragon	Spell Card	None	Normal	0	0	0	N
+Dragon's Gunfire	Spell Card	None	Normal	0	0	0	N
+Stamping Destruction	Spell Card	None	Normal	0	0	0	N
+Super Rejuvenation	Spell Card	None	Quick-Play	0	0	0	N
+Dragon's Rage	Trap Card	None	Continuous	0	0	0	N
+Burst Breath	Trap Card	None	Normal	0	0	0	N
+Luster Dragon #2	Normal Monster	WIND	Dragon	6	2400	1400	N
+Emergency Provisions	Spell Card	None	Quick-Play	0	0	0	N
+Keldo	Effect Monster	EARTH	Fairy	4	1200	1600	N
+Dragged Down into the Grave	Spell Card	None	Normal	0	0	0	N
+Kaiser Glider	Effect Monster	LIGHT	Dragon	6	2400	2200	N
+Spell Reproduction	Spell Card	None	Normal	0	0	0	N
+Shrink	Spell Card	None	Quick-Play	0	0	0	N
+Mudora	Effect Monster	EARTH	Fairy	4	1500	1800	N
+Cestus of Dagla	Spell Card	None	Equip	0	0	0	N
+Virus Cannon	Trap Card	None	Normal	0	0	0	N
+Des Feral Imp	Flip Effect Monster	DARK	Reptile	4	1600	1800	N
+Exchange of the Spirit	Trap Card	None	Normal	0	0	0	N
+Kelbek	Effect Monster	EARTH	Fairy	4	1500	1800	N
+Zolga	Effect Monster	EARTH	Fairy	4	1700	1200	N
+Blast Held by a Tribute	Trap Card	None	Normal	0	0	0	N
+Agido	Effect Monster	EARTH	Fairy	4	1500	1300	N
+Silent Doom	Spell Card	None	Normal	0	0	0	N
+Fiber Jar	Flip Effect Monster	EARTH	Plant	3	500	500	N
+Gradius' Option	Effect Monster	LIGHT	Machine	1	-1	-1	N
+Maharaghi	Spirit Monster	EARTH	Rock	4	1200	1700	N
+Inaba White Rabbit	Spirit Monster	EARTH	Beast	3	700	500	N
+Yata-Garasu	Spirit Monster	WIND	Fiend	2	200	100	N
+Susa Soldier	Spirit Monster	EARTH	Thunder	4	2000	1600	N
+Yamata Dragon	Spirit Monster	FIRE	Dragon	7	2600	3100	N
+Great Long Nose	Spirit Monster	DARK	Beast-Warrior	5	1900	1700	N
+Otohime	Spirit Monster	LIGHT	Spellcaster	3	0	100	N
+Hino-Kagu-Tsuchi	Spirit Monster	FIRE	Pyro	8	2800	2900	N
+Asura Priest	Spirit Monster	LIGHT	Fairy	4	1700	1200	N
+Fushi No Tori	Spirit Monster	FIRE	Winged Beast	4	1200	0	N
+Super Robolady	Fusion Monster	EARTH	Machine	6	1200	500	N
+Super Roboyarou	Fusion Monster	EARTH	Machine	6	1200	500	N
+Fengsheng Mirror	Spell Card	None	Normal	0	0	0	N
+Heart of Clear Water	Spell Card	None	Equip	0	0	0	N
+A Legendary Ocean	Spell Card	None	Field	0	0	0	N
+Fusion Sword Murasame Blade	Spell Card	None	Equip	0	0	0	N
+Smoke Grenade of the Thief	Spell Card	None	Equip	0	0	0	N
+Spiritual Energy Settle Machine	Spell Card	None	Continuous	0	0	0	N
+Second Coin Toss	Spell Card	None	Continuous	0	0	0	N
+Convulsion of Nature	Spell Card	None	Continuous	0	0	0	N
+The Secret of the Bandit	Spell Card	None	Normal	0	0	0	N
+After the Struggle	Spell Card	None	Normal	0	0	0	N
+Blast with Chain	Trap Card	None	Normal	0	0	0	N
+Disappear	Trap Card	None	Normal	0	0	0	N
+Bottomless Trap Hole	Trap Card	None	Normal	0	0	0	N
+Ominous Fortunetelling	Trap Card	None	Continuous	0	0	0	N
+Nutrient Z	Trap Card	None	Normal	0	0	0	N
+Drop Off	Trap Card	None	Normal	0	0	0	N
+Fiend Comedian	Trap Card	None	Normal	0	0	0	N
+Last Turn	Trap Card	None	Normal	0	0	0	N
+Des Volstgalph	Effect Monster	EARTH	Dragon	6	2200	1700	N
+Kaiser Sea Horse	Effect Monster	LIGHT	Sea Serpent	4	1700	1650	N
+Vampire Lord	Effect Monster	DARK	Zombie	5	2000	1500	N
+Gora Turtle	Effect Monster	WATER	Aqua	3	1100	1100	N
+Sasuke Samurai	Effect Monster	WIND	Warrior	2	500	800	N
+Poison Mummy	Flip Effect Monster	EARTH	Zombie	4	1000	1800	N
+Dark Dust Spirit	Spirit Monster	EARTH	Zombie	6	2200	1800	N
+Royal Keeper	Effect Monster	EARTH	Zombie	4	1600	1700	N
+Wandering Mummy	Effect Monster	EARTH	Zombie	4	1500	1500	N
+Great Dezard	Effect Monster	DARK	Spellcaster	6	1900	2300	N
+Swarm of Scarabs	Effect Monster	DARK	Insect	3	500	1000	N
+Swarm of Locusts	Effect Monster	DARK	Insect	3	1000	500	N
+Giant Axe Mummy	Effect Monster	EARTH	Zombie	5	1700	2000	N
+Guardian Sphinx	Effect Monster	EARTH	Rock	5	1700	2400	N
+Pyramid Turtle	Effect Monster	EARTH	Zombie	4	1200	1400	N
+Dice Jar	Flip Effect Monster	LIGHT	Rock	3	200	300	N
+Dark Scorpion Burglars	Effect Monster	DARK	Warrior	4	1000	1000	N
+Don Zaloog	Effect Monster	DARK	Warrior	4	1400	1500	N
+Des Lacooda	Effect Monster	EARTH	Zombie	3	500	600	N
+Fushioh Richie	Effect Monster	DARK	Zombie	7	2600	2900	N
+Cobraman Sakuzy	Effect Monster	EARTH	Reptile	3	800	1400	N
+Book of Life	Spell Card	None	Normal	0	0	0	N
+Book of Taiyou	Spell Card	None	Normal	0	0	0	N
+Book of Moon	Spell Card	None	Quick-Play	0	0	0	N
+Mirage of Nightmare	Spell Card	None	Continuous	0	0	0	N
+Call of the Mummy	Spell Card	None	Continuous	0	0	0	N
+Timidity	Spell Card	None	Normal	0	0	0	N
+Pyramid Energy	Spell Card	None	Quick-Play	0	0	0	N
+Tutan Mask	Trap Card	None	Counter	0	0	0	N
+Ordeal of a Traveler	Trap Card	None	Continuous	0	0	0	N
+Bottomless Shifting Sand	Trap Card	None	Continuous	0	0	0	N
+Curse of Royal	Trap Card	None	Counter	0	0	0	N
+Needle Ceiling	Trap Card	None	Normal	0	0	0	N
+Statue of the Wicked	Trap Card	None	Normal	0	0	0	N
+Dark Coffin	Trap Card	None	Normal	0	0	0	N
+Needle Wall	Trap Card	None	Continuous	0	0	0	N
+Trap Dustshoot	Trap Card	None	Normal	0	0	0	N
+Reckless Greed	Trap Card	None	Normal	0	0	0	N
+Toon Dark Magician Girl	Toon Monster	DARK	Spellcaster	6	2000	1700	N
+Gilford the Lightning	Effect Monster	LIGHT	Warrior	8	2800	1400	N
+Exarion Universe	Effect Monster	DARK	Beast-Warrior	4	1800	1900	N
+Legendary Fiend	Effect Monster	DARK	Fiend	6	1500	1800	N
+Toon Defense	Trap Card	None	Continuous	0	0	0	N
+Toon Table of Contents	Spell Card	None	Normal	0	0	0	N
+Toon Masked Sorcerer	Toon Monster	DARK	Spellcaster	4	900	1400	N
+Toon Gemini Elf	Toon Monster	EARTH	Spellcaster	4	1900	900	N
+Toon Cannon Soldier	Toon Monster	DARK	Machine	4	1400	1300	N
+Toon Goblin Attack Force	Toon Monster	EARTH	Warrior	4	2300	0	N
+Card of Sanctity	Spell Card	None	Normal	0	0	0	N
+Puppet Master	Effect Monster	DARK	Fiend	6	0	0	N
+Newdoria	Effect Monster	DARK	Fiend	4	1200	800	N
+Lord Poison	Effect Monster	WATER	Plant	4	1500	1000	N
+Blade Knight	Effect Monster	LIGHT	Warrior	4	1600	1000	N
+Helpoemer	Effect Monster	DARK	Fiend	5	2000	1400	N
+Hidden Soldiers	Trap Card	None	Normal	0	0	0	N
+Gil Garth	Normal Monster	DARK	Fiend	4	1800	1200	N
+Malevolent Catastrophe	Trap Card	None	Normal	0	0	0	N
+Lava Golem	Effect Monster	FIRE	Fiend	8	3000	2500	N
+Relieve Monster	Trap Card	None	Normal	0	0	0	N
+Machine Duplication	Spell Card	None	Normal	0	0	0	N
+Dark Jeroid	Effect Monster	DARK	Fiend	4	1200	1500	N
+Dragon Master Knight	Fusion Monster	LIGHT	Dragon	12	5000	5000	N
+Five-Headed Dragon	Fusion Monster	DARK	Dragon	12	5000	5000	N
+Queen's Knight	Normal Monster	LIGHT	Warrior	4	1500	1600	N
+X-Head Cannon	Normal Monster	LIGHT	Machine	4	1800	1500	N
+Enemy Controller	Spell Card	None	Quick-Play	0	0	0	N
+Master Kyonshee	Normal Monster	EARTH	Zombie	4	1750	1000	N
+Kabazauls	Normal Monster	WATER	Dinosaur	4	1700	1500	N
+Inpachi	Normal Monster	EARTH	Machine	4	1600	1900	N
+Gravekeeper's Spy	Flip Effect Monster	DARK	Spellcaster	4	1200	2000	N
+Gravekeeper's Curse	Effect Monster	DARK	Spellcaster	3	800	800	N
+Gravekeeper's Guard	Flip Effect Monster	DARK	Spellcaster	4	1000	1900	N
+Gravekeeper's Spear Soldier	Effect Monster	DARK	Spellcaster	4	1500	1000	N
+Gravekeeper's Cannonholder	Effect Monster	DARK	Spellcaster	4	1400	1200	N
+Gravekeeper's Assailant	Effect Monster	DARK	Spellcaster	4	1500	1500	N
+A Man with Wdjat	Effect Monster	DARK	Spellcaster	4	1600	1600	N
+Mystical Knight of Jackal	Effect Monster	LIGHT	Beast-Warrior	7	2700	1200	N
+A Cat of Ill Omen	Flip Effect Monster	DARK	Beast	2	500	300	N
+Yomi Ship	Effect Monster	WATER	Aqua	3	800	1400	N
+Winged Sage Falcos	Effect Monster	WIND	Winged Beast	4	1700	1200	N
+An Owl of Luck	Flip Effect Monster	WIND	Winged Beast	2	300	500	N
+Charm of Shabti	Effect Monster	EARTH	Rock	1	100	100	N
+Cobra Jar	Flip Effect Monster	EARTH	Reptile	2	600	300	N
+Spirit Reaper	Effect Monster	DARK	Zombie	3	300	200	N
+Nightmare Horse	Effect Monster	DARK	Zombie	2	500	400	N
+Reaper on the Nightmare	Fusion Monster	DARK	Zombie	5	800	600	N
+Card Shuffle	Spell Card	None	Continuous	0	0	0	N
+Reasoning	Spell Card	None	Normal	0	0	0	N
+Dark Room of Nightmare	Spell Card	None	Continuous	0	0	0	N
+Different Dimension Capsule	Spell Card	None	Normal	0	0	0	N
+Necrovalley	Spell Card	None	Field	0	0	0	N
+Buster Rancher	Spell Card	None	Equip	0	0	0	N
+Hieroglyph Lithograph	Spell Card	None	Normal	0	0	0	N
+Dark Snake Syndrome	Spell Card	None	Continuous	0	0	0	N
+Terraforming	Spell Card	None	Normal	0	0	0	N
+Banner of Courage	Spell Card	None	Continuous	0	0	0	N
+Metamorphosis	Spell Card	None	Normal	0	0	0	N
+Royal Tribute	Spell Card	None	Normal	0	0	0	N
+Reversal Quiz	Spell Card	None	Normal	0	0	0	N
+Curse of Aging	Trap Card	None	Normal	0	0	0	N
+Raigeki Break	Trap Card	None	Normal	0	0	0	N
+Disturbance Strategy	Trap Card	None	Normal	0	0	0	N
+Rite of Spirit	Trap Card	None	Normal	0	0	0	N
+Non Aggression Area	Trap Card	None	Normal	0	0	0	N
+D. Tribe	Trap Card	None	Normal	0	0	0	N
+Y-Dragon Head	Union Effect Monster	LIGHT	Machine	4	1500	1600	N
+XY-Dragon Cannon	Fusion Monster	LIGHT	Machine	6	2200	1900	N
+Z-Metal Tank	Union Effect Monster	LIGHT	Machine	4	1500	1300	N
+XYZ-Dragon Cannon	Fusion Monster	LIGHT	Machine	8	2800	2600	N
+Soul Rope	Trap Card	None	Normal	0	0	0	N
+King's Knight	Effect Monster	LIGHT	Warrior	4	1600	1400	N
+Jack's Knight	Normal Monster	LIGHT	Warrior	5	1900	1000	N
+Interdimensional Matter Transporter	Trap Card	None	Normal	0	0	0	N
+Goblin Zombie	Effect Monster	DARK	Zombie	4	1100	1050	N
+Drillago	Effect Monster	DARK	Machine	4	1600	1100	N
+Lekunga	Effect Monster	WATER	Plant	4	1700	500	N
+Cost Down	Spell Card	None	Normal	0	0	0	N
+People Running About	Normal Monster	FIRE	Pyro	2	600	600	N
+Oppressed People	Normal Monster	WATER	Aqua	1	400	2000	N
+United Resistance	Normal Monster	WIND	Thunder	3	1000	400	N
+Dark Blade	Normal Monster	DARK	Warrior	4	1800	1500	N
+Pitch-Dark Dragon	Union Effect Monster	DARK	Dragon	3	900	600	N
+Kiryu	Union Effect Monster	DARK	Dragon	5	2000	1500	N
+Decayed Commander	Effect Monster	EARTH	Zombie	4	1000	1500	N
+Zombie Tiger	Union Effect Monster	EARTH	Zombie	3	1400	1600	N
+Giant Orc	Effect Monster	DARK	Fiend	4	2200	0	N
+Second Goblin	Union Effect Monster	DARK	Fiend	1	100	100	N
+Vampiric Orchis	Effect Monster	EARTH	Plant	4	1700	1000	N
+Des Dendle	Union Effect Monster	EARTH	Plant	4	300	2000	N
+Burning Beast	Union Effect Monster	FIRE	Pyro	4	1500	1000	N
+Freezing Beast	Union Effect Monster	WATER	Aqua	4	1500	1000	N
+D.D. Crazy Beast	Effect Monster	EARTH	Beast	3	1400	1400	N
+Spell Canceller	Effect Monster	WIND	Machine	5	1800	1600	N
+Helping Robo for Combat	Effect Monster	LIGHT	Machine	4	1600	0	N
+Dimension Jar	Flip Effect Monster	DARK	Machine	2	200	200	N
+Roulette Barrel	Effect Monster	LIGHT	Machine	4	1000	2000	N
+Paladin of White Dragon	Ritual Effect Monster	LIGHT	Dragon	4	1900	1200	N
 White Dragon Ritual	Spell Card	None	Ritual	0	0	0	N
+Frontline Base	Spell Card	None	Continuous	0	0	0	N
+Demotion	Spell Card	None	Equip	0	0	0	N
+Combination Attack	Spell Card	None	Quick-Play	0	0	0	N
+Autonomous Action Unit	Spell Card	None	Equip	0	0	0	N
+Poison of the Old Man	Spell Card	None	Quick-Play	0	0	0	N
+Dark Core	Spell Card	None	Normal	0	0	0	N
+Raregold Armor	Spell Card	None	Equip	0	0	0	N
+Kishido Spirit	Spell Card	None	Continuous	0	0	0	N
+Tribute Doll	Spell Card	None	Normal	0	0	0	N
+Wave-Motion Cannon	Spell Card	None	Continuous	0	0	0	N
+Huge Revolution	Trap Card	None	Normal	0	0	0	N
+Thunder of Ruler	Trap Card	None	Normal	0	0	0	N
+Spell Shield Type-8	Trap Card	None	Counter	0	0	0	N
+Meteorain	Trap Card	None	Normal	0	0	0	N
+Pineapple Blast	Trap Card	None	Normal	0	0	0	N
+Secret Barrel	Trap Card	None	Normal	0	0	0	N
+Formation Union	Trap Card	None	Normal	0	0	0	N
+Adhesion Trap Hole	Trap Card	None	Normal	0	0	0	N
+XZ-Tank Cannon	Fusion Monster	LIGHT	Machine	6	2400	2100	N
+YZ-Tank Dragon	Fusion Monster	LIGHT	Machine	6	2100	2200	N
+Final Attack Orders	Trap Card	None	Continuous	0	0	0	N
+Dark Paladin	Fusion Monster	DARK	Spellcaster	8	2900	2400	N
+Spell Absorption	Spell Card	None	Continuous	0	0	0	N
+Diffusion Wave-Motion	Spell Card	None	Normal	0	0	0	N
+Fiend's Sanctuary	Spell Card	None	Normal	0	0	0	N
+Great Angus	Normal Monster	FIRE	Beast	4	1800	600	N
+Aitsu	Normal Monster	FIRE	Fairy	5	100	100	N
+Sonic Duck	Normal Monster	WIND	Winged Beast	3	1700	700	N
+Luster Dragon	Normal Monster	WIND	Dragon	4	1900	1600	N
+Amazoness Paladin	Effect Monster	EARTH	Warrior	4	1700	300	N
+Amazoness Blowpiper	Effect Monster	EARTH	Warrior	3	800	1500	N
+Amazoness Tiger	Effect Monster	EARTH	Beast	4	1100	1500	N
+Skilled White Magician	Effect Monster	LIGHT	Spellcaster	4	1700	1900	N
+Skilled Dark Magician	Effect Monster	DARK	Spellcaster	4	1900	1700	N
+Apprentice Magician	Effect Monster	DARK	Spellcaster	2	400	800	N
+Old Vindictive Magician	Flip Effect Monster	DARK	Spellcaster	2	450	600	N
+Chaos Command Magician	Effect Monster	LIGHT	Spellcaster	6	2400	1900	N
+Magical Marionette	Effect Monster	DARK	Spellcaster	5	2000	1000	N
+Breaker the Magical Warrior	Effect Monster	DARK	Spellcaster	4	1600	1000	N
+Magical Plant Mandragola	Flip Effect Monster	DARK	Spellcaster	2	500	200	N
+Magical Scientist	Effect Monster	DARK	Spellcaster	1	300	300	N
+Royal Magical Library	Effect Monster	LIGHT	Spellcaster	4	0	2000	N
+Armor Exe	Effect Monster	LIGHT	Rock	4	2400	1400	N
+Tribe-Infecting Virus	Effect Monster	WATER	Aqua	4	1600	1000	N
+Des Koala	Flip Effect Monster	DARK	Beast	3	1100	1800	N
+Dark Scorpion - Cliff the Trap Remover	Effect Monster	DARK	Warrior	3	1200	1000	N
+Magical Merchant	Flip Effect Monster	LIGHT	Insect	1	200	700	N
+Koitsu	Union Effect Monster	WATER	Fairy	10	200	100	N
+Cat's Ear Tribe	Effect Monster	EARTH	Beast-Warrior	1	200	100	N
+Ultimate Obedient Fiend	Effect Monster	FIRE	Fiend	10	3500	3000	N
+Pitch-Black Power Stone	Trap Card	None	Continuous	0	0	0	N
+Big Bang Shot	Spell Card	None	Equip	0	0	0	N
+Gather Your Mind	Spell Card	None	Normal	0	0	0	N
+Mass Driver	Spell Card	None	Continuous	0	0	0	N
+Senri Eye	Spell Card	None	Continuous	0	0	0	N
+Emblem of Dragon Destroyer	Spell Card	None	Normal	0	0	0	N
+Jar Robber	Spell Card	None	Quick-Play	0	0	0	N
+Mega Ton Magical Cannon	Spell Card	None	Normal	0	0	0	N
+Continuous Destruction Punch	Spell Card	None	Continuous	0	0	0	N
+Exhausting Spell	Trap Card	None	Normal	0	0	0	N
+Hidden Spellbook	Trap Card	None	Normal	0	0	0	N
+Miracle Restoring	Trap Card	None	Normal	0	0	0	N
+Disarmament	Trap Card	None	Normal	0	0	0	N
+Anti-Spell	Trap Card	None	Counter	0	0	0	N
+The Spell Absorbing Life	Trap Card	None	Normal	0	0	0	N
+Metal Reflect Slime	Trap Card	None	Continuous	0	0	0	N
+Bowganian	Effect Monster	DARK	Machine	3	1300	1000	N
+Magical Stone Excavation	Spell Card	None	Normal	0	0	0	N
+Granadora	Effect Monster	WATER	Reptile	4	1900	700	N
+Shinato, King of a Higher Plane	Ritual Effect Monster	LIGHT	Fairy	8	3300	3000	N
+Dark Flare Knight	Fusion Monster	DARK	Warrior	6	2200	800	N
+Mirage Knight	Effect Monster	LIGHT	Warrior	8	2800	2000	N
+Berserk Dragon	Effect Monster	DARK	Zombie	8	3500	0	N
+Exodia Necross	Effect Monster	DARK	Spellcaster	4	1800	0	N
+Battle Footballer	Normal Monster	FIRE	Machine	4	1000	2100	N
+Arsenal Summoner	Flip Effect Monster	WIND	Spellcaster	4	1600	1600	N
+Nin-Ken Dog	Normal Monster	WIND	Beast-Warrior	4	1800	1000	N
+Acrobat Monkey	Normal Monster	EARTH	Machine	3	1000	1800	N
+Guardian Elma	Effect Monster	WIND	Fairy	3	1300	1200	N
+Guardian Ceal	Effect Monster	FIRE	Pyro	4	1700	1400	N
+Guardian Grarl	Effect Monster	EARTH	Dinosaur	5	2500	1000	N
+Guardian Baou	Effect Monster	DARK	Fiend	4	800	400	N
+Guardian Kay'est	Effect Monster	WATER	Sea Serpent	4	1000	1800	N
+Guardian Tryce	Effect Monster	LIGHT	Thunder	5	1900	1700	N
+Gyaku-Gire Panda	Effect Monster	EARTH	Beast	3	800	1600	N
+Blindly Loyal Goblin	Effect Monster	EARTH	Warrior	4	1800	1500	N
+Despair from the Dark	Effect Monster	DARK	Zombie	8	2800	3000	N
+Maju Garzett	Effect Monster	DARK	Fiend	7	-1	0	N
+Fear from the Dark	Effect Monster	DARK	Zombie	4	1700	1500	N
+Dark Scorpion - Chick the Yellow	Effect Monster	DARK	Warrior	3	1000	1000	N
+D.D. Warrior Lady	Effect Monster	LIGHT	Warrior	4	1500	1600	N
+Thousand Needles	Effect Monster	EARTH	Beast	4	1000	1800	N
+Shinato's Ark	Spell Card	None	Ritual	0	0	0	N
+A Deal with Dark Ruler	Spell Card	None	Quick-Play	0	0	0	N
+Contract with Exodia	Spell Card	None	Normal	0	0	0	N
+Butterfly Dagger - Elma	Spell Card	None	Equip	0	0	0	N
+Shooting Star Bow - Ceal	Spell Card	None	Equip	0	0	0	N
+Gravity Axe - Grarl	Spell Card	None	Equip	0	0	0	N
+Wicked-Breaking Flamberge - Baou	Spell Card	None	Equip	0	0	0	N
+Rod of Silence - Kay'est	Spell Card	None	Equip	0	0	0	N
+Twin Swords of Flashing Light - Tryce	Spell Card	None	Equip	0	0	0	N
+Precious Cards from Beyond	Spell Card	None	Continuous	0	0	0	N
+Rod of the Mind's Eye	Spell Card	None	Equip	0	0	0	N
+Fairy of the Spring	Spell Card	None	Normal	0	0	0	N
+Token Thanksgiving	Spell Card	None	Normal	0	0	0	N
+Non-Spellcasting Area	Spell Card	None	Continuous	0	0	0	N
+Staunch Defender	Trap Card	None	Normal	0	0	0	N
+Ojama Trio	Trap Card	None	Normal	0	0	0	N
+Arsenal Robber	Trap Card	None	Normal	0	0	0	N
+Skill Drain	Trap Card	None	Continuous	0	0	0	N
+Really Eternal Rest	Trap Card	None	Normal	0	0	0	N
+Soul Taker	Spell Card	None	Normal	0	0	0	N
+Magical Dimension	Spell Card	None	Quick-Play	0	0	0	N
+Judgment of the Pharaoh	Trap Card	None	Normal	0	0	0	N
+Yu-Jo Friendship	Spell Card	None	Normal	0	0	0	N
+Unity	Spell Card	None	Quick-Play	0	0	0	N
+Dark Magician Knight	Effect Monster	DARK	Warrior	7	2500	2100	N
+Knight's Title	Spell Card	None	Normal	0	0	0	N
+Sage's Stone	Spell Card	None	Normal	0	0	0	N
+Gagagigo	Normal Monster	WATER	Reptile	4	1850	1000	N
+D.D. Trainer	Normal Monster	DARK	Fiend	1	100	2000	N
+Ojama Green	Normal Monster	LIGHT	Beast	2	0	1000	N
+Archfiend Soldier	Normal Monster	DARK	Fiend	4	1900	1500	N
+Pandemonium Watchbear	Effect Monster	DARK	Beast	4	1300	1800	N
+Sasuke Samurai #2	Effect Monster	WIND	Warrior	1	200	300	N
+Dark Scorpion - Gorg the Strong	Effect Monster	DARK	Warrior	5	1800	1500	N
+Dark Scorpion - Meanae the Thorn	Effect Monster	DARK	Warrior	4	1000	1800	N
+Outstanding Dog Marron	Effect Monster	LIGHT	Beast	1	100	100	N
+Great Maju Garzett	Effect Monster	DARK	Fiend	6	0	0	N
+Iron Blacksmith Kotetsu	Flip Effect Monster	FIRE	Beast-Warrior	2	500	500	N
+Mefist the Infernal General	Effect Monster	DARK	Fiend	5	1800	1700	N
+Vilepawn Archfiend	Effect Monster	EARTH	Fiend	2	1200	200	N
+Shadowknight Archfiend	Effect Monster	WIND	Fiend	4	2000	1600	N
+Darkbishop Archfiend	Effect Monster	WATER	Fiend	3	300	1400	N
+Desrook Archfiend	Effect Monster	LIGHT	Fiend	3	1100	1800	N
+Infernalqueen Archfiend	Effect Monster	FIRE	Fiend	4	900	1500	N
+Terrorking Archfiend	Effect Monster	DARK	Fiend	4	2000	1500	N
+Skull Archfiend of Lightning	Effect Monster	DARK	Fiend	6	2500	1200	N
+Metallizing Parasite - Lunatite	Union Effect Monster	WATER	Aqua	7	1000	500	N
+Tsukuyomi	Spirit Monster	DARK	Spellcaster	4	1100	1400	N
+Legendary Flame Lord	Ritual Effect Monster	FIRE	Spellcaster	7	2400	2000	N
+Dark Master - Zorc	Ritual Effect Monster	DARK	Fiend	8	2700	1500	N
+Incandescent Ordeal	Spell Card	None	Ritual	0	0	0	N
+Contract with the Abyss	Spell Card	None	Ritual	0	0	0	N
+Contract with the Dark Master	Spell Card	None	Ritual	0	0	0	N
+Falling Down	Spell Card	None	Equip	0	0	0	N
+Checkmate	Spell Card	None	Normal	0	0	0	N
+Final Countdown	Spell Card	None	Normal	0	0	0	N
+Mustering of the Dark Scorpions	Spell Card	None	Normal	0	0	0	N
+Pandemonium	Spell Card	None	Field	0	0	0	N
+Altar for Tribute	Trap Card	None	Normal	0	0	0	N
+Frozen Soul	Trap Card	None	Normal	0	0	0	N
+Battle-Scarred	Trap Card	None	Continuous	0	0	0	N
+Dark Scorpion Combination	Trap Card	None	Normal	0	0	0	N
+Archfiend's Roar	Trap Card	None	Normal	0	0	0	N
+Dice Re-Roll	Trap Card	None	Normal	0	0	0	N
+Spell Vanishing	Trap Card	None	Counter	0	0	0	N
+Sakuretsu Armor	Trap Card	None	Normal	0	0	0	N
+Ray of Hope	Trap Card	None	Normal	0	0	0	N
+Nightmare Penguin	Effect Monster	WATER	Aqua	4	900	1800	N
+Perfect Machine King	Effect Monster	EARTH	Machine	8	2700	1500	N
+Chiron the Mage	Effect Monster	EARTH	Beast-Warrior	4	1800	1000	N
+Ojama Yellow	Normal Monster	LIGHT	Beast	2	0	1000	N
+Ojama Black	Normal Monster	LIGHT	Beast	2	0	1000	N
+Soul Tiger	Normal Monster	EARTH	Beast	4	0	2100	N
+Big Koala	Normal Monster	EARTH	Beast	7	2700	2000	N
+Des Kangaroo	Effect Monster	DARK	Beast	4	1500	1700	N
+Crimson Ninja	Flip Effect Monster	EARTH	Warrior	1	300	300	N
+Strike Ninja	Effect Monster	DARK	Warrior	4	1700	1200	N
+Gale Lizard	Flip Effect Monster	WATER	Reptile	4	1400	700	N
+Chopman the Desperate Outlaw	Effect Monster	DARK	Zombie	3	1100	500	N
+Sasuke Samurai #3	Effect Monster	LIGHT	Warrior	3	1000	1000	N
+D.D. Scout Plane	Effect Monster	DARK	Machine	2	800	1200	N
+Berserk Gorilla	Effect Monster	EARTH	Beast	4	2000	1000	N
+Freed the Brave Wanderer	Effect Monster	LIGHT	Warrior	4	1700	1200	N
+Witch Doctor of Chaos	Flip Effect Monster	DARK	Spellcaster	2	500	500	N
+Chaos Necromancer	Effect Monster	DARK	Fiend	1	0	0	N
+Chaosrider Gustaph	Effect Monster	WIND	Warrior	4	1400	1500	N
+Inferno	Effect Monster	FIRE	Pyro	4	1100	1900	N
+Fenrir	Effect Monster	WATER	Beast	4	1400	1200	N
+Gigantes	Effect Monster	EARTH	Rock	4	1900	1300	N
+Silpheed	Effect Monster	WIND	Fairy	4	1700	700	N
+Chaos Sorcerer	Effect Monster	DARK	Spellcaster	6	2300	2000	N
+Gren Maju Da Eiza	Effect Monster	FIRE	Fiend	3	-1	-1	N
+Black Luster Soldier - Envoy of the Beginning	Effect Monster	LIGHT	Warrior	8	3000	2500	N
+Fuhma Shuriken	Spell Card	None	Equip	0	0	0	N
+Heart of the Underdog	Spell Card	None	Continuous	0	0	0	N
+Wild Nature's Release	Spell Card	None	Normal	0	0	0	N
+Ojama Delta Hurricane!!	Spell Card	None	Normal	0	0	0	N
+Stumbling	Spell Card	None	Continuous	0	0	0	N
+Chaos End	Spell Card	None	Normal	0	0	0	N
+Chaos Greed	Spell Card	None	Normal	0	0	0	N
+D.D. Borderline	Spell Card	None	Continuous	0	0	0	N
+Recycle	Spell Card	None	Continuous	0	0	0	N
+Primal Seed	Spell Card	None	Normal	0	0	0	N
+Thunder Crash	Spell Card	None	Normal	0	0	0	N
+Dimension Distortion	Spell Card	None	Normal	0	0	0	N
+Reload	Spell Card	None	Quick-Play	0	0	0	N
+Soul Absorption	Spell Card	None	Continuous	0	0	0	N
+Big Burn	Trap Card	None	Normal	0	0	0	N
+Blasting the Ruins	Trap Card	None	Normal	0	0	0	N
+Cursed Seal of the Forbidden Spell	Trap Card	None	Counter	0	0	0	N
+Tower of Babel	Trap Card	None	Continuous	0	0	0	N
+Spatial Collapse	Trap Card	None	Continuous	0	0	0	N
+Chain Disappearance	Trap Card	None	Normal	0	0	0	N
+Zero Gravity	Trap Card	None	Normal	0	0	0	N
+Dark Mirror Force	Trap Card	None	Normal	0	0	0	N
+Energy Drain	Trap Card	None	Normal	0	0	0	N
+Chaos Emperor Dragon - Envoy of the End	Effect Monster	DARK	Dragon	8	3000	2500	N
+Victory Dragon	Effect Monster	DARK	Dragon	8	2400	3000	N
+Magician's Valkyria	Effect Monster	LIGHT	Spellcaster	4	1600	1800	N
+Giga Gagagigo	Normal Monster	WATER	Reptile	5	2450	1500	N
+Mad Dog of Darkness	Normal Monster	DARK	Beast	4	1900	1400	N
+Neo Bug	Normal Monster	EARTH	Insect	4	1800	1700	N
+Sea Serpent Warrior of Darkness	Normal Monster	WATER	Sea Serpent	4	1800	1500	N
+Terrorking Salmon	Normal Monster	WATER	Fish	5	2400	1000	N
+Blazing Inpachi	Normal Monster	FIRE	Pyro	4	1850	0	N
+Burning Algae	Effect Monster	FIRE	Pyro	3	500	1500	N
+The Thing in the Crater	Effect Monster	FIRE	Pyro	4	1000	1200	N
+Molten Zombie	Effect Monster	FIRE	Pyro	4	1600	400	N
+Dark Magician of Chaos	Effect Monster	DARK	Spellcaster	8	2800	2600	N
+Manticore of Darkness	Effect Monster	FIRE	Beast-Warrior	6	2300	1000	N
+Stealth Bird	Effect Monster	DARK	Winged Beast	3	700	1700	N
+Sacred Crane	Effect Monster	LIGHT	Winged Beast	4	1600	400	N
+Enraged Battle Ox	Effect Monster	EARTH	Beast-Warrior	4	1700	1000	N
+Don Turtle	Effect Monster	WATER	Reptile	3	1100	1200	N
+Dark Driceratops	Effect Monster	EARTH	Dinosaur	6	2400	1500	N
+Hyper Hammerhead	Effect Monster	EARTH	Dinosaur	4	1500	1200	N
+Black Tyranno	Effect Monster	EARTH	Dinosaur	7	2600	1800	N
+Anti-Aircraft Flower	Effect Monster	EARTH	Plant	3	0	1600	N
+Prickle Fairy	Effect Monster	EARTH	Plant	4	300	2000	N
+Insect Princess	Effect Monster	WIND	Insect	6	1900	1200	N
+Amphibious Bugroth MK-3	Effect Monster	WATER	Machine	4	1500	1300	N
+Torpedo Fish	Effect Monster	WATER	Fish	3	1000	1000	N
+Levia-Dragon - Daedalus	Effect Monster	WATER	Sea Serpent	7	2600	1500	N
+Orca Mega-Fortress of Darkness	Effect Monster	WATER	Sea Serpent	5	2100	1200	N
+Cannonball Spear Shellfish	Effect Monster	WATER	Aqua	2	1000	1000	N
+Mataza the Zapper	Effect Monster	DARK	Warrior	3	1300	800	N
+Guardian Angel Joan	Effect Monster	LIGHT	Fairy	7	2800	2000	N
+Manju of the Ten Thousand Hands	Effect Monster	LIGHT	Fairy	4	1400	1000	N
+Getsu Fuhma	Effect Monster	DARK	Warrior	4	1700	1200	N
+Ryu Kokki	Effect Monster	DARK	Zombie	6	2400	2000	N
+Gryphon's Feather Duster	Spell Card	None	Normal	0	0	0	N
+Stray Lambs	Spell Card	None	Normal	0	0	0	N
+Smashing Ground	Spell Card	None	Normal	0	0	0	N
+Dimension Fusion	Spell Card	None	Normal	0	0	0	N
+Dedication through Light and Darkness	Spell Card	None	Quick-Play	0	0	0	N
+Salvage	Spell Card	None	Normal	0	0	0	N
+Ultra Evolution Pill	Spell Card	None	Normal	0	0	0	N
+Earth Chant	Spell Card	None	Ritual	0	0	0	N
+Jade Insect Whistle	Spell Card	None	Normal	0	0	0	N
+Destruction Ring	Trap Card	None	Normal	0	0	0	N
+Fiend's Hand Mirror	Trap Card	None	Normal	0	0	0	N
+Compulsory Evacuation Device	Trap Card	None	Normal	0	0	0	N
+A Hero Emerges	Trap Card	None	Normal	0	0	0	N
+Self-Destruct Button	Trap Card	None	Normal	0	0	0	N
+Curse of Darkness	Trap Card	None	Continuous	0	0	0	N
+Begone, Knave!	Trap Card	None	Continuous	0	0	0	N
+DNA Transplant	Trap Card	None	Continuous	0	0	0	N
+Robbin' Zombie	Trap Card	None	Continuous	0	0	0	N
+Trap Jammer	Trap Card	None	Counter	0	0	0	N
+Invader of Darkness	Effect Monster	DARK	Fiend	8	2900	2500	N
+Twinheaded Beast	Effect Monster	FIRE	Beast	6	1700	1900	N
+Abyss Soldier	Effect Monster	WATER	Aqua	4	1800	1300	N
+Inferno Hammer	Effect Monster	DARK	Fiend	6	2400	0	N
+Emes the Infinity	Effect Monster	LIGHT	Machine	7	2500	2000	N
+D.D. Assailant	Effect Monster	EARTH	Warrior	4	1700	1600	N
+Teva	Effect Monster	LIGHT	Warrior	5	2000	1500	N
+Zoma the Spirit	Trap Card	None	Continuous	0	0	0	N
+Maximum Six	Effect Monster	EARTH	Warrior	6	1900	1600	N
+Dangerous Machine Type-6	Spell Card	None	Continuous	0	0	0	N
+Sixth Sense	Trap Card	None	Normal	0	0	0	N
+Gogiga Gagagigo	Normal Monster	WATER	Reptile	8	2950	2800	N
+Warrior of Zera	Normal Monster	EARTH	Warrior	4	1600	1600	N
+Sealmaster Meisei	Normal Monster	DARK	Spellcaster	3	1100	900	N
+Mystical Shine Ball	Normal Monster	LIGHT	Fairy	2	500	500	N
+Metal Armored Bug	Normal Monster	EARTH	Insect	8	2800	1500	N
+The Agent of Judgment - Saturn	Effect Monster	LIGHT	Fairy	6	2400	0	N
+The Agent of Wisdom - Mercury	Effect Monster	LIGHT	Fairy	4	0	1700	N
+The Agent of Creation - Venus	Effect Monster	LIGHT	Fairy	3	1600	0	N
+The Agent of Force - Mars	Effect Monster	LIGHT	Fairy	3	0	0	N
+The Unhappy Girl	Effect Monster	LIGHT	Spellcaster	2	400	300	N
+Soul-Absorbing Bone Tower	Effect Monster	DARK	Zombie	3	400	1500	N
+The Kick Man	Effect Monster	DARK	Zombie	3	1300	300	N
+Vampire Lady	Effect Monster	DARK	Zombie	4	1550	1550	N
+Rocket Jumper	Effect Monster	EARTH	Rock	3	1000	800	N
+Avatar of The Pot	Effect Monster	EARTH	Rock	3	1200	1300	N
+Legendary Jujitsu Master	Effect Monster	EARTH	Rock	3	1300	1800	N
+KA-2 Des Scissors	Effect Monster	DARK	Machine	4	1000	1000	N
+Needle Burrower	Effect Monster	DARK	Machine	5	1700	1700	N
+Blowback Dragon	Effect Monster	DARK	Machine	6	2300	1200	N
+Zaborg the Thunder Monarch	Effect Monster	LIGHT	Thunder	5	2400	1000	N
+Atomic Firefly	Effect Monster	LIGHT	Insect	1	100	200	N
+Mermaid Knight	Effect Monster	WATER	Aqua	4	1500	700	N
+Piranha Army	Effect Monster	WATER	Fish	2	800	200	N
+Two Thousand Needles	Effect Monster	EARTH	Beast	5	2000	1800	N
+Disc Fighter	Effect Monster	EARTH	Warrior	4	1000	1000	N
+Arcane Archer of the Forest	Effect Monster	EARTH	Warrior	3	900	1400	N
+Lady Ninja Yae	Effect Monster	WIND	Warrior	3	1100	200	N
+Goblin King	Effect Monster	DARK	Fiend	1	0	0	N
+Solar Flare Dragon	Effect Monster	FIRE	Pyro	4	1500	1000	N
+White Magician Pikeru	Effect Monster	LIGHT	Spellcaster	2	1200	0	N
+Archlord Zerato	Effect Monster	LIGHT	Fairy	8	2800	2300	N
+Opti-Camouflage Armor	Spell Card	None	Equip	0	0	0	N
+Mystik Wok	Spell Card	None	Quick-Play	0	0	0	N
+Burst Stream of Destruction	Spell Card	None	Normal	0	0	0	N
+Monster Gate	Spell Card	None	Normal	0	0	0	N
+The Sanctuary in the Sky	Spell Card	None	Field	0	0	0	N
+Earthquake	Spell Card	None	Normal	0	0	0	N
+Goblin Thief	Spell Card	None	Normal	0	0	0	N
+Backfire	Trap Card	None	Continuous	0	0	0	N
+Micro Ray	Trap Card	None	Normal	0	0	0	N
+Light of Judgment	Trap Card	None	Normal	0	0	0	N
+Wall of Revealing Light	Trap Card	None	Continuous	0	0	0	N
+Solar Ray	Trap Card	None	Normal	0	0	0	N
+Ninjitsu Art of Transformation	Trap Card	None	Continuous	0	0	0	N
+Beckoning Light	Trap Card	None	Normal	0	0	0	N
+Draining Shield	Trap Card	None	Normal	0	0	0	N
+Armor Break	Trap Card	None	Counter	0	0	0	N
+Mazera DeVille	Effect Monster	DARK	Fiend	8	2800	2300	N
+Marshmallon	Effect Monster	LIGHT	Fairy	3	300	500	N
+Doomcaliber Knight	Effect Monster	DARK	Fiend	4	1900	1800	N
+Shield Crush	Spell Card	None	Normal	0	0	0	N
+Return Zombie	Effect Monster	DARK	Zombie	4	1000	1600	N
+Legacy of Yata-Garasu	Trap Card	None	Normal	0	0	0	N
+Marshmallon Glasses	Spell Card	None	Continuous	0	0	0	N
+Call of the Earthbound	Trap Card	None	Normal	0	0	0	N
+Mokey Mokey	Normal Monster	LIGHT	Fairy	1	300	100	N
+Gigobyte	Normal Monster	WATER	Reptile	1	350	300	N
+Kozaky	Normal Monster	DARK	Fiend	1	400	400	N
+Fiend Scorpion	Normal Monster	EARTH	Insect	2	900	200	N
+Pharaoh's Servant	Normal Monster	DARK	Zombie	2	900	0	N
+Pharaonic Protector	Normal Monster	EARTH	Zombie	2	900	0	N
+Spirit of the Pharaoh	Effect Monster	LIGHT	Zombie	6	2500	2000	N
+Theban Nightmare	Effect Monster	LIGHT	Fiend	4	1500	500	N
+Aswan Apparition	Effect Monster	DARK	Fiend	3	500	500	N
+Protector of the Sanctuary	Effect Monster	EARTH	Fiend	4	1100	1900	N
+Nubian Guard	Effect Monster	FIRE	Warrior	2	500	500	N
+Desertapir	Flip Effect Monster	EARTH	Beast	3	900	300	N
+Sand Gambler	Effect Monster	LIGHT	Spellcaster	3	300	1600	N
+Ghost Knight of Jackal	Effect Monster	EARTH	Beast-Warrior	5	1700	1600	N
+Absorbing Kid from the Sky	Effect Monster	LIGHT	Fairy	4	1300	1000	N
+Elephant Statue of Blessing	Effect Monster	EARTH	Rock	3	1500	0	N
+Elephant Statue of Disaster	Effect Monster	EARTH	Rock	3	1500	0	N
+Spirit Caller	Flip Effect Monster	LIGHT	Spellcaster	3	1000	1000	N
+Emissary of the Afterlife	Effect Monster	DARK	Fiend	4	1600	600	N
+Double Coston	Effect Monster	DARK	Zombie	4	1700	1650	N
+Regenerating Mummy	Effect Monster	DARK	Zombie	4	1800	1500	N
+Night Assailant	Flip Effect Monster	DARK	Fiend	3	200	500	N
+Man-Thro' Tro'	Effect Monster	EARTH	Beast-Warrior	4	1000	1000	N
+King of the Swamp	Effect Monster	WATER	Aqua	3	500	1100	N
+Emissary of the Oasis	Effect Monster	LIGHT	Spellcaster	3	600	400	N
+Special Hurricane	Spell Card	None	Normal	0	0	0	N
+Order to Charge	Spell Card	None	Quick-Play	0	0	0	N
+Sword of the Soul-Eater	Spell Card	None	Equip	0	0	0	N
+Dust Barrier	Spell Card	None	Continuous	0	0	0	N
+Soul Reversal	Spell Card	None	Quick-Play	0	0	0	N
+Spell Economics	Spell Card	None	Continuous	0	0	0	N
+Level Limit - Area B	Spell Card	None	Continuous	0	0	0	N
+Enchanting Fitting Room	Spell Card	None	Normal	0	0	0	N
+The Law of the Normal	Spell Card	None	Normal	0	0	0	N
+Dark Magic Attack	Spell Card	None	Normal	0	0	0	N
+Delta Attacker	Spell Card	None	Normal	0	0	0	N
+Thousand Energy	Spell Card	None	Normal	0	0	0	N
+Triangle Power	Spell Card	None	Normal	0	0	0	N
+The Third Sarcophagus	Spell Card	None	Continuous	0	0	0	N
+The Second Sarcophagus	Spell Card	None	Continuous	0	0	0	N
+The First Sarcophagus	Trap Card	None	Continuous	0	0	0	N
+Human-Wave Tactics	Trap Card	None	Continuous	0	0	0	N
+Curse of Anubis	Trap Card	None	Normal	0	0	0	N
+Desert Sunlight	Trap Card	None	Normal	0	0	0	N
+Des Counterblow	Trap Card	None	Continuous	0	0	0	N
+Labyrinth of Nightmare	Trap Card	None	Continuous	0	0	0	N
+Soul Resurrection	Trap Card	None	Continuous	0	0	0	N
+Order to Smash	Trap Card	None	Normal	0	0	0	N
+The End of Anubis	Effect Monster	DARK	Fiend	6	2500	0	N
+Gandora the Dragon of Destruction	Effect Monster	DARK	Dragon	8	0	0	N
+Return from the Different Dimension	Trap Card	None	Normal	0	0	0	N
+Pyramid of Light	Trap Card	None	Continuous	0	0	0	N
+Blue-Eyes Shining Dragon	Effect Monster	LIGHT	Dragon	10	3000	2500	N
+Familiar Knight	Effect Monster	DARK	Warrior	3	1200	1400	N
+Rare Metal Dragon	Effect Monster	DARK	Dragon	4	2400	1200	N
+Peten the Dark Clown	Effect Monster	DARK	Spellcaster	3	500	1200	N
+Sorcerer of Dark Magic	Effect Monster	DARK	Spellcaster	9	3200	2800	N
+Andro Sphinx	Effect Monster	LIGHT	Beast	10	3000	2500	N
+Sphinx Teleia	Effect Monster	LIGHT	Beast	10	2500	3000	N
+Theinen the Great Sphinx	Effect Monster	LIGHT	Beast	10	3500	3000	N
+Inferno Tempest	Spell Card	None	Quick-Play	0	0	0	N
+Watapon	Effect Monster	LIGHT	Fairy	1	200	300	N
+Charcoal Inpachi	Normal Monster	FIRE	Pyro	1	100	2100	N
+Neo Aqua Madoor	Normal Monster	WATER	Spellcaster	6	1200	3000	N
+Skull Dog Marron	Normal Monster	EARTH	Beast	4	1350	2000	N
+Goblin Calligrapher	Normal Monster	DARK	Fiend	1	400	400	N
+Ultimate Insect LV1	Effect Monster	WIND	Insect	1	0	0	N
+Horus the Black Flame Dragon LV4	Effect Monster	FIRE	Dragon	4	1600	1000	N
+Horus the Black Flame Dragon LV6	Effect Monster	FIRE	Dragon	6	2300	1600	N
+Horus the Black Flame Dragon LV8	Effect Monster	FIRE	Dragon	8	3000	1800	N
+Dark Mimic LV1	Flip Effect Monster	DARK	Fiend	1	100	1000	N
+Dark Mimic LV3	Effect Monster	DARK	Fiend	3	1000	1000	N
+Mystic Swordsman LV2	Effect Monster	EARTH	Warrior	2	900	0	N
+Mystic Swordsman LV4	Effect Monster	EARTH	Warrior	4	1900	1600	N
+Armed Dragon LV3	Effect Monster	WIND	Dragon	3	1200	900	N
+Armed Dragon LV5	Effect Monster	WIND	Dragon	5	2400	1700	N
+Armed Dragon LV7	Effect Monster	WIND	Dragon	7	2800	1000	N
+Horus' Servant	Effect Monster	FIRE	Beast-Warrior	1	100	100	N
+Black Dragon's Chick	Effect Monster	DARK	Dragon	1	800	500	N
+Ninja Grandmaster Sasuke	Effect Monster	LIGHT	Warrior	4	1800	1000	N
+Rafflesia Seduction	Flip Effect Monster	EARTH	Plant	2	300	900	N
+Ultimate Baseball Kid	Effect Monster	FIRE	Warrior	3	500	1000	N
+Mobius the Frost Monarch	Effect Monster	WATER	Aqua	6	2400	1000	N
+Element Dragon	Effect Monster	LIGHT	Dragon	4	1500	1200	N
+Element Soldier	Effect Monster	DARK	Fiend	4	1500	1200	N
+Howling Insect	Effect Monster	EARTH	Insect	3	1200	1300	N
+Masked Dragon	Effect Monster	FIRE	Dragon	3	1400	1100	N
+Mind on Air	Effect Monster	DARK	Spellcaster	6	1000	1600	N
+Unshaven Angler	Effect Monster	WATER	Fish	4	1500	1600	N
+The Trojan Horse	Effect Monster	EARTH	Beast	4	1600	1200	N
+Nobleman-Eater Bug	Flip Effect Monster	EARTH	Insect	5	900	1200	N
+Enraged Muka Muka	Effect Monster	EARTH	Rock	5	1200	600	N
+Hade-Hane	Flip Effect Monster	EARTH	Beast	5	900	1000	N
+Penumbral Soldier Lady	Effect Monster	DARK	Warrior	6	2100	1400	N
+Ojama King	Fusion Monster	LIGHT	Beast	6	0	3000	N
+Master of Oz	Fusion Monster	EARTH	Beast	9	4200	3700	N
+Sanwitch	Fusion Monster	DARK	Spellcaster	6	2100	1800	N
+Dark Factory of Mass Production	Spell Card	None	Normal	0	0	0	N
+Hammer Shot	Spell Card	None	Normal	0	0	0	N
+Mind Wipe	Spell Card	None	Quick-Play	0	0	0	N
+Abyssal Designator	Spell Card	None	Normal	0	0	0	N
+Level Up!	Spell Card	None	Normal	0	0	0	N
+Inferno Fire Blast	Spell Card	None	Normal	0	0	0	N
+The Graveyard in the Fourth Dimension	Spell Card	None	Normal	0	0	0	N
+Two-Man Cell Battle	Spell Card	None	Continuous	0	0	0	N
+Big Wave Small Wave	Spell Card	None	Normal	0	0	0	N
+Fusion Weapon	Spell Card	None	Equip	0	0	0	N
+Ritual Weapon	Spell Card	None	Equip	0	0	0	N
+Taunt	Trap Card	None	Normal	0	0	0	N
+Absolute End	Trap Card	None	Normal	0	0	0	N
+Spirit Barrier	Trap Card	None	Continuous	0	0	0	N
+Ninjitsu Art of Decoy	Trap Card	None	Continuous	0	0	0	N
+Enervating Mist	Trap Card	None	Continuous	0	0	0	N
+Heavy Slump	Trap Card	None	Normal	0	0	0	N
+Greed	Trap Card	None	Continuous	0	0	0	N
+Cemetary Bomb	Trap Card	None	Normal	0	0	0	N
+Hallowed Life Barrier	Trap Card	None	Normal	0	0	0	N
+The Tricky	Effect Monster	WIND	Spellcaster	5	2000	1200	N
+Green Gadget	Effect Monster	EARTH	Machine	4	1400	600	N
+Stronghold the Moving Fortress	Trap Card	None	Continuous	0	0	0	N
+Red Gadget	Effect Monster	EARTH	Machine	4	1300	1500	N
+Yellow Gadget	Effect Monster	EARTH	Machine	4	1200	1200	N
+Tricky Spell 4	Spell Card	None	Quick-Play	0	0	0	N
+Blockman	Effect Monster	EARTH	Rock	4	1000	1500	N
+Silent Swordsman LV3	Effect Monster	LIGHT	Warrior	3	1000	1000	N
+Silent Swordsman LV5	Effect Monster	LIGHT	Warrior	5	2300	1000	N
+Silent Swordsman LV7	Effect Monster	LIGHT	Warrior	7	2800	1000	N
+Silent Magician LV4	Effect Monster	LIGHT	Spellcaster	4	1000	1000	N
+Magician's Circle	Trap Card	None	Normal	0	0	0	N
+Magicians Unite	Spell Card	None	Normal	0	0	0	N
+Silent Magician LV8	Effect Monster	LIGHT	Spellcaster	8	3500	1000	N
+Woodborg Inpachi	Normal Monster	FIRE	Machine	5	500	2500	N
+Mighty Guard	Normal Monster	EARTH	Machine	4	500	1200	N
+Bokoichi the Freightening Car	Normal Monster	DARK	Machine	2	500	500	N
+Harpie Girl	Normal Monster	WIND	Winged Beast	2	500	500	N
+The Creator	Effect Monster	LIGHT	Thunder	8	2300	3000	N
+The Creator Incarnate	Effect Monster	LIGHT	Warrior	4	1600	1500	N
+Ultimate Insect LV3	Effect Monster	WIND	Insect	3	1400	900	N
+Mystic Swordsman LV6	Effect Monster	EARTH	Warrior	6	2300	1700	N
+Heavy Mech Support Platform	Union Effect Monster	DARK	Machine	3	500	500	N
+Element Magician	Effect Monster	LIGHT	Spellcaster	4	1500	1200	N
+Element Saurus	Effect Monster	DARK	Dinosaur	4	1500	1200	N
+Roc from the Valley of Haze	Effect Monster	WIND	Winged Beast	6	2400	1400	N
+Sasuke Samurai #4	Effect Monster	WIND	Warrior	4	1200	1200	N
+Harpie Lady 1	Effect Monster	WIND	Winged Beast	4	1300	1400	N
+Harpie Lady 2	Effect Monster	WIND	Winged Beast	4	1300	1400	N
+Harpie Lady 3	Effect Monster	WIND	Winged Beast	4	1300	1400	N
+Raging Flame Sprite	Effect Monster	FIRE	Pyro	3	100	200	N
+Thestalos the Firestorm Monarch	Effect Monster	FIRE	Pyro	6	2400	1000	N
+Eagle Eye	Effect Monster	WIND	Winged Beast	3	1300	1200	N
+Tactical Espionage Expert	Effect Monster	EARTH	Warrior	3	1300	1200	N
+Invasion of Flames	Effect Monster	FIRE	Pyro	3	1300	1200	N
+Creeping Doom Manta	Effect Monster	WATER	Fish	3	1300	1200	N
+Pitch-Black Warwolf	Effect Monster	DARK	Beast-Warrior	4	1600	600	N
+Mirage Dragon	Effect Monster	LIGHT	Dragon	4	1600	600	N
+Gaia Soul the Combustible Collective	Effect Monster	FIRE	Pyro	4	2000	0	N
+Fox Fire	Effect Monster	FIRE	Pyro	2	300	200	N
+B.E.S. Big Core	Effect Monster	DARK	Machine	6	2300	1100	N
+Fusilier Dragon, the Dual-Mode Beast	Effect Monster	DARK	Machine	7	2800	2000	N
+Dekoichi the Battlechanted Locomotive	Flip Effect Monster	DARK	Machine	4	1400	1000	N
+A-Team: Trap Disposal Unit	Effect Monster	FIRE	Machine	2	300	400	N
+Homunculus the Alchemic Being	Effect Monster	LIGHT	Plant	4	1800	1600	N
+Dark Blade the Dragon Knight	Fusion Monster	DARK	Warrior	6	2200	1500	N
+Mokey Mokey King	Fusion Monster	LIGHT	Fairy	6	300	100	N
+Serial Spell	Spell Card	None	Quick-Play	0	0	0	N
+Harpies' Hunting Ground	Spell Card	None	Field	0	0	0	N
+Triangle Ecstasy Spark	Spell Card	None	Normal	0	0	0	N
+Necklace of Command	Spell Card	None	Equip	0	0	0	N
+Flint	Spell Card	None	Equip	0	0	0	N
+Mokey Mokey Smackdown	Spell Card	None	Continuous	0	0	0	N
+Back to Square One	Spell Card	None	Normal	0	0	0	N
+Monster Reincarnation	Spell Card	None	Normal	0	0	0	N
+Ballista of Rampart Smashing	Spell Card	None	Equip	0	0	0	N
+Lighten the Load	Spell Card	None	Continuous	0	0	0	N
+Malice Dispersion	Spell Card	None	Quick-Play	0	0	0	N
+Divine Wrath	Trap Card	None	Counter	0	0	0	N
+Xing Zhen Hu	Trap Card	None	Continuous	0	0	0	N
+Rare Metalmorph	Trap Card	None	Continuous	0	0	0	N
+Mind Haxorz	Trap Card	None	Normal	0	0	0	N
+Fuh-Rin-Ka-Zan	Trap Card	None	Normal	0	0	0	N
+Chain Burst	Trap Card	None	Continuous	0	0	0	N
+Pikeru's Circle of Enchantment	Trap Card	None	Normal	0	0	0	N
+Spell Purification	Trap Card	None	Normal	0	0	0	N
+Astral Barrier	Trap Card	None	Continuous	0	0	0	N
+Covering Fire	Trap Card	None	Normal	0	0	0	N
+Castle Gate	Effect Monster	EARTH	Rock	6	0	2400	N
+Owner's Seal	Spell Card	None	Normal	0	0	0	N
+Space Mambo	Normal Monster	WATER	Fish	4	1700	1000	N
+Divine Dragon Ragnarok	Normal Monster	LIGHT	Dragon	4	1500	1000	N
+Chu-Ske the Mouse Fighter	Normal Monster	EARTH	Beast	3	1200	0	N
+Insect Knight	Normal Monster	EARTH	Insect	4	1900	1500	N
+Sacred Phoenix of Nephthys	Effect Monster	FIRE	Winged Beast	8	2400	1600	N
+Hand of Nephthys	Effect Monster	WIND	Spellcaster	2	600	600	N
+Ultimate Insect LV5	Effect Monster	WIND	Insect	5	2300	900	N
+Granmarg the Rock Monarch	Effect Monster	EARTH	Rock	6	2400	1000	N
+Element Valkyrie	Effect Monster	LIGHT	Fairy	4	1500	1200	N
+Element Doom	Effect Monster	DARK	Fiend	4	1500	1200	N
+Maji-Gire Panda	Effect Monster	EARTH	Beast	4	1000	800	N
+Catnipped Kitty	Effect Monster	EARTH	Beast	2	0	500	N
+Behemoth the King of All Animals	Effect Monster	EARTH	Beast	7	2700	1500	N
+Big-Tusked Mammoth	Effect Monster	EARTH	Beast	5	2000	1000	N
+Kangaroo Champ	Effect Monster	EARTH	Beast	4	800	700	N
+Hyena	Effect Monster	EARTH	Beast	3	1000	300	N
+Blade Rabbit	Effect Monster	EARTH	Beast	2	400	300	N
+Mecha-Dog Marron	Effect Monster	LIGHT	Machine	4	1000	1000	N
+Blast Magician	Effect Monster	FIRE	Spellcaster	4	1400	1700	N
+Gearfried the Swordmaster	Effect Monster	LIGHT	Warrior	7	2600	2200	N
+Armed Samurai - Ben Kei	Effect Monster	DARK	Warrior	4	500	800	N
+Shadowslayer	Effect Monster	DARK	Fiend	4	1400	200	N
+Golem Sentry	Effect Monster	EARTH	Rock	4	800	1800	N
+Abare Ushioni	Effect Monster	EARTH	Beast-Warrior	4	1200	1200	N
+The Light - Hex-Sealed Fusion	Effect Monster	LIGHT	Rock	3	1000	1600	N
+The Dark - Hex-Sealed Fusion	Effect Monster	DARK	Rock	3	1000	1600	N
+The Earth - Hex-Sealed Fusion	Effect Monster	EARTH	Rock	3	1000	1600	N
+Whirlwind Prodigy	Effect Monster	WIND	Fairy	4	1500	1600	N
+Flame Ruler	Effect Monster	FIRE	Pyro	4	1500	1600	N
+Firebird	Effect Monster	FIRE	Winged Beast	4	1000	800	N
+Rescue Cat	Effect Monster	EARTH	Beast	4	300	100	N
+Brain Jacker	Flip Effect Monster	DARK	Fiend	2	200	900	N
+Gatling Dragon	Fusion Monster	DARK	Machine	8	2600	1200	N
+King Dragun	Fusion Monster	DARK	Dragon	7	2400	1100	N
+A Feather of the Phoenix	Spell Card	None	Normal	0	0	0	N
+Poison Fangs	Spell Card	None	Continuous	0	0	0	N
+Swords of Concealing Light	Spell Card	None	Continuous	0	0	0	N
+Spiral Spear Strike	Spell Card	None	Continuous	0	0	0	N
+Release Restraint	Spell Card	None	Normal	0	0	0	N
+Centrifugal Field	Spell Card	None	Field	0	0	0	N
+Fulfillment of the Contract	Spell Card	None	Equip	0	0	0	N
+Re-Fusion	Spell Card	None	Equip	0	0	0	N
+The Big March of Animals	Spell Card	None	Quick-Play	0	0	0	N
+Cross Counter	Trap Card	None	Normal	0	0	0	N
+Threatening Roar	Trap Card	None	Normal	0	0	0	N
+Phoenix Wing Wind Blast	Trap Card	None	Normal	0	0	0	N
+Good Goblin Housekeeping	Trap Card	None	Normal	0	0	0	N
+Beast Soul Swap	Trap Card	None	Normal	0	0	0	N
+Assault on GHQ	Trap Card	None	Normal	0	0	0	N
+D.D. Dynamite	Trap Card	None	Normal	0	0	0	N
+Deck Devastation Virus	Trap Card	None	Normal	0	0	0	N
+Elemental Burst	Trap Card	None	Normal	0	0	0	N
+Forced Ceasefire	Trap Card	None	Normal	0	0	0	N
+Vampire's Curse	Effect Monster	DARK	Zombie	6	2000	800	N
+Union Attack	Spell Card	None	Normal	0	0	0	N
+Blood Sucker	Effect Monster	DARK	Zombie	4	1300	1500	N
+Overpowering Eye	Spell Card	None	Normal	0	0	0	N
+Red-Eyes Darkness Dragon	Effect Monster	DARK	Dragon	9	2400	2000	N
+Vampire Genesis	Effect Monster	DARK	Zombie	8	3000	2100	N
+Kaibaman	Effect Monster	LIGHT	Warrior	3	200	700	N
+Elemental HERO Avian	Normal Monster	WIND	Warrior	3	1000	1000	N
+Elemental HERO Burstinatrix	Normal Monster	FIRE	Warrior	3	1200	800	N
+Elemental HERO Clayman	Normal Monster	EARTH	Warrior	4	800	2000	N
+Elemental HERO Sparkman	Normal Monster	LIGHT	Warrior	4	1600	1400	N
+Winged Kuriboh	Effect Monster	LIGHT	Fairy	1	300	200	N
+Ancient Gear Golem	Effect Monster	EARTH	Machine	8	3000	3000	N
+Ancient Gear Beast	Effect Monster	EARTH	Machine	6	2000	2000	N
+Ancient Gear Soldier	Effect Monster	EARTH	Machine	4	1300	1300	N
+Millennium Scorpion	Effect Monster	EARTH	Insect	5	2000	1800	N
+Ultimate Insect LV7	Effect Monster	WIND	Insect	7	2600	1200	N
+Lost Guardian	Effect Monster	EARTH	Rock	4	100	-1	N
+Hieracosphinx	Effect Monster	EARTH	Rock	6	2400	1200	N
+Criosphinx	Effect Monster	EARTH	Rock	6	1200	2400	N
+Moai Interceptor Cannons	Effect Monster	EARTH	Rock	4	1100	2000	N
+Megarock Dragon	Effect Monster	EARTH	Rock	7	-1	-1	N
+Dummy Golem	Flip Effect Monster	EARTH	Rock	2	800	800	N
+Grave Ohja	Effect Monster	EARTH	Rock	4	1600	1500	N
+Mine Golem	Effect Monster	EARTH	Rock	3	1000	1900	N
+Monk Fighter	Effect Monster	EARTH	Rock	3	1300	1000	N
+Master Monk	Effect Monster	EARTH	Rock	5	1900	1000	N
+Guardian Statue	Effect Monster	EARTH	Rock	4	800	1400	N
+Medusa Worm	Effect Monster	EARTH	Rock	2	500	600	N
+D.D. Survivor	Effect Monster	DARK	Warrior	4	1800	200	N
+Mid Shield Gardna	Effect Monster	EARTH	Warrior	4	100	1800	N
+White Ninja	Flip Effect Monster	LIGHT	Warrior	4	1500	800	N
+Aussa the Earth Charmer	Flip Effect Monster	EARTH	Spellcaster	3	500	1500	N
+Eria the Water Charmer	Flip Effect Monster	WATER	Spellcaster	3	500	1500	N
+Hiita the Fire Charmer	Flip Effect Monster	FIRE	Spellcaster	3	500	1500	N
+Wynn the Wind Charmer	Flip Effect Monster	WIND	Spellcaster	3	500	1500	N
+Batteryman AA	Effect Monster	LIGHT	Thunder	3	0	0	N
+Des Wombat	Effect Monster	EARTH	Beast	3	1600	300	N
+King of the Skull Servants	Effect Monster	DARK	Zombie	1	-1	0	N
+Reshef the Dark Being	Ritual Effect Monster	LIGHT	Fiend	8	2500	1500	N
+Elemental Mistress Doriado	Ritual Effect Monster	LIGHT	Spellcaster	3	1200	1400	N
+Elemental HERO Flame Wingman	Fusion Monster	WIND	Warrior	6	2100	1200	N
+Elemental HERO Thunder Giant	Fusion Monster	LIGHT	Warrior	6	2400	1500	N
+Gift of the Martyr	Spell Card	None	Normal	0	0	0	N
+Double Attack	Spell Card	None	Normal	0	0	0	N
+Battery Charger	Spell Card	None	Normal	0	0	0	N
+Kaminote Blow	Spell Card	None	Normal	0	0	0	N
+Doriado's Blessing	Spell Card	None	Ritual	0	0	0	N
+Final Ritual of the Ancients	Spell Card	None	Ritual	0	0	0	N
+Legendary Black Belt	Spell Card	None	Equip	0	0	0	N
+Nitro Unit	Spell Card	None	Equip	0	0	0	N
+Shifting Shadows	Spell Card	None	Continuous	0	0	0	N
+Impenetrable Formation	Spell Card	None	Continuous	0	0	0	N
+Hero Signal	Trap Card	None	Normal	0	0	0	N
+Pikeru's Second Sight	Trap Card	None	Normal	0	0	0	N
+Minefield Eruption	Trap Card	None	Normal	0	0	0	N
+Kozaky's Self-Destruct Button	Trap Card	None	Normal	0	0	0	N
+Mispolymerization	Trap Card	None	Normal	0	0	0	N
+Level Conversion Lab	Trap Card	None	Normal	0	0	0	N
+Rock Bombardment	Trap Card	None	Normal	0	0	0	N
+Token Feastevil	Trap Card	None	Normal	0	0	0	N
+Spell-Stopping Statute	Trap Card	None	Counter	0	0	0	N
+Royal Surrender	Trap Card	None	Counter	0	0	0	N
+Infernal Flame Emperor	Effect Monster	FIRE	Pyro	9	2700	1600	N
+Divine Knight Ishzark	Effect Monster	LIGHT	Warrior	6	2300	1800	N
+Ocean Dragon Lord - Neo-Daedalus	Effect Monster	WATER	Sea Serpent	8	2900	1600	N
+Cycroid	Normal Monster	EARTH	Machine	3	800	1000	N
+Patroid	Effect Monster	EARTH	Machine	4	1200	1200	N
+Gyroid	Effect Monster	WIND	Machine	3	1000	1000	N
+Steamroid	Effect Monster	EARTH	Machine	4	1800	1800	N
+Drillroid	Effect Monster	EARTH	Machine	4	1600	1600	N
+UFOroid	Effect Monster	LIGHT	Machine	6	1200	1200	N
+Jetroid	Effect Monster	WIND	Machine	4	1200	1800	N
+Cyber Dragon	Effect Monster	LIGHT	Machine	5	2100	1600	N
 Wroughtweiler	Effect Monster	EARTH	Machine	3	800	1200	N
-Xtra HERO Wonder Driver	Link Monster	LIGHT	Warrior	0	1900	None	N
-Yellow Ninja	Effect Monster	WIND	Warrior	4	1900	1800	N
+Elemental HERO Bubbleman	Effect Monster	WATER	Warrior	4	800	1200	N
+Steam Gyroid	Fusion Monster	EARTH	Machine	6	2200	1600	N
+UFOroid Fighter	Fusion Monster	LIGHT	Machine	10	-1	-1	N
+Cyber Twin Dragon	Fusion Monster	LIGHT	Machine	8	2800	2100	N
+Cyber End Dragon	Fusion Monster	LIGHT	Machine	10	4000	2800	N
+Power Bond	Spell Card	None	Normal	0	0	0	N
+Skyscraper	Spell Card	None	Field	0	0	0	N
+Summoner Monk	Effect Monster	DARK	Spellcaster	4	800	1600	N
+The Wicked Dreadroot	Effect Monster	DARK	Fiend	10	4000	4000	N
+Winged Kuriboh LV10	Effect Monster	LIGHT	Fairy	10	300	200	N
+Transcendent Wings	Spell Card	None	Quick-Play	0	0	0	N
+Bubble Shuffle	Spell Card	None	Quick-Play	0	0	0	N
+Spark Blaster	Spell Card	None	Equip	0	0	0	N
+Van'Dalgyon the Dark Dragon Lord	Effect Monster	DARK	Dragon	8	2800	2500	N
+Soitsu	Normal Monster	WIND	Fairy	3	0	0	N
+Mad Lobster	Normal Monster	WATER	Aqua	3	1700	1000	N
+Jerry Beans Man	Normal Monster	EARTH	Plant	3	1750	0	N
+Cybernetic Magician	Effect Monster	LIGHT	Spellcaster	6	2400	1000	N
+Cybernetic Cyclopean	Effect Monster	EARTH	Beast-Warrior	4	1400	200	N
+Mechanical Hound	Effect Monster	EARTH	Machine	7	2800	1500	N
+Cyber Archfiend	Effect Monster	DARK	Fiend	4	1000	2000	N
+Goblin Elite Attack Force	Effect Monster	EARTH	Fiend	4	2200	1500	N
+B.E.S. Crystal Core	Effect Monster	WATER	Machine	5	2100	1000	N
+Giant Kozaky	Effect Monster	DARK	Fiend	4	2500	2400	N
+Indomitable Fighter Lei Lei	Effect Monster	EARTH	Beast-Warrior	4	2300	0	N
+Protective Soul Ailin	Union Effect Monster	LIGHT	Fairy	1	0	0	N
+Doitsu	Union Effect Monster	EARTH	Fairy	4	100	200	N
+Des Frog	Effect Monster	WATER	Aqua	5	1900	0	N
+T.A.D.P.O.L.E.	Effect Monster	WATER	Aqua	1	0	0	N
+Poison Draw Frog	Effect Monster	WATER	Aqua	2	100	100	N
+Tyranno Infinity	Effect Monster	EARTH	Dinosaur	4	-1	0	N
+Batteryman C	Effect Monster	LIGHT	Thunder	2	0	0	N
+Ebon Magician Curran	Effect Monster	DARK	Spellcaster	2	1200	0	N
+D.D.M. - Different Dimension Master	Effect Monster	LIGHT	Spellcaster	5	1700	1500	N
+Fusion Recovery	Spell Card	None	Normal	0	0	0	N
+Miracle Fusion	Spell Card	None	Normal	0	0	0	N
+Dragon's Mirror	Spell Card	None	Normal	0	0	0	N
+System Down	Spell Card	None	Normal	0	0	0	N
+Des Croaking	Spell Card	None	Normal	0	0	0	N
+Pot of Generosity	Spell Card	None	Normal	0	0	0	N
+Shien's Spy	Spell Card	None	Normal	0	0	0	N
+Fire Darts	Trap Card	None	Normal	0	0	0	N
+Spiritual Earth Art - Kurogane	Trap Card	None	Normal	0	0	0	N
+Spiritual Water Art - Aoi	Trap Card	None	Normal	0	0	0	N
+Spiritual Fire Art - Kurenai	Trap Card	None	Normal	0	0	0	N
+Spiritual Wind Art - Miyabi	Trap Card	None	Normal	0	0	0	N
+A Rival Appears!	Trap Card	None	Normal	0	0	0	N
+Magical Explosion	Trap Card	None	Normal	0	0	0	N
+Rising Energy	Trap Card	None	Normal	0	0	0	N
+D.D. Trap Hole	Trap Card	None	Normal	0	0	0	N
+Conscription	Trap Card	None	Normal	0	0	0	N
+Dimension Wall	Trap Card	None	Normal	0	0	0	N
+Prepare to Strike Back	Trap Card	None	Continuous	0	0	0	N
+The Selection	Trap Card	None	Counter	0	0	0	N
+Arcana Knight Joker	Fusion Monster	LIGHT	Warrior	9	3800	2500	N
+Gilford the Legend	Effect Monster	EARTH	Warrior	8	2600	2000	N
+Warrior Lady of the Wasteland	Effect Monster	EARTH	Warrior	4	1100	1200	N
+Divine Sword - Phoenix Blade	Spell Card	None	Equip	0	0	0	N
+Elemental HERO Shining Flare Wingman	Fusion Monster	LIGHT	Warrior	8	2500	2100	N
+Level Modulation	Spell Card	None	Normal	0	0	0	N
+Ojamuscle	Spell Card	None	Normal	0	0	0	N
+Ojamagic	Spell Card	None	Normal	0	0	0	N
+V-Tiger Jet	Normal Monster	LIGHT	Machine	4	1600	1800	N
+Blade Skater	Normal Monster	EARTH	Warrior	4	1400	1500	N
+Reborn Zombie	Effect Monster	DARK	Zombie	4	1000	1600	N
+W-Wing Catapult	Union Effect Monster	LIGHT	Machine	4	1300	1500	N
+Elemental HERO Bladedge	Effect Monster	EARTH	Warrior	7	2600	1800	N
+Elemental HERO Wildheart	Effect Monster	EARTH	Warrior	4	1500	1600	N
+Hydrogeddon	Effect Monster	WATER	Dinosaur	4	1600	1000	N
+Oxygeddon	Effect Monster	WIND	Dinosaur	4	1800	800	N
+Water Dragon	Effect Monster	WATER	Sea Serpent	8	2800	2600	N
+Etoile Cyber	Effect Monster	EARTH	Warrior	4	1200	1600	N
+VW-Tiger Catapult	Fusion Monster	LIGHT	Machine	6	2000	2100	N
+VWXYZ-Dragon Catapult Cannon	Fusion Monster	LIGHT	Machine	8	3000	2800	N
+Cyber Blader	Fusion Monster	EARTH	Warrior	7	2100	800	N
+Elemental HERO Rampart Blaster	Fusion Monster	EARTH	Warrior	6	2000	2500	N
+Elemental HERO Tempest	Fusion Monster	WIND	Warrior	8	2800	2800	N
+Elemental HERO Wildedge	Fusion Monster	EARTH	Warrior	8	2600	2300	N
+Chthonian Alliance	Spell Card	None	Equip	0	0	0	N
+Feather Shot	Spell Card	None	Normal	0	0	0	N
+Bonding - H2O	Spell Card	None	Normal	0	0	0	N
+Chthonian Polymer	Trap Card	None	Normal	0	0	0	N
+Chthonian Blast	Trap Card	None	Normal	0	0	0	N
+Hero Barrier	Trap Card	None	Normal	0	0	0	N
+Feather Wind	Trap Card	None	Counter	0	0	0	N
+Zure, Knight of Dark World	Normal Monster	DARK	Fiend	4	1800	1500	N
+B.E.S. Tetran	Effect Monster	WIND	Machine	6	1800	2300	N
+Nanobreaker	Effect Monster	EARTH	Machine	4	1600	1800	N
+Rapid-Fire Magician	Effect Monster	DARK	Spellcaster	4	1600	1200	N
+Beiige, Vanguard of Dark World	Effect Monster	DARK	Fiend	4	1600	1300	N
+Broww, Huntsman of Dark World	Effect Monster	DARK	Fiend	3	1400	800	N
+Brron, Mad King of Dark World	Effect Monster	DARK	Fiend	4	1800	400	N
+Sillva, Warlord of Dark World	Effect Monster	DARK	Fiend	5	2300	1400	N
+Goldd, Wu-Lord of Dark World	Effect Monster	DARK	Fiend	5	2300	1400	N
+Scarr, Scout of Dark World	Effect Monster	DARK	Fiend	2	500	500	N
+Familiar-Possessed - Aussa	Effect Monster	EARTH	Spellcaster	4	1850	1500	N
+Familiar-Possessed - Eria	Effect Monster	WATER	Spellcaster	4	1850	1500	N
+Familiar-Possessed - Hiita	Effect Monster	FIRE	Spellcaster	4	1850	1500	N
+Familiar-Possessed - Wynn	Effect Monster	WIND	Spellcaster	4	1850	1500	N
+Pot of Avarice	Spell Card	None	Normal	0	0	0	N
+Dark World Lightning	Spell Card	None	Normal	0	0	0	N
+Boss Rush	Spell Card	None	Continuous	0	0	0	N
+Gateway to Dark World	Spell Card	None	Quick-Play	0	0	0	N
+The Forces of Darkness	Trap Card	None	Normal	0	0	0	N
+Dark Deal	Trap Card	None	Normal	0	0	0	N
+Simultaneous Loss	Trap Card	None	Normal	0	0	0	N
+Weed Out	Trap Card	None	Normal	0	0	0	N
+The League of Uniform Nomenclature	Trap Card	None	Normal	0	0	0	N
+Roll Out!	Trap Card	None	Normal	0	0	0	N
+Non-Fusion Area	Trap Card	None	Continuous	0	0	0	N
+Level Limit - Area A	Trap Card	None	Continuous	0	0	0	N
+Armed Changer	Spell Card	None	Equip	0	0	0	N
+Elemental HERO Necroshade	Effect Monster	DARK	Warrior	5	1600	1800	N
+Hero Ring	Trap Card	None	Normal	0	0	0	N
+Elemental HERO Mudballman	Fusion Monster	EARTH	Warrior	6	1900	3000	N
+Dark Eradicator Warlock	Effect Monster	DARK	Spellcaster	7	2500	2100	N
+Mythical Beast Cerberus	Effect Monster	LIGHT	Spellcaster	4	1400	1400	N
+Magical Blast	Spell Card	None	Normal	0	0	0	N
+Elemental HERO Steam Healer	Fusion Monster	WATER	Warrior	5	1800	1000	N
+Burst Return	Spell Card	None	Normal	0	0	0	N
+Bubble Blaster	Spell Card	None	Equip	0	0	0	N
+Bubble Illusion	Spell Card	None	Quick-Play	0	0	0	N
+Clay Charge	Trap Card	None	Normal	0	0	0	N
+Armed Dragon LV10	Effect Monster	WIND	Dragon	10	3000	2000	N
+Magical Mallet	Spell Card	None	Normal	0	0	0	N
+Inferno Reckless Summon	Spell Card	None	Quick-Play	0	0	0	N
+Lancer Dragonute	Effect Monster	DARK	Dragon	4	1500	1800	N
+Mist Body	Spell Card	None	Equip	0	0	0	N
+Axe Dragonute	Effect Monster	DARK	Dragon	4	2000	1200	N
+White-Horned Dragon	Effect Monster	DARK	Dragon	6	2200	1400	N
+Uria, Lord of Searing Flames	Effect Monster	FIRE	Pyro	10	0	0	N
+Hamon, Lord of Striking Thunder	Effect Monster	LIGHT	Thunder	10	4000	4000	N
+Raviel, Lord of Phantasms	Effect Monster	DARK	Fiend	10	4000	4000	N
+Elemental HERO Neo Bubbleman	Effect Monster	WATER	Warrior	4	800	1200	N
+Hero Kid	Effect Monster	EARTH	Warrior	2	300	600	N
+Cyber Barrier Dragon	Effect Monster	LIGHT	Machine	6	800	2800	N
+Cyber Laser Dragon	Effect Monster	LIGHT	Machine	7	2400	1800	N
+Ancient Gear	Effect Monster	EARTH	Machine	2	100	800	N
+Hero Heart	Spell Card	None	Normal	0	0	0	N
+Magnet Circle LV2	Spell Card	None	Normal	0	0	0	N
+Ancient Gear Drill	Spell Card	None	Normal	0	0	0	N
+Phantasmal Martyrs	Spell Card	None	Normal	0	0	0	N
+Cyclone Boomerang	Spell Card	None	Equip	0	0	0	N
+Photon Generator Unit	Spell Card	None	Quick-Play	0	0	0	N
+Ancient Gear Castle	Spell Card	None	Continuous	0	0	0	N
+Miracle Kids	Trap Card	None	Normal	0	0	0	N
+Attack Reflector Unit	Trap Card	None	Normal	0	0	0	N
+Damage Condenser	Trap Card	None	Normal	0	0	0	N
+Ancient Gear Cannon	Effect Monster	EARTH	Machine	2	500	500	N
+Proto-Cyber Dragon	Effect Monster	LIGHT	Machine	3	1100	600	N
+Adhesive Explosive	Effect Monster	WIND	Machine	3	1000	1000	N
+Machine King Prototype	Effect Monster	EARTH	Machine	3	1600	1500	N
+B.E.S. Covered Core	Effect Monster	EARTH	Machine	7	2500	800	N
+D.D. Guide	Effect Monster	DARK	Warrior	4	1400	1000	N
+Chain Thrasher	Effect Monster	WIND	Warrior	4	1000	600	N
+Disciple of the Forbidden Spell	Effect Monster	LIGHT	Warrior	4	1700	800	N
+Tenkabito Shien	Effect Monster	FIRE	Pyro	4	1500	1000	N
+Parasitic Ticky	Effect Monster	EARTH	Insect	1	-1	-1	N
+Gokipon	Effect Monster	EARTH	Insect	2	800	800	N
+Silent Insect	Effect Monster	EARTH	Insect	2	200	300	N
+Chainsaw Insect	Effect Monster	EARTH	Insect	4	2400	0	N
+Anteatereatingant	Effect Monster	EARTH	Insect	5	2000	500	N
+Saber Beetle	Effect Monster	EARTH	Insect	6	2400	600	N
+Doom Dozer	Effect Monster	EARTH	Insect	8	2800	2600	N
+Treeborn Frog	Effect Monster	WATER	Aqua	1	100	100	N
+Beelze Frog	Effect Monster	WATER	Aqua	3	1200	800	N
+Princess Pikeru	Effect Monster	LIGHT	Spellcaster	4	2000	0	N
+Princess Curran	Effect Monster	DARK	Spellcaster	4	2000	0	N
+Memory Crusher	Effect Monster	DARK	Fiend	3	1000	600	N
+Malice Ascendant	Effect Monster	DARK	Zombie	4	700	1000	N
+Grass Phantom	Effect Monster	WATER	Plant	3	1000	1000	N
+Sand Moth	Effect Monster	EARTH	Rock	4	1000	2000	N
+Divine Dragon - Excelion	Effect Monster	LIGHT	Dragon	5	1500	900	N
+Ruin, Queen of Oblivion	Ritual Effect Monster	LIGHT	Fairy	8	2300	2000	N
+Demise, King of Armageddon	Ritual Effect Monster	DARK	Fiend	8	2400	2000	N
+D.3.S. Frog	Fusion Monster	WATER	Aqua	8	2500	2000	N
+Symbol of Heritage	Spell Card	None	Equip	0	0	0	N
+Trial of the Princesses	Spell Card	None	Equip	0	0	0	N
+End of the World	Spell Card	None	Ritual	0	0	0	N
+Samsara	Spell Card	None	Continuous	0	0	0	N
+Karma Cut	Trap Card	None	Normal	0	0	0	N
+Next to be Lost	Trap Card	None	Normal	0	0	0	N
+Generation Shift	Trap Card	None	Normal	0	0	0	N
+Full Salvo	Trap Card	None	Normal	0	0	0	N
+Success Probability 0%	Trap Card	None	Normal	0	0	0	N
+Option Hunter	Trap Card	None	Normal	0	0	0	N
+Goblin Out of the Frying Pan	Trap Card	None	Counter	0	0	0	N
+Malfunction	Trap Card	None	Counter	0	0	0	N
+The Flute of Summoning Kuriboh	Spell Card	None	Quick-Play	0	0	0	N
+Elemental HERO Electrum	Fusion Monster	LIGHT	Warrior	10	2900	2600	N
+Exxod, Master of The Guard	Effect Monster	EARTH	Rock	8	0	4000	N
+Great Spirit	Effect Monster	EARTH	Rock	4	500	1500	N
+Canyon	Spell Card	None	Field	0	0	0	N
+Golden Homunculus	Effect Monster	LIGHT	Warrior	6	1500	1500	N
+Helios - The Primordial Sun	Effect Monster	LIGHT	Pyro	4	-1	-1	N
+Helios Duo Megistus	Effect Monster	LIGHT	Pyro	6	-1	-1	N
+Helios Trice Megistus	Effect Monster	LIGHT	Pyro	8	-1	-1	N
+Elemental HERO Neos	Normal Monster	LIGHT	Warrior	7	2500	2000	N
+Dandylion	Effect Monster	EARTH	Plant	3	300	300	N
+Insect Monster Token	Token	None	Insect	0	0	0	N
+Kuriboh Token	Token	None	Fiend	0	0	0	N
+Sheep Token	Token	None	Beast	0	0	0	N
+Army Ant Token	Token	None	Insect	0	0	0	N
+Slime Token	Token	None	Aqua	0	0	0	N
+Wicked Token	Token	None	Fiend	0	0	0	N
+Poisonous Snake Token	Token	None	Reptile	0	0	0	N
+Lekunga Token	Token	None	Plant	0	0	0	N
+Wicked Plant Token	Token	None	Plant	0	0	0	N
+Metal Fiend Token	Token	None	Fiend	0	0	0	N
+Ojama Token	Token	None	Beast	0	0	0	N
+Lamb Token	Token	None	Beast	0	0	0	N
+Tricky Token	Token	None	Spellcaster	0	0	0	N
+Block Token	Token	None	Rock	0	0	0	N
+Phantasm Token	Token	None	Fiend	0	0	0	N
+Phantasmal Martyr Token	Token	None	Fiend	0	0	0	N
+Fluff Token	Token	None	Plant	0	0	0	N
