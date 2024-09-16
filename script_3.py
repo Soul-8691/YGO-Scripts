@@ -1961,29 +1961,29 @@ mod = [
 
 output = open('output.txt', 'w', encoding='utf8')
 
-for card in mod:
+for card in eds_cards:
     count = 0
-    for set in data2[card]:
-        try:
-            date_ = parser.parse(data2[card][set]['set_chronology_tcg'][1]).date()
-            if date_ <= critter:
-                attribute = 'None'
-                level = 0
-                atk = 0
-                defn = 0
-                try:
-                    attribute = card_info[card]['attribute']
-                    level = card_info[card]['level']
-                    atk = card_info[card]['atk']
-                    defn = card_info[card]['def']
-                    if count == 0:
-                        output.write(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\tY\n')
-                except:
-                    if count == 0:
-                        output.write(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\tY\n')
-                count = count + 1
-        except:
-            pass
+    # for set in data2[card]:
+    #     try:
+    #         date_ = parser.parse(data2[card][set]['set_chronology_tcg'][1]).date()
+    #         if date_ <= critter:
+    #             attribute = 'None'
+    #             level = 0
+    #             atk = 0
+    #             defn = 0
+    #             try:
+    #                 attribute = card_info[card]['attribute']
+    #                 level = card_info[card]['level']
+    #                 atk = card_info[card]['atk']
+    #                 defn = card_info[card]['def']
+    #                 if count == 0:
+    #                     output.write(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\tY\n')
+    #             except:
+    #                 if count == 0:
+    #                     output.write(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\tY\n')
+    #             count = count + 1
+    #     except:
+    #         pass
     attribute = 'None'
     level = 0
     atk = 0
@@ -1994,10 +1994,10 @@ for card in mod:
         atk = card_info[card]['atk']
         defn = card_info[card]['def']
         if count == 0:
-            output.write(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\tN\n')
+            output.write(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\n')
     except:
         if count == 0:
-            output.write(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\tN\n')
+            output.write(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\n')
 
 # for card in eds_cards:
     # # printed = False

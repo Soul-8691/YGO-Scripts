@@ -1,1 +1,168 @@
-Fusion Conscription	Spell Card	None	Normal	0	0	0	N
+Main deck:
+Fissure: 129
+Man-Eater Bug: 129
+Trap Hole: 129
+Giant Soldier of Stone: 115
+La Jinn the Mystical Genie of the Lamp: 106
+Waboku: 104
+Battle Ox: 95
+Neo the Magic Swordsman: 95
+Reinforcements: 92
+Swords of Revealing Light: 79
+Summoned Skull: 78
+Soul Exchange: 73
+Wall of Illusion: 58
+Ultimate Offering: 46
+Aqua Madoor: 43
+Change of Heart: 43
+Dark Hole: 43
+Monster Reborn: 43
+Pot of Greed: 43
+Raigeki: 43
+Gyakutenno Megami: 24
+Mystical Elf: 24
+Spirit of the Harp: 24
+Card Destruction: 15
+Judge Man: 15
+De-Spell: 13
+Final Flame: 9
+Just Desserts: 9
+Ookazi: 9
+The Wicked Worm Beast: 9
+Last Will: 8
+Great White: 6
+Trap Master: 6
+Blue-Eyes White Dragon: 2
+Curse of Dragon: 2
+Lord of D.: 2
+The Flute of Summoning Dragon: 2
+Umi: 2
+Castle Walls: 1
+Hane-Hane: 1
+Reaper of the Cards: 1
+The Stern Mystic: 1
+
+Side deck:
+Trap Master: 42
+Wall of Illusion: 36
+Just Desserts: 35
+Stop Defense: 35
+Reinforcements: 34
+Summoned Skull: 31
+Card Destruction: 30
+Neo the Magic Swordsman: 30
+Judge Man: 29
+Soul Exchange: 27
+Battle Ox: 26
+De-Spell: 26
+Waboku: 25
+Aqua Madoor: 22
+Ookazi: 22
+The Wicked Worm Beast: 22
+Great White: 21
+La Jinn the Mystical Genie of the Lamp: 20
+Ultimate Offering: 19
+Mystical Elf: 17
+Dragon Capture Jar: 16
+Giant Soldier of Stone: 12
+Remove Trap: 11
+Swords of Revealing Light: 7
+Last Will: 6
+Spirit of the Harp: 6
+Umi: 5
+Final Flame: 4
+Hane-Hane: 4
+Gyakutenno Megami: 3
+Reaper of the Cards: 3
+Ryu-Kishin Powered: 3
+Armed Ninja: 2
+Dian Keto the Cure Master: 2
+Dragon Zombie: 2
+Invigoration: 2
+Reverse Trap: 2
+Destroyer Golem: 1
+Petit Dragon: 1
+Sparks: 1
+The Stern Mystic: 1
+Wasteland: 1
+Yami: 1
+
+Extra deck:
+Metal Dragon: 58
+Flower Wolf: 55
+Gaia the Dragon Champion: 54
+Flame Swordsman: 40
+Flame Ghost: 34
+Fusionist: 33
+Darkfire Dragon: 21
+Dragoness the Wicked Knight: 21
+Karbonala Warrior: 20
+Charubin the Fire Knight: 9
+
+All decks:
+Fissure: 129
+Man-Eater Bug: 129
+Trap Hole: 129
+Waboku: 129
+Giant Soldier of Stone: 127
+La Jinn the Mystical Genie of the Lamp: 126
+Reinforcements: 126
+Neo the Magic Swordsman: 125
+Battle Ox: 121
+Summoned Skull: 109
+Soul Exchange: 100
+Wall of Illusion: 94
+Swords of Revealing Light: 86
+Aqua Madoor: 65
+Ultimate Offering: 65
+Metal Dragon: 58
+Flower Wolf: 55
+Gaia the Dragon Champion: 54
+Trap Master: 48
+Card Destruction: 45
+Judge Man: 44
+Just Desserts: 44
+Change of Heart: 43
+Dark Hole: 43
+Monster Reborn: 43
+Pot of Greed: 43
+Raigeki: 43
+Mystical Elf: 41
+Flame Swordsman: 40
+De-Spell: 39
+Stop Defense: 35
+Flame Ghost: 34
+Fusionist: 33
+Ookazi: 31
+The Wicked Worm Beast: 31
+Spirit of the Harp: 30
+Great White: 27
+Gyakutenno Megami: 27
+Darkfire Dragon: 21
+Dragoness the Wicked Knight: 21
+Karbonala Warrior: 20
+Dragon Capture Jar: 16
+Last Will: 14
+Final Flame: 13
+Remove Trap: 11
+Charubin the Fire Knight: 9
+Umi: 7
+Hane-Hane: 5
+Reaper of the Cards: 4
+Ryu-Kishin Powered: 3
+Armed Ninja: 2
+Blue-Eyes White Dragon: 2
+Curse of Dragon: 2
+Dian Keto the Cure Master: 2
+Dragon Zombie: 2
+Invigoration: 2
+Lord of D.: 2
+Reverse Trap: 2
+The Flute of Summoning Dragon: 2
+The Stern Mystic: 2
+Castle Walls: 1
+Destroyer Golem: 1
+Petit Dragon: 1
+Sparks: 1
+Wasteland: 1
+Yami: 1
