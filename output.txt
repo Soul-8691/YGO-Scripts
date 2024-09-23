@@ -1,168 +1,194 @@
-Main deck:
-Fissure: 129
-Man-Eater Bug: 129
-Trap Hole: 129
-Giant Soldier of Stone: 115
-La Jinn the Mystical Genie of the Lamp: 106
-Waboku: 104
-Battle Ox: 95
-Neo the Magic Swordsman: 95
-Reinforcements: 92
-Swords of Revealing Light: 79
-Summoned Skull: 78
-Soul Exchange: 73
-Wall of Illusion: 58
-Ultimate Offering: 46
-Aqua Madoor: 43
-Change of Heart: 43
-Dark Hole: 43
-Monster Reborn: 43
-Pot of Greed: 43
-Raigeki: 43
-Gyakutenno Megami: 24
-Mystical Elf: 24
-Spirit of the Harp: 24
-Card Destruction: 15
-Judge Man: 15
-De-Spell: 13
-Final Flame: 9
-Just Desserts: 9
-Ookazi: 9
-The Wicked Worm Beast: 9
-Last Will: 8
-Great White: 6
-Trap Master: 6
-Blue-Eyes White Dragon: 2
-Curse of Dragon: 2
-Lord of D.: 2
-The Flute of Summoning Dragon: 2
-Umi: 2
-Castle Walls: 1
-Hane-Hane: 1
-Reaper of the Cards: 1
-The Stern Mystic: 1
-
-Side deck:
-Trap Master: 42
-Wall of Illusion: 36
-Just Desserts: 35
-Stop Defense: 35
-Reinforcements: 34
-Summoned Skull: 31
-Card Destruction: 30
-Neo the Magic Swordsman: 30
-Judge Man: 29
-Soul Exchange: 27
-Battle Ox: 26
-De-Spell: 26
-Waboku: 25
-Aqua Madoor: 22
-Ookazi: 22
-The Wicked Worm Beast: 22
-Great White: 21
-La Jinn the Mystical Genie of the Lamp: 20
-Ultimate Offering: 19
-Mystical Elf: 17
-Dragon Capture Jar: 16
-Giant Soldier of Stone: 12
-Remove Trap: 11
-Swords of Revealing Light: 7
-Last Will: 6
-Spirit of the Harp: 6
-Umi: 5
-Final Flame: 4
-Hane-Hane: 4
-Gyakutenno Megami: 3
-Reaper of the Cards: 3
-Ryu-Kishin Powered: 3
-Armed Ninja: 2
-Dian Keto the Cure Master: 2
-Dragon Zombie: 2
-Invigoration: 2
-Reverse Trap: 2
-Destroyer Golem: 1
-Petit Dragon: 1
-Sparks: 1
-The Stern Mystic: 1
-Wasteland: 1
-Yami: 1
-
-Extra deck:
-Metal Dragon: 58
-Flower Wolf: 55
-Gaia the Dragon Champion: 54
-Flame Swordsman: 40
-Flame Ghost: 34
-Fusionist: 33
-Darkfire Dragon: 21
-Dragoness the Wicked Knight: 21
-Karbonala Warrior: 20
-Charubin the Fire Knight: 9
-
-All decks:
-Fissure: 129
-Man-Eater Bug: 129
-Trap Hole: 129
-Waboku: 129
-Giant Soldier of Stone: 127
-La Jinn the Mystical Genie of the Lamp: 126
-Reinforcements: 126
-Neo the Magic Swordsman: 125
-Battle Ox: 121
-Summoned Skull: 109
-Soul Exchange: 100
-Wall of Illusion: 94
-Swords of Revealing Light: 86
-Aqua Madoor: 65
-Ultimate Offering: 65
-Metal Dragon: 58
-Flower Wolf: 55
-Gaia the Dragon Champion: 54
-Trap Master: 48
-Card Destruction: 45
-Judge Man: 44
-Just Desserts: 44
-Change of Heart: 43
-Dark Hole: 43
-Monster Reborn: 43
-Pot of Greed: 43
-Raigeki: 43
-Mystical Elf: 41
-Flame Swordsman: 40
-De-Spell: 39
-Stop Defense: 35
-Flame Ghost: 34
-Fusionist: 33
-Ookazi: 31
-The Wicked Worm Beast: 31
-Spirit of the Harp: 30
-Great White: 27
-Gyakutenno Megami: 27
-Darkfire Dragon: 21
-Dragoness the Wicked Knight: 21
-Karbonala Warrior: 20
-Dragon Capture Jar: 16
-Last Will: 14
-Final Flame: 13
-Remove Trap: 11
-Charubin the Fire Knight: 9
-Umi: 7
-Hane-Hane: 5
-Reaper of the Cards: 4
-Ryu-Kishin Powered: 3
-Armed Ninja: 2
-Blue-Eyes White Dragon: 2
-Curse of Dragon: 2
-Dian Keto the Cure Master: 2
-Dragon Zombie: 2
-Invigoration: 2
-Lord of D.: 2
-Reverse Trap: 2
-The Flute of Summoning Dragon: 2
-The Stern Mystic: 2
-Castle Walls: 1
-Destroyer Golem: 1
-Petit Dragon: 1
-Sparks: 1
-Wasteland: 1
-Yami: 1
++#Alba-Lenatus the Abyss Dragon#, (250 250 Fusion Monster Dragon 8 DARK)
++#Albion the Branded Dragon#, (200 250 Fusion Monster Dragon 8 DARK)
++#Albion the Sanctifire Dragon#, (250 300 Fusion Monster Dragon 8 LIGHT)
++#Aleister the Invoker#, (180 100 Effect Monster Spellcaster 4 DARK)
++#Alien Shocktrooper#, (80 190 Normal Monster Reptile 4 EARTH)
++#Ally of Justice Clausolas#, (120 230 Normal Monster Machine 6 DARK)
++#Amorphactor Pain, the Imagination Dracoverlord#, (250 295 Ritual Effect Monster Dragon 8 EARTH)
++#Amorphous Persona#, (0 0 Spell Card Field 0 None)
++#Amphibian Beast#, (200 240 Normal Monster Fish 6 WATER)
++#Amulet Dragon#, (250 290 Fusion Monster Dragon 8 DARK)
++#Archfiend Soldier#, (150 190 Normal Monster Fiend 4 DARK)
++#Archfiend's Awakening#, (120 250 Ritual Effect Monster Fiend 6 DARK)
++#Archfiend's Manifestation#, (120 250 Fusion Monster Fiend 6 DARK)
++#Battle Footballer#, (210 100 Normal Monster Machine 4 FIRE)
++#Beast of Talwar#, (215 240 Normal Monster Fiend 6 DARK)
++#Beckoned by the World Chalice#, (0 180 Normal Monster Warrior 4 EARTH)
++#Bitron#, (200 20 Normal Monster Cyberse 2 EARTH)
++#Blazing Cartesia, the Virtuous#, (150 150 Tuner Monster Spellcaster 4 LIGHT)
++#Blazing Inpachi#, (0 185 Normal Monster Pyro 4 FIRE)
++#Blowback Dragon#, (120 230 Effect Monster Machine 6 DARK)
++#Blue-Eyes Chaos Dragon#, (0 300 Ritual Effect Monster Dragon 8 DARK)
++#Blue-Eyes Twin Burst Dragon#, (250 300 Fusion Monster Dragon 10 LIGHT)
++#Blue-Eyes Tyrant Dragon#, (290 340 Fusion Monster Dragon 8 LIGHT)
++#Borreload Riot Dragon#, (250 300 Ritual Effect Monster Dragon 8 DARK)
++#Brigrand the Glory Dragon#, (200 250 Fusion Monster Beast 8 DARK)
++#Bunilla#, (205 15 Normal Monster Beast 1 EARTH)
++#Buster Blader, the Dragon Destroyer Swordsman#, (250 280 Fusion Monster Warrior 8 LIGHT)
++#Cerulean Sacred Phoenix of Nephthys#, (100 300 Ritual Effect Monster Winged Beast 8 FIRE)
++#Chamberlain of the Six Samurai#, (200 20 Normal Monster Warrior 3 EARTH)
++#Chaos Form#, (0 0 Spell Card Ritual 0 None)
++#Charcoal Inpachi#, (210 10 Normal Monster Pyro 1 FIRE)
++#Clavkiys, the Magikey Skyblaster#, (190 190 Normal Monster Warrior 4 DARK)
++#Conductor of Nephthys#, (0 200 Ritual Effect Monster Spellcaster 2 WIND)
++#Contract with the Abyss#, (0 0 Spell Card Ritual 0 None)
++#Crowned by the World Chalice#, (210 0 Normal Monster Spellcaster 2 WATER)
++#Curse of the Masked Beast#, (0 0 Spell Card Ritual 0 None)
++#Cyber Dragon#, (160 210 Effect Monster Machine 5 LIGHT)
++#Cyber Ogre#, (120 190 Effect Monster Machine 5 EARTH)
++#Cyber Ogre 2#, (190 260 Fusion Monster Machine 7 EARTH)
++#Cyber Twin Dragon#, (210 280 Fusion Monster Machine 8 LIGHT)
++#D.D. Trainer#, (200 10 Normal Monster Fiend 1 DARK)
++#Dark Blade#, (150 180 Normal Monster Warrior 4 DARK)
++#Dark Cavalry#, (230 280 Fusion Monster Spellcaster 8 DARK)
++#Dark Magician Girl the Dragon Knight#, (170 260 Fusion Monster Dragon 7 DARK)
++#Dark Magician the Dragon Knight#, (250 300 Fusion Monster Dragon 8 DARK)
++#Dark Magician the Knight of Dragon Magic#, (240 290 Fusion Monster Dragon 8 DARK)
++#Dark Paladin#, (240 290 Fusion Monster Spellcaster 8 DARK)
++#Darklord Marie#, (120 170 Effect Monster Fiend 5 DARK)
++#Dawn of the Herald#, (0 0 Spell Card Ritual 0 None)
++#Divine Dragon Ragnarok#, (100 150 Normal Monster Dragon 4 LIGHT)
++#Divine Grace - Northwemko#, (120 270 Ritual Effect Monster Spellcaster 7 LIGHT)
++#Dogmatikamacabre#, (0 0 Spell Card Ritual 0 None)
++#Earthbound Spirit#, (200 50 Normal Monster Fiend 4 EARTH)
++#Elemental HERO Clayman#, (200 80 Normal Monster Warrior 4 EARTH)
++#Empress Mantis#, (140 220 Normal Monster Insect 6 WIND)
++#Evigishki Mind Augus#, (200 250 Ritual Effect Monster Aqua 6 WATER)
++#Evigishki Soul Ogre#, (280 280 Ritual Effect Monster Aqua 8 WATER)
++#Evigishki Tetrogre#, (210 260 Ritual Effect Monster Aqua 6 WATER)
++#Evilswarm Heliotrope#, (65 195 Normal Monster Rock 4 DARK)
++#Fallen of Albaz#, (0 180 Effect Monster Dragon 4 DARK)
++#Frostosaurus#, (170 260 Normal Monster Dinosaur 6 WATER)
++#Gagagigo#, (100 185 Normal Monster Reptile 4 WATER)
++#Gatling Dragon#, (120 260 Fusion Monster Machine 8 DARK)
++#Gearfried the Red-Eyes Iron Knight#, (160 180 Effect Monster Warrior 4 DARK)
++#Gem-Knight Garnet#, (0 190 Normal Monster Pyro 4 EARTH)
++#Gem-Knight Garnet#, (0 190 Normal Monster Pyro 4 EARTH)
++#Gem-Knight Ruby#, (130 250 Fusion Monster Pyro 6 EARTH)
++#Gem-Knight Sapphire#, (210 0 Normal Monster Aqua 4 EARTH)
++#Giga Gagagigo#, (150 245 Normal Monster Reptile 5 WATER)
++#Gil Garth#, (120 180 Normal Monster Fiend 4 DARK)
++#Girochin Kuwagata#, (100 170 Normal Monster Insect 4 WIND)
++#Gishki Nekromirror#, (0 0 Spell Card Ritual 0 None)
++#Gishki Nekromirror#, (0 0 Spell Card Ritual 0 None)
++#Gishki Nekromirror#, (0 0 Spell Card Ritual 0 None)
++#Gladiator Beast Andal#, (150 190 Normal Monster Beast-Warrior 4 EARTH)
++#Good & Evil in the Burning Abyss#, (0 0 Spell Card Ritual 0 None)
++#Granguignol the Dusk Dragon#, (250 250 Fusion Monster Spellcaster 8 LIGHT)
++#Grapha, Dragon Lord of Dark World#, (180 270 Effect Monster Fiend 8 DARK)
++#Grapha, Dragon Overlord of Dark World#, (230 320 Fusion Monster Fiend 10 DARK)
++#Great Angus#, (60 180 Normal Monster Beast 4 FIRE)
++#Heavy Interlock#, (0 0 Spell Card Ritual 0 None)
++#Herald of Perfection#, (280 180 Ritual Effect Monster Fairy 6 LIGHT)
++#Humanoid Slime#, (200 80 Normal Monster Aqua 4 WATER)
++#Hunter Dragon#, (10 170 Normal Monster Dragon 3 DARK)
++#Hymn of Light#, (0 0 Spell Card Ritual 0 None)
++#Inpachi#, (190 160 Normal Monster Machine 4 EARTH)
++#Insect Knight#, (150 190 Normal Monster Insect 4 EARTH)
++#Invoked Augoeides#, (280 200 Fusion Monster Fairy 8 LIGHT)
++#Invoked Purgatrio#, (200 230 Fusion Monster Fiend 7 FIRE)
++#Island Turtle#, (200 110 Normal Monster Aqua 4 WATER)
++#Jerry Beans Man#, (0 175 Normal Monster Plant 3 EARTH)
++#Kabazauls#, (150 170 Normal Monster Dinosaur 4 WATER)
++#King Dragun#, (110 240 Fusion Monster Dragon 7 DARK)
++#Legendary Dueling Field#, (300 0 Normal Monster Machine 5 EARTH)
++#Libromancer Bonded#, (0 0 Spell Card Ritual 0 None)
++#Libromancer Bonded#, (0 0 Spell Card Ritual 0 None)
++#Libromancer Doombroker#, (200 250 Ritual Effect Monster Fiend 6 DARK)
++#Libromancer Fireburst#, (280 280 Ritual Effect Monster Cyberse 7 FIRE)
++#Light Bringer Lucifer#, (180 260 Normal Monster Fairy 6 DARK)
++#Lubellion the Searing Dragon#, (300 250 Fusion Monster Dragon 8 LIGHT)
++#Luster Dragon#, (160 190 Normal Monster Dragon 4 WIND)
++#Luster Dragon #2#, (140 240 Normal Monster Dragon 6 WIND)
++#Mad Dog of Darkness#, (140 190 Normal Monster Beast 4 DARK)
++#Mad Lobster#, (100 170 Normal Monster Aqua 3 WATER)
++#Magikey Maftea#, (0 0 Spell Card Normal 0 None)
++#Magikey Maftea#, (0 0 Spell Card Normal 0 None)
++#Magikey Mechmortar - Garesglasser#, (280 200 Ritual Effect Monster Machine 8 EARTH)
++#Magikey Mechmusket - Batosbuster#, (220 200 Ritual Effect Monster Machine 4 DARK)
++#Malacoda, Netherlord of the Burning Abyss#, (220 270 Ritual Effect Monster Fiend 6 DARK)
++#Master Kyonshee#, (100 175 Normal Monster Zombie 4 EARTH)
++#Master of Chaos#, (250 300 Fusion Monster Spellcaster 8 DARK)
++#Megalith Aratron#, (300 200 Ritual Effect Monster Rock 8 EARTH)
++#Megalith Hagith#, (260 130 Ritual Effect Monster Rock 4 EARTH)
++#Megalith Och#, (270 100 Ritual Effect Monster Rock 4 EARTH)
++#Megalith Ophiel#, (250 160 Ritual Effect Monster Rock 4 EARTH)
++#Megalith Phul#, (200 50 Ritual Effect Monster Rock 2 EARTH)
++#Megalith Unformed#, (0 0 Spell Card Quick-Play 0 None)
++#Megalith Unformed#, (0 0 Spell Card Quick-Play 0 None)
++#Megalith Unformed#, (0 0 Spell Card Quick-Play 0 None)
++#Megalith Unformed#, (0 0 Spell Card Quick-Play 0 None)
++#Megalith Unformed#, (0 0 Spell Card Quick-Play 0 None)
++#Melffy Rabby#, (210 0 Normal Monster Beast 2 EARTH)
++#Mirrorjade the Iceblade Dragon#, (250 300 Fusion Monster Wyrm 8 DARK)
++#Nekroz Kaleidoscope#, (0 0 Spell Card Ritual 0 None)
++#Nekroz Kaleidoscope#, (0 0 Spell Card Ritual 0 None)
++#Nekroz Kaleidoscope#, (0 0 Spell Card Ritual 0 None)
++#Nekroz of Clausolas#, (230 120 Ritual Effect Monster Warrior 3 WATER)
++#Nekroz of Unicore#, (100 230 Ritual Effect Monster Spellcaster 4 WATER)
++#Nekroz of Valkyrus#, (170 290 Ritual Effect Monster Spellcaster 8 WATER)
++#Neo Aqua Madoor#, (300 120 Normal Monster Spellcaster 6 WATER)
++#Neo Bug#, (170 180 Normal Monster Insect 4 EARTH)
++#Nin-Ken Dog#, (100 180 Normal Monster Beast-Warrior 4 WIND)
++#Noble Knight Artorigus#, (180 180 Normal Monster Warrior 4 LIGHT)
++#Odd-Eyes Advent#, (0 0 Spell Card Ritual 0 None)
++#Odd-Eyes Gravity Dragon#, (250 280 Ritual Effect Monster Dragon 7 EARTH)
++#Oppressed People#, (200 40 Normal Monster Aqua 1 WATER)
++#Opticlops#, (170 180 Normal Monster Fiend 4 DARK)
++#Primal Cry#, (0 0 Spell Card Ritual 0 None)
++#PSY-Frame Driver#, (0 250 Normal Monster Psychic 6 LIGHT)
++#Rebirth of Nephthys#, (0 0 Spell Card Ritual 0 None)
++#Rebirth of Nephthys#, (0 0 Spell Card Ritual 0 None)
++#Red-Eyes Dark Dragoon#, (250 300 Fusion Monster Spellcaster 8 DARK)
++#Red-Eyes Slash Dragon#, (240 280 Fusion Monster Dragon 7 DARK)
++#Renge, Gatekeeper of Dark World#, (210 10 Normal Monster Fiend 4 DARK)
++#Revendread Executor#, (0 300 Ritual Effect Monster Zombie 8 DARK)
++#Revendread Origin#, (0 0 Spell Card Ritual 0 None)
++#Revendread Origin#, (0 0 Spell Card Ritual 0 None)
++#Revendread Origin#, (0 0 Spell Card Ritual 0 None)
++#Revendread Origin#, (0 0 Spell Card Ritual 0 None)
++#Rindbrumm the Striking Dragon#, (200 250 Fusion Monster Winged Beast 8 DARK)
++#Rise of the Salamangreat#, (0 0 Spell Card Ritual 0 None)
++#Ritual of Grace#, (0 0 Spell Card Ritual 0 None)
++#Sabersaurus#, (50 190 Normal Monster Dinosaur 4 EARTH)
++#Saffira, Queen of Dragons#, (240 250 Ritual Effect Monster Dragon 6 LIGHT)
++#Salamangreat Emerald Eagle#, (200 280 Ritual Effect Monster Cyberse 8 FIRE)
++#Sauravis, the Ancient and Ascended#, (280 260 Ritual Effect Monster Dragon 7 LIGHT)
++#Sea Serpent Warrior of Darkness#, (150 180 Normal Monster Sea Serpent 4 WATER)
++#Shinato, King of a Higher Plane#, (300 330 Ritual Effect Monster Fairy 8 LIGHT)
++#Shinato's Ark#, (0 0 Spell Card Ritual 0 None)
++#Shinobaron Peacock#, (250 300 Ritual Effect Monster Winged Beast 8 WIND)
++#Shinobaroness Peacock#, (300 250 Ritual Effect Monster Winged Beast 8 WIND)
++#Shinobird's Calling#, (0 0 Spell Card Ritual 0 None)
++#Shinobird's Calling#, (0 0 Spell Card Ritual 0 None)
++#Skull Dog Marron#, (200 135 Normal Monster Beast 4 EARTH)
++#Sonic Duck#, (70 170 Normal Monster Winged Beast 3 WIND)
++#Sonic Tracker#, (0 0 Spell Card Ritual 0 None)
++#Soul Tiger#, (210 0 Normal Monster Beast 4 EARTH)
++#Space Mambo#, (100 170 Normal Monster Fish 4 WATER)
++#Sprind the Irondash Dragon#, (200 250 Fusion Monster Machine 8 DARK)
++#Sprite's Blessing#, (0 0 Spell Card Ritual 0 None)
++#St. Joan#, (200 280 Fusion Monster Fairy 7 LIGHT)
++#Terrorking Salmon#, (100 240 Normal Monster Fish 5 WATER)
++#The Dark Magicians#, (230 280 Fusion Monster Spellcaster 8 DARK)
++#The Dragon Dwelling in the Cave#, (200 130 Normal Monster Dragon 4 WIND)
++#The Forgiving Maiden#, (200 85 Effect Monster Fairy 4 LIGHT)
++#The King of D.#, (110 120 Effect Monster Spellcaster 4 DARK)
++#The Masked Beast#, (180 320 Ritual Monster Fiend 8 DARK)
++#Titaniklad the Ash Dragon#, (250 250 Fusion Monster Dragon 8 DARK)
++#Trance the Magic Swordsman#, (20 260 Normal Monster Spellcaster 6 EARTH)
++#Transonic Bird#, (240 0 Ritual Effect Monster Winged Beast 4 DARK)
++#Vendread Battlelord#, (0 270 Ritual Effect Monster Zombie 7 DARK)
++#Vendread Chimera#, (0 230 Ritual Effect Monster Zombie 5 DARK)
++#Vendread Scavenger#, (0 280 Ritual Effect Monster Zombie 8 DARK)
++#Vennu, Bright Bird of Divinity#, (200 280 Ritual Effect Monster Fairy 8 LIGHT)
++#Venom Cobra#, (200 10 Normal Monster Reptile 4 EARTH)
++#Warrior Dai Grepher#, (160 170 Normal Monster Warrior 4 EARTH)
++#Wattaildragon#, (100 250 Normal Monster Dragon 6 LIGHT)
++#White Relic of Dogmatika#, (250 50 Ritual Effect Monster Spellcaster 4 LIGHT)
++#Wolf Axwielder#, (100 165 Normal Monster Beast-Warrior 4 EARTH)
++#X-Head Cannon#, (150 180 Normal Monster Machine 4 LIGHT)
++#X-Saber Anu Piranha#, (110 180 Normal Monster Warrior 4 EARTH)
++#XZ-Tank Cannon#, (210 240 Fusion Monster Machine 6 LIGHT)
++#Z-Metal Tank#, (130 150 Union Effect Monster Machine 4 LIGHT)
++#Zure, Knight of Dark World#, (150 180 Normal Monster Fiend 4 DARK)
