@@ -1793,6 +1793,19 @@ mod = [
     "Zure, Knight of Dark World"
 ]
 
+mod_2 = [
+    "Chaos Form",
+    "Sonic Tracker",
+    "Primal Cry",
+    "Odd-Eyes Advent",
+    "Magikey Maftea",
+    "Libromancer Bonded",
+    "Hymn of Light",
+    "Gishki's Nekromirror",
+    "Dawn of the Herald",
+    "Curse of the Masked Beast"
+]
+
 output = open('output.txt', 'w', encoding='utf8')
 
 counter = 821
@@ -1823,24 +1836,21 @@ for card in mod:
     level = 0
     atk = 0
     defn = 0
-    try:
-        attribute = card_info[card]['attribute']
-        level = card_info[card]['level']
-        atk = card_info[card]['atk']
-        defn = card_info[card]['def']
-        desc = card_info[card]['desc']
-        passw = str(card_info[card]['id']).zfill(8)
-        # output.write('+#' + card + '#, ' + passw[6:] + passw[4:6] + passw[2:4] + passw[0:2] + '\n')
-        # output.write(desc.replace('\r\n', ' ').replace('\n', ' ')[:478].ljust(478, '�') + '\n')
-        output.write('+#' + card + '#, (' + str(int(defn/10)) + ' ' + str(int(atk/10)) + ' ' + card_info[card]['type'] + ' ' + card_info[card]['race'] + ' ' + str(level) + ' ' + attribute + ')\n')
+    desc = card_info[card]['desc']
+    passw = str(card_info[card]['id']).zfill(8)
+    # try:
+        # attribute = card_info[card]['attribute']
+        # level = card_info[card]['level']
+        # atk = card_info[card]['atk']
+        # defn = card_info[card]['def']
         # if count == 0:
         #     output.write(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\n')
-    except:
-        # output.write('+#' + card + '#, ' + passw[6:] + passw[4:6] + passw[2:4] + passw[0:2] + '\n')
-        # output.write(desc.replace('\r\n', ' ').replace('\n', ' ')[:478].ljust(478, '�') + '\n')
-        output.write('+#' + card + '#, (' + str(int(defn/10)) + ' ' + str(int(atk/10)) + ' ' + card_info[card]['type'] + ' ' + card_info[card]['race'] + ' ' + str(level) + ' ' + attribute + ')\n')
+    # except:
         # if count == 0:
         #     output.write(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\n')
+    # output.write('+#' + card + '#, ' + passw[6:] + passw[4:6] + passw[2:4] + passw[0:2] + '\n')
+    output.write(desc.replace('\r\n', ' ').replace('\n', ' ')[:478].ljust(478, '�') + '\n')
+    # output.write('+#' + card + '#, (' + str(int(defn/10)) + ' ' + str(int(atk/10)) + ' ' + card_info[card]['type'] + ' ' + card_info[card]['race'] + ' ' + str(level) + ' ' + attribute + ')\n')
     counter = counter + 1
 
 # for card in eds_cards:
