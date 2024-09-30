@@ -2,7 +2,7 @@ from collections import Counter
 import requests
 
 # This code gets the most used decks of all recent events of a particular format
-f = "yugi-kaiba"
+f = "android"
 site = "https://www.formatlibrary.com"
 
 finalised_data = dict()
