@@ -1,11 +1,3101 @@
-4-Starred Ladybug of Doom	Flip Effect Monster	WIND	Insect	3	800	1200
-Bazoo the Soul-Eater	Effect Monster	EARTH	Beast	4	1600	900
-Card Destruction	Spell Card	None	Normal	0	0	0
-Jar of Greed	Trap Card	None	Normal	0	0	0
-Kycoo the Ghost Destroyer	Effect Monster	DARK	Spellcaster	4	1800	700
-Magic Cylinder	Trap Card	None	Normal	0	0	0
-Magic Drain	Trap Card	None	Counter	0	0	0
-Skull Lair	Trap Card	None	Continuous	0	0	0
-Solemn Wishes	Trap Card	None	Continuous	0	0	0
-Soul Exchange	Spell Card	None	Normal	0	0	0
-Torrential Tribute	Trap Card	None	Normal	0	0	0
+	"Maxx "C"", # 2130
+	"Effect Veiler", # 1997
+	"Torrential Tribute", # 1883
+	"Cyber Dragon", # 1780
+	"D.D. Crow", # 1738
+	"Book of Moon", # 1662
+	"Bottomless Trap Hole", # 1635
+	"Solemn Warning", # 1436
+	"Ash Blossom & Joyous Spring", # 1176
+	"Stardust Dragon", # 1125
+	"Reinforcement of the Army", # 1108
+	"Infinite Impermanence", # 1015
+	"Dimensional Prison", # 1003
+	"Thunder King Rai-Oh", # 996
+	"Black Rose Dragon", # 968
+	"Pot of Duality", # 942
+	"Nibiru, the Primal Being", # 915
+	"Tour Guide From the Underworld", # 911
+	"Trap Dustshoot", # 898
+	"Allure of Darkness", # 785
+	"Cosmic Cyclone", # 763
+	"Droll & Lock Bird", # 713
+	"Smashing Ground", # 692
+	"Spirit Reaper", # 692
+	"Enemy Controller", # 689
+	"Ally of Justice Catastor", # 688
+	"Mind Control", # 682
+	"Chimeratech Fortress Dragon", # 679
+	"Brain Control", # 663
+	"Colossal Fighter", # 654
+	"Kycoo the Ghost Destroyer", # 634
+	"Brionac, Dragon of the Ice Barrier", # 619
+	"Twin Twisters", # 614
+	"Vanity's Emptiness", # 613
+	"Fiendish Chain", # 598
+	"Pot of Avarice", # 573
+	"Mind Crush", # 571
+	"Goyo Guardian", # 567
+	"Phoenix Wing Wind Blast", # 566
+	"Thousand-Eyes Restrict", # 542
+	"Breaker the Magical Warrior", # 538
+	"Threatening Roar", # 537
+	"Compulsory Evacuation Device", # 532
+	"Gorz the Emissary of Darkness", # 532
+	"Gravekeeper's Spy", # 532
+	"Royal Oppression", # 528
+	"Dark Armed Dragon", # 527
+	"Destiny Draw", # 522
+	"Ryko, Lightsworn Hunter", # 520
+	"WANTED: Seeker of Sinful Spoils", # 516
+	"Triple Tactics Talent", # 514
+	"Scrap Dragon", # 511
+	"Skill Drain", # 498
+	"Shadow-Imprisoning Mirror", # 491
+	"Abyss Dweller", # 485
+	"Dark Balter the Terrible", # 476
+	"Foolish Burial", # 476
+	"Forbidden Lance", # 471
+	"Mobius the Frost Monarch", # 458
+	"Caius the Shadow Monarch", # 454
+	"Breakthrough Skill", # 453
+	"Diabellstar the Black Witch", # 453
+	"Pulling the Rug", # 448
+	"Snake-Eye Ash", # 448
+	"Sakuretsu Armor", # 447
+	"Bonfire", # 444
+	"Leviair the Sea Dragon", # 439
+	"Dimensional Fissure", # 437
+	"D.D. Warrior Lady", # 436
+	"Ryu Senshi", # 435
+	"Light-Imprisoning Mirror", # 432
+	"Ghost Belle & Haunted Mansion", # 429
+	"Trap Stun", # 424
+	"Scapegoat", # 421
+	"Armory Arm", # 419
+	"Magical Android", # 416
+	"Card Trooper", # 407
+	"Snowman Eater", # 404
+	"Dimensional Barrier", # 399
+	"Cyber Twin Dragon", # 391
+	"Pot of Desires", # 390
+	"Solemn Strike", # 389
+	"Wind-Up Zenmaines", # 389
+	"Number 39: Utopia", # 388
+	"Destiny HERO - Malicious", # 387
+	"Ghost Ogre & Snow Rabbit", # 378
+	"Crossout Designator", # 372
+	"Raiza the Storm Monarch", # 365
+	"Number 17: Leviathan Dragon", # 360
+	"Cipher Soldier", # 347
+	"Vanity's Fiend", # 339
+	"Cyber End Dragon", # 338
+	"Soul Exchange", # 336
+	"Starlight Road", # 335
+	"Lightning Vortex", # 334
+	"Return from the Different Dimension", # 333
+	"Chaos Sorcerer", # 330
+	"Thought Ruler Archfiend", # 320
+	"Cold Wave", # 319
+	"Forbidden Droplet", # 319
+	"Mask of Restrict", # 317
+	"Fiend Skull Dragon", # 316
+	"S:P Little Knight", # 315
+	"Debunk", # 314
+	"Black Luster Soldier - Envoy of the Beginning", # 313
+	"Ghost Mourner & Moonlit Chill", # 312
+	"Pot of Prosperity", # 311
+	"Zaborg the Thunder Monarch", # 309
+	"Terraforming", # 306
+	"Raigeki Break", # 296
+	"Snake-Eyes Poplar", # 296
+	"Honest", # 295
+	"Rescue Rabbit", # 293
+	"Solar Recharge", # 293
+	"Exiled Force", # 292
+	"Macro Cosmos", # 288
+	"System Down", # 286
+	"Banisher of the Radiance", # 285
+	"Creature Swap", # 284
+	"Elemental HERO Stratos", # 284
+	"Legendary Jujitsu Master", # 284
+	"Mist Wurm", # 284
+	"Red Dragon Archfiend", # 282
+	"Gold Sarcophagus", # 277
+	"Castel, the Skyblaster Musketeer", # 276
+	"Debris Dragon", # 276
+	"Gladiator Beast Gyzarus", # 276
+	"Puppet Plant", # 273
+	"Sabersaurus", # 270
+	"Dharc the Dark Charmer, Gloomy", # 268
+	"Kabazauls", # 267
+	"Fire Formation - Tenki", # 265
+	"Dante, Traveler of the Burning Abyss", # 263
+	"Dekoichi the Battlechanted Locomotive", # 263
+	"Daigusto Emeral", # 262
+	"Trishula, Dragon of the Ice Barrier", # 262
+	"Treeborn Frog", # 261
+	"Chain Disappearance", # 260
+	"Malevolent Catastrophe", # 259
+	"Charge of the Light Brigade", # 256
+	"Summon Limit", # 256
+	"Necro Gardna", # 255
+	"Downerd Magician", # 254
+	"Gagaga Cowboy", # 254
+	"Scarm, Malebranche of the Burning Abyss", # 254
+	"One for One", # 253
+	"Gottoms' Emergency Call", # 252
+	"Super Polymerization", # 252
+	"Lyla, Lightsworn Sorceress", # 251
+	"XX-Saber Darksoul", # 251
+	"Evilswarm Exciton Knight", # 249
+	"Instant Fusion", # 249
+	"Reborn Tengu", # 248
+	"Mecha Phantom Beast Dracossack", # 247
+	"Blackwing - Sirocco the Dawn", # 246
+	"Arcanite Magician", # 245
+	"The Last Warrior from Another Planet", # 245
+	"Called by the Grave", # 244
+	"Evenly Matched", # 243
+	"Gatling Dragon", # 240
+	"Mathematician", # 240
+	"Diamond Dire Wolf", # 239
+	"Swap Frog", # 238
+	"Snake-Eyes Flamberge Dragon", # 237
+	"Bystial Druiswurm", # 236
+	"Rivalry of Warlords", # 235
+	"XX-Saber Faultroll", # 234
+	"Cir, Malebranche of the Burning Abyss", # 232
+	"Evolzar Laggia", # 231
+	"Reaper on the Nightmare", # 230
+	"Blaster, Dragon Ruler of Infernos", # 227
+	"Number 30: Acid Golem of Destruction", # 226
+	"Dark Blade the Dragon Knight", # 224
+	"Redox, Dragon Ruler of Boulders", # 224
+	"Tempest, Dragon Ruler of Storms", # 223
+	"Denko Sekka", # 222
+	"Graff, Malebranche of the Burning Abyss", # 222
+	"Test Tiger", # 222
+	"Reckless Greed", # 218
+	"I:P Masquerena", # 216
+	"Fossil Dyna Pachycephalo", # 215
+	"Snipe Hunter", # 215
+	"XX-Saber Fulhelmknight", # 215
+	"My Body as a Shield", # 213
+	"Jar of Greed", # 212
+	"Formula Synchron", # 211
+	"Card Destruction", # 209
+	"Kashtira Fenrir", # 209
+	"Soul Charge", # 209
+	"Knightmare Phoenix", # 208
+	"Sacred Sword of Seven Stars", # 208
+	"Blackwing - Shura the Blue Flame", # 207
+	"Consecrated Light", # 207
+	"Promethean Princess, Bestower of Flames", # 207
+	"Gozen Match", # 206
+	"Blackwing Armor Master", # 205
+	"Number 20: Giga-Brilliant", # 204
+	"Wulf, Lightsworn Beast", # 204
+	"Blackwing - Kalut the Moon Shadow", # 203
+	"Deck Devastation Virus", # 203
+	"Flying "C"", # 203
+	"Icarus Attack", # 203
+	"Black Horn of Heaven", # 201
+	"Emergency Teleport", # 201
+	"Ancient Fairy Dragon", # 199
+	"Jurrac Guaiba", # 199
+	"Blackwing - Bora the Spear", # 198
+	"Tidal, Dragon Ruler of Waterfalls", # 198
+	"Gladiator Beast Heraklinos", # 197
+	"Plaguespreader Zombie", # 197
+	"Shaddoll Fusion", # 197
+	"Forbidden Chalice", # 196
+	"Number 11: Big Eye", # 195
+	"Hiita the Fire Charmer, Ablaze", # 194
+	"Number 101: Silent Honor ARK", # 194
+	"The Monarchs Stormforth", # 193
+	"XX-Saber Boggart Knight", # 193
+	"Evolzar Dolkka", # 192
+	"Lightning Storm", # 192
+	"Lumina, Lightsworn Summoner", # 192
+	"Wind-Up Rat", # 192
+	"Wind-Up Shark", # 192
+	"Fairy Wind", # 190
+	"Thestalos the Firestorm Monarch", # 189
+	"Apollousa, Bow of the Goddess", # 188
+	"Artifact Sanctum", # 185
+	"Twister", # 185
+	"Original Sinful Spoils - Snake-Eye", # 184
+	"El Shaddoll Construct", # 183
+	"XX-Saber Emmersblade", # 183
+	"Gaia Dragon, the Thunder Charger", # 182
+	"Lonefire Blossom", # 182
+	"Dark Grepher", # 181
+	"Blackwing Armed Wing", # 179
+	"XX-Saber Hyunlei", # 178
+	"Gladiator Beast Laquari", # 177
+	"Wind-Up Rabbit", # 177
+	"Blackwing - Blizzard the Far North", # 176
+	"Armageddon Knight", # 174
+	"Artifact Lancea", # 172
+	"King Tiger Wanghu", # 171
+	"Super Starslayer TY-PHON - Sky Crisis", # 171
+	"Linkuriboh", # 170
+	"Gladiator Beast Bestiari", # 169
+	"X-Saber Airbellum", # 169
+	"Ghost Reaper & Winter Cherries", # 168
+	"Rescue Cat", # 168
+	"Blackwing - Gale the Whirlwind", # 167
+	"Celestia, Lightsworn Angel", # 167
+	"Majesty's Fiend", # 167
+	"Gaia Knight, the Force of Earth", # 166
+	"Imperial Iron Wall", # 166
+	"King Dragun", # 166
+	"PSY-Framegear Gamma", # 166
+	"Wind-Up Factory", # 166
+	"Wind-Up Magician", # 165
+	"Bazoo the Soul-Eater", # 162
+	"Manju of the Ten Thousand Hands", # 162
+	"Zoodiac Barrage", # 162
+	"Fire King High Avatar Kirin", # 161
+	"Shaddoll Beast", # 161
+	"Salamangreat Raging Phoenix", # 160
+	"Bystial Magnamhut", # 157
+	"Divine Wrath", # 156
+	"Dragon Ravine", # 156
+	"Shaddoll Dragon", # 156
+	"Steelswarm Roach", # 156
+	"XX-Saber Gottoms", # 156
+	"Accesscode Talker", # 154
+	"Dupe Frog", # 153
+	"Nekroz of Unicore", # 153
+	"Tragoedia", # 153
+	"Herald of the Arc Light", # 151
+	"Worldsea Dragon Zealantis", # 151
+	"Sinister Shadow Games", # 150
+	"Snake-Eye Oak", # 150
+	"D.D. Survivor", # 148
+	"Dark Ruler No More", # 148
+	"Judgment Dragon", # 148
+	"Artifact Moralltach", # 147
+	"Dark Flare Knight", # 146
+	"Book of Eclipse", # 143
+	"Gladiator Beast Darius", # 143
+	"Karma Cut", # 143
+	"Nekroz of Valkyrus", # 143
+	"Constellar Pleiades", # 142
+	"El Shaddoll Winda", # 142
+	"Fantastical Dragon Phantazmay", # 142
+	"Selene, Queen of the Master Magicians", # 142
+	"Wind-Up Carrier Zenmaity", # 142
+	"Zoodiac Drident", # 142
+	"Dandylion", # 141
+	"X-Saber Urbellum", # 141
+	"Dimension Shifter", # 140
+	"Rubic, Malebranche of the Burning Abyss", # 139
+	"Doomcaliber Knight", # 137
+	"Chimeratech Overdragon", # 136
+	"Shared Ride", # 135
+	"Divine Temple of the Snake-Eye", # 134
+	"Tribe-Infecting Virus", # 133
+	"Zoodiac Broadbull", # 133
+	"Electric Virus", # 132
+	"Gameciel, the Sea Turtle Kaiju", # 132
+	"Gemini Imps", # 130
+	"Zoodiac Whiptail", # 129
+	"Maestroke the Symphony Djinn", # 128
+	"Crimson Blader", # 127
+	"Shaddoll Squamata", # 127
+	"Eradicator Epidemic Virus", # 126
+	"Luster Pendulum, the Dracoslayer", # 126
+	"Mystic Swordsman LV2", # 126
+	"Necrovalley", # 126
+	"Summoner's Art", # 126
+	"Tsukuyomi", # 126
+	"Number 47: Nightmare Shark", # 125
+	"Number 80: Rhapsody in Berserk", # 125
+	"Elemental HERO Prisma", # 124
+	"Fire Lake of the Burning Abyss", # 124
+	"Relinquished Anima", # 124
+	"Dark Magician of Chaos", # 123
+	"Speedroid Terrortop", # 123
+	"Asura Priest", # 122
+	"Beckoning Light", # 122
+	"Deep Sea Diva", # 122
+	"Lavalval Chain", # 122
+	"Toadally Awesome", # 122
+	"Don Zaloog", # 121
+	"Krebons", # 120
+	"Light and Darkness Dragon", # 120
+	"Number 61: Volcasaurus", # 120
+	"Wavering Eyes", # 120
+	"Black Whirlwind", # 119
+	"Burial from a Different Dimension", # 119
+	"Performage Damage Juggler", # 119
+	"Ghostrick Alucard", # 118
+	"Six Samurai United", # 118
+	"Reasoning", # 117
+	"Destiny HERO - Dasher", # 115
+	"Destiny HERO - Disk Commander", # 115
+	"Shaddoll Falco", # 115
+	"Performapal Pendulum Sorcerer", # 114
+	"Blackwing - Vayu the Emblem of Honor", # 113
+	"D.D. Assailant", # 113
+	"Wiretap", # 113
+	"Shaddoll Hedgehog", # 112
+	"Zombyra the Dark", # 112
+	"Ojama King", # 111
+	"Zoodiac Ratpier", # 111
+	"Destiny HERO - Fear Monger", # 110
+	"Performapal Skullcrobat Joker", # 110
+	"Swift Scarecrow", # 110
+	"Tiras, Keeper of Genesis", # 110
+	"Artifact Ignition", # 108
+	"Crevice Into the Different Dimension", # 108
+	"Destiny HERO - Diamond Dude", # 108
+	"Limiter Removal", # 108
+	"Lullaby of Obedience", # 108
+	"Naturia Beast", # 108
+	"Neo-Spacian Grand Mole", # 108
+	"Performapal Monkeyboard", # 108
+	"Retaliating "C"", # 108
+	"Cyber Valley", # 107
+	"X-Saber Pashuul", # 107
+	"Divine Arsenal AA-ZEUS - Sky Thunder", # 106
+	"Farfa, Malebranche of the Burning Abyss", # 106
+	"Injection Fairy Lily", # 106
+	"Mistake", # 106
+	"Pyramid Turtle", # 106
+	"Virgil, Rock Star of the Burning Abyss", # 106
+	"Dimension Fusion", # 105
+	"Ignister Prominence, the Blasting Dracoslayer", # 105
+	"Legendary Six Samurai - Kizan", # 105
+	"Herald of Orange Light", # 104
+	"Soul Taker", # 104
+	"Elemental HERO Absolute Zero", # 103
+	"Kagemusha of the Six Samurai", # 103
+	"Lava Golem", # 103
+	"Metamorphosis", # 103
+	"Nekroz Cycle", # 103
+	"T.G. Hyper Librarian", # 103
+	"Cards of Consonance", # 102
+	"De-Fusion", # 102
+	"Nekroz Kaleidoscope", # 102
+	"Nekroz Mirror", # 102
+	"Nekroz of Brionac", # 102
+	"Zoodiac Tigermortar", # 102
+	"Miracle Fusion", # 101
+	"Nekroz of Clausolas", # 101
+	"Number C39: Utopia Ray", # 101
+	"Baronne de Fleur", # 100
+	"Mermail Abyssteus", # 100
+	"Qliphort Carrier", # 100
+	"Salamangreat Sunlight Wolf", # 100
+	"Substitoad", # 100
+	"Temtempo the Percussion Djinn", # 100
+	"Cyber Phoenix", # 99
+	"Dark End Dragon", # 99
+	"El Shaddoll Fusion", # 99
+	"Gachi Gachi Gantetsu", # 99
+	"Ghost Sister & Spooky Dogwood", # 99
+	"Inzektor Centipede", # 99
+	"Ojama Trio", # 99
+	"Zoodiac Thoroughblade", # 99
+	"Draco Face-Off", # 98
+	"Fiber Jar", # 98
+	"Master Hyperion", # 98
+	"Mirror of Oaths", # 98
+	"Soul Drain", # 98
+	"Dark Bribe", # 97
+	"Gladiator Beast War Chariot", # 97
+	"Garoth, Lightsworn Warrior", # 96
+	"Ronintoadin", # 96
+	"Shien's Smoke Signal", # 96
+	"Shurit, Strategist of the Nekroz", # 96
+	"Atlantean Marksman", # 95
+	"Spore", # 95
+	"Abyss-sphere", # 94
+	"Qliphort Scout", # 94
+	"Mirage of Nightmare", # 93
+	"Gear Gigant X", # 92
+	"Magic Cylinder", # 92
+	"Mermail Abysslinde", # 92
+	"Zoodiac Chakanine", # 92
+	"Inzektor Dragonfly", # 91
+	"Inzektor Hornet", # 91
+	"Mermail Abysspike", # 91
+	"Tellarknight Ptolemaeus", # 91
+	"Des Wombat", # 90
+	"Glow-Up Bulb", # 90
+	"Legendary Six Samurai - Kageki", # 90
+	"Mystical Shine Ball", # 90
+	"Destiny HERO - Plasma", # 89
+	"Fire Hand", # 89
+	"Knightmare Unicorn", # 89
+	"The Agent of Creation - Venus", # 89
+	"Elder Entity Norden", # 88
+	"Ice Hand", # 88
+	"Performage Plushfire", # 88
+	"Super-Nimble Mega Hamster", # 88
+	"The Agent of Mystery - Earth", # 88
+	"Traptrix Myrmeleo", # 88
+	"Adreus, Keeper of Armageddon", # 87
+	"Mermail Abyssmegalo", # 87
+	"Tempest Magician", # 87
+	"Aurkus, Lightsworn Druid", # 86
+	"Book of Life", # 86
+	"Diviner of the Herald", # 86
+	"Primeval Planet Perlereino", # 86
+	"Qliphort Helix", # 86
+	"Summoner Monk", # 86
+	"Wave-Motion Cannon", # 86
+	"Xyz Encore", # 86
+	"Gladiator Beast Murmillo", # 85
+	"Gravekeeper's Commandant", # 85
+	"Magic Deflector", # 85
+	"Spell Canceller", # 85
+	"Zombie Master", # 85
+	"Hydrogeddon", # 84
+	"Typhoon", # 84
+	"Atlantean Dragoons", # 83
+	"Battle Fader", # 83
+	"Dragunity Corsesca", # 83
+	"Iron Chain Dragon", # 83
+	"Cairngorgon, Antiluminescent Knight", # 82
+	"Cursed Seal of the Forbidden Spell", # 82
+	"E - Emergency Call", # 82
+	"Legendary Six Samurai - Shi En", # 82
+	"Mezuki", # 82
+	"Geargiarmor", # 81
+	"Geargiarsenal", # 81
+	"Kozmotown", # 81
+	"Legendary Fire King Ponix", # 81
+	"Machine Duplication", # 81
+	"Number 50: Blackship of Corn", # 81
+	"Geargiaccelerator", # 80
+	"Goblin Zombie", # 80
+	"Goldd, Wu-Lord of Dark World", # 80
+	"Leeching the Light", # 80
+	"Star Eater", # 80
+	"Archlord Kristya", # 79
+	"Kozmo Dark Destroyer", # 79
+	"Paleozoic Dinomischus", # 79
+	"Poison of the Old Man", # 79
+	"Spell Shattering Arrow", # 79
+	"Swallow Flip", # 79
+	"Trade-In", # 79
+	"Grandmaster of the Six Samurai", # 78
+	"Saqlifice", # 78
+	"Archfiend Eccentrick", # 77
+	"Needle Ceiling", # 77
+	"Photon Papilloperative", # 77
+	"Dark Strike Fighter", # 75
+	"Fire King Avatar Arvata", # 75
+	"Neo-Spacian Dark Panther", # 75
+	"Number 103: Ragnazero", # 75
+	"Amphibious Swarmship Amblowhale", # 74
+	"Fire King Island", # 74
+	"PSY-Frame Driver", # 74
+	"Sacred Fire King Garunix", # 74
+	"Triple Tactics Thrust", # 74
+	"Brotherhood of the Fire Fist - Bear", # 73
+	"Leo, the Keeper of the Sacred Tree", # 73
+	"Master of Oz", # 73
+	"Tearlaments Reinoheart", # 73
+	"Zoodiac Ramram", # 73
+	"Barrier of the Voiceless Voice", # 72
+	"Fire King Sanctuary", # 72
+	"Lo, the Prayers of the Voiceless Voice", # 72
+	"Machina Gearframe", # 72
+	"Mystik Wok", # 72
+	"Saffira, Dragon Queen of the Voiceless Voice", # 72
+	"Stellarknight Constellar Diamond", # 72
+	"Dimension Wall", # 71
+	"Ehren, Lightsworn Monk", # 71
+	"Gravekeeper's Descendant", # 71
+	"Gravekeeper's Recruiter", # 71
+	"Kozmo Sliprider", # 71
+	"Pressured Planet Wraitsoth", # 71
+	"Spright Blue", # 71
+	"Artifact Durendal", # 70
+	"Blade Knight", # 70
+	"Darklord Zerato", # 70
+	"Pre-Preparation of Rites", # 70
+	"Sanwitch", # 70
+	"Shrink", # 70
+	"Sky Striker Mobilize - Engage!", # 70
+	"Dinowrestler Pankratops", # 69
+	"Green Gadget", # 69
+	"Infernity Archfiend", # 69
+	"Machina Fortress", # 69
+	"Magical Scientist", # 69
+	"Majespecter Raccoon - Bunbuku", # 69
+	"Monster Reincarnation", # 69
+	"PSY-Framelord Omega", # 69
+	"Red Gadget", # 69
+	"Super Rejuvenation", # 69
+	"Yellow Gadget", # 69
+	"Alich, Malebranche of the Burning Abyss", # 68
+	"Elemental HERO Neos Alius", # 68
+	"Infernity Necromancer", # 68
+	"Paleozoic Olenoides", # 68
+	"Performapal Lizardraw", # 68
+	"Preparation of Rites", # 68
+	"Qliphort Disk", # 68
+	"The Winged Dragon of Ra - Sphere Mode", # 68
+	"Ally of Justice Cycle Reader", # 67
+	"Daigusto Phoenix", # 67
+	"Escape from the Dark Dimension", # 67
+	"Geargiano Mk-II", # 67
+	"Kozmo Farmgirl", # 67
+	"Paleozoic Canadia", # 67
+	"Vector Pendulum, the Dracoverlord", # 67
+	"Doomkaiser Dragon", # 66
+	"Zoodiac Boarbow", # 66
+	"Brilliant Fusion", # 65
+	"Decode Talker Heatsoul", # 65
+	"Garura, Wings of Resonant Life", # 65
+	"Gladiator Beast Equeste", # 65
+	"Gladiator Proving Ground", # 65
+	"Infernity Barrier", # 65
+	"Link Spider", # 65
+	"Spright Elf", # 65
+	"The Transmigration Prophecy", # 65
+	"Wind-Up Arsenal Zenmaioh", # 65
+	"Apprentice Magician", # 64
+	"Gladiator Beast Gaiodiaz", # 64
+	"Nekroz of Trishula", # 64
+	"Secret Barrel", # 64
+	"Armades, Keeper of Boundaries", # 63
+	"Blackwing - Silverwind the Ascendant", # 63
+	"Fiend Griefing", # 63
+	"Mermail Abyssgunde", # 63
+	"Monster Gate", # 63
+	"Number F0: Utopic Future", # 63
+	"Scrap Archfiend", # 63
+	"Ancient Sacred Wyvern", # 62
+	"Atlantean Heavy Infantry", # 62
+	"Card of Safe Return", # 62
+	"Gladiator Beast Secutor", # 62
+	"Jet Synchron", # 62
+	"Mudragon of the Swamp", # 62
+	"Naturia Barkion", # 62
+	"Spright Jet", # 62
+	"Tearlaments Havnis", # 62
+	"Tearlaments Scheiren", # 62
+	"White Dragon Wyverburster", # 62
+	"Bahamut Shark", # 61
+	"Beatrice, Lady of the Eternal", # 61
+	"Card of Demise", # 61
+	"Future Fusion", # 61
+	"Gateway of the Six", # 61
+	"Infernity Inferno", # 61
+	"Night Beam", # 61
+	"Psi-Blocker", # 61
+	"Horn of the Phantom Beast", # 60
+	"Mermail Abyssgaios", # 60
+	"Sky Striker Mecha - Hornet Drones", # 60
+	"Tearlaments Merrli", # 60
+	"Chaos Trap Hole", # 59
+	"Geargiagear", # 59
+	"Libic, Malebranche of the Burning Abyss", # 59
+	"Red Reboot", # 59
+	"Royal Tribute", # 59
+	"Shuffle Reborn", # 59
+	"The Phantom Knights of Break Sword", # 59
+	"Traptrix Trap Hole Nightmare", # 59
+	"Yata-Garasu", # 59
+	"Cyber Dragon Nova", # 58
+	"Gladiator Beast Hoplomus", # 58
+	"Night Assailant", # 58
+	"Number 106: Giant Hand", # 58
+	"Sky Striker Ace - Kagari", # 58
+	"Spright Starter", # 58
+	"Cardcar D", # 57
+	"Double-Edged Sword Technique", # 57
+	"Level Limit - Area B", # 57
+	"ABC-Dragon Buster", # 56
+	"Calcab, Malebranche of the Burning Abyss", # 56
+	"Constellar Ptolemy M7", # 56
+	"Performage Hat Tricker", # 56
+	"Tearlaments Sulliek", # 56
+	"Double Cyclone", # 55
+	"Jain, Lightsworn Paladin", # 55
+	"Kashtira Unicorn", # 55
+	"Mechquipped Angineer", # 55
+	"Number 16: Shock Master", # 55
+	"PSY-Framegear Delta", # 55
+	"Paleozoic Marrella", # 55
+	"Revived King Ha Des", # 55
+	"St. Joan", # 55
+	"T.G. Warwolf", # 55
+	"Branded Fusion", # 54
+	"Cyber Dragon Infinity", # 54
+	"Number 85: Crazy Box", # 54
+	"Paleozoic Opabinia", # 54
+	"Performage Trick Clown", # 54
+	"Wind-Up Hunter", # 54
+	"Chaos Angel", # 53
+	"Delta Crow - Anti Reverse", # 53
+	"Different Dimension Ground", # 53
+	"Number 82: Heartlandraco", # 53
+	"Orient Dragon", # 53
+	"Sillva, Warlord of Dark World", # 53
+	"Kozmo Forerunner", # 52
+	"Legacy of Yata-Garasu", # 52
+	"Broww, Huntsman of Dark World", # 51
+	"Elder Entity N'tss", # 51
+	"Flamvell Guard", # 51
+	"Kumongous, the Sticky String Kaiju", # 51
+	"Metalfoes Silverd", # 51
+	"Runick Freezing Curses", # 51
+	"Runick Tip", # 51
+	"T.G. Rush Rhino", # 51
+	"There Can Be Only One", # 51
+	"Unifrog", # 51
+	"Artifact Beagalltach", # 50
+	"Kozmoll Wickedwitch", # 50
+	"Metalfoes Goldriver", # 50
+	"Metalfoes Steelen", # 50
+	"Old Vindictive Magician", # 50
+	"Pot of Extravagance", # 50
+	"Spellbook of Secrets", # 50
+	"Water Enchantress of the Temple", # 50
+	"Danger! Nessie!", # 49
+	"Flamvell Uruquizas", # 49
+	"Infernity Launcher", # 49
+	"Performage Trapeze Magician", # 49
+	"Runick Flashing Fire", # 49
+	"Spellbook Magician of Prophecy", # 49
+	"Storming Mirror Force", # 49
+	"Brotherhood of the Fire Fist - Tiger King", # 48
+	"Grapha, Dragon Lord of Dark World", # 48
+	"Kashtira Birth", # 48
+	"Metalfoes Volflame", # 48
+	"Phantom Knights' Fog Blade", # 48
+	"Prayers of the Voiceless Voice", # 48
+	"Prime Material Dragon", # 48
+	"Runick Destruction", # 48
+	"Salvage", # 48
+	"Satellarknight Altair", # 48
+	"Satellarknight Deneb", # 48
+	"Skull Guardian, Protector of the Voiceless Voice", # 48
+	"Snoww, Unlight of Dark World", # 48
+	"The Phantom Knights of Silent Boots", # 48
+	"Time-Space Trap Hole", # 48
+	"Underworld Goddess of the Closed World", # 48
+	"Wind-Up Zenmaister", # 48
+	"Dark World Dealings", # 47
+	"Gem-Knight Pearl", # 47
+	"Gigantic Spright", # 47
+	"Hand Destruction", # 47
+	"Rite of Aramesir", # 47
+	"The Gates of Dark World", # 47
+	"Fairy Tail - Snow", # 46
+	"Gemini Spark", # 46
+	"Hero's Rule 2", # 46
+	"Predaplant Dragostapelia", # 46
+	"Red-Eyes Darkness Metal Dragon", # 46
+	"Sky Striker Ace - Shizuku", # 46
+	"Stellarnova Alpha", # 46
+	"Strike Ninja", # 46
+	"T.G. Striker", # 46
+	"Zombie World", # 46
+	"Arianna the Labrynth Servant", # 45
+	"Big Welcome Labrynth", # 45
+	"Borreload Savage Dragon", # 45
+	"Chaos Hunter", # 45
+	"Deck Lockdown", # 45
+	"Dragged Down into the Grave", # 45
+	"Dragonic Diagram", # 45
+	"Imsety, Glory of Horus", # 45
+	"Infernity Beetle", # 45
+	"Labrynth Chandraglier", # 45
+	"Labrynth Stovie Torbie", # 45
+	"Musakani Magatama", # 45
+	"Tearlaments Scream", # 45
+	"Union Hangar", # 45
+	"Avenging Knight Parshath", # 44
+	"B-Buster Drake", # 44
+	"Black Dragon Collapserpent", # 44
+	"Burner, Dragon Ruler of Sparks", # 44
+	"Bystial Saronir", # 44
+	"Divine Sword - Phoenix Blade", # 44
+	"El Shaddoll Shekhinaga", # 44
+	"Fencing Fire Ferret", # 44
+	"Full House", # 44
+	"Overload Fusion", # 44
+	"Reactan, Dragon Ruler of Pebbles", # 44
+	"Stream, Dragon Ruler of Droplets", # 44
+	"A-Assault Core", # 43
+	"Airknight Parshath", # 43
+	"Dark Ruler Ha Des", # 43
+	"Galaxy Cyclone", # 43
+	"Karakuri Shogun mdl 00 "Burei"", # 43
+	"Master Pendulum, the Dracoslayer", # 43
+	"Sauravis, the Ancient and Ascended", # 43
+	"Shaddoll Core", # 43
+	"Shooting Star Dragon", # 43
+	"Beast King Barbaros", # 42
+	"Dark Rebellion Xyz Dragon", # 42
+	"Djinn Releaser of Rituals", # 42
+	"EMERGENCY!", # 42
+	"Emergency Provisions", # 42
+	"Hugin the Runick Wings", # 42
+	"Metalfoes Mithrilium", # 42
+	"Number S39: Utopia the Lightning", # 42
+	"Phantom of Chaos", # 42
+	"Qliphort Stealth", # 42
+	"Hanewata", # 41
+	"Heavy Storm Duster", # 41
+	"Infernity Mirage", # 41
+	"Kurikara Divincarnate", # 41
+	"Paleozoic Anomalocaris", # 41
+	"Photon Thrasher", # 41
+	"Raremetalfoes Bismugear", # 41
+	"Skull Lair", # 41
+	"Speedroid Taketomborg", # 41
+	"Traptrix Rafflesia", # 41
+	"Treacherous Trap Hole", # 41
+	"Gravekeeper's Stele", # 40
+	"Lightning, Dragon Ruler of Drafts", # 40
+	"Magical Merchant", # 40
+	"Number 38: Hope Harbinger Dragon Titanic Galaxy", # 40
+	"Performapal Trampolynx", # 40
+	"Runick Slumber", # 40
+	"Bystial Baldrake", # 39
+	"Dyna Mondo", # 39
+	"Floowandereeze & Eglen", # 39
+	"Floowandereeze & Robina", # 39
+	"Floowandereeze and the Advent of Adventure", # 39
+	"Floowandereeze and the Magnificent Map", # 39
+	"Gravekeeper's Guard", # 39
+	"Harpie's Feather Storm", # 39
+	"King of the Feral Imps", # 39
+	"Performapal Guitartle", # 39
+	"Prometheus, King of the Shadows", # 39
+	"Rescue-ACE Hydrant", # 39
+	"Solemn Scolding", # 39
+	"Absolute King Back Jack", # 38
+	"Chaos Emperor Dragon - Envoy of the End", # 38
+	"Dinoster Power, the Mighty Dracoslayer", # 38
+	"Infernity Doom Dragon", # 38
+	"M-X-Saber Invoker", # 38
+	"Majester Paladin, the Ascending Dracoslayer", # 38
+	"Satellarknight Unukalhai", # 38
+	"Skull Meister", # 38
+	"Sky Striker Mecha - Widow Anchor", # 38
+	"Spellbook Library of the Crescent", # 38
+	"That Grass Looks Greener", # 38
+	"Tytannial, Princess of Camellias", # 38
+	"Welcome Labrynth", # 38
+	"Arias the Labrynth Butler", # 37
+	"C-Crush Wyvern", # 37
+	"Cyber Dragon Core", # 37
+	"Felis, Lightsworn Archer", # 37
+	"Genex Ally Birdman", # 37
+	"Gravity Bind", # 37
+	"Hundred Eyes Dragon", # 37
+	"Rescue-ACE Impulse", # 37
+	"Zoodiac Hammerkong", # 37
+	"Agave Dragon", # 36
+	"Artifact Scythe", # 36
+	"Closed Forest", # 36
+	"Dragunity Dux", # 36
+	"Dragunity Knight - Vajrayana", # 36
+	"Eclipse Wyvern", # 36
+	"Fire Formation - Tensu", # 36
+	"Genex Undine", # 36
+	"Inzektor Sword - Zektkaliber", # 36
+	"Junk Synchron", # 36
+	"Keldo the Sacred Protector", # 36
+	"Lightpulsar Dragon", # 36
+	"Majespecter Unicorn - Kirin", # 36
+	"Moray of Greed", # 36
+	"Mudora the Sword Oracle", # 36
+	"Newdoria", # 36
+	"Ninja Grandmaster Sasuke", # 36
+	"Performage Mirror Conductor", # 36
+	"Raiden, Hand of the Lightsworn", # 36
+	"Soul of Silvermountain", # 36
+	"Trickstar Candina", # 36
+	"Trickstar Light Stage", # 36
+	"Trickstar Reincarnation", # 36
+	"True Draco Heritage", # 36
+	"Floodgate Trap Hole", # 35
+	"Gravekeeper's Assailant", # 35
+	"Kozmo Tincan", # 35
+	"Michael, the Arch-Lightsworn", # 35
+	"Muckraker From the Underworld", # 35
+	"Quickdraw Synchron", # 35
+	"Shien's Dojo", # 35
+	"Sky Striker Ace - Raye", # 35
+	"Spellbook of the Master", # 35
+	"Token Collector", # 35
+	"Unchained Soul Lord of Yama", # 35
+	"Barbar, Malebranche of the Burning Abyss", # 34
+	"Brotherhood of the Fire Fist - Gorilla", # 34
+	"Coach Soldier Wolfbark", # 34
+	"Elemental HERO Gaia", # 34
+	"Gladiator Beast Retiari", # 34
+	"Interrupted Kaiju Slumber", # 34
+	"Kashtira Riseheart", # 34
+	"Labrynth Cooclock", # 34
+	"Ryu Kokki", # 34
+	"Sky Cavalry Centaurea", # 34
+	"Spright Smashers", # 34
+	"Zoodiac Combo", # 34
+	"Asceticism of the Six Samurai", # 33
+	"Blackwing - Zephyros the Elite", # 33
+	"Cyber Blader", # 33
+	"Dinomight Knight, the True Dracofighter", # 33
+	"Flip Flop Frog", # 33
+	"Hammer Shot", # 33
+	"Koa'ki Meiru Drago", # 33
+	"Nimble Beaver", # 33
+	"Odd-Eyes Pendulum Dragon", # 33
+	"Psychic Lifetrancer", # 33
+	"TG1-EM1", # 33
+	"Tearlaments Kashtira", # 33
+	"Trap Trick", # 33
+	"Xyz Universe", # 33
+	"Ally of Justice Decisive Armor", # 32
+	"Elemental HERO Bubbleman", # 32
+	"Elemental HERO The Shining", # 32
+	"Gladiator Beast Samnite", # 32
+	"Gold Gadget", # 32
+	"Inzektor Giga-Mantis", # 32
+	"Limit Reverse", # 32
+	"Magic Drain", # 32
+	"Mermail Abysstrite", # 32
+	"Mermail Abyssturge", # 32
+	"Non-Fusion Area", # 32
+	"Prank-Kids Dropsies", # 32
+	"Prank-Kids Lampsies", # 32
+	"Prank-Kids Place", # 32
+	"Predaplant Verte Anaconda", # 32
+	"Rescue-ACE Air Lifter", # 32
+	"Salamangreat Almiraj", # 32
+	"The Grand Spellbook Tower", # 32
+	"The Phantom Knights of Ancient Cloak", # 32
+	"A Hero Lives", # 31
+	"Chivalry", # 31
+	"Dark Mimic LV3", # 31
+	"Fallen of Albaz", # 31
+	"Hand of the Six Samurai", # 31
+	"High Priestess of Prophecy", # 31
+	"Kozmo Strawman", # 31
+	"Magical Abductor", # 31
+	"Prank-Kids Fansies", # 31
+	"Safe Zone", # 31
+	"Spellbook of Wisdom", # 31
+	"Stygian Dirge", # 31
+	"Trickstar Lycoris", # 31
+	"True King's Return", # 31
+	"Ehther the Heavenly Monarch", # 30
+	"Evilswarm Castor", # 30
+	"Evilswarm Heliotrope", # 30
+	"Evilswarm Mandragora", # 30
+	"Evilswarm Ophion", # 30
+	"Foolish Burial Goods", # 30
+	"Gearfried the Iron Knight", # 30
+	"Infernity Avenger", # 30
+	"Lose 1 Turn", # 30
+	"Magical Stone Excavation", # 30
+	"Mystic Mine", # 30
+	"Painful Decision", # 30
+	"Pantheism of the Monarchs", # 30
+	"Poison Draw Frog", # 30
+	"Runick Fountain", # 30
+	"Silver Gadget", # 30
+	"Stellarknight Delteros", # 30
+	"Tenacity of the Monarchs", # 30
+	"Totem Bird", # 30
+	"Trap Eater", # 30
+	"Darkflare Dragon", # 29
+	"Fusion Destiny", # 29
+	"Gem-Knight Garnet", # 29
+	"King's Sarcophagus", # 29
+	"Moulinglacia the Elemental Lord", # 29
+	"Number 41: Bagooska the Terribly Tired Tapir", # 29
+	"Number 49: Fortune Tune", # 29
+	"Spright Sprind", # 29
+	"Unchained Soul of Rage", # 29
+	"Albion the Branded Dragon", # 28
+	"Blackwing - Gofu the Vague Shadow", # 28
+	"Bujintei Tsukuyomi", # 28
+	"Elder of the Six Samurai", # 28
+	"Floowandereeze & Empen", # 28
+	"Gem-Knight Seraphinite", # 28
+	"Geri the Runick Fangs", # 28
+	"Jowgen the Spiritualist", # 28
+	"Mirrorjade the Iceblade Dragon", # 28
+	"Naturia Landoise", # 28
+	"Rescue-ACE Preventer", # 28
+	"Rescue-ACE Turbulence", # 28
+	"Shark Fortress", # 28
+	"Shiny Black "C"", # 28
+	"Steam Gyroid", # 28
+	"Tearlaments Kaleido-Heart", # 28
+	"The Prime Monarch", # 28
+	"Volcanic Scattershot", # 28
+	"Blast with Chain", # 27
+	"Cat Shark", # 27
+	"Cynet Mining", # 27
+	"Evilswarm Kerykeion", # 27
+	"Genex Controller", # 27
+	"Gigantes", # 27
+	"Guiding Ariadne", # 27
+	"Kashtiratheosis", # 27
+	"Kelbek the Ancient Vanguard", # 27
+	"Lyna the Light Charmer, Lustrous", # 27
+	"Magical Spring", # 27
+	"Mermail Abyssleed", # 27
+	"Nekroz of Gungnir", # 27
+	"Scrap Chimera", # 27
+	"Sky Striker Maneuver - Afterburners!", # 27
+	"Sky Striker Mecha - Shark Cannon", # 27
+	"Spellbook of Fate", # 27
+	"Spright Red", # 27
+	"Tearlaments Kitkallos", # 27
+	"The Agent of Miracles - Jupiter", # 27
+	"The Traveler and the Burning Abyss", # 27
+	"Tornado Dragon", # 27
+	"Traptrix Dionaea", # 27
+	"Unchained Soul of Sharvara", # 27
+	"Dark Smog", # 26
+	"Deep Dark Trap Hole", # 26
+	"Destructive Daruma Karma Cannon", # 26
+	"Escape of the Unchained", # 26
+	"Goblin Attack Force", # 26
+	"Ignis Heat, the True Dracowarrior", # 26
+	"Kuraz the Light Monarch", # 26
+	"Malefic Stardust Dragon", # 26
+	"Master Peace, the True Dracoslaying King", # 26
+	"Mei-Kou, Master of Barriers", # 26
+	"Metalfoes Fusion", # 26
+	"Overworked", # 26
+	"Prank-Kids Dodo-Doodle-Doo", # 26
+	"Scrapstorm", # 26
+	"Shooting Quasar Dragon", # 26
+	"Stealth Bird", # 26
+	"True Draco Apocalypse", # 26
+	"Dark Dust Spirit", # 25
+	"Dingirsu, the Orcust of the Evening Star", # 25
+	"Dragunity Phalanx", # 25
+	"Erebus the Underworld Monarch", # 25
+	"Fateful Adventure", # 25
+	"Fire Formation - Tensen", # 25
+	"Gladiator Beast's Respite", # 25
+	"Gungnir, Dragon of the Ice Barrier", # 25
+	"Magicians' Souls", # 25
+	"Mistaken Arrest", # 25
+	"Oasis of Dragon Souls", # 25
+	"Paleozoic Leanchoilia", # 25
+	"Prank-Kids Rocksies", # 25
+	"Qlimate Change", # 25
+	"Qliphort Monolith", # 25
+	"Qliphort Shell", # 25
+	"Rekindling", # 25
+	"Return of the Monarchs", # 25
+	"Scrap Beast", # 25
+	"Sinful Spoils of Subversion - Snake-Eye", # 25
+	"Spellbook of Eternity", # 25
+	"Spiritual Water Art - Aoi", # 25
+	"The Beginning of the End", # 25
+	"Accumulated Fortune", # 24
+	"Aqua Spirit", # 24
+	"Baobaboon", # 24
+	"Branded Opening", # 24
+	"Bujintei Kagutsuchi", # 24
+	"Constellar Algiedi", # 24
+	"Constellar Kaus", # 24
+	"Constellar Pollux", # 24
+	"Drillroid", # 24
+	"Evilswarm Thunderbird", # 24
+	"Flamvell Firedog", # 24
+	"Fusion Substitute", # 24
+	"Hieratic Dragon King of Atum", # 24
+	"Hieratic Sun Dragon Overlord of Heliopolis", # 24
+	"Infernoid Decatron", # 24
+	"Infestation Pandemic", # 24
+	"Isolde, Two Tales of the Noble Knights", # 24
+	"Jigabyte", # 24
+	"Justice of Prophecy", # 24
+	"Lady Labrynth of the Silver Castle", # 24
+	"Masked HERO Dark Law", # 24
+	"My Friend Purrely", # 24
+	"Purrely Happy Memory", # 24
+	"Purrely Pretty Memory", # 24
+	"Radiance of the Voiceless Voice", # 24
+	"Red-Eyes Flare Metal Dragon", # 24
+	"Satellarknight Vega", # 24
+	"Sauravis, Dragon Sage of the Voiceless Voice", # 24
+	"Solemn Wishes", # 24
+	"The Bystial Lubellion", # 24
+	"Trance Archfiend", # 24
+	"Ultimate Slayer", # 24
+	"Des Frog", # 23
+	"Divine Dragon Knight Felgrand", # 23
+	"Hero Blast", # 23
+	"Inzektor Hopper", # 23
+	"Kozmojo", # 23
+	"Nekroz of Decisive Armor", # 23
+	"Paleozoic Pikaia", # 23
+	"Psychic Commander", # 23
+	"Saber Hole", # 23
+	"Sky Striker Airspace - Area Zero", # 23
+	"Snake-Eye Birch", # 23
+	"Spellbook of Power", # 23
+	"T.G. Wonder Magician", # 23
+	"The Six Samurai - Yaichi", # 23
+	"Trias Hierarchia", # 23
+	"Trigon", # 23
+	"Xing Zhen Hu", # 23
+	"4-Starred Ladybug of Doom", # 22
+	"Chain Strike", # 22
+	"Disciples of the True Dracophoenix", # 22
+	"Evilswarm Nightmare", # 22
+	"Fire King Avatar Barong", # 22
+	"Forbidden Apocrypha", # 22
+	"Fullmetalfoes Alkahest", # 22
+	"Grave of the Super Ancient Organism", # 22
+	"Infernoid Patrulea", # 22
+	"Knightmare Cerberus", # 22
+	"Kozmo Goodwitch", # 22
+	"Lyrilusc - Assembled Nightingale", # 22
+	"Machina Force", # 22
+	"Metalfoes Combination", # 22
+	"Metaltronus", # 22
+	"Munin the Runick Wings", # 22
+	"Purrely", # 22
+	"Sky Striker Ace - Hayate", # 22
+	"Super Vehicroid Jumbo Drill", # 22
+	"Aluber the Jester of Despia", # 21
+	"Brotherhood of the Fire Fist - Dragon", # 21
+	"Des Koala", # 21
+	"Duelittle Chimera", # 21
+	"Fullmetalfoes Fusion", # 21
+	"Geargiano", # 21
+	"Gellenduo", # 21
+	"Great Shogun Shien", # 21
+	"Gyaku-Gire Panda", # 21
+	"Inzektor Exa-Beetle", # 21
+	"Kaiser Colosseum", # 21
+	"Mass Driver", # 21
+	"Mystical Refpanel", # 21
+	"One Day of Peace", # 21
+	"Salamangreat Balelynx", # 21
+	"Snake-Eyes Diabellstar", # 21
+	"Spellbook of Judgment", # 21
+	"Spright Carrot", # 21
+	"Cards for Black Feathers", # 20
+	"D.D.R. - Different Dimension Reincarnation", # 20
+	"Dark World Lightning", # 20
+	"Domain of the True Monarchs", # 20
+	"Fishborg Blaster", # 20
+	"Fusion Deployment", # 20
+	"Galatea, the Orcust Automaton", # 20
+	"Infernoid Harmadik", # 20
+	"Junk Warrior", # 20
+	"Karakuri Watchdog mdl 313 "Saizan"", # 20
+	"Marshmallon", # 20
+	"Mist Valley Apex Avian", # 20
+	"Orcust Knightmare", # 20
+	"Prank-Kids Meow-Meow-Mu", # 20
+	"Purrely Sleepy Memory", # 20
+	"Quaking Mirror Force", # 20
+	"Saber Slash", # 20
+	"Secret Village of the Spellcasters", # 20
+	"Sky Iris", # 20
+	"The Phantom Knights of Ragged Gloves", # 20
+	"Brotherhood of the Fire Fist - Cardinal", # 19
+	"Constellar Sombre", # 19
+	"Dance Princess of the Nekroz", # 19
+	"Destiny HERO - Defender", # 19
+	"Destiny HERO - Doom Lord", # 19
+	"Dewloren, Tiger King of the Ice Barrier", # 19
+	"Dimensional Alchemist", # 19
+	"Dragon Shrine", # 19
+	"Edea the Heavenly Squire", # 19
+	"Fossil Dig", # 19
+	"Fusilier Dragon, the Dual-Mode Beast", # 19
+	"Infernity Break", # 19
+	"Junk Destroyer", # 19
+	"Magical Mallet", # 19
+	"Metalfoes Orichalc", # 19
+	"Missus Radiant", # 19
+	"Number 45: Crumble Logos the Prophet of Demolition", # 19
+	"Odd-Eyes Meteorburst Dragon", # 19
+	"Pendulum Call", # 19
+	"Photon Strike Bounzer", # 19
+	"Purrelyly", # 19
+	"Spellbook Star Hall", # 19
+	"Stellarknight Triverr", # 19
+	"Storm", # 19
+	"Stygian Sergeants", # 19
+	"The Six Samurai - Zanji", # 19
+	"Wandering Gryphon Rider", # 19
+	"Yazi, Evil of the Yang Zing", # 19
+	"Abomination's Prison", # 18
+	"Appointer of the Red Lotus", # 18
+	"Berserk Gorilla", # 18
+	"Circle of the Fire Kings", # 18
+	"Cyber Emergency", # 18
+	"Danger! Mothman!", # 18
+	"Dante, Pilgrim of the Burning Abyss", # 18
+	"Eidos the Underworld Squire", # 18
+	"Elemental HERO Dark Neos", # 18
+	"Exarion Universe", # 18
+	"Five-Headed Dragon", # 18
+	"Forbidden Dress", # 18
+	"Grenosaurus", # 18
+	"HTS Psyhemuth", # 18
+	"Il Blud", # 18
+	"Karakuri Steel Shogun mdl 00X "Bureido"", # 18
+	"Kuribandit", # 18
+	"Mask Change", # 18
+	"Mind Drain", # 18
+	"Nimble Angler", # 18
+	"Orcust Harp Horror", # 18
+	"Salamangreat Spinny", # 18
+	"Scrap Goblin", # 18
+	"Sixth Sense", # 18
+	"Stray Purrely Street", # 18
+	"Stygian Street Patrol", # 18
+	"Super Quantal Mech Beast Grampulse", # 18
+	"Swordsoul Emergence", # 18
+	"Swordsoul Strategist Longyuan", # 18
+	"Swordsoul of Mo Ye", # 18
+	"Tenyi Spirit - Ashuna", # 18
+	"Time Thief Redoer", # 18
+	"Tour Bus From the Underworld", # 18
+	"Tri-Brigade Fraktall", # 18
+	"Tri-Brigade Kitt", # 18
+	"Tri-Brigade Nervall", # 18
+	"Unchained Twins - Aruha", # 18
+	"Void Vanishment", # 18
+	"Volcanic Queen", # 18
+	"Volcanic Shell", # 18
+	"Beiige, Vanguard of Dark World", # 17
+	"Black Salvo", # 17
+	"Blazing Cartesia, the Virtuous", # 17
+	"Blowback Dragon", # 17
+	"Borreload Dragon", # 17
+	"Borrelsword Dragon", # 17
+	"Bystial Dis Pater", # 17
+	"Crystal Wing Synchro Dragon", # 17
+	"Crystron Halqifibrax", # 17
+	"Dracoback, the Rideable Dragon", # 17
+	"Drill Warrior", # 17
+	"Dynatherium", # 17
+	"Elemental HERO Shadow Mist", # 17
+	"Grand Horn of Heaven", # 17
+	"Infernoid Seitsemas", # 17
+	"Lubellion the Searing Dragon", # 17
+	"Lunalight Black Sheep", # 17
+	"Neko Mane King", # 17
+	"Nitro Warrior", # 17
+	"Onslaught of the Fire Kings", # 17
+	"Prank-Kids Pandemonium", # 17
+	"Rainbow Life", # 17
+	"Ring of Defense", # 17
+	"Spirit of the Six Samurai", # 17
+	"Synchro Zone", # 17
+	"Tin Goldfish", # 17
+	"Tri-Brigade Revolt", # 17
+	"Tri-Brigade Shuraig the Ominous Omen", # 17
+	"Van'Dalgyon the Dark Dragon Lord", # 17
+	"Agido the Ancient Sentinel", # 16
+	"Amano-Iwato", # 16
+	"Amazoness Archer", # 16
+	"Angel of Zera", # 16
+	"Archfiend Soldier", # 16
+	"Bull Blader", # 16
+	"Constellar Omega", # 16
+	"Danger!? Jackalope?", # 16
+	"Dark Eruption", # 16
+	"Destiny HERO - Destroyer Phoenix Enforcer", # 16
+	"Dogmatika Punishment", # 16
+	"Elemental HERO Grand Neos", # 16
+	"Elemental HERO Ocean", # 16
+	"Elemental HERO Wildheart", # 16
+	"Expurrely Noir", # 16
+	"Fire King Sky Burn", # 16
+	"Firewall Dragon", # 16
+	"Floowandereeze & Stri", # 16
+	"Gadarla, the Mystery Dust Kaiju", # 16
+	"Heroic Champion - Excalibur", # 16
+	"Ice Dragon's Prison", # 16
+	"Incredible Ecclesia, the Virtuous", # 16
+	"Infernoid Devyaty", # 16
+	"Inzektor Ladybug", # 16
+	"Kozmo DOG Fighter", # 16
+	"Majespecter Fox - Kyubi", # 16
+	"Metalfoes Counter", # 16
+	"Nadir Servant", # 16
+	"Number 66: Master Key Beetle", # 16
+	"Parallel eXceed", # 16
+	"Red-Eyes Wyvern", # 16
+	"Scareclaw Kashtira", # 16
+	"Small World", # 16
+	"Spell Shield Type-8", # 16
+	"Spell Striker", # 16
+	"Super Roboyarou", # 16
+	"Tenyi Spirit - Adhara", # 16
+	"Tenyi Spirit - Vishuda", # 16
+	"Thunder Nyan Nyan", # 16
+	"Transaction Rollback", # 16
+	"Turbo Warrior", # 16
+	"Albion the Shrouded Dragon", # 15
+	"Bujin Yamato", # 15
+	"Cards from the Sky", # 15
+	"Chiron the Mage", # 15
+	"Danger!? Tsuchinoko?", # 15
+	"Destrudo the Lost Dragon's Frisson", # 15
+	"Elemental HERO Nova Master", # 15
+	"Evilswarm Bahamut", # 15
+	"Evilswarm Ouroboros", # 15
+	"Floowandereeze and the Unexplored Winds", # 15
+	"Fog King", # 15
+	"Garunix Eternity, Hyang of the Fire Kings", # 15
+	"Guardian Chimera", # 15
+	"Hieratic Dragon of Eset", # 15
+	"Into the Void", # 15
+	"Jizukiru, the Star Destroying Kaiju", # 15
+	"Kagetokage", # 15
+	"Knightmare Gryphon", # 15
+	"Labrynth Labyrinth", # 15
+	"Lost Wind", # 15
+	"Lovely Labrynth of the Silver Castle", # 15
+	"Magical Explosion", # 15
+	"Malefic Cyber End Dragon", # 15
+	"Mannadium Meek", # 15
+	"Mannadium Riumheart", # 15
+	"Neptabyss, the Atlantean Prince", # 15
+	"Ningirsu the World Chalice Warrior", # 15
+	"Orcustrated Return", # 15
+	"Peaceful Planet Calarium", # 15
+	"Queen Dragun Djinn", # 15
+	"Reinforce Truth", # 15
+	"Salamangreat Circle", # 15
+	"Salamangreat Gazelle", # 15
+	"Sangen Kaimen", # 15
+	"Sangen Summoning", # 15
+	"Scrapyard", # 15
+	"Shining Elf", # 15
+	"Sky Striker Maneuver - Jamming Waves!", # 15
+	"Spellbook of Life", # 15
+	"Star Seraph Scepter", # 15
+	"Star Seraph Sovereignty", # 15
+	"Super Robolady", # 15
+	"Supply Squad", # 15
+	"Tenpai Dragon Chundra", # 15
+	"Tenpai Dragon Paidra", # 15
+	"The Zombie Vampire", # 15
+	"Tri-Edge Levia", # 15
+	"Unchained Soul of Anguish", # 15
+	"United We Stand", # 15
+	"Visas Samsara", # 15
+	"Void Feast", # 15
+	"ALERT!", # 14
+	"Abominable Chamber of the Unchained", # 14
+	"Baxia, Brightness of the Yang Zing", # 14
+	"Blade Armor Ninja", # 14
+	"Bujingi Crane", # 14
+	"Burst Rebirth", # 14
+	"CONTAIN!", # 14
+	"Cagna, Malebranche of the Burning Abyss", # 14
+	"Dark Contract with the Gate", # 14
+	"Dark Illusion", # 14
+	"Dragunity Arma Mystletainn", # 14
+	"EXTINGUISH!", # 14
+	"Evil HERO Infernal Prodigy", # 14
+	"Floowandereeze & Toccan", # 14
+	"Freki the Runick Fangs", # 14
+	"Gagaga Samurai", # 14
+	"Great Sorcerer of the Nekroz", # 14
+	"Hallowed Life Barrier", # 14
+	"Heroic Challenger - Assault Halberd", # 14
+	"Illusion of Chaos", # 14
+	"Infernoid Onuncu", # 14
+	"Invoked Mechaba", # 14
+	"Knightmare Goblin", # 14
+	"Mask Change II", # 14
+	"Number 96: Dark Mist", # 14
+	"Odd-Eyes Pendulumgraph Dragon", # 14
+	"Odd-Eyes Vortex Dragon", # 14
+	"Offerings to the Doomed", # 14
+	"Onibimaru Soul Sweeper", # 14
+	"RESCUE!", # 14
+	"Rank-Up-Magic Astral Force", # 14
+	"Red Resonator", # 14
+	"Rescue-ACE HQ", # 14
+	"Scareclaw Reichheart", # 14
+	"Sea Dragon Lord Gishilnodon", # 14
+	"Shield Crush", # 14
+	"Sky Striker Mecha Modules - Multirole", # 14
+	"Stardust Spark Dragon", # 14
+	"Starliege Seyfert", # 14
+	"Submersible Carrier Aero Shark", # 14
+	"Tri-Brigade Ferrijit the Barren Blossom", # 14
+	"Tri-Brigade Kerass", # 14
+	"Vessel for the Dragon Cycle", # 14
+	"X-Saber Wayne", # 14
+	"Bujintei Susanowo", # 13
+	"Dark Nephthys", # 13
+	"Destiny HERO - Celestial", # 13
+	"Dragonpit Magician", # 13
+	"Epurrely Beauty", # 13
+	"Epurrely Happiness", # 13
+	"Floowandereeze and the Dreaming Town", # 13
+	"G.B. Hunter", # 13
+	"Gravekeeper's Inscription", # 13
+	"Guiding Quem, the Virtuous", # 13
+	"Hapi, Guidance of Horus", # 13
+	"Herald of Pure Light", # 13
+	"Hidden Armory", # 13
+	"Hieratic Seal of the Heavenly Spheres", # 13
+	"Humanoid Worm Drake", # 13
+	"Karakuri Komachi mdl 224 "Ninishi"", # 13
+	"Karakuri Strategist mdl 248 "Nishipachi"", # 13
+	"Kashtira Shangri-Ira", # 13
+	"Mokey Mokey King", # 13
+	"Monk of the Tenyi", # 13
+	"Muzurhythm the String Djinn", # 13
+	"Necroworld Banshee", # 13
+	"Number 104: Masquerade", # 13
+	"Oafdragon Magician", # 13
+	"Peropero Cerperus", # 13
+	"Prank-Kids Battle Butler", # 13
+	"Raiza the Mega Monarch", # 13
+	"Reflect Bounder", # 13
+	"Rose, Warrior of Revenge", # 13
+	"Salamangreat Foxy", # 13
+	"Skilled Dark Magician", # 13
+	"Soul Transition", # 13
+	"Superdreadnought Rail Cannon Gustav Max", # 13
+	"Swordsoul Grandmaster - Chixiao", # 13
+	"Swordsoul Supreme Sovereign - Chengying", # 13
+	"The Six Samurai - Irou", # 13
+	"Topologic Zeroboros", # 13
+	"Unchained Abomination", # 13
+	"Vermillion Dragon Mech", # 13
+	"Void Imagination", # 13
+	"Wall of Revealing Light", # 13
+	"Aleister the Invoker", # 12
+	"Alsei, the Sylvan High Protector", # 12
+	"Armored Kappa", # 12
+	"Barrel Behind the Door", # 12
+	"Centur-Ion Primera", # 12
+	"Centur-Ion Trudea", # 12
+	"Dark Armed, the Dragon of Annihilation", # 12
+	"Drowning Mirror Force", # 12
+	"Drytron Alpha Thuban", # 12
+	"Drytron Nova", # 12
+	"Drytron Zeta Aldhibah", # 12
+	"Edge Imp Chain", # 12
+	"Emblema Oath", # 12
+	"Fire King Avatar Yaksha", # 12
+	"Flamvell Magician", # 12
+	"Geartown", # 12
+	"Granguignol the Dusk Dragon", # 12
+	"Grisaille Prison", # 12
+	"Hieratic Dragon of Su", # 12
+	"Hieratic Dragon of Tefnuit", # 12
+	"Inspector Boarder", # 12
+	"Karakuri Merchant mdl 177 "Inashichi"", # 12
+	"Kikinagashi Fucho", # 12
+	"Legendary Six Samurai - Enishi", # 12
+	"Madolche Magileine", # 12
+	"Magical Meltdown", # 12
+	"Majespecter Cat - Nekomata", # 12
+	"Orcust Cymbal Skeleton", # 12
+	"Ostinato", # 12
+	"Performapal Secondonkey", # 12
+	"Prank-Kids Weather Washer", # 12
+	"Primitive Planet Reichphobia", # 12
+	"Quick Launch", # 12
+	"Refrain the Melodious Songstress", # 12
+	"Ritual Beast Ambush", # 12
+	"Ritual Beast Steeds", # 12
+	"Ritual Beast Tamer Elder", # 12
+	"Ritual Beast Ulti-Apelio", # 12
+	"Ritual Beast Ulti-Cannahawk", # 12
+	"Rock of the Vanquisher", # 12
+	"Runick Smiting Storm", # 12
+	"Sasuke Samurai", # 12
+	"Scareclaw Light-Heart", # 12
+	"Spined Gillman", # 12
+	"Spiritual Beast Cannahawk", # 12
+	"Spiritual Beast Rampengu", # 12
+	"Spright Pixies", # 12
+	"Stake your Soul!", # 12
+	"Stand Up Centur-Ion!", # 12
+	"Starliege Paladynamo", # 12
+	"The Melody of Awakening Dragon", # 12
+	"Topologic Trisbaena", # 12
+	"Trickstar Lilybell", # 12
+	"Trident Dragion", # 12
+	"Unending Nightmare", # 12
+	"Vanquish Soul Razen", # 12
+	"Virtual World City - Kauwloon", # 12
+	"Virtual World Gate - Qinglong", # 12
+	"Virtual World Kirin - Lili", # 12
+	"Virtual World Mai-Hime - Lulu", # 12
+	"Virtual World Roshi - Laolao", # 12
+	"Virtual World Xiezhi - Jiji", # 12
+	"W Nebula Meteorite", # 12
+	"Will of the Salamangreat", # 12
+	"Worm Cartaros", # 12
+	"Worm Xex", # 12
+	"Worm Yagan", # 12
+	"XX-Saber Ragigura", # 12
+	"Accel Synchro Stardust Dragon", # 11
+	"Black Rose Moonlight Dragon", # 11
+	"Branded in High Spirits", # 11
+	"Branded in Red", # 11
+	"Constellar Sheratan", # 11
+	"Corridor of Agony", # 11
+	"Curious, the Lightsworn Dominion", # 11
+	"D.D. Designator", # 11
+	"D.D.M. - Different Dimension Master", # 11
+	"Despian Tragedy", # 11
+	"Dogoran, the Mad Flame Kaiju", # 11
+	"Dragon Knight Draco-Equiste", # 11
+	"Dragunity Knight - Gae Dearg", # 11
+	"Drop Off", # 11
+	"Exploder Dragon", # 11
+	"Frightfur Patchwork", # 11
+	"Herald of the Abyss", # 11
+	"Infestation Terminus", # 11
+	"Machina Peacekeeper", # 11
+	"Madolche Hootcake", # 11
+	"Magnet Reverse", # 11
+	"Majespecter Tempest", # 11
+	"Metaion, the Timelord", # 11
+	"Mirror of the Ice Barrier", # 11
+	"Number 52: Diamond Crab King", # 11
+	"Performapal Silver Claw", # 11
+	"Pitknight Earlie", # 11
+	"Prank-Kids Bow-Wow-Bark", # 11
+	"Prank-Kids Pranks", # 11
+	"SPYRAL Double Helix", # 11
+	"Saryuja Skull Dread", # 11
+	"Scareclaw Arrival", # 11
+	"Scrap Golem", # 11
+	"Shiranui Solitaire", # 11
+	"Solidarity", # 11
+	"Spellbound", # 11
+	"Spiritual Beast Apelio", # 11
+	"T.G. Power Gladiator", # 11
+	"Tearlaments Heartbeat", # 11
+	"The Light - Hex-Sealed Fusion", # 11
+	"The White Stone of Legend", # 11
+	"Topologic Bomber Dragon", # 11
+	"Trivikarma", # 11
+	"Ultimaya Tzolkin", # 11
+	"Vicious Astraloud", # 11
+	"Volcanic Rocket", # 11
+	"Wind-Up Kitten", # 11
+	"Wisdom-Eye Magician", # 11
+	"Bacha the Melodious Maestra", # 10
+	"Beelze Frog", # 10
+	"Bujincarnation", # 10
+	"Bujingi Turtle", # 10
+	"Centur-Ion Legatia", # 10
+	"Chaos Space", # 10
+	"Couplet the Melodious Songstress", # 10
+	"Crimson Dragon", # 10
+	"D/D/D Wave High King Caesar", # 10
+	"Dark Scorpion - Cliff the Trap Remover", # 10
+	"Destiny HERO - Dangerous", # 10
+	"Destiny HERO - Dogma", # 10
+	"Different Dimension Capsule", # 10
+	"Dogmatika Ecclesia, the Virtuous", # 10
+	"Doppelwarrior", # 10
+	"El Shaddoll Apkallone", # 10
+	"Elemental HERO Great Tornado", # 10
+	"Eria the Water Charmer, Gentle", # 10
+	"Fire King High Avatar Garunix", # 10
+	"Flame Bufferlo", # 10
+	"Fusion Duplication", # 10
+	"Galaxy Soldier", # 10
+	"Goblindbergh", # 10
+	"Infernoid Attondel", # 10
+	"Jurrac Velo", # 10
+	"Left Arm Offering", # 10
+	"Lightning Chidori", # 10
+	"Lord of the Heavenly Prison", # 10
+	"Metalfoes Adamante", # 10
+	"Minerva, the Exalted Lightsworn", # 10
+	"Odd-Eyes Absolute Dragon", # 10
+	"Odd-Eyes Rebellion Dragon", # 10
+	"Performapal Odd-Eyes Unicorn", # 10
+	"Phantom Dragon", # 10
+	"Purrely Delicious Memory", # 10
+	"Re-qliate", # 10
+	"Rescue-ACE Fire Engine", # 10
+	"Runick Dispelling", # 10
+	"Scarlight Red Dragon Archfiend", # 10
+	"Sleipnir the Runick Mane", # 10
+	"Striker Dragon", # 10
+	"Swordsoul of Taia", # 10
+	"Tearlaments Rulkallos", # 10
+	"Tenpai Dragon Fadra", # 10
+	"Visas Starfrost", # 10
+	"Vulcan the Divine", # 10
+	"1st Movement Solo", # 9
+	"Anti-Magic Arrows", # 9
+	"Aratama", # 9
+	"Arcana Force 0 - The Fool", # 9
+	"Babycerasaurus", # 9
+	"Banishment of the Darklords", # 9
+	"Blue-Eyes Alternative White Dragon", # 9
+	"Blue-Eyes Spirit Dragon", # 9
+	"Book of Taiyou", # 9
+	"Chain Whirlwind", # 9
+	"Coral Dragon", # 9
+	"Cornfield Coatl", # 9
+	"Curse of Darkness", # 9
+	"D.D. Scout Plane", # 9
+	"Dark Mimic LV1", # 9
+	"Darklord Contact", # 9
+	"Darklord Ixchel", # 9
+	"Darklord Nasten", # 9
+	"Darklord Superbia", # 9
+	"Denglong, First of the Yang Zing", # 9
+	"Diamond Core of Koa'ki Meiru", # 9
+	"Digital Bug Corebage", # 9
+	"Duelist Alliance", # 9
+	"Eldlich the Golden Lord", # 9
+	"Eldlixir of Scarlet Sanguine", # 9
+	"Evil HERO Malicious Edge", # 9
+	"Fiendish Rhino Warrior", # 9
+	"Fire Formation - Gyokkou", # 9
+	"Fires of Doomsday", # 9
+	"Gazelle the King of Mythical Claws", # 9
+	"Generation Shift", # 9
+	"Gizmek Orochi, the Serpentron Sky Slasher", # 9
+	"Gladiator Beast Essedarii", # 9
+	"Gouki Suprex", # 9
+	"Granmarg the Rock Monarch", # 9
+	"Hieratic Seal of Convocation", # 9
+	"Holding Legs", # 9
+	"Infestation Infection", # 9
+	"Knightmare Mermaid", # 9
+	"Koa'ki Meiru Urnight", # 9
+	"Madolche Chateau", # 9
+	"Madolche Messengelato", # 9
+	"Madolche Queen Tiaramisu", # 9
+	"Masked Dragon", # 9
+	"Mirror Swordknight", # 9
+	"Nikitama", # 9
+	"Ninja Grandmaster Hanzo", # 9
+	"Non Aggression Area", # 9
+	"Number 15: Gimmick Puppet Giant Grinder", # 9
+	"Number 29: Mannequin Cat", # 9
+	"Orcust Crescendo", # 9
+	"Performapal Partnaga", # 9
+	"Purrelyeap!?", # 9
+	"Red-Eyes Dark Dragoon", # 9
+	"Return of the Dragon Lords", # 9
+	"Rindbrumm the Striking Dragon", # 9
+	"Ritual Beast Ulti-Pettlephin", # 9
+	"Rokket Tracer", # 9
+	"Sage with Eyes of Blue", # 9
+	"Salamangreat Jack Jaguar", # 9
+	"Sangenpai Bident Dragion", # 9
+	"Shien's Squire", # 9
+	"Sinful Spoils of Betrayal - Silvera", # 9
+	"Sky Striker Ace - Roze", # 9
+	"Souleating Oviraptor", # 9
+	"Spear Dragon", # 9
+	"Super Quantum Red Layer", # 9
+	"Swallow's Cowrie", # 9
+	"Tearlaments Cryme", # 9
+	"The Six Samurai - Kamon", # 9
+	"The White Stone of Ancients", # 9
+	"Titaniklad the Ash Dragon", # 9
+	"Toon Table of Contents", # 9
+	"Tri-Brigade Arms Bucephalus II", # 9
+	"Tri-Brigade Bearbrumm the Rampant Rampager", # 9
+	"Trickstar Holly Angel", # 9
+	"Uni-Zombie", # 9
+	"Vanity's Ruler", # 9
+	"Vanquish Soul Heavy Borger", # 9
+	"Virtual World Gate - Chuche", # 9
+	"Abyss Soldier", # 8
+	"Albion the Sanctifire Dragon", # 8
+	"Amorphage Sloth", # 8
+	"Beelze of the Diabolic Dragons", # 8
+	"Big Bang Shot", # 8
+	"Blue Thunder T-45", # 8
+	"Bujin Mikazuchi", # 8
+	"Bujingi Hare", # 8
+	"Chimera Fusion", # 8
+	"Clara & Rushka, the Ventriloduo", # 8
+	"Conquistador of the Golden Land", # 8
+	"Crusader of Endymion", # 8
+	"Crystal Seer", # 8
+	"Cursed Eldland", # 8
+	"Cyber Dragon Nachster", # 8
+	"Danger! Bigfoot!", # 8
+	"Dark Paladin", # 8
+	"Destiny HERO - Denier", # 8
+	"Doom Dozer", # 8
+	"Draghig, Malebranche of the Burning Abyss", # 8
+	"Dragon Master Knight", # 8
+	"Drytron Gamma Eltanin", # 8
+	"Drytron Mu Beta Fafnir", # 8
+	"Elemental HERO Flame Wingman", # 8
+	"Enishi, Shien's Chancellor", # 8
+	"Epurrely Noir", # 8
+	"Epurrely Plump", # 8
+	"Evil★Twin's Trouble Sunny", # 8
+	"Exa, Enforcer of the Nekroz", # 8
+	"G Golem Crystal Heart", # 8
+	"Genex Neutron", # 8
+	"Gouki Twistcobra", # 8
+	"Heroic Champion - Gandiva", # 8
+	"Hierophant of Prophecy", # 8
+	"Infernoid Antra", # 8
+	"Invocation", # 8
+	"Iron Core of Koa'ki Meiru", # 8
+	"Karakuri Ninja mdl 919 "Kuick"", # 8
+	"Koa'ki Meiru Crusader", # 8
+	"Legendary Six Samurai - Mizuho", # 8
+	"Majespecter Crow - Yata", # 8
+	"Marauding Captain", # 8
+	"Number 23: Lancelot, Dark Knight of the Underworld", # 8
+	"Odd-Eyes Fusion", # 8
+	"Performapal Odd-Eyes Light Phoenix", # 8
+	"Pianissimo", # 8
+	"Pikeru's Circle of Enchantment", # 8
+	"Pole Position", # 8
+	"Pot of Acquisitiveness", # 8
+	"Reign-Beaux, Overlord of Dark World", # 8
+	"Rescue-ACE Fire Attacker", # 8
+	"Rite of Spirit", # 8
+	"Ritual Beast Ulti-Gaiapelio", # 8
+	"Scrap Twin Dragon", # 8
+	"Sky Striker Ace - Kaina", # 8
+	"Sky Striker Mecha - Eagle Booster", # 8
+	"Swarm of Locusts", # 8
+	"The Fabled Catsith", # 8
+	"The Phantom Knights of Torn Scales", # 8
+	"Unchained Soul of Shyama", # 8
+	"Unchained Twins - Rakea", # 8
+	"Vampire Lord", # 8
+	"Vanquish Soul Jiaolong", # 8
+	"Virtual World Hime - Nyannyan", # 8
+	"Void Trap Hole", # 8
+	"Vortex the Whirlwind", # 8
+	"Ally of Justice Core Destroyer", # 7
+	"Ancient Gear Gadjiltron Dragon", # 7
+	"Barricadeborg Blocker", # 7
+	"Black-Winged Dragon", # 7
+	"Branded Lost", # 7
+	"Brotherhood of the Fire Fist - Boar", # 7
+	"Chimera the King of Phantom Beasts", # 7
+	"Cunning of the Six Samurai", # 7
+	"Cyber Dragon Drei", # 7
+	"D.3.S. Frog", # 7
+	"Draco Berserker of the Tenyi", # 7
+	"El Shaddoll Anoyatyllis", # 7
+	"Fairy King Albverdich", # 7
+	"Fire Formation - Tenken", # 7
+	"Fire King Avatar Kirin", # 7
+	"Flowering Etoile the Melodious Magnificat", # 7
+	"Giant Orc", # 7
+	"Gilasaurus", # 7
+	"Harmonizing Magician", # 7
+	"Heat Wave", # 7
+	"Hieratic Dragon of Nebthet", # 7
+	"Huaquero of the Golden Land", # 7
+	"Invoked Raidjin", # 7
+	"Jurrac Aeolo", # 7
+	"Kachi Kochi Dragon", # 7
+	"Karakuri Soldier mdl 236 "Nisamu"", # 7
+	"Kozmoll Dark Lady", # 7
+	"Live☆Twin Lil-la", # 7
+	"Live☆Twin Sunny's Snitch", # 7
+	"Longirsu, the Orcust Orchestrator", # 7
+	"Lyrilusc - Recital Starling", # 7
+	"Madolche Ticket", # 7
+	"Mannadium Abscission", # 7
+	"Masked Chameleon", # 7
+	"Masked HERO Acid", # 7
+	"Masked HERO Anki", # 7
+	"Masquerade the Blazing Dragon", # 7
+	"Mataza the Zapper", # 7
+	"Mecha-Dog Marron", # 7
+	"Miscellaneousaurus", # 7
+	"Mist Valley Falcon", # 7
+	"Number 12: Crimson Shadow Armor Ninja", # 7
+	"Number 39: Utopia Beyond", # 7
+	"Number 77: The Seven Sins", # 7
+	"Number 84: Pain Gainer", # 7
+	"Prank-Kids Rocket Ride", # 7
+	"Proxy F Magician", # 7
+	"Royal Command", # 7
+	"Runick Golden Droplet", # 7
+	"Salamangreat Heatleo", # 7
+	"Salamangreat Miragestallio", # 7
+	"Salamangreat Rage", # 7
+	"Salamangreat Roar", # 7
+	"Salamangreat Sanctuary", # 7
+	"Salamangreat of Fire", # 7
+	"Schuberta the Melodious Maestra", # 7
+	"Set Rotation", # 7
+	"Soprano the Melodious Songstress", # 7
+	"Speedroid Menko", # 7
+	"Spright Gamma Burst", # 7
+	"Starving Venom Fusion Dragon", # 7
+	"Swordsoul Blackout", # 7
+	"Tenyi Spirit - Shthana", # 7
+	"Time-Tearing Morganite", # 7
+	"Tri-Brigade Mercourier", # 7
+	"Upstart Golden Ninja", # 7
+	"Wild Tornado", # 7
+	"World Legacy - "World Wand"", # 7
+	"A Cat of Ill Omen", # 6
+	"A Feather of the Phoenix", # 6
+	"A Wingbeat of Giant Dragon", # 6
+	"A.I. Meet You", # 6
+	"Abominable Unchained Soul", # 6
+	"Abyss Actor - Curtain Raiser", # 6
+	"Abyss-squall", # 6
+	"Achichi @Ignister", # 6
+	"Advanced Ritual Art", # 6
+	"Altergeist Marionetter", # 6
+	"Altergeist Meluseek", # 6
+	"Ancient Warriors Oath - Double Dragon Lords", # 6
+	"Apoqliphort Towers", # 6
+	"Autonomous Action Unit", # 6
+	"Azure-Eyes Silver Dragon", # 6
+	"Barrier Statue of the Stormwinds", # 6
+	"Berfomet the Mythical King of Phantom Beasts", # 6
+	"Big-Winged Berfomet", # 6
+	"Black Luster Soldier - Soldier of Chaos", # 6
+	"Black Metal Dragon", # 6
+	"Blaze Accelerator Reload", # 6
+	"Bountiful Artemis", # 6
+	"Branded Regained", # 6
+	"Branded Retribution", # 6
+	"Chaofeng, Phantom of the Yang Zing", # 6
+	"Chaos Dragon Levianeer", # 6
+	"Chronograph Sorcerer", # 6
+	"Constellar Praesepe", # 6
+	"Contact "C"", # 6
+	"Cross-Sheep", # 6
+	"Cyber Dragon Herz", # 6
+	"D/D/D Deviser King Deus Machinex", # 6
+	"Darkest Diabolos, Lord of the Lair", # 6
+	"Darklord Rebellion", # 6
+	"Delta Flyer", # 6
+	"Demise, King of Armageddon", # 6
+	"Despian Quaeritis", # 6
+	"Diamond Dust", # 6
+	"Dragon Spirit of White", # 6
+	"Dragoons of Draconia", # 6
+	"Dragunity Knight - Romulus", # 6
+	"Earth Golem @Ignister", # 6
+	"Escalation of the Monarchs", # 6
+	"Eva", # 6
+	"Evil HERO Dark Gaia", # 6
+	"Evil★Twins Ki-sikil & Lil-la", # 6
+	"Exosister Elis", # 6
+	"Exosister Martha", # 6
+	"Exosister Mikailis", # 6
+	"Exosister Pax", # 6
+	"Exosister Sophia", # 6
+	"Exosister Stella", # 6
+	"Fabled Ragin", # 6
+	"Fiend Comedian", # 6
+	"Foolish Return", # 6
+	"Galaxy-Eyes Cipher Dragon", # 6
+	"Galaxy-Eyes Full Armor Photon Dragon", # 6
+	"Gimmick Puppet Nightmare", # 6
+	"Girsu, the Orcust Mekk-Knight", # 6
+	"Gnomaterial", # 6
+	"Golden Cloud Beast - Malong", # 6
+	"Good & Evil in the Burning Abyss", # 6
+	"Gouki Octostretch", # 6
+	"Gouki Re-Match", # 6
+	"Graydle Slime Jr.", # 6
+	"Green Baboon, Defender of the Forest", # 6
+	"Guardian Eatos", # 6
+	"Guardragon Pisty", # 6
+	"Heavymetalfoes Electrumite", # 6
+	"Hi-Speedroid Chanbara", # 6
+	"Hraesvelgr, the Desperate Doom Eagle", # 6
+	"Ignister A.I.Land", # 6
+	"Infernoid Sjette", # 6
+	"Infernoid Tierra", # 6
+	"Insect Imitation", # 6
+	"Insect Knight", # 6
+	"Jowls of Dark Demise", # 6
+	"Judgment of Anubis", # 6
+	"Kashtira Ogre", # 6
+	"Kozmo Dark Eclipser", # 6
+	"Kozmo Soartroopers", # 6
+	"Machina Cannon", # 6
+	"Madolche Anjelly", # 6
+	"Mage Power", # 6
+	"Magic Planter", # 6
+	"Majespecter Cyclone", # 6
+	"Mikanko Water Arabesque", # 6
+	"Miracle Fertilizer", # 6
+	"Mithra the Thunder Vassal", # 6
+	"Mythical Beast Master Cerberus", # 6
+	"Nightmare's Steelcage", # 6
+	"Ninjitsu Art of Super-Transformation", # 6
+	"Noctovision Dragon", # 6
+	"Number 95: Galaxy-Eyes Dark Matter Dragon", # 6
+	"Ohime the Manifested Mikanko", # 6
+	"Ojama Knight", # 6
+	"Orcustrated Babel", # 6
+	"PSY-Frame Circuit", # 6
+	"PSY-Frame Overload", # 6
+	"PSY-Framegear Alpha", # 6
+	"PSY-Framegear Beta", # 6
+	"Panzer Dragon", # 6
+	"Personal Spoofing", # 6
+	"Photon Sabre Tiger", # 6
+	"Pikari @Ignister", # 6
+	"Purple Poison Magician", # 6
+	"Reckoned Power", # 6
+	"Red Rose Dragon", # 6
+	"Reeshaddoll Wendi", # 6
+	"Ritual Beast Tamer Wen", # 6
+	"Sacred Phoenix of Nephthys", # 6
+	"Sangenpai Transcendent Dragion", # 6
+	"Sea Archiver", # 6
+	"Shaman of the Tenyi", # 6
+	"Silent Graveyard", # 6
+	"Sonata the Melodious Diva", # 6
+	"Spell Economics", # 6
+	"Spiritual Swords of Revealing Light", # 6
+	"Splash Mage", # 6
+	"Superheavy Samurai Motorbike", # 6
+	"Superheavy Samurai Prodigy Wakaushi", # 6
+	"Supreme King Dragon Darkwurm", # 6
+	"Swords of Concealing Light", # 6
+	"Sylvan Charity", # 6
+	"Sylvan Hermitree", # 6
+	"Sylvan Sagequoia", # 6
+	"Temperance of Prophecy", # 6
+	"The Huge Revolution is Over", # 6
+	"The Monarchs Erupt", # 6
+	"Thunder Dragon Fusion", # 6
+	"Token Thanksgiving", # 6
+	"Tri-Brigade Rugal the Silver Sheller", # 6
+	"Triple Burst Dragon", # 6
+	"Tyrant's Tirade", # 6
+	"Ultimate Conductor Tyranno", # 6
+	"Unchained Twins - Sarama", # 6
+	"Void Ogre Dragon", # 6
+	""Infernoble Arms - Durendal"", # 5
+	"Absorouter Dragon", # 5
+	"Ally Salvo", # 5
+	"Altergeist Hexstia", # 5
+	"Blind Obliteration", # 5
+	"Bujinki Amaterasu", # 5
+	"Castle of Dragon Souls", # 5
+	"Chaos Ruler, the Chaotic Magical Dragon", # 5
+	"Chimeratech Megafleet Dragon", # 5
+	"Common Charity", # 5
+	"Cyber Ogre 2", # 5
+	"Cyberse Wicckid", # 5
+	"Dark Simorgh", # 5
+	"Dark World Puppetry", # 5
+	"Dogmatika Fleurdelis, the Knighted", # 5
+	"Dogmatika Maximus", # 5
+	"Double Snare", # 5
+	"Drytron Delta Altais", # 5
+	"Drytron Fafnir", # 5
+	"Elemental HERO Chaos Neos", # 5
+	"Elemental HERO Shining Flare Wingman", # 5
+	"Evil★Twin Ki-sikil", # 5
+	"Fire Flint Lady", # 5
+	"Full Force Virus", # 5
+	"Fusion Gate", # 5
+	"Gateway to Dark World", # 5
+	"Gen the Diamond Tiger", # 5
+	"Gilti-Gearfried the Magical Steel Knight", # 5
+	"Gouki Headbatt", # 5
+	"Gouki Riscorpio", # 5
+	"Gravekeeper's Watcher", # 5
+	"Gravity Controller", # 5
+	"Haggard Lizardose", # 5
+	"Hot Red Dragon Archfiend King Calamity", # 5
+	"Ipiria", # 5
+	"Iron Thunder", # 5
+	"Jiaotu, Darkness of the Yang Zing", # 5
+	"Junk Forward", # 5
+	"King of the Swamp", # 5
+	"Knightmare Corruptor Iblee", # 5
+	"Lady Debug", # 5
+	"Light End Dragon", # 5
+	"Majespecter Tornado", # 5
+	"Majesty's Pegasus", # 5
+	"Mannadium Reframing", # 5
+	"Mannadium Trisukta", # 5
+	"Mecha Phantom Beast Auroradon", # 5
+	"Mekk-Knight Crusadia Avramax", # 5
+	"Melodious Concerto", # 5
+	"Metaverse", # 5
+	"Meteonis Drytron", # 5
+	"Nefarious Archfiend Eater of Nefariousness", # 5
+	"Neo Bug", # 5
+	"Nova Summoner", # 5
+	"Number 22: Zombiestein", # 5
+	"Number 2: Ninja Shadow Mosquito", # 5
+	"Number 76: Harmonizer Gradielle", # 5
+	"Orcust Brass Bombard", # 5
+	"PSY-Framelord Zeta", # 5
+	"Petiteranodon", # 5
+	"Psychic Feel Zone", # 5
+	"Retort", # 5
+	"Rokket Synchron", # 5
+	"Sacred Crane", # 5
+	"Sasuke Samurai #4", # 5
+	"Satellarknight Alsahm", # 5
+	"Shaddoll Schism", # 5
+	"Sky Striker Ace - Zeke", # 5
+	"Sky Striker Mecharmory - Hercules Base", # 5
+	"Slate Warrior", # 5
+	"Smoke Grenade of the Thief", # 5
+	"Spiritual Wind Art - Miyabi", # 5
+	"Splendid Rose", # 5
+	"Spright Double Cross", # 5
+	"Stardust Charge Warrior", # 5
+	"Superdreadnought Rail Cannon Juggernaut Liebe", # 5
+	"Sylvan Komushroomo", # 5
+	"Tatsunoko", # 5
+	"The Dark Creator", # 5
+	"The Fiend Megacyber", # 5
+	"True King of All Calamities", # 5
+	"Twin-Headed Behemoth", # 5
+	"Update Jammer", # 5
+	"Vanquish Soul Caesar Valius", # 5
+	"Vanquish Soul Dr. Mad Love", # 5
+	"Visas Amritara", # 5
+	"Waterfall of Dragon Souls", # 5
+	"Worm King", # 5
+	"Wynn the Wind Charmer, Verdant", # 5
+	"Zefrasaber, Swordmaster of the Nekroz", # 5
+	"Abyss-scale of the Mizuchi", # 4
+	"Ad Libitum of Despia", # 4
+	"Aegis of the Ocean Dragon Lord", # 4
+	"Ally of Justice Quarantine", # 4
+	"Altergeist Multifaker", # 4
+	"Altergeist Protocol", # 4
+	"Altergeist Silquitous", # 4
+	"Archfiend's Ghastly Glitch", # 4
+	"Ariane the Labrynth Servant", # 4
+	"Armed Sea Hunter", # 4
+	"Armityle the Chaos Phantasm", # 4
+	"Artemis, the Magistus Moon Maiden", # 4
+	"Barbaroid, the Ultimate Battle Machine", # 4
+	"Battlin' Boxer King Dempsey", # 4
+	"Black Fang Magician", # 4
+	"Blessing of the Voiceless Voice", # 4
+	"Blood Mefist", # 4
+	"Bloom Harmonist the Melodious Composer", # 4
+	"Boot Sector Launch", # 4
+	"Burst Breath", # 4
+	"Centur-Ion Bonds", # 4
+	"Centur-Ion Emeth VI", # 4
+	"Centur-Ion Phalanx", # 4
+	"Ceruli, Guru of Dark World", # 4
+	"Cherubini, Ebon Angel of the Burning Abyss", # 4
+	"Chicken Game", # 4
+	"Chiwen, Light of the Yang Zing", # 4
+	"Chronomaly Crystal Chrononaut", # 4
+	"Contract with the Abyss", # 4
+	"Cosmic Blazar Dragon", # 4
+	"Cyber Angel Benten", # 4
+	"Cyber Angel Idaten", # 4
+	"Cyber Angel Natasha", # 4
+	"D/D/D Duo-Dawn King Kali Yuga", # 4
+	"D/D/D Vice King Requiem", # 4
+	"Dark Deal", # 4
+	"Dark Infant @Ignister", # 4
+	"Darklord Amdusc", # 4
+	"Darklord Enchantment", # 4
+	"Dawn of the Herald", # 4
+	"Decode Talker", # 4
+	"Defensive Tactics", # 4
+	"Des Lacooda", # 4
+	"Deskbot 001", # 4
+	"Double Summon", # 4
+	"Dramatic Snake-Eye Chase", # 4
+	"Elemental HERO Mariner", # 4
+	"Elemental HERO Phoenix Enforcer", # 4
+	"Elemental HERO Shining Phoenix Enforcer", # 4
+	"Elemental HERO Thunder Giant", # 4
+	"Enigmaster Packbit", # 4
+	"Evigishki Merrowgeist", # 4
+	"Evilswarm O'lantern", # 4
+	"Evil★Twin Lil-la", # 4
+	"Exosister Kaspitell", # 4
+	"Exosister Returnia", # 4
+	"Exosister Vadis", # 4
+	"Exosisters Magnifica", # 4
+	"Exploder Dragonwing", # 4
+	"Fabled Kushano", # 4
+	"Fairy Box", # 4
+	"Final Attack Orders", # 4
+	"Flamvell Archer", # 4
+	"Freed the Brave Wanderer", # 4
+	"Gauntlet Launcher", # 4
+	"Gem-Knight Lady Lapis Lazuli", # 4
+	"Geomathmech Final Sigma", # 4
+	"Gladiator Beast Andal", # 4
+	"Grapha, Dragon Overlord of Dark World", # 4
+	"Gravekeeper's Spear Soldier", # 4
+	"Gren Maju Da Eiza", # 4
+	"Guardian Sphinx", # 4
+	"Ha-Re the Sword Mikanko", # 4
+	"Hand of Nephthys", # 4
+	"Herald of Perfection", # 4
+	"Heroic Challenger - Thousand Blades", # 4
+	"Horus the Black Flame Dragon LV6", # 4
+	"Horus the Black Flame Dragon LV8", # 4
+	"Hot Red Dragon Archfiend Abyss", # 4
+	"Igknight Reload", # 4
+	"Infernoble Knight - Renaud", # 4
+	"Juragedo", # 4
+	"Karakuri Cash Cache", # 4
+	"Karakuri Ninja mdl 339 "Sazank"", # 4
+	"Kashtira Preparations", # 4
+	"Labradorite Dragon", # 4
+	"Lector Pendulum, the Dracoverlord", # 4
+	"Legacy of the Duelist", # 4
+	"Level Eater", # 4
+	"Live☆Twin Ki-sikil", # 4
+	"Madolche Mewfeuille", # 4
+	"Madolchepalooza", # 4
+	"Magnum the Reliever", # 4
+	"Mask Charge", # 4
+	"Millennium-Eyes Restrict", # 4
+	"Miraculous Descent", # 4
+	"Mischief of the Gnomes", # 4
+	"Moon Mirror Shield", # 4
+	"Mount Sylvania", # 4
+	"Muko", # 4
+	"Mythical Beast Jackal King", # 4
+	"Neo Galaxy-Eyes Photon Dragon", # 4
+	"Norito the Moral Leader", # 4
+	"Number 60: Dugares the Timeless", # 4
+	"Number 65: Djinn Buster", # 4
+	"Number 74: Master of Blades", # 4
+	"Number 81: Superdreadnought Rail Cannon Super Dora", # 4
+	"Number 90: Galaxy-Eyes Photon Lord", # 4
+	"Number S39: Utopia Prime", # 4
+	"Odd-Eyes Wing Dragon", # 4
+	"Offering to the Snake Deity", # 4
+	"Orea, the Sylvan High Arbiter", # 4
+	"PSY-Framegear Epsilon", # 4
+	"Pendulum Impenetrable", # 4
+	"Performapal Turn Toad", # 4
+	"Performapal Whip Snake", # 4
+	"Protector of The Agents - Moon", # 4
+	"Raidraptor - Force Strix", # 4
+	"Red-Eyes Fusion", # 4
+	"Reload", # 4
+	"Ritual Beast Tamer Lara", # 4
+	"Ritual Beast Tamer Zeframpilica", # 4
+	"Ritual Beast's Bond", # 4
+	"Rokket Recharger", # 4
+	"Royal Firestorm Guards", # 4
+	"Royal Prison", # 4
+	"Salamangreat Weasel", # 4
+	"Scrap Recycler", # 4
+	"Scrap-Iron Scarecrow", # 4
+	"Secure Gardna", # 4
+	"Shard of Greed", # 4
+	"Simorgh, Bird of Perfection", # 4
+	"Skull-Mark Ladybug", # 4
+	"Spiritual Beast Pettlephin", # 4
+	"Stumbling", # 4
+	"Swordsoul Sinister Sovereign - Qixing Longyuan", # 4
+	"Sylvan Princessprout", # 4
+	"The Creator", # 4
+	"The End of Anubis", # 4
+	"The Fabled Unicore", # 4
+	"The Phantom Knights of Shade Brigandine", # 4
+	"The Tricky", # 4
+	"Thestalos the Mega Monarch", # 4
+	"Transcode Talker", # 4
+	"Transmodify", # 4
+	"Tri-Gate Wizard", # 4
+	"True King Agnimazud, the Vanisher", # 4
+	"True King Lithosagym, the Disaster", # 4
+	"Tuner's Scheme", # 4
+	"Tuning", # 4
+	"Underclock Taker", # 4
+	"Vanquish Soul - Continue?", # 4
+	"Vanquish Soul Pantera", # 4
+	"Vanquish Soul Snow Devil", # 4
+	"Victoria", # 4
+	"Virtual World Gate - Xuanwu", # 4
+	"Virtual World Kyubi - Shenshen", # 4
+	"Virtual World Phoenix - Fanfan", # 4
+	"Walls of the Imperial Tomb", # 4
+	"Wiseman's Chalice", # 4
+	"World Legacy Guardragon", # 4
+	"XYZ-Dragon Cannon", # 4
+	"Xiangke Magician", # 4
+	"Xyz Reborn", # 4
+	"Zaphion, the Timelord", # 4
+	"A.I.dle Reborn", # 3
+	"A/D Changer", # 3
+	"Abyss Actor - Wild Hope", # 3
+	"Abyss Shark", # 3
+	"Altergeist Kunquery", # 3
+	"Altergeist Manifestation", # 3
+	"Ancient Gear Cannon", # 3
+	"Ancient Gear Drill", # 3
+	"Ancient Lamp", # 3
+	"Angelica's Angelic Ring", # 3
+	"Anti-Spell", # 3
+	"Archnemeses Protos", # 3
+	"Aria the Melodious Diva", # 3
+	"Artifact Dagda", # 3
+	"Assault Beast", # 3
+	"Assault Mode Activate", # 3
+	"Aussa the Earth Charmer, Immovable", # 3
+	"Axe Dragonute", # 3
+	"Back to Square One", # 3
+	"Balance of Judgment", # 3
+	"Batteryman 9-Volt", # 3
+	"Batteryman Charger", # 3
+	"Batteryman Fuel Cell", # 3
+	"Battlin' Boxer Glassjaw", # 3
+	"Battlin' Boxer Headgeared", # 3
+	"Battlin' Boxer Lead Yoke", # 3
+	"Battlin' Boxer Switchitter", # 3
+	"Beast of the Pharaoh", # 3
+	"Bi'an, Earth of the Yang Zing", # 3
+	"Black Luster Soldier - Super Soldier", # 3
+	"Black Ray Lancer", # 3
+	"Blackwing - Breeze the Zephyr", # 3
+	"Blaze Fenix, the Burning Bombardment Bird", # 3
+	"Blazing Mirror Force", # 3
+	"Borreload Furious Dragon", # 3
+	"Brotherhood of the Fire Fist - Horse Prince", # 3
+	"Brotherhood of the Fire Fist - Kirin", # 3
+	"Brotherhood of the Fire Fist - Leopard", # 3
+	"Brotherhood of the Fire Fist - Rooster", # 3
+	"Bujingi Quilin", # 3
+	"Burden of the Mighty", # 3
+	"Buzzsaw Shark", # 3
+	"Card Scanner", # 3
+	"Chain Material", # 3
+	"Chain Summoning", # 3
+	"Chimera the Illusion Beast", # 3
+	"Clear Wing Synchro Dragon", # 3
+	"Condemned Darklord", # 3
+	"Core Compression", # 3
+	"Core Transport Unit", # 3
+	"Crackdown", # 3
+	"Crystron Quandax", # 3
+	"Cyber Eltanin", # 3
+	"Cyberdark Dragon", # 3
+	"Cybernetic Overflow", # 3
+	"Cyberse Gadget", # 3
+	"D/D Savant Kepler", # 3
+	"Dark Beckoning Beast", # 3
+	"Dark Calling", # 3
+	"Dark Corridor", # 3
+	"Dark World Accession", # 3
+	"De-Synchro", # 3
+	"Defender, the Magical Knight", # 3
+	"Desrook Archfiend", # 3
+	"Dotscaper", # 3
+	"Double Evolution Pill", # 3
+	"Double Iris Magician", # 3
+	"Doyon @Ignister", # 3
+	"Draconnet", # 3
+	"Dragodies, the Empowered Warrior", # 3
+	"Dragon's Bind", # 3
+	"Dragonic Knight", # 3
+	"Dragonpulse Magician", # 3
+	"Drytron Meteonis Draconids", # 3
+	"Duality", # 3
+	"Duamutef, Blessing of Horus", # 3
+	"Earthbound Spirit", # 3
+	"El Shaddoll Grysta", # 3
+	"Elemental HERO Captain Gold", # 3
+	"Elemental HERO Escuridao", # 3
+	"Elemental HERO Necroid Shaman", # 3
+	"Elemental HERO Rampart Blaster", # 3
+	"Empowerment", # 3
+	"Evil Dragon Ananta", # 3
+	"Evilswarm Thanatos", # 3
+	"Evo-Force", # 3
+	"Evolsaur Cerato", # 3
+	"Evoltile Najasho", # 3
+	"Evoltile Westlo", # 3
+	"Fabled Grimro", # 3
+	"Fabled Raven", # 3
+	"Fire Cracker", # 3
+	"Fire Darts", # 3
+	"Frost Blast of the Monarchs", # 3
+	"Gallis the Star Beast", # 3
+	"Gem-Knight Lazuli", # 3
+	"Gene-Warped Warwolf", # 3
+	"Genex Ally Duradark", # 3
+	"Genex Ally Triforce", # 3
+	"Genta, Gateman of Dark World", # 3
+	"Ghost Ship", # 3
+	"Ghostrick Jiangshi", # 3
+	"Ghostrick Mary", # 3
+	"Ghostrick Specter", # 3
+	"Gizmek Uka, the Festive Fox of Fecundity", # 3
+	"Goldenhair, the Newest Plunder Patroll", # 3
+	"Good Goblin Housekeeping", # 3
+	"Gouki Bearhug", # 3
+	"Heavenly Dragon Circle", # 3
+	"Herald of Green Light", # 3
+	"Herald of Ultimateness", # 3
+	"Heritage of the Chalice", # 3
+	"Hieratic Seal From the Ashes", # 3
+	"Holding Arms", # 3
+	"Hysteric Fairy", # 3
+	"Ice Beast Zerofyne", # 3
+	"Infernal Flame Banshee", # 3
+	"Infinitrack Mountain Smasher", # 3
+	"Invoked Augoeides", # 3
+	"Iron Blacksmith Kotetsu", # 3
+	"Izanami", # 3
+	"Jade Knight", # 3
+	"Kagemucha Knight", # 3
+	"Karakuri Anatomy", # 3
+	"Ken the Warrior Dragon", # 3
+	"King Beast Barbaros", # 3
+	"Koa'ki Meiru Guardian", # 3
+	"Koa'ki Meiru Maximus", # 3
+	"Laser Qlip", # 3
+	"Lazion, the Timelord", # 3
+	"Legendary Six Samurai - Shinai", # 3
+	"Lesser Fiend", # 3
+	"Link Devotee", # 3
+	"Live☆Twin Ki-sikil Frost", # 3
+	"Luna Light Perfume", # 3
+	"Luna the Dark Spirit", # 3
+	"Lunalight Kaleido Chick", # 3
+	"Lunalight Tiger", # 3
+	"Lyrilusc - Ensemblue Robin", # 3
+	"Lyrilusc - Promenade Thrush", # 3
+	"Marincess Blue Tang", # 3
+	"Marincess Mandarin", # 3
+	"Marincess Pascalus", # 3
+	"Marincess Sea Horse", # 3
+	"Marincess Springirl", # 3
+	"Mathmech Addition", # 3
+	"Mathmech Circular", # 3
+	"Mathmech Diameter", # 3
+	"Mathmech Sigma", # 3
+	"Mathmech Subtraction", # 3
+	"Mecha Phantom Beast Megaraptor", # 3
+	"Mecha Phantom Beast O-Lion", # 3
+	"Mecha Phantom Beast Tetherwolf", # 3
+	"Mekk-Knight Purple Nightfall", # 3
+	"Meklord Emperor Wisel", # 3
+	"Metal Reflect Slime", # 3
+	"Meteor of Destruction", # 3
+	"Mischief of the Yokai", # 3
+	"Mist Bird Clausolas", # 3
+	"Mist Valley Thunder Lord", # 3
+	"Mobius the Mega Monarch", # 3
+	"Mystic Piper", # 3
+	"Naelshaddoll Ariel", # 3
+	"Neo Space Connector", # 3
+	"Nightmare Wheel", # 3
+	"Nine Pillars of Yang Zing", # 3
+	"Noble Arms Museum", # 3
+	"Noble Knight Borz", # 3
+	"Noble Knight Gawayn", # 3
+	"Noble Knight Medraut", # 3
+	"Noh-P.U.N.K. Deer Note", # 3
+	"Noh-P.U.N.K. Foxy Tune", # 3
+	"Noh-P.U.N.K. Ze Amin", # 3
+	"Number 25: Force Focus", # 3
+	"Number 46: Dragluon", # 3
+	"Number 62: Galaxy-Eyes Prime Photon Dragon", # 3
+	"Number 86: Heroic Champion - Rhongomyniad", # 3
+	"Number C69: Heraldry Crest of Horror", # 3
+	"Pendulum Storm", # 3
+	"Performapal Helpprincess", # 3
+	"Peten the Dark Clown", # 3
+	"Phantom Fortress Enterblathnir", # 3
+	"Photon Cerberus", # 3
+	"Possessed Dark Soul", # 3
+	"Pot of Dichotomy", # 3
+	"Power Bond", # 3
+	"Predaplant Ophrys Scorpio", # 3
+	"Protector of the Sanctuary", # 3
+	"Puzzlomino, the Drop-n-Deleter", # 3
+	"Quadborrel Dragon", # 3
+	"Queen of Thorns", # 3
+	"R - Righteous Justice", # 3
+	"Reign-Beaux, Overking of Dark World", # 3
+	"Resonator Call", # 3
+	"Rikka Glamour", # 3
+	"Rikka Princess", # 3
+	"Roulette Barrel", # 3
+	"Royal Magical Library", # 3
+	"SPYRAL MISSION - Rescue", # 3
+	"SPYRAL Super Agent", # 3
+	"SPYRAL Tough", # 3
+	"Salamangreat Falco", # 3
+	"Salamangreat Pyro Phoenix", # 3
+	"Salamangreat Violet Chimera", # 3
+	"Samurai Cavalry of Reptier", # 3
+	"Sand Moth", # 3
+	"Satellarknight Procyon", # 3
+	"Secret Blast", # 3
+	"Serene Psychic Witch", # 3
+	"Servant of Endymion", # 3
+	"Shark Stickers", # 3
+	"Shinobi Necro", # 3
+	"Shiranui Spiritmaster", # 3
+	"Shire, Lightsworn Spirit", # 3
+	"Shooting Riser Dragon", # 3
+	"Shopina the Melodious Maestra", # 3
+	"Silver's Cry", # 3
+	"Sky Scourge Norleras", # 3
+	"Solar Wind Jammer", # 3
+	"Speedroid Passinglider", # 3
+	"Spell Power Mastery", # 3
+	"Spiritualism", # 3
+	"Springans Kitt", # 3
+	"Stardust Dragon/Assault Mode", # 3
+	"Submarine Frog", # 3
+	"Sunavalon Dryas", # 3
+	"Sunseed Genius Loci", # 3
+	"Superancient Deepsea King Coelacanth", # 3
+	"Superheavy Samurai Monk Big Benkei", # 3
+	"Supreme King Gate Zero", # 3
+	"T.G. Cyber Magician", # 3
+	"Tearlaments Metanoise", # 3
+	"Temple of the Six", # 3
+	"Terrorking Archfiend", # 3
+	"The Big March of Animals", # 3
+	"The Creator Incarnate", # 3
+	"The Fabled Cerburrel", # 3
+	"The Fabled Chawa", # 3
+	"The Phantom Knights of Rusty Bardiche", # 3
+	"The Sanctuary in the Sky", # 3
+	"Thunder King, the Lightningstrike Kaiju", # 3
+	"Toon Cannon Soldier", # 3
+	"Totem Dragon", # 3
+	"Traptrix Holeutea", # 3
+	"Traptrix Mantis", # 3
+	"Traptrix Pudica", # 3
+	"Traptrix Sera", # 3
+	"Tri-and-Guess", # 3
+	"Trifortressops", # 3
+	"True King Bahrastos, the Fathomer", # 3
+	"Ultimate Ancient Gear Golem", # 3
+	"Unexpected Dai", # 3
+	"Unknown Synchron", # 3
+	"Victory Viper XX03", # 3
+	"Vylon Disigma", # 3
+	"Where Arf Thou?", # 3
+	"White Howling", # 3
+	"Whitebeard, the Plunder Patroll Helm", # 3
+	"Wild Fire", # 3
+	"Wind Pegasus @Ignister", # 3
+	"Wind-Up Soldier", # 3
+	"Wollow, Founder of the Drudge Dragons", # 3
+	"Wonder Wand", # 3
+	"World Legacy's Memory", # 3
+	"X-Saber Palomuro", # 3
+	"Zefraniu, Secret of the Yang Zing", # 3
+	"Zeradias, Herald of Heaven", # 3
+	"Zoma the Spirit", # 3
+	"Zubaba General", # 3
+	""Infernoble Arms - Almace"", # 2
+	"A.I. Contact", # 2
+	"Adamancipator Risen - Dragite", # 2
+	"Aerial Recharge", # 2
+	"Akashic Magician", # 2
+	"Alba-Lenatus the Abyss Dragon", # 2
+	"Alpha, the Master of Beasts", # 2
+	"Altergeist Primebanshee", # 2
+	"Ancient Forest", # 2
+	"Ancient Gear Soldier", # 2
+	"And the Band Played On", # 2
+	"Animadorned Archosaur", # 2
+	"Archfiend Heiress", # 2
+	"Archfiend Palabyrinth", # 2
+	"Armor Blast", # 2
+	"Aromaseraphy Jasmine", # 2
+	"Artorigus, King of the Noble Knights", # 2
+	"At One With the Sword", # 2
+	"Barrier Statue of the Abyss", # 2
+	"Barrier Statue of the Heavens", # 2
+	"Barrier Statue of the Torrent", # 2
+	"Basal Rose Shoot", # 2
+	"Batteryman Micro-Cell", # 2
+	"Battlin' Boxer Sparrer", # 2
+	"Blackbeard, the Plunder Patroll Captain", # 2
+	"Blackeyes, the Plunder Patroll Seaguide", # 2
+	"Blackwing - Elphin the Raven", # 2
+	"Blackwing - Kochi the Daybreak", # 2
+	"Blaze Accelerator", # 2
+	"Blizzard", # 2
+	"Blue Mountain Butterspy", # 2
+	"Bluebeard, the Plunder Patroll Shipwright", # 2
+	"Borrelend Dragon", # 2
+	"Branded Banishment", # 2
+	"Bujin Hiruko", # 2
+	"Bujin Hirume", # 2
+	"Bururu @Ignister", # 2
+	"Cameraclops", # 2
+	"Canon the Melodious Diva", # 2
+	"Chain Detonation", # 2
+	"Chamber Dragonmaid", # 2
+	"Chaos Emperor, the Dragon of Armageddon", # 2
+	"Chevalier de Fleur", # 2
+	"Chimeratech Rampage Dragon", # 2
+	"Cloak and Dagger", # 2
+	"Cloudcastle", # 2
+	"Coach King Giantrainer", # 2
+	"Compulsory Escape Device", # 2
+	"Condemned Witch", # 2
+	"Counter Counter", # 2
+	"Creeping Darkness", # 2
+	"Cyber Repair Plant", # 2
+	"Cyber Revsystem", # 2
+	"D-Fusion", # 2
+	"D/D/D Rebel King Leonidas", # 2
+	"Danger! Chupacabra!", # 2
+	"Danmari @Ignister", # 2
+	"Dark Coffin", # 2
+	"Dark Necrofear", # 2
+	"Dark Templar @Ignister", # 2
+	"Darklord Nurse Reficule", # 2
+	"Day-Breaker the Shining Magical Warrior", # 2
+	"Des Croaking", # 2
+	"Destiny End Dragoon", # 2
+	"Destiny HERO - Dreadmaster", # 2
+	"Dice Jar", # 2
+	"Disturbance Strategy", # 2
+	"Divine Punishment", # 2
+	"Dodger Dragon", # 2
+	"Donner, Dagger Fur Hire", # 2
+	"Dragonmaid Tidying", # 2
+	"Dragunity Darkspear", # 2
+	"Dragunity Legionnaire", # 2
+	"Eldlixir of White Destiny", # 2
+	"Elemental HERO Aqua Neos", # 2
+	"Elemental HERO Darkbright", # 2
+	"Elemental HERO Electrum", # 2
+	"Elemental HERO Steam Healer", # 2
+	"Elemental HERO Tempest", # 2
+	"Elemental HERO Wild Wingman", # 2
+	"Elemental HERO Wildedge", # 2
+	"Elephant Statue of Disaster", # 2
+	"Emperor Charles the Great", # 2
+	"Enraged Battle Ox", # 2
+	"Evil HERO Lightning Golem", # 2
+	"Evilswarm Ketos", # 2
+	"Evocator Chevalier", # 2
+	"Evolsaur Diplo", # 2
+	"Evolsaur Vulcano", # 2
+	"Exosister Asophiel", # 2
+	"Exosister Carpedivem", # 2
+	"Exosister Gibrine", # 2
+	"Exosister Irene", # 2
+	"Extra-Foolish Burial", # 2
+	"F.A. Dawn Dragster", # 2
+	"Fabled Gallabas", # 2
+	"Fabled Krus", # 2
+	"Ferret Flames", # 2
+	"Field Barrier", # 2
+	"Fire King Avatar Rangbali", # 2
+	"Fire Phoenix @Ignister", # 2
+	"Firewall Guardian", # 2
+	"Forced Back", # 2
+	"Frozen Fitzgerald", # 2
+	"Full Armored Crystalzero Lancer", # 2
+	"Fusion Guard", # 2
+	"Gallant Granite", # 2
+	"Geonator Transverser", # 2
+	"Giant Rex", # 2
+	"Gift Card", # 2
+	"Golden Land Forever!", # 2
+	"Golem Sentry", # 2
+	"Gravekeeper's Shaman", # 2
+	"Graydle Eagle", # 2
+	"Great Maju Garzett", # 2
+	"Guardian of Order", # 2
+	"Guardragon Elpy", # 2
+	"Gwenhwyfar, Queen of Noble Arms", # 2
+	"Hedge Guard", # 2
+	"Herald of Creation", # 2
+	"Hino-Kagu-Tsuchi", # 2
+	"Hu-Li the Jewel Mikanko", # 2
+	"Ice Barrier", # 2
+	"Inaba White Rabbit", # 2
+	"Indomitable Gladiator Beast", # 2
+	"Infernoid Pirmais", # 2
+	"Influence Dragon", # 2
+	"Invoked Caliga", # 2
+	"Jurrac Giganoto", # 2
+	"Karakuri Muso mdl 818 "Haipa"", # 2
+	"Kinka-byo", # 2
+	"Koa'ki Meiru Doom", # 2
+	"Koa'ki Meiru Ice", # 2
+	"Koa'ki Meiru Wall", # 2
+	"Kozmo Landwalker", # 2
+	"Kozmo Lightsword", # 2
+	"Kuibelt the Blade Dragon", # 2
+	"Lifeforce Harmonizer", # 2
+	"Light Dragon @Ignister", # 2
+	"Lightray Diabolos", # 2
+	"Lightray Sorcerer", # 2
+	"Link Disciple", # 2
+	"Lord British Space Fighter", # 2
+	"Lost World", # 2
+	"Lunalight Yellow Marten", # 2
+	"Luster Dragon #2", # 2
+	"Magical Cylinders", # 2
+	"Mannadium Imaginings", # 2
+	"Marincess Blue Slug", # 2
+	"Marincess Coral Anemone", # 2
+	"Marincess Dive", # 2
+	"Marincess Sea Angel", # 2
+	"Marincess Wave", # 2
+	"Marionette Mite", # 2
+	"Master Tao the Chanter", # 2
+	"Mathmech Superfactorial", # 2
+	"Mecha Phantom Beast Jaculuslan", # 2
+	"Meklord Emperor Granel", # 2
+	"Melffy Catty", # 2
+	"Melffy Pinny", # 2
+	"Melffy of the Forest", # 2
+	"Mereologic Aggregator", # 2
+	"Mermail Abysshilde", # 2
+	"Mermail Abyssocea", # 2
+	"Metal Armored Bug", # 2
+	"Mikanko Dance - Mayowashidori", # 2
+	"Mikanko Fire Dance", # 2
+	"Mikanko Kagura", # 2
+	"Mikanko Reflection Rondo", # 2
+	"Mikanko Spiritwalk", # 2
+	"Minerva, Lightsworn Maiden", # 2
+	"Mist Valley Soldier", # 2
+	"Monster Slots", # 2
+	"Montage Dragon", # 2
+	"Mudan the Rikka Fairy", # 2
+	"Muddy Mudragon", # 2
+	"Mythic Tree Dragon", # 2
+	"Mythic Water Dragon", # 2
+	"Naturia Rosewhip", # 2
+	"Necroface", # 2
+	"Needlebug Nest", # 2
+	"Night Sword Serpent", # 2
+	"Ninjitsu Art of Transformation", # 2
+	"Noble Arms - Excaliburn", # 2
+	"Noble Arms of Destiny", # 2
+	"Nobledragon Magician", # 2
+	"Number 34: Terror-Byte", # 2
+	"Number 4: Stealth Kragen", # 2
+	"Number 75: Bamboozling Gossip Shadow", # 2
+	"Number 7: Lucky Straight", # 2
+	"Overdone Burial", # 2
+	"Overmind Archfiend", # 2
+	"PSY-Framelord Lambda", # 2
+	"Pandemonium", # 2
+	"Performapal King Bear", # 2
+	"Phantom Knights' Wing", # 2
+	"Plunder Patrollship Brann", # 2
+	"Plunder Patrollship Lys", # 2
+	"Plunder Patrollship Moerk", # 2
+	"Pot of Riches", # 2
+	"Prickle Fairy", # 2
+	"Primathmech Alembertian", # 2
+	"Primathmech Laplacian", # 2
+	"Proxy Dragon", # 2
+	"Psychic Jumper", # 2
+	"Psychic Path", # 2
+	"Qebehsenuef, Protection of Horus", # 2
+	"Qliphort Cephalopod", # 2
+	"Quillbolt Hedgehog", # 2
+	"Radian, the Multidimensional Kaiju", # 2
+	"Ravenous Crocodragon Archethys", # 2
+	"Re-Cover", # 2
+	"Reese the Ice Mistress", # 2
+	"Resh Shaddoll Incarnation", # 2
+	"Rikka Konkon", # 2
+	"Rikka Petal", # 2
+	"Rikka Queen Strenna", # 2
+	"Roxrose Dragon", # 2
+	"Ruddy Rose Dragon", # 2
+	"SPYRAL GEAR - Big Red", # 2
+	"Sacred Noble Knight of King Artorigus", # 2
+	"Salamangreat Charge", # 2
+	"Satellarknight Rigel", # 2
+	"Satellarknight Sirius", # 2
+	"Satellarknight Skybridge", # 2
+	"Scareclaw Tri-Heart", # 2
+	"Scarred Dragon Archfiend", # 2
+	"Scrap Raptor", # 2
+	"Sea Lancer", # 2
+	"Sea Monster of Theseus", # 2
+	"Security Dragon", # 2
+	"Sephylon, the Ultimate Timelord", # 2
+	"Shadow of the Six Samurai - Shien", # 2
+	"Shadowpriestess of Ohm", # 2
+	"Silent Angler", # 2
+	"Silent Psychic Wizard", # 2
+	"Silent Sea Nettle", # 2
+	"Silpheed", # 2
+	"Skill Successor", # 2
+	"Sky Striker Ace - Azalea", # 2
+	"Soul Absorption", # 2
+	"Soul of Purity and Light", # 2
+	"Speedroid Red-Eyed Dice", # 2
+	"Spell Purification", # 2
+	"Spiritual Fire Art - Kurenai", # 2
+	"Stealth Kragen Spawn", # 2
+	"Steamroid", # 2
+	"Suanni, Fire of the Yang Zing", # 2
+	"Summoner of Illusions", # 2
+	"Sunvine Healer", # 2
+	"Sunvine Sowing", # 2
+	"Super Quantal Mech Beast Magnaliger", # 2
+	"Superheavy Samurai Soulgaia Booster", # 2
+	"Superheavy Samurai Soulpiercer", # 2
+	"Supreme Sea Mare", # 2
+	"Sylvan Flowerknight", # 2
+	"Sylvan Marshalleaf", # 2
+	"Sylvan Princessprite", # 2
+	"Synkron Resonator", # 2
+	"TGX1-HL", # 2
+	"Tamtam the Melodious Diva", # 2
+	"Terrifying Trap Hole Nightmare", # 2
+	"The Arrival Cyberse @Ignister", # 2
+	"The Fabled Ganashia", # 2
+	"The Golden Apples", # 2
+	"The Great Mikanko Ceremony", # 2
+	"The Rock Spirit", # 2
+	"The Warrior Returning Alive", # 2
+	"Therion "King" Regulus", # 2
+	"Therion "Lily" Borea", # 2
+	"Thunder Dragondark", # 2
+	"Thunder Dragonroar", # 2
+	"Thunder of Ruler", # 2
+	"Timegazer Magician", # 2
+	"Timestar Magician", # 2
+	"Tri-Edge Master", # 2
+	"Unchained Soul of Disaster", # 2
+	"Vice Dragon", # 2
+	"Virtual World Beast - Jiujiu", # 2
+	"Virtual World Oto-Hime - Toutou", # 2
+	"Void Seer", # 2
+	"Wattaildragon", # 2
+	"White Mirror", # 2
+	"White Night Dragon", # 2
+	"Witch of the Black Rose", # 2
+	"Worm Zero", # 2
+	"Xyz Remora", # 2
+	"Yamato-no-Kami", # 2
+	""Infernoble Arms - Joyeuse"", # 1
+	"Abyss Actor - Sassy Rookie", # 1
+	"Accel Synchron", # 1
+	"Advance Draw", # 1
+	"Aether, the Evil Empowering Dragon", # 1
+	"Agnimal Candle", # 1
+	"Aleister the Invoker of Madness", # 1
+	"Allvain the Essence of Vanity", # 1
+	"Ally of Justice Field Marshal", # 1
+	"Altergeist Kidolga", # 1
+	"Ancient Flamvell Deity", # 1
+	"Ancient Gear Engineer", # 1
+	"Ancient Pixie Dragon", # 1
+	"Angel O7", # 1
+	"Angelica, Princess of Noble Arms", # 1
+	"Ape Fighter", # 1
+	"Arc Rebellion Xyz Dragon", # 1
+	"Arcana Knight Joker", # 1
+	"Armored Xyz", # 1
+	"Artifact Caduceus", # 1
+	"Artifact Failnaught", # 1
+	"Awakening of the Possessed - Greater Inari Fire", # 1
+	"Bait Doll", # 1
+	"Barrier Statue of the Inferno", # 1
+	"Batteryman Industrial Strength", # 1
+	"Beat Cop from the Underworld", # 1
+	"Beetron", # 1
+	"Benghalancer the Resurgent", # 1
+	"Bixi, Water of the Yang Zing", # 1
+	"Black Brutdrago", # 1
+	"Blackwing - Mistral the Silver Shield", # 1
+	"Blackwing - Nothung the Starlight", # 1
+	"Blocker", # 1
+	"Bloom Diva the Melodious Choir", # 1
+	"Bloom Prima the Melodious Choir", # 1
+	"Blue-Eyes Chaos MAX Dragon", # 1
+	"Branded Beast", # 1
+	"Branded in White", # 1
+	"Brightest, Blazing, Branded King", # 1
+	"Brotherhood of the Fire Fist - Lion Emperor", # 1
+	"Brotherhood of the Fire Fist - Spirit", # 1
+	"Bujin Regalia - The Sword", # 1
+	"Bujingi Sinyou", # 1
+	"Bujinki Ahashima", # 1
+	"Byser Shock", # 1
+	"Capshell", # 1
+	"Cat's Ear Tribe", # 1
+	"Chaos King Archfiend", # 1
+	"Chimera the Flying Mythical Beast", # 1
+	"Clock Resonator", # 1
+	"Clorless, Chaos King of Dark World", # 1
+	"Codebreaker Virus Swordsman", # 1
+	"Cosmic Fortress Gol'gar", # 1
+	"Courageous Crimson Chevalier Bradamante", # 1
+	"Crane Crane", # 1
+	"Creation Resonator", # 1
+	"Crusadia Equimax", # 1
+	"Crystal Beast Emerald Tortoise", # 1
+	"Crystal Shark", # 1
+	"Curse of Anubis", # 1
+	"Cyber Dragon Sieger", # 1
+	"Cybernetic Magician", # 1
+	"Cynet Crosswipe", # 1
+	"Cynet Universe", # 1
+	"D.D. Dynamite", # 1
+	"D/D Savant Thomas", # 1
+	"D/D/D Abyss King Gilgamesh", # 1
+	"Dark Blade", # 1
+	"Dark Master - Zorc", # 1
+	"Dark Valkyria", # 1
+	"Darklord Desire", # 1
+	"Darklord Morningstar", # 1
+	"Darklord Tezcatlipoca", # 1
+	"Decayed Commander", # 1
+	"Desert Sunlight", # 1
+	"Despair from the Dark", # 1
+	"Despia, Theater of the Branded", # 1
+	"Despian Luluwalilith", # 1
+	"Despian Proskenion", # 1
+	"Dillingerous Dragon", # 1
+	"Doshin @Ignister", # 1
+	"Double Spell", # 1
+	"Dragon Horn Hunter", # 1
+	"Dragon Ice", # 1
+	"Dragoncaller Magician", # 1
+	"Dragunity Aklys", # 1
+	"Dragunity Brandistock", # 1
+	"Dramaturge of Despia", # 1
+	"Dread Dragon", # 1
+	"Drytron Beta Rastaban", # 1
+	"EM:P Meowmine", # 1
+	"Ebon Illusion Magician", # 1
+	"Edge Imp Sabres", # 1
+	"Ekibyo Drakmord", # 1
+	"El Shaddoll Wendigo", # 1
+	"Elborz, the Sacred Lands of Simorgh", # 1
+	"Eldlixir of Black Awakening", # 1
+	"Electromagnetic Turtle", # 1
+	"Elegy the Melodious Diva", # 1
+	"Elemental HERO Air Neos", # 1
+	"Elemental HERO Divine Neos", # 1
+	"Elemental HERO Flare Neos", # 1
+	"Elemental HERO Heat", # 1
+	"Elemental HERO Mudballman", # 1
+	"Elemental HERO Plasma Vice", # 1
+	"Elephun", # 1
+	"Emissary from the House of Wax", # 1
+	"Endymion, the Mighty Master of Magic", # 1
+	"Esper Girl", # 1
+	"Evilswarm Azzathoth", # 1
+	"Evilswarm Obliviwisp", # 1
+	"Exceed the Pendulum", # 1
+	"Explosive Magician", # 1
+	"Expurrely Happiness", # 1
+	"Fairy Tail - Luna", # 1
+	"Fire Fighting Daruma Doll", # 1
+	"Fire Recovery", # 1
+	"Flamvell Baby", # 1
+	"Flamvell Grunika", # 1
+	"Flamvell Poun", # 1
+	"Friller Rabca", # 1
+	"Full Armored Dark Knight Lancer", # 1
+	"Full-Armored Xyz", # 1
+	"Galactic Spiral Dragon", # 1
+	"Galaxy Serpent", # 1
+	"Garuda the Wind Spirit", # 1
+	"Gatchiri @Ignister", # 1
+	"Geomathmech Magma", # 1
+	"Ghostrick Dullahan", # 1
+	"Gigantic "Champion" Sargas", # 1
+	"Gladiator Taming", # 1
+	"Gozuki", # 1
+	"Granadora", # 1
+	"Grand Convergence", # 1
+	"Grandsoil the Elemental Lord", # 1
+	"Gravedigger's Trap Hole", # 1
+	"Gravekeeper's Priestess", # 1
+	"Half Shut", # 1
+	"Hayabusa Knight", # 1
+	"Heavy Slump", # 1
+	"Hieratic Sky Dragon Overlord of Heliopolis", # 1
+	"Hiyari @Ignister", # 1
+	"Hushed Psychic Cleric", # 1
+	"Hyper Psychic Blaster", # 1
+	"Ib the World Chalice Justiciar", # 1
+	"Ignition Beast Volcannon", # 1
+	"Ignoble Knight of High Laundsallyn", # 1
+	"Illegal Knight", # 1
+	"Immortal Phoenix Gearfried", # 1
+	"Infernalqueen Archfiend", # 1
+	"Infernity Guardian", # 1
+	"Infernoble Knight Captain Roland", # 1
+	"Infernoble Knight Emperor Charles", # 1
+	"Infernoble Knight Maugis", # 1
+	"Infernoble Knight Ogier", # 1
+	"Infernoble Knight Oliver", # 1
+	"Infernoble Knight Ricciardetto", # 1
+	"Infernoble Knight Turpin", # 1
+	"Intercept", # 1
+	"Invoked Magellanica", # 1
+	"Invoked Purgatrio", # 1
+	"Inzektor Exa-Stag", # 1
+	"Inzektor Giga-Weevil", # 1
+	"Iron Call", # 1
+	"Jester Lord", # 1
+	"Junk Archer", # 1
+	"Junk Berserker", # 1
+	"Junk Gardna", # 1
+	"Jurrac Dino", # 1
+	"Kaiser Glider", # 1
+	"Kashtira Big Bang", # 1
+	"Labrynth Set-Up", # 1
+	"Lib the World Key Blademaster", # 1
+	"Liberty at Last!", # 1
+	"Lifeless Leaffish", # 1
+	"Lightsworn Barrier", # 1
+	"Linguriboh", # 1
+	"Living Fossil", # 1
+	"Locomotion R-Genex", # 1
+	"Lost Blue Breaker", # 1
+	"Lunalight Emerald Bird", # 1
+	"Lunalight Serenade Dance", # 1
+	"Mad Dog of Darkness", # 1
+	"Madolche Cruffssant", # 1
+	"Madolche Marmalmaide", # 1
+	"Madolche Nights", # 1
+	"Madolche Puddingcess", # 1
+	"Magister of Endymion", # 1
+	"Magnum Shield", # 1
+	"Majespecter Storm", # 1
+	"Majespecter Toad - Ogama", # 1
+	"Majestic Mech - Ohka", # 1
+	"Majesty Maiden, the True Dracocaster", # 1
+	"March of the Monarchs", # 1
+	"Marincess Aqua Argonaut", # 1
+	"Marincess Battle Ocean", # 1
+	"Marincess Coral Triangle", # 1
+	"Marincess Great Bubble Reef", # 1
+	"Marincess Marbled Rock", # 1
+	"Master with Eyes of Blue", # 1
+	"Mathmech Induction", # 1
+	"Mathmech Multiplication", # 1
+	"Mathmech Nabla", # 1
+	"Mecha Phantom Beast Blackfalcon", # 1
+	"Mechanical Hound", # 1
+	"Mefist the Infernal General", # 1
+	"Megalosmasher X", # 1
+	"Mekk-Knight Blue Sky", # 1
+	"Mekk-Knight of the Morning Star", # 1
+	"Memory of an Adversary", # 1
+	"Mermail Abyssdine", # 1
+	"Mermail Abyssmander", # 1
+	"Merry Melffys", # 1
+	"Metaphys Horus", # 1
+	"Miracle Synchro Fusion", # 1
+	"Mirage Dragon", # 1
+	"Mirage Knight", # 1
+	"Missing Force", # 1
+	"Mormolith", # 1
+	"Mythical Beast Garuda", # 1
+	"Nemeses Flag", # 1
+	"Neo Flamvell Sabre", # 1
+	"Neo-Spacian Aqua Dolphin", # 1
+	"Neo-Spacian Twinkle Moss", # 1
+	"Nephe Shaddoll Fusion", # 1
+	"Night Dragolich", # 1
+	"Nirvana High Paladin", # 1
+	"Noble Arms - Arfeudutyr", # 1
+	"Noble Arms - Caliburn", # 1
+	"Noble Arms - Gallatin", # 1
+	"Noble Knight Drystan", # 1
+	"Noble Knight Gwalchavad", # 1
+	"Number 10: Illumiknight", # 1
+	"Number 14: Greedy Sarameya", # 1
+	"Number 1: Infection Buzzking", # 1
+	"Number 24: Dragulas the Vampiric Dragon", # 1
+	"Number 35: Ravenous Tarantula", # 1
+	"Number 68: Sanaphond the Sky Prison", # 1
+	"Number 6: Chronomaly Atlandis", # 1
+	"Number 91: Thunder Spark Dragon", # 1
+	"Number C96: Dark Storm", # 1
+	"Number XX: Utopic Dark Infinity", # 1
+	"Odd-Eyes Rebellion Dragon Overlord", # 1
+	"Odd-Eyes Rebellion Xyz Dragon", # 1
+	"Omni Dragon Brotaur", # 1
+	"Opening of the Spirit Gates", # 1
+	"Oracle of Zefra", # 1
+	"Outer Entity Azathot", # 1
+	"Outer Entity Nyarla", # 1
+	"Outstanding Dog Marron", # 1
+	"Overtex Qoatlus", # 1
+	"Paleozoic Cambroraster", # 1
+	"Patrician of Darkness", # 1
+	"Performapal Fireflux", # 1
+	"Phantom Knights' Sword", # 1
+	"Planet Pathfinder", # 1
+	"Plunder Patroll Booty", # 1
+	"Plunder Patroll Shipyarrrd", # 1
+	"Plunder Patrollship Jord", # 1
+	"Poki Draco", # 1
+	"Power Tool Braver Dragon", # 1
+	"Prank-Kids Rip-Roarin-Roaster", # 1
+	"Predaplant Darlingtonia Cobra", # 1
+	"Prideful Roar", # 1
+	"Primula the Rikka Fairy", # 1
+	"Psychic End Punisher", # 1
+	"Psychic Nightmare", # 1
+	"Psychic Shockwave", # 1
+	"Psychic Tracker", # 1
+	"Psychic Wheeleder", # 1
+	"Puny Penguin", # 1
+	"Raider's Knight", # 1
+	"Raidraptor - Arsenal Falcon", # 1
+	"Raidraptor - Napalm Dragonius", # 1
+	"Raidraptor's Phantom Knights Claw", # 1
+	"Rainbow Bridge of Salvation", # 1
+	"Rainbow Kuriboh", # 1
+	"Rainbow Neos", # 1
+	"Red Nova Dragon", # 1
+	"Red Supernova Dragon", # 1
+	"Redbeard, the Plunder Patroll Matey", # 1
+	"Reprodocus", # 1
+	"Rescue Hamster", # 1
+	"Revival Jam", # 1
+	"Right-Hand Shark", # 1
+	"Rikka Sheet", # 1
+	"Rise to Full Height", # 1
+	"Runick Allure", # 1
+	"SPYRAL GEAR - Drone", # 1
+	"SPYRAL GEAR - Last Resort", # 1
+	"SPYRAL GEAR - Utility Wire", # 1
+	"SPYRAL MISSION - Assault", # 1
+	"SPYRAL Master Plan", # 1
+	"SPYRAL Quik-Fix", # 1
+	"SPYRAL Resort", # 1
+	"SPYRAL Sleeper", # 1
+	"Sacred Tree Beast, Hyperyton", # 1
+	"Salamangreat Fowl", # 1
+	"Salamangreat Mole", # 1
+	"Salamangreat Tiger", # 1
+	"Samsara, Dragon of Rebirth", # 1
+	"Samurai Destroyer", # 1
+	"Sasuke Samurai #2", # 1
+	"Satellarknight Betelgeuse", # 1
+	"Scapeghost", # 1
+	"Scrap Orthros", # 1
+	"Scrap Searcher", # 1
+	"Scrap Wyvern", # 1
+	"Sea Koala", # 1
+	"Shaddoll Zefranaga", # 1
+	"Shutendoji", # 1
+	"Silent Swordsman LV5", # 1
+	"Skilled White Magician", # 1
+	"Skull Archfiend of Lightning", # 1
+	"Sky Scourge Invicil", # 1
+	"Skyscraper", # 1
+	"Slacker Magician", # 1
+	"Snowdrop the Rikka Fairy", # 1
+	"Snyffus", # 1
+	"Space Insulator", # 1
+	"Speedroid Double Yoyo", # 1
+	"Spell Reproduction", # 1
+	"Spellbook of Knowledge", # 1
+	"Springans Merrymaker", # 1
+	"Star Pendulumgraph", # 1
+	"Sunavalon Melias", # 1
+	"Sunseed Twin", # 1
+	"Sunvine Thrasher", # 1
+	"Super Quantum Blue Layer", # 1
+	"Superalloy Beast Raptinus", # 1
+	"Superheavy Samurai Scales", # 1
+	"Superheavy Samurai Security", # 1
+	"Susa Soldier", # 1
+	"Swordsoul Sacred Summit", # 1
+	"Sylvan Cherubsprout", # 1
+	"Sylvan Dancepione", # 1
+	"Sylvan Peaskeeper", # 1
+	"Synchro Rumble", # 1
+	"T.G. Blade Blaster", # 1
+	"Tackle Crusader", # 1
+	"Teardrop the Rikka Queen", # 1
+	"Tearlaments Grief", # 1
+	"Terrors of the Overroot", # 1
+	"Testudo erat Numen", # 1
+	"The Black Goat Laughs", # 1
+	"The Bystial Aluber", # 1
+	"The Phantom Knights of Stained Greaves", # 1
+	"The Seal of Orichalcos", # 1
+	"Therion Discolosseum", # 1
+	"Thunder Dragon Colossus", # 1
+	"Thunder Dragon Titan", # 1
+	"Thunder Dragonduo", # 1
+	"Thunder Dragonhawk", # 1
+	"Thunder Short", # 1
+	"Tilting Entrainment", # 1
+	"Time Pendulumgraph", # 1
+	"Timelord Progenitor Vorpgate", # 1
+	"Toon Gemini Elf", # 1
+	"Traptrip Garden", # 1
+	"Traptrix Allomerus", # 1
+	"Traptrix Arachnocampa", # 1
+	"Traptrix Atypus", # 1
+	"Traptrix Pinguicula", # 1
+	"Traptrix Vesiculo", # 1
+	"Ultimate Axon Kicker", # 1
+	"Ultimate Insect LV3", # 1
+	"Ultimate Insect LV5", # 1
+	"Underground Arachnid", # 1
+	"Union Scramble", # 1
+	"Urgent Synthesis", # 1
+	"Vampire Sucker", # 1
+	"Volcanic Counter", # 1
+	"Vortex Trooper", # 1
+	"Wailing of the Unchained Souls", # 1
+	"Water Hazard", # 1
+	"Wattsquirrel", # 1
+	"Wave-Motion Inferno", # 1
+	"Winged Kuriboh", # 1
+	"World Chalice Guardragon", # 1
+	"World of Prophecy", # 1
+	"X-Saber Galahad", # 1
+	"Xyz Armor Fortress", # 1
+	"Xyz Gift", # 1
+	"Xyz Reflect", # 1
+	"Yaksha", # 1
+	"Yamata Dragon", # 1
+	"Yang Zing Path", # 1
+	"Yomi Ship", # 1
+	"Zaborg the Mega Monarch", # 1
+	"Zefra Metaltron", # 1
+	"Zefraxi, Treasure of the Yang Zing", # 1
