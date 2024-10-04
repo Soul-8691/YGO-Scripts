@@ -1597,10 +1597,35 @@ imperial_cards = [
                 # pass
 
 mod = [
-
+    "4-Starred Ladybug of Doom",
+    "Bazoo the Soul-Eater",
+    "Card Destruction",
+    "Dark Necrofear",
+    "Darklord Marie",
+    "Earthbound Spirit",
+    "Jar of Greed",
+    "Kycoo the Ghost Destroyer",
+    "Mage Power",
+    "Magic Cylinder",
+    "Magic Drain",
+    "Maryokutai",
+    "Royal Command",
+    "Skull Lair",
+    "Solemn Wishes",
+    "Soul Exchange",
+    "St. Joan",
+    "The Fiend Megacyber",
+    "The Forgiving Maiden",
+    "The Last Warrior from Another Planet",
+    "Thousand-Eyes Idol",
+    "Thousand-Eyes Restrict",
+    "Torrential Tribute",
+    "United We Stand",
+    "Zombyra the Dark"
 ]
 
 output = open('output.txt', 'w', encoding='utf8')
+counter = 821
 
 for card in mod:
     count = 0
@@ -1631,6 +1656,19 @@ for card in mod:
     defn = 0
     desc = card_info[card]['desc']
     passw = str(card_info[card]['id']).zfill(8)
+    monster_type = card_info[card]['type'].replace(' Monster', '').replace(' Card', '')
+    monster_types = ['Normal', 'Effect', 'Ritual', 'Fusion']
+    if monster_type == 'Ritual Effect':
+        monster_type = 'Ritual'
+    race = card_info[card]['race']
+    if monster_type == 'Spell':
+        race = 'Spell'
+        monster_type = 'Normal'
+    if monster_type == 'Trap':
+        race = 'Trap'
+        monster_type = 'Normal'
+    if monster_type not in monster_types:
+        monster_type = 'Effect'
     try:
         attribute = card_info[card]['attribute']
         level = card_info[card]['level']
@@ -1638,10 +1676,24 @@ for card in mod:
         defn = card_info[card]['def']
     except:
         pass
-    output.write(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\n')
+    # output.write(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\n')
     # output.write('+#' + card + '#, ' + passw[6:] + passw[4:6] + passw[2:4] + passw[0:2] + '\n')
     # output.write(desc.replace('\r\n', ' ').replace('\n', ' ')[:478].ljust(478, '�') + '\n')
     # output.write('+#' + card + '#, (' + str(int(defn/10)) + ' ' + str(int(atk/10)) + ' ' + card_info[card]['type'] + ' ' + card_info[card]['race'] + ' ' + str(level) + ' ' + attribute + ')\n')
+    # output.write('#define CARD_NUMBER_' + card.upper().replace(' ', '_') + ' ' + str(counter) + '\n')
+    output.write(
+'\t[CARD_NUMBER_' + card.upper().replace(' ', '_') + ''']
+	{
+		.defense = ''' + str(int(defn/10)) + ''',
+		.attack = ''' + str(int(atk/10)) + ''' ,
+		.monsterType = MONSTER_TYPE_''' + monster_type.upper().replace(' ', '_') + ''',
+		.race = RACE_''' + race.upper().replace(' ', '_') + ''',
+		.level = ''' + str(level) + ''',
+		.attribute = ATTRIBUTE_''' + attribute.upper().replace(' ', '_') + ''',
+	},
+''')
+    counter += 1
+
 
 # for card in eds_cards:
     # # printed = False
