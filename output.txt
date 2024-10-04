@@ -1,225 +1,100 @@
-	[CARD_NUMBER_4-STARRED_LADYBUG_OF_DOOM]
+	[CARD_NUMBER_4_STARRED_LADYBUG_OF_DOOM]
 	{
-		.defense = 120,
-		.attack = 80 ,
-		.monsterType = MONSTER_TYPE_EFFECT,
-		.race = RACE_INSECT,
-		.level = 3,
-		.attribute = ATTRIBUTE_WIND,
+		.description = "FLIP: Destroy all Level 4 monsters your opponent controls."
 	},
-	[CARD_NUMBER_BAZOO_THE_SOUL-EATER]
+	[CARD_NUMBER_BAZOO_THE_SOUL_EATER]
 	{
-		.defense = 90,
-		.attack = 160 ,
-		.monsterType = MONSTER_TYPE_EFFECT,
-		.race = RACE_BEAST,
-		.level = 4,
-		.attribute = ATTRIBUTE_EARTH,
+		.description = "Once per turn: You can banish up to 3 monsters from your Graveyard; this card gains 300 ATK for each, until the end of your opponent's turn."
 	},
 	[CARD_NUMBER_CARD_DESTRUCTION]
 	{
-		.defense = 0,
-		.attack = 0 ,
-		.monsterType = MONSTER_TYPE_NORMAL,
-		.race = RACE_SPELL,
-		.level = 0,
-		.attribute = ATTRIBUTE_NONE,
+		.description = "Both players discard as many cards as possible from their hands, then each player draws the same number of cards they discarded."
 	},
 	[CARD_NUMBER_DARK_NECROFEAR]
 	{
-		.defense = 280,
-		.attack = 220 ,
-		.monsterType = MONSTER_TYPE_EFFECT,
-		.race = RACE_FIEND,
-		.level = 8,
-		.attribute = ATTRIBUTE_DARK,
+		.description = "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 3 Fiend monsters from your GY. During the End Phase, if this card is in your GY because it was destroyed in your Monster Zone by an opponent's card and sent there this turn: Target 1 face-up monster your opponent controls; equip this card to that target. While this card is equipped to a monster by this effect, take control of that monster."
 	},
 	[CARD_NUMBER_DARKLORD_MARIE]
 	{
-		.defense = 120,
-		.attack = 170 ,
-		.monsterType = MONSTER_TYPE_EFFECT,
-		.race = RACE_FIEND,
-		.level = 5,
-		.attribute = ATTRIBUTE_DARK,
+		.description = "Once per turn, during your Standby Phase: You gain 200 LP. This card must be in the Graveyard to activate and to resolve this effect."
 	},
 	[CARD_NUMBER_EARTHBOUND_SPIRIT]
 	{
-		.defense = 200,
-		.attack = 50 ,
-		.monsterType = MONSTER_TYPE_NORMAL,
-		.race = RACE_FIEND,
-		.level = 4,
-		.attribute = ATTRIBUTE_EARTH,
+		.description = "A vengeful creature formed by the spirits of fallen warriors, it drags any who dare approach it into the deepest bowels of the earth."
 	},
 	[CARD_NUMBER_JAR_OF_GREED]
 	{
-		.defense = 0,
-		.attack = 0 ,
-		.monsterType = MONSTER_TYPE_NORMAL,
-		.race = RACE_TRAP,
-		.level = 0,
-		.attribute = ATTRIBUTE_NONE,
+		.description = "Draw 1 card."
 	},
 	[CARD_NUMBER_KYCOO_THE_GHOST_DESTROYER]
 	{
-		.defense = 70,
-		.attack = 180 ,
-		.monsterType = MONSTER_TYPE_EFFECT,
-		.race = RACE_SPELLCASTER,
-		.level = 4,
-		.attribute = ATTRIBUTE_DARK,
+		.description = "When this card inflicts battle damage to your opponent: You can target up to 2 monsters in their Graveyard; banish those targets. Your opponent cannot banish cards from either player's Graveyard."
 	},
 	[CARD_NUMBER_MAGE_POWER]
 	{
-		.defense = 0,
-		.attack = 0 ,
-		.monsterType = MONSTER_TYPE_NORMAL,
-		.race = RACE_SPELL,
-		.level = 0,
-		.attribute = ATTRIBUTE_NONE,
+		.description = "The equipped monster gains 500 ATK and DEF for each Spell/Trap Card you control."
 	},
 	[CARD_NUMBER_MAGIC_CYLINDER]
 	{
-		.defense = 0,
-		.attack = 0 ,
-		.monsterType = MONSTER_TYPE_NORMAL,
-		.race = RACE_TRAP,
-		.level = 0,
-		.attribute = ATTRIBUTE_NONE,
+		.description = "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, and if you do, inflict damage to your opponent equal to its ATK."
 	},
 	[CARD_NUMBER_MAGIC_DRAIN]
 	{
-		.defense = 0,
-		.attack = 0 ,
-		.monsterType = MONSTER_TYPE_NORMAL,
-		.race = RACE_TRAP,
-		.level = 0,
-		.attribute = ATTRIBUTE_NONE,
+		.description = "When your opponent activates a Spell Card: They can discard 1 Spell Card to negate this card's effect, otherwise negate the activation of their Spell Card, and if you do, destroy it."
 	},
 	[CARD_NUMBER_MARYOKUTAI]
 	{
-		.defense = 90,
-		.attack = 90 ,
-		.monsterType = MONSTER_TYPE_EFFECT,
-		.race = RACE_AQUA,
-		.level = 3,
-		.attribute = ATTRIBUTE_WATER,
+		.description = "During your opponent's turn, when your opponent activates a Spell Card (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy it."
 	},
 	[CARD_NUMBER_ROYAL_COMMAND]
 	{
-		.defense = 0,
-		.attack = 0 ,
-		.monsterType = MONSTER_TYPE_NORMAL,
-		.race = RACE_TRAP,
-		.level = 0,
-		.attribute = ATTRIBUTE_NONE,
+		.description = "Flip monsters' effects cannot be activated, also their effects are negated."
 	},
 	[CARD_NUMBER_SKULL_LAIR]
 	{
-		.defense = 0,
-		.attack = 0 ,
-		.monsterType = MONSTER_TYPE_NORMAL,
-		.race = RACE_TRAP,
-		.level = 0,
-		.attribute = ATTRIBUTE_NONE,
+		.description = "Remove from play any number of Monster Cards in your Graveyard to destroy 1 face-up monster on the field whose Level is equal to the number of the cards you removed from play."
 	},
 	[CARD_NUMBER_SOLEMN_WISHES]
 	{
-		.defense = 0,
-		.attack = 0 ,
-		.monsterType = MONSTER_TYPE_NORMAL,
-		.race = RACE_TRAP,
-		.level = 0,
-		.attribute = ATTRIBUTE_NONE,
+		.description = "Increase your Life Points by 500 points each time you draw a card (or cards)."
 	},
 	[CARD_NUMBER_SOUL_EXCHANGE]
 	{
-		.defense = 0,
-		.attack = 0 ,
-		.monsterType = MONSTER_TYPE_NORMAL,
-		.race = RACE_SPELL,
-		.level = 0,
-		.attribute = ATTRIBUTE_NONE,
+		.description = "Target 1 monster your opponent controls; this turn, if you Tribute a monster, you must Tribute that target, as if you controlled it. You cannot conduct your Battle Phase the turn you activate this card."
 	},
 	[CARD_NUMBER_ST._JOAN]
 	{
-		.defense = 200,
-		.attack = 280 ,
-		.monsterType = MONSTER_TYPE_FUSION,
-		.race = RACE_FAIRY,
-		.level = 7,
-		.attribute = ATTRIBUTE_LIGHT,
+		.description = "\"The Forgiving Maiden\" + \"Darklord Marie\""
 	},
 	[CARD_NUMBER_THE_FIEND_MEGACYBER]
 	{
-		.defense = 120,
-		.attack = 220 ,
-		.monsterType = MONSTER_TYPE_EFFECT,
-		.race = RACE_WARRIOR,
-		.level = 6,
-		.attribute = ATTRIBUTE_DARK,
+		.description = "If your opponent controls at least 2 more monsters than you do, you can Special Summon this card (from your hand)."
 	},
 	[CARD_NUMBER_THE_FORGIVING_MAIDEN]
 	{
-		.defense = 200,
-		.attack = 85 ,
-		.monsterType = MONSTER_TYPE_EFFECT,
-		.race = RACE_FAIRY,
-		.level = 4,
-		.attribute = ATTRIBUTE_LIGHT,
+		.description = "Tribute this face-up card to return to your hand 1 of your monsters destroyed as a result of battle during this turn."
 	},
 	[CARD_NUMBER_THE_LAST_WARRIOR_FROM_ANOTHER_PLANET]
 	{
-		.defense = 230,
-		.attack = 235 ,
-		.monsterType = MONSTER_TYPE_FUSION,
-		.race = RACE_WARRIOR,
-		.level = 7,
-		.attribute = ATTRIBUTE_EARTH,
+		.description = "\"Zombyra the Dark\" + \"Maryokutai\" If this card is Special Summoned: Destroy all other monsters you control. Neither player can Summon monsters."
 	},
-	[CARD_NUMBER_THOUSAND-EYES_IDOL]
+	[CARD_NUMBER_THOUSAND_EYES_IDOL]
 	{
-		.defense = 0,
-		.attack = 0 ,
-		.monsterType = MONSTER_TYPE_NORMAL,
-		.race = RACE_SPELLCASTER,
-		.level = 1,
-		.attribute = ATTRIBUTE_DARK,
+		.description = "A wicked entity that controls the hearts of men, its thousand eyes are able to see and expand the negative influences in an individual's soul."
 	},
-	[CARD_NUMBER_THOUSAND-EYES_RESTRICT]
+	[CARD_NUMBER_THOUSAND_EYES_RESTRICT]
 	{
-		.defense = 0,
-		.attack = 0 ,
-		.monsterType = MONSTER_TYPE_FUSION,
-		.race = RACE_SPELLCASTER,
-		.level = 1,
-		.attribute = ATTRIBUTE_DARK,
+		.description = "\"Relinquished\" + \"Thousand-Eyes Idol\" Other monsters on the field cannot change their battle positions or attack. Once per turn: You can target 1 monster your opponent controls; equip that target to this card (max. 1). This card's ATK/DEF become equal to that equipped monster's. If this card would be destroyed by battle, destroy that equipped monster instead."
 	},
 	[CARD_NUMBER_TORRENTIAL_TRIBUTE]
 	{
-		.defense = 0,
-		.attack = 0 ,
-		.monsterType = MONSTER_TYPE_NORMAL,
-		.race = RACE_TRAP,
-		.level = 0,
-		.attribute = ATTRIBUTE_NONE,
+		.description = "When a monster(s) is Summoned: Destroy all monsters on the field."
 	},
 	[CARD_NUMBER_UNITED_WE_STAND]
 	{
-		.defense = 0,
-		.attack = 0 ,
-		.monsterType = MONSTER_TYPE_NORMAL,
-		.race = RACE_SPELL,
-		.level = 0,
-		.attribute = ATTRIBUTE_NONE,
+		.description = "The equipped monster gains 800 ATK/DEF for each face-up monster you control."
 	},
 	[CARD_NUMBER_ZOMBYRA_THE_DARK]
 	{
-		.defense = 50,
-		.attack = 210 ,
-		.monsterType = MONSTER_TYPE_EFFECT,
-		.race = RACE_WARRIOR,
-		.level = 4,
-		.attribute = ATTRIBUTE_DARK,
+		.description = "This card cannot attack your opponent directly. If this card destroys a monster by battle: This card loses 200 ATK."
 	},
