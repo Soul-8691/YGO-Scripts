@@ -1,100 +1,170 @@
-	[CARD_NUMBER_4_STARRED_LADYBUG_OF_DOOM]
-	{
-		.description = "FLIP: Destroy all Level 4 monsters your opponent controls."
-	},
-	[CARD_NUMBER_BAZOO_THE_SOUL_EATER]
-	{
-		.description = "Once per turn: You can banish up to 3 monsters from your Graveyard; this card gains 300 ATK for each, until the end of your opponent's turn."
-	},
-	[CARD_NUMBER_CARD_DESTRUCTION]
-	{
-		.description = "Both players discard as many cards as possible from their hands, then each player draws the same number of cards they discarded."
-	},
-	[CARD_NUMBER_DARK_NECROFEAR]
-	{
-		.description = "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 3 Fiend monsters from your GY. During the End Phase, if this card is in your GY because it was destroyed in your Monster Zone by an opponent's card and sent there this turn: Target 1 face-up monster your opponent controls; equip this card to that target. While this card is equipped to a monster by this effect, take control of that monster."
-	},
-	[CARD_NUMBER_DARKLORD_MARIE]
-	{
-		.description = "Once per turn, during your Standby Phase: You gain 200 LP. This card must be in the Graveyard to activate and to resolve this effect."
-	},
-	[CARD_NUMBER_EARTHBOUND_SPIRIT]
-	{
-		.description = "A vengeful creature formed by the spirits of fallen warriors, it drags any who dare approach it into the deepest bowels of the earth."
-	},
-	[CARD_NUMBER_JAR_OF_GREED]
-	{
-		.description = "Draw 1 card."
-	},
-	[CARD_NUMBER_KYCOO_THE_GHOST_DESTROYER]
-	{
-		.description = "When this card inflicts battle damage to your opponent: You can target up to 2 monsters in their Graveyard; banish those targets. Your opponent cannot banish cards from either player's Graveyard."
-	},
-	[CARD_NUMBER_MAGE_POWER]
-	{
-		.description = "The equipped monster gains 500 ATK and DEF for each Spell/Trap Card you control."
-	},
-	[CARD_NUMBER_MAGIC_CYLINDER]
-	{
-		.description = "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, and if you do, inflict damage to your opponent equal to its ATK."
-	},
-	[CARD_NUMBER_MAGIC_DRAIN]
-	{
-		.description = "When your opponent activates a Spell Card: They can discard 1 Spell Card to negate this card's effect, otherwise negate the activation of their Spell Card, and if you do, destroy it."
-	},
-	[CARD_NUMBER_MARYOKUTAI]
-	{
-		.description = "During your opponent's turn, when your opponent activates a Spell Card (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy it."
-	},
-	[CARD_NUMBER_ROYAL_COMMAND]
-	{
-		.description = "Flip monsters' effects cannot be activated, also their effects are negated."
-	},
-	[CARD_NUMBER_SKULL_LAIR]
-	{
-		.description = "Remove from play any number of Monster Cards in your Graveyard to destroy 1 face-up monster on the field whose Level is equal to the number of the cards you removed from play."
-	},
-	[CARD_NUMBER_SOLEMN_WISHES]
-	{
-		.description = "Increase your Life Points by 500 points each time you draw a card (or cards)."
-	},
-	[CARD_NUMBER_SOUL_EXCHANGE]
-	{
-		.description = "Target 1 monster your opponent controls; this turn, if you Tribute a monster, you must Tribute that target, as if you controlled it. You cannot conduct your Battle Phase the turn you activate this card."
-	},
-	[CARD_NUMBER_ST._JOAN]
-	{
-		.description = "\"The Forgiving Maiden\" + \"Darklord Marie\""
-	},
-	[CARD_NUMBER_THE_FIEND_MEGACYBER]
-	{
-		.description = "If your opponent controls at least 2 more monsters than you do, you can Special Summon this card (from your hand)."
-	},
-	[CARD_NUMBER_THE_FORGIVING_MAIDEN]
-	{
-		.description = "Tribute this face-up card to return to your hand 1 of your monsters destroyed as a result of battle during this turn."
-	},
-	[CARD_NUMBER_THE_LAST_WARRIOR_FROM_ANOTHER_PLANET]
-	{
-		.description = "\"Zombyra the Dark\" + \"Maryokutai\" If this card is Special Summoned: Destroy all other monsters you control. Neither player can Summon monsters."
-	},
-	[CARD_NUMBER_THOUSAND_EYES_IDOL]
-	{
-		.description = "A wicked entity that controls the hearts of men, its thousand eyes are able to see and expand the negative influences in an individual's soul."
-	},
-	[CARD_NUMBER_THOUSAND_EYES_RESTRICT]
-	{
-		.description = "\"Relinquished\" + \"Thousand-Eyes Idol\" Other monsters on the field cannot change their battle positions or attack. Once per turn: You can target 1 monster your opponent controls; equip that target to this card (max. 1). This card's ATK/DEF become equal to that equipped monster's. If this card would be destroyed by battle, destroy that equipped monster instead."
-	},
-	[CARD_NUMBER_TORRENTIAL_TRIBUTE]
-	{
-		.description = "When a monster(s) is Summoned: Destroy all monsters on the field."
-	},
-	[CARD_NUMBER_UNITED_WE_STAND]
-	{
-		.description = "The equipped monster gains 800 ATK/DEF for each face-up monster you control."
-	},
-	[CARD_NUMBER_ZOMBYRA_THE_DARK]
-	{
-		.description = "This card cannot attack your opponent directly. If this card destroys a monster by battle: This card loses 200 ATK."
-	},
+30,000-Year White Turtle
+Absolute King - Megaplunder
+Acrobat Monkey
+Alexandrite Dragon
+Alien Shocktrooper
+Ally of Justice Clausolas
+Amphibian Beast
+Ancient Sorcerer
+Ancient Tree of Enlightenment
+Anotherverse Dragon
+Anotherverse Gluttonia
+Anotherverse Solaria
+Archfiend Soldier
+Atlantean Pikeman
+Baron of the Fiend Sword
+Battle Footballer
+Beast of Talwar
+Beckoned by the World Chalice
+Big Koala
+Bitron
+Blade Skater
+Blazing Inpachi
+Blocker
+Boulder Tortoise
+Brave Scizzar
+Bunilla
+Chamberlain of the Six Samurai
+Charcoal Inpachi
+Chosen by the World Chalice
+Chu-Ske the Mouse Fighter
+Clavkiys, the Magikey Skyblaster
+Crowned by the World Chalice
+Cyber Soldier of Darkworld
+D.D. Trainer
+Dark Blade
+Dark Titan of Terror
+Digitron
+Divine Dragon Ragnarok
+Earthbound Spirit
+Elemental HERO Burstinatrix
+Elemental HERO Clayman
+Elemental HERO Neos
+Elemental HERO Sparkman
+Empress Mantis
+Evilswarm Heliotrope
+Fairy of the Fountain
+Fairy's Gift
+Flying Penguin
+Frostosaurus
+Gadget Soldier
+Gagagigo
+Gem-Knight Crystal
+Gem-Knight Garnet
+Gem-Knight Lapis
+Gem-Knight Sapphire
+Gem-Knight Tourmaline
+Gene-Warped Warwolf
+Giga Gagagigo
+Gil Garth
+Girochin Kuwagata
+Gladiator Beast Andal
+Gogiga Gagagigo
+Golgoil
+Gorgon Egg
+Gradius
+Grand Tiki Elder
+Great Angus
+Gunkan Suship Shari
+Headless Knight
+Hieratic Seal of the Sun Dragon Overlord
+Humanoid Slime
+Hunter Dragon
+Ignihorse Dragonith
+Inpachi
+Insect Knight
+Island Turtle
+Jerry Beans Man
+Job-Change Mirror
+Jongleur-Ghoul Illusionist
+Kabazauls
+Kappa Avenger
+Legendary Dueling Field
+Leotron
+Light Bringer Lucifer
+Lisark
+Luster Dragon
+Luster Dragon #2
+Mad Dog of Darkness
+Mad Lobster
+Master Kyonshee
+Megalosmasher X
+Mekk-Knight Avram
+Melchid the Four-Face Beast
+Melffy Rabby
+Metal Armored Bug
+Metaphys Armed Dragon
+Mighty Guard
+Mist Valley Watcher
+Molten Behemoth
+Mon Larvas
+Mystery Shell Dragon
+Mystic Clown
+Neo Aqua Madoor
+Neo Bug
+Night Lizard
+Nin-Ken Dog
+Noble Knight Artorigus
+Oni Tank T-34
+Oppressed People
+Opticlops
+Overdrive
+PSY-Frame Driver
+Phantasm Spiral Dragon
+Phantom Gryphon
+Power Pro Knight Sisters
+Power Pro Lady Sisters
+Queen's Knight
+Rabidragon
+Renge, Gatekeeper of Dark World
+Robotic Knight
+Rock Ogre Grotto #2
+Sabersaurus
+Sea Serpent Warrior of Darkness
+Shining Abyss
+Shining Friendship
+Shiny Black "C" Squadder
+Skull Dog Marron
+Skull Mariner
+Sonic Duck
+Sorcerer of the Doomed
+Soul Tiger
+Souleater
+Space Mambo
+Spherous Lady
+Spiked Snail
+Spiral Serpent
+Steam Knight - Hamburk
+Stone Dragon
+Stone Ghost
+Suppression Collider
+Swordsman of Landstar
+Terrorking Salmon
+That Which Feeds on Life
+The All-Seeing White Tiger
+The Dragon Dwelling in the Cave
+The Earl of Demise
+The Gross Ghost of Fled Dreams
+The Illusory Gentleman
+The Judgement Hand
+The Portrait's Secret
+The Statue of Easter Island
+Trance the Magic Swordsman
+V-Tiger Jet
+Venom Cobra
+Warrior Dai Grepher
+Warrior of Zera
+Wattaildragon
+Wilmee
+Winged Dragon, Guardian of the Fortress #2
+Wingweaver
+Wolf
+Wolf Axwielder
+Wood Clown
+Woodborg Inpachi
+Worm Drake
+X-Head Cannon
+X-Saber Anu Piranha
+Yormungarde
+Zombino
+Zure, Knight of Dark World
