@@ -4609,9 +4609,43 @@ trap_hole = [
     "Traptrix Nepenthes"
 ]
 
+retro_c2a = [
+    "Allure of Darkness",
+    "Armageddon Knight",
+    "Caius the Shadow Monarch",
+    "Cipher Soldier",
+    "Cyber Valley",
+    "D.D. Crow",
+    "Dark Grepher",
+    "Destiny Draw",
+    "Destiny HERO - Dasher",
+    "Destiny HERO - Disk Commander",
+    "Elemental HERO Prisma",
+    "Elemental HERO Stratos",
+    "Escape from the Dark Dimension",
+    "Gladiator Beast Bestiari",
+    "Gladiator Beast Darius",
+    "Gladiator Beast Gyzarus",
+    "Gladiator Beast Heraklinos",
+    "Gladiator Beast Laquari",
+    "Gladiator Beast Murmillo",
+    "Gladiator Beast Secutor",
+    "Light-Imprisoning Mirror",
+    "Lightning Vortex",
+    "Lyla, Lightsworn Sorceress",
+    "Macro Cosmos",
+    "Neo-Spacian Dark Panther",
+    "Prime Material Dragon",
+    "Prometheus, King of the Shadows",
+    "Pulling the Rug",
+    "Royal Oppression",
+    "Ryko, Lightsworn Hunter",
+    "Shadow-Imprisoning Mirror",
+]
+
 output = open('output.txt', 'w', encoding='utf8')
 
-for card in trap_hole:
+for card in retro_c2a:
     # count = 0
     # for set in data2[card]:
     #     try:
@@ -4651,7 +4685,7 @@ for card in trap_hole:
         passw = str(card_info[card]['id']).zfill(8)
         monster_type = card_info[card]['type'].replace(' Monster', '').replace(' Card', '')
         race = card_info[card]['race']
-        output.write(card + '\t\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + desc.replace('\r\n', ' ').replace('\n', ' ') + '\n')
+        output.write(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + desc.replace('\r\n', ' ').replace('\n', ' ') + '\n')
     except:
         print(traceback.format_exc())
 
