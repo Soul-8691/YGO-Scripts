@@ -2399,9 +2399,7 @@ set_chronology_ocg = {
 import json
 
 f = open('YGOProDeck_Card_Info.json')
-f2 = open('EDS_OCG_Set_Chronology.json')
 data = json.load(f)
-data2 = json.load(f2)
 card_info = {}
 for card_info_data in data['data']:
     card_info[card_info_data['name']] = {}
@@ -2414,12 +2412,6 @@ for card_info_data in data['data']:
                 pass
     except:
         print(card_info_data['name'])
-    for card in data2['results']:
-        if data2['results'][card]['printouts']['Set contains'][0]['fulltext'] == card_info_data['name']:
-            if 'set_chronology_ocg' not in card_info[card_info_data['name']]:
-                card_info[card_info_data['name']]['set_chronology_ocg'] = [[data2['results'][card]['printouts']['Set page'][0]['fulltext'], data2['results'][card]['printouts']['Japanese release date'][0]['raw']]]
-            else:
-                card_info[card_info_data['name']]['set_chronology_ocg'].append([data2['results'][card]['printouts']['Set page'][0]['fulltext'], data2['results'][card]['printouts']['Japanese release date'][0]['raw']])
 json_object = json.dumps(card_info, indent=4)
 with open("Set_Chronology.json", "w") as outfile:
     outfile.write(json_object)
