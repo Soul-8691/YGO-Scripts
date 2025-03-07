@@ -3,17 +3,17 @@ import requests
 import json
 
 # This code gets the most used decks of all recent events of a particular format
-# formats_json = open('formats.json', 'r', encoding='utf8')
-# formats_json = json.load(formats_json)
-# formats = list()
-# for format in formats_json:
-#     formats.append(format['name'].lower())
+formats_json = open('formats.json', 'r', encoding='utf8')
+formats_json = json.load(formats_json)
+formats = list()
+for format in formats_json:
+    formats.append(format['name'].lower())
 site = "https://www.formatlibrary.com"
 
 # output = open('output.txt', 'w', encoding='utf8')
 output_sheets = open('output.tsv', 'w', encoding='utf8')
 
-formats = ['yugi-kaiba', 'critter','treasure', 'imperial', 'android', 'joey-pegasus', 'fiber', 'yata', 'scientist', 'vampire', 'chaos', 'warrior', 'goat', 'cyber', 'reaper', 'chaos return', 'stein', 'chimeratech', 'airblade', 'demise', 'trooper', 'zombie', 'perfect circle', 'phantom', 'dad return', 'gladiator', 'teledad', 'cat', 'lightsworn', 'edison', 'frog', 'x-saber', 'starstrike', 'six samurai', 'trishula', 'librarian', 'tengu plant', 'underworld', 'shockwave', 'long beach', 'dino rabbit', 'wind-up', 'miami', 'meadowlands', 'baby ruler', 'ravine ruler', 'fire-water', 'vegas', 'hat', 'shaddoll', 'burning abyss', 'charleston', 'nekroz', 'clown', 'pepe', 'dracopal', 'monarch', 'abc', 'grass zoo', 'draco zoo', 'link zoo', 'spyral', 'magician', 'secaucus', 'danger', 'striker', 'thunder dragon', 'lunalight', 'toss', 'rokket', 'adamancipator', 'infernoble', 'virtual world', 'dragon link', 'tri zoo', 'bird-up', 'phoenix', 'despia', 'elements', 'minneapolis', 'tearlaments', 'rescue-ace', 'snake-eye', 'traditional', 'current']
+# formats = ['yugi-kaiba', 'critter','treasure', 'imperial', 'android', 'joey-pegasus', 'fiber', 'yata', 'scientist', 'vampire', 'chaos', 'warrior', 'goat', 'cyber', 'reaper', 'chaos return', 'stein', 'chimeratech', 'airblade', 'demise', 'trooper', 'zombie', 'perfect circle', 'phantom', 'dad return', 'gladiator', 'teledad', 'cat', 'lightsworn', 'edison', 'frog', 'x-saber', 'starstrike', 'six samurai', 'trishula', 'librarian', 'tengu plant', 'underworld', 'shockwave', 'long beach', 'dino rabbit', 'wind-up', 'miami', 'meadowlands', 'baby ruler', 'ravine ruler', 'fire-water', 'vegas', 'hat', 'shaddoll', 'burning abyss', 'charleston', 'nekroz', 'clown', 'pepe', 'dracopal', 'monarch', 'abc', 'grass zoo', 'draco zoo', 'link zoo', 'spyral', 'magician', 'secaucus', 'danger', 'striker', 'thunder dragon', 'lunalight', 'toss', 'rokket', 'adamancipator', 'infernoble', 'virtual world', 'dragon link', 'tri zoo', 'bird-up', 'phoenix', 'despia', 'elements', 'minneapolis', 'tearlaments', 'rescue-ace', 'snake-eye', 'traditional', 'current']
 
 used_cards = dict()
 cumulative = dict()
