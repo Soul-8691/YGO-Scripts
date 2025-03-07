@@ -90,7 +90,7 @@ for card in card_info:
         defn = card_info[card]['def']
     except:
         pass
-    output.write(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + passw + '\t' + desc.replace('\r\n', ' ').replace('\n', ' ') + '\n')
+    output.write(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + desc.replace('\r\n', ' ').replace('\n', ' ') + '\n')
 # 	},
 # ''')
         # counter += 1
