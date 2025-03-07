@@ -1,231 +1,37 @@
-Mushroom Man	Normal Monster	EARTH	Plant	2	800	600	Found in humid regions, this creature attacks enemies with a lethal rain of poison spores.
-Horn Imp	Normal Monster	DARK	Fiend	4	1300	1000	''A small fiend that dwells in the dark, its single horn makes it a formidable opponent.''
-Mountain Warrior	Normal Monster	EARTH	Beast-Warrior	3	600	1000	A tough warrior that can move smoothly on even the roughest terrain.
-Zombie Warrior	Fusion Monster	DARK	Zombie	3	1200	900	"Skull Servant" + "Battle Warrior"
-The Snake Hair	Normal Monster	DARK	Zombie	4	1500	1200	A monster with a head of poison snakes. One look from this monster can turn an opponent to stone.
-Griffore	Normal Monster	EARTH	Beast	4	1200	1500	This monster's tough hide deflects almost any attack.
-Torike	Normal Monster	EARTH	Beast	3	1200	600	''Although a poor defender, this monster's sharp horn gives it an edge when attacking.''
-Big Insect	Normal Monster	EARTH	Insect	4	1200	1500	A giant ant that dwells in the jungle, it is powerful whether attacking or defending.
-Gokibore	Normal Monster	EARTH	Insect	4	1200	1400	A large, spherical roach that attacks its enemies by rolling over them.
-Wolf	Normal Monster	EARTH	Beast	3	1200	800	Dis alpha wolf yoozes his sense a smell ta find da enemy. 'ey, quit sniffin at my socks!
-Fiend Kraken	Normal Monster	WATER	Aqua	4	1200	1400	A giant squid that drags its enemies to a watery grave.
-Man-Eating Plant	Normal Monster	EARTH	Plant	2	800	600	''A meat-eating plant that is attractive to the eye but dangerous when approached.''
-Krokodilus	Normal Monster	WATER	Reptile	4	1100	1200	''A vicious crocodile with great intelligence.''
-Grappler	Normal Monster	WATER	Reptile	4	1300	1200	A devious snake with a thick body that wraps around an enemy monster and squeezes the life out of it.
-Megazowler	Normal Monster	EARTH	Dinosaur	6	1800	2000	Nothing stands in the way of this spike-covered dinosaur!
-Barox	Fusion Monster	DARK	Fiend	5	1380	1530	"Frenzied Panda" + "Ryu-Kishin"
-Metal Guardian	Normal Monster	DARK	Fiend	5	1150	2150	A fiend guarding the treasures of the netherworld, it's most at home in the dark.
-Battle Warrior	Normal Monster	EARTH	Warrior	3	700	1000	A warrior that fights with his bare hands!!!
-Wings of Wicked Flame	Normal Monster	FIRE	Pyro	2	700	600	Crimson wings of fire make this a very lethal creature.
-Job-Change Mirror	Normal Monster	DARK	Fiend	3	800	1300	''A wicked mirror that blocks off the damaging effects of an attack.''
-Curtain of the Dark Ones	Normal Monster	DARK	Spellcaster	2	600	500	A curtain that a spellcaster made, it is said to raise a dark power.
-Kageningen	Normal Monster	DARK	Warrior	2	800	600	He yoozes both a physical and a shadow form ta attack. So he's a tough monstah ta beat!
-Graveyard and the Hand of Invitation	Normal Monster	DARK	Zombie	3	700	900	''A graveyard that serves as a power source for zombies.''
-Hero of the East	Normal Monster	EARTH	Warrior	3	1100	1000	Feel da strength ah dis sword-swingin' samurai from da Far East.
-That Which Feeds on Life	Normal Monster	DARK	Fiend	4	1200	1000	A monster that feeds on the energy of other creatures.
-Kamionwizard	Fusion Monster	DARK	Spellcaster	4	1300	1100	"Mystical Elf" + "Curtain of the Dark Ones"
-Nightmare Scorpion	Normal Monster	EARTH	Insect	3	900	800	''A creature that generates nightmares to haunt an opponent, it attacks with four poisonous tails.''
-Supporter in the Shadows	Normal Monster	EARTH	Warrior	3	1000	1000	''A cute little elf that hides in the shadows and provides spiritual support.''
-Yamatano Dragon Scroll	Normal Monster	WIND	Dragon	2	900	300	''A dragon conjured from the very scroll in which it was depicted.''
-Weather Control	Normal Monster	LIGHT	Fairy	2	600	400	''This creature controls weather and is often the cause of mountain storms.''
-Mystical Capture Chain	Normal Monster	LIGHT	Fairy	2	700	700	''A mystical chain that binds enemies, rendering them immobile.''
-Fiend's Hand	Normal Monster	DARK	Zombie	2	600	600	''Arms that reach out from the Swamp of Chaos to drag down the unwary.''
-Dragon Statue	Normal Monster	EARTH	Warrior	3	1100	900	''A stone warrior with the heart of a dragon.''
-Blue-Eyed Silver Zombie	Normal Monster	DARK	Zombie	3	900	700	The beams from the eyes of this creature are said to turn enemies into zombies.
-Toad Master	Normal Monster	WATER	Aqua	3	1000	1000	''A hermit frog that has been in existence for thousands of years, it attacks with tadpoles.''
-Spiked Snail	Normal Monster	DARK	Insect	3	700	1300	''A very fast, bipedal snail with a pair of lethal arms.''
-Djinn the Watcher of the Wind	Normal Monster	WIND	Spellcaster	3	700	900	''This creature generates gale-force winds and tornadoes to blow its enemies away.''
-The Bewitching Phantom Thief	Normal Monster	DARK	Spellcaster	2	700	700	''An elegant thief with a black cloak that charms its enemies.''
-Temple of Skulls	Normal Monster	DARK	Zombie	4	900	1300	A mysterious temple of skulls and bones that pulls in unsuspecting enemies.
-The Shadow Who Controls the Dark	Normal Monster	DARK	Fiend	3	800	700	A shadow that dwells in the dark, paralyzing its opponents and rendering them harmless.
-Rhaimundos of the Red Sword	Normal Monster	EARTH	Warrior	4	1200	1300	Armed with the Sword of Crimson Flames, this warrior can bind a monster with fiery restraints.
-The Melting Red Shadow	Normal Monster	WATER	Aqua	2	500	700	''This monster melts away to materialize under its enemies, taking them by surprise.''
-Dokuroizo the Grim Reaper	Normal Monster	DARK	Zombie	3	900	1200	''A messenger of doom that steals a soul with a single blow.''
-Fire Reaper	Normal Monster	DARK	Zombie	2	700	500	A reaper with a flaming arrow that burns an enemy to a crisp.
-Lisark	Normal Monster	EARTH	Beast	4	1300	1300	''A creature with sapphire eyes that mesmerizes and confuses enemies.''
-Lord of Zemia	Normal Monster	DARK	Fiend	4	1300	1000	''A wicked entity that manipulates enemies towards a path of destruction.''
-Dark Prisoner	Normal Monster	DARK	Fiend	3	600	1000	This monster bends light to hide its image from the eyes of opponents.
-Hurricail	Normal Monster	WIND	Spellcaster	2	900	200	''A tornado that ravages the wastelands with sharp winds that can cut to the bone.''
-Fire Eye	Normal Monster	FIRE	Pyro	2	800	600	''An eye engulfed in flames that flaps its wings to create hot blasts of air.''
-Monsturtle	Normal Monster	WATER	Aqua	3	800	1000	''Protected by a spiked shell, this turtle has a very nasty disposition.''
-Phantom Dewan	Normal Monster	DARK	Spellcaster	2	700	600	''A sorcerer that can paralyze an enemy with a single curse.''
-Arlownay	Normal Monster	EARTH	Plant	3	800	1000	''A lady monster dwelling in a flower, she sprinkles the air with poisonous pollen.''
-Dark Shade	Normal Monster	WIND	Fiend	3	1000	1000	''A crystal monster that unleashes a brilliant light to blind enemies.''
-Masked Clown	Normal Monster	DARK	Warrior	2	500	700	''This warrior's fatal dance is performed with a lethal sickle.''
-Lucky Trinket	Normal Monster	LIGHT	Spellcaster	2	600	800	This creature may look slim and weak, but it's protected by a mystical force.
-Genin	Normal Monster	LIGHT	Spellcaster	3	600	900	''A creature that defeats its enemies using sleight-of-hand.''
-Eyearmor	Normal Monster	EARTH	Warrior	2	600	500	''This warrior transforms into various creatures to confuse enemies in battle.''
-Gate Deeg	Normal Monster	DARK	Beast	3	700	800	''This weird monster has a portal in its belly that brings reinforcements from the farthest reaches of the netherworld.''
-Synchar	Normal Monster	EARTH	Beast	3	800	900	''This two-headed creature spits laser blasts at its enemies.''
-Akakieisu	Normal Monster	DARK	Spellcaster	3	1000	800	''A sorcerer who utters spells that render monsters unconscious.''
-LaLa Li-oon	Normal Monster	WIND	Thunder	2	600	600	''An electric cloud creature, its acid rain makes it very dangerous.''
-Doron	Normal Monster	EARTH	Warrior	2	900	500	''This monster splits in two and attacks from opposite sides.''
-Arma Knight	Normal Monster	WATER	Aqua	4	1000	1200	''An ammonite warrior that has protected the seas throughout history.''
-Happy Lover	Normal Monster	LIGHT	Fairy	2	800	500	Enemies become overjoyed when struck by the Heart Ray emitted from the forehead of this tiny cherub.
-Phantom Ghost	Normal Monster	DARK	Zombie	2	600	800	''A vengeful spirit made up of many restless souls.''
-Dorover	Normal Monster	WATER	Aqua	3	900	800	''This ugly monster emits a highly poisonous gas.''
-Twin Long Rods #1	Normal Monster	WATER	Aqua	3	900	700	With whip-like arms, this creature can attack enemies from a distance.
-Droll Bird	Normal Monster	WIND	Winged Beast	2	600	500	This monster stuns its enemies with a massive beak and ear-piercing wails.
-Winged Cleaver	Normal Monster	EARTH	Insect	2	700	700	Few can withstand the scythe-like arms of this dangerous creature.
-Meotoko	Normal Monster	EARTH	Beast	2	700	600	Dis big ol' guy wit' a big ol' eye shoots a nasty ray beam right atcha!
-Solitude	Normal Monster	EARTH	Beast-Warrior	3	1050	1000	''This beast-warrior swings a massive scythe that feeds on the souls of the slain.''
-Midnight Fiend	Normal Monster	DARK	Fiend	2	800	600	''This monster only appears when a midnight tribute is made.''
-Fiend Sword	Normal Monster	DARK	Warrior	4	1400	800	''Whoever resists the curse of this blade will gain untold power.''
-Skull Stalker	Normal Monster	DARK	Warrior	3	900	800	Foist he's gonna grab yer monstah wit' his claws, den attack again wit' his poizin stingah!
-Hitodenchak	Normal Monster	WATER	Aqua	2	600	700	''A rabid starfish that spits a lethal acid that can melt almost anything.''
-Wood Remains	Normal Monster	DARK	Zombie	3	1000	900	''A living corpse of wood re-animated by the power of darkness.''
-Hourglass of Life	Normal Monster	LIGHT	Fairy	2	700	600	This creature grants power instead of shortening life.
-Rare Fish	Fusion Monster	WATER	Fish	4	1500	1200	"Fusionist" + "Enchanting Mermaid"
-Wood Clown	Normal Monster	EARTH	Warrior	3	800	1200	''A creature with a wicked smile and a lethal sickle.''
-Madjinn Gunn	Normal Monster	DARK	Fiend	2	600	800	''A living weapon that spits projectiles.''
-Yashinoki	Normal Monster	EARTH	Plant	2	800	600	''An intelligent palm tree that drops a hail of rock-hard coconuts on its enemies.''
-Vishwar Randi	Normal Monster	DARK	Warrior	3	900	700	''This lady warrior with unquenchable bloodlust serves the forces of darkness.''
-The Drdek	Normal Monster	DARK	Fiend	3	700	800	''A bipedal eyeball that seldom misses an enemy with its lethal talons.''
-Candle of Fate	Normal Monster	DARK	Fiend	2	600	600	Decides the fate of an opponent when the candle on its fingertip burns out.
-Water Element	Normal Monster	WATER	Aqua	3	900	700	''A sea-dwelling spirit that takes away sight by clouding the area in fog.''
-One Who Hunts Souls	Normal Monster	EARTH	Beast-Warrior	4	1100	1000	''This dangerous creature brandishes a soul-sucking sword.''
-Hyo	Normal Monster	WATER	Warrior	3	800	1200	''None can survive the cold touch of this sub-zero warrior.''
-Fairywitch	Normal Monster	DARK	Spellcaster	3	800	1000	Though destined to be a fairy, this creature chose the way of the witch instead.
-Embryonic Beast	Normal Monster	DARK	Fiend	2	500	750	''An imperfect monster with a belly vortex that sucks in opponents of any size.''
-Stone Armadiller	Normal Monster	EARTH	Rock	3	800	1200	Dis stone crittah's got rock-hahd fur. Dat gives him some really good dee-fense!
-Ancient Sorcerer	Normal Monster	DARK	Spellcaster	4	1000	1300	''Armed with an array of magic wands, this creature is capable of multiple attacks.''
-Lunar Queen Elzaim	Normal Monster	LIGHT	Fairy	3	750	1100	''A lovely creature guarded by the moon. Her lunar curtain can block just about any attack.''
-Rock Ogre Grotto #2	Normal Monster	EARTH	Rock	3	700	1400	A golem formed by boulders, this monster turns its enemies to stone and crushes them to dust.
-Wing Egg Elf	Normal Monster	LIGHT	Fairy	3	500	1300	''This fairy in an eggshell uses massive wings to blow back almost any projectile attack.''
-Sectarian of Secrets	Normal Monster	DARK	Spellcaster	2	700	500	This wizard worships the darkness, and is served by a sinister hand that drags its enemies into oblivion.
-Wetha	Normal Monster	WATER	Aqua	3	1000	900	A spirit that controls rain and is capable of summoning hurricanes to blow the enemy away.
-Megirus Light	Normal Monster	DARK	Fiend	3	900	600	''The fatal beams from the eyes of this monster result in grim destruction.''
-Mavelus	Fusion Monster	WIND	Winged Beast	4	1300	900	"Tyhone" + "Wings of Wicked Flame"
-Ancient Tree of Enlightenment	Normal Monster	EARTH	Plant	3	600	1500	''This ancient arbor uses its extensive knowledge to avoid the damage of enemy attacks.''
-Gorgon Egg	Normal Monster	DARK	Fiend	3	300	1300	''The gorgon egg's massive eyes are said to reflect the fate of its enemies.''
-Holograh	Normal Monster	EARTH	Machine	3	1100	700	''This machine generates illusions that leave an enemy wide open to attacks.''
-Tao the Chanter	Normal Monster	EARTH	Spellcaster	3	1200	900	''Master of Yin and Yang, this wizard handles a delicate balance of spells and counter spells.''
-Serpent Marauder	Normal Monster	EARTH	Reptile	2	700	600	''A snake with a single eye that blows an icy breath to freeze its opponents.''
-Moon Envoy	Normal Monster	LIGHT	Warrior	4	1100	1000	Many have fallen victim to this lunar warrior's crescent pike.
-Bio Plant	Normal Monster	DARK	Fiend	3	600	1300	''A monster created from a major accident in an underground lab.''
-Wicked Dragon with the Ersatz Head	Normal Monster	WIND	Dragon	3	900	900	''A two-headed dragon with a pair of jaws that can tear an enemy to shreds.''
-Kanan the Swordmistress	Normal Monster	EARTH	Warrior	4	1400	1400	A lady warrior armed with sword and shield, she floats lightly and stings sharply.
-Super War-Lion	Ritual Monster	EARTH	Beast	7	2300	2100	You can Ritual Summon this card with "War-Lion Ritual".
-Fiend's Mirror	Ritual Monster	DARK	Fiend	6	2100	1800	You can Ritual Summon this card with "Beastly Mirror Ritual".
-Dark Rabbit	Normal Monster	DARK	Beast	4	1100	1500	He leaps up, down, and all around! Nobody can lay a hand on this funny bunny.
-Harpie's Pet Dragon	Effect Monster	WIND	Dragon	7	2000	2500	Gains 300 ATK/DEF for each "Harpie Lady" on the field.
-Pendulum Machine	Normal Monster	DARK	Machine	6	1750	2000	A horrible torture machine with a large pendulum blade.
-Pendulum Machine	Normal Monster	DARK	Machine	6	1750	2000	A horrible torture machine with a large pendulum blade.
-Monster Eye	Effect Monster	DARK	Fiend	1	250	350	You can pay 1000 Life Points; add 1 "Polymerization" from your Graveyard to your hand.
-Yaiba Robo	Normal Monster	DARK	Machine	4	1000	1300	A cubical machine equipped with cutting blades for shredding an opponent to mincemeat.
-Shovel Crusher	Normal Monster	EARTH	Machine	3	900	1200	Armed with a pair of shovels, this monster will destroy anything that stands in its way.
-Blocker	Normal Monster	DARK	Machine	4	850	1800	Constructed from several components, this monster can launch them in a pincer attack.
-Golgoil	Normal Monster	EARTH	Machine	4	900	1600	An iron giant that appears from a dimensional rift.
-Cyber Commander	Normal Monster	DARK	Machine	2	750	700	''A strike force equipped with rocket launchers and bazookas.''
-Kaiser Dragon	Fusion Monster	LIGHT	Dragon	7	2300	2000	"Winged Dragon, Guardian of the Fortress #1" + "Fairy Dragon"
-Ice Water	Normal Monster	WATER	Aqua	3	1150	900	''A very aggressive mermaid that attacks enemies with the spikes growing from its body.''
-Waterdragon Fairy	Normal Monster	WATER	Aqua	3	1100	700	''A water fairy that is said to be able to summon a giant sea serpent.''
-Water Girl	Normal Monster	WATER	Aqua	4	1250	1000	''A lovely lady who can launch water projectiles that turn into lethal ice spikes before they reach an opponent.''
-Aqua Snake	Normal Monster	WATER	Aqua	3	1050	900	''This monster hypnotizes an opponent with the ball on its tail and draws them to a watery doom.''
-Kappa Avenger	Normal Monster	WATER	Aqua	3	1200	900	''An amphibian that sold his soul for unlimited power to avenge his late friend.''
-Kanikabuto	Normal Monster	WATER	Aqua	3	650	900	''A monster crab with huge claws for clipping enemies to little pieces.''
-Zarigun	Normal Monster	WATER	Aqua	2	600	700	''A lethal crawfish with extremely dangerous claws.''
-Barrel Rock	Normal Monster	EARTH	Rock	4	1000	1300	''Shouldering a pair of machine guns, this monster is unstoppable.''
-Minomushi Warrior	Normal Monster	EARTH	Rock	4	1300	1200	''A rock warrior that wields a heavy blade carved from stone.''
-Stone Ghost	Normal Monster	EARTH	Rock	4	1200	1000	''With a head that erupts when angered, this monster launches a dangerous shower of boulders.''
-Bolt Penguin	Normal Monster	WATER	Thunder	3	1100	800	With each arm forming an electric whip, this monster paralyzes its enemies with electric shocks.
-Crimson Sunbird	Fusion Monster	FIRE	Winged Beast	6	2300	1800	"Faith Bird" + "Skull Red Bird"
-Soul Hunter	Fusion Monster	DARK	Fiend	6	2200	1800	"Lord of the Lamp" + "Invader from Another Dimension"
-Vermillion Sparrow	Fusion Monster	FIRE	Pyro	5	1900	1500	"Rhaimundos of the Red Sword" + "Fireyarou"
-Sea Kamen	Normal Monster	WATER	Aqua	4	1100	1300	A merciless monster that tears opponents to shreds with razor-like claws.
-Ganigumo	Normal Monster	EARTH	Insect	2	600	800	''A crab that binds its enemies with a sticky web and attacks them with its sharp claws.''
-Alinsection	Normal Monster	EARTH	Insect	3	950	700	A stag beetle with a saw-like head and arms.
-Pragtical	Fusion Monster	EARTH	Dinosaur	5	1900	1500	"Trakodon" + "Flame Viper"
-Korogashi	Normal Monster	EARTH	Insect	2	550	400	''A high-powered dung beetle that can roll dung larger than itself. It crushes its foes with its massive ball of dung.''
-Boo Koo	Normal Monster	DARK	Spellcaster	2	650	500	''A book-like wizard with a wealth of magic written inside.''
-Barrel Lily	Normal Monster	EARTH	Plant	3	1100	600	''This wicked flower attacks enemies with pollen projectiles.''
-Wilmee	Normal Monster	EARTH	Beast	4	1000	1200	A rabid rabbit that shears through opposition with its sharp skewers.
-Turtle Raccoon	Normal Monster	WATER	Aqua	3	700	900	''A cunning raccoon protected by a solid turtle shell, it attacks with deception.''
-Crazy Fish	Normal Monster	WATER	Fish	4	1600	1200	A flying fish that attacks with its pointed head.
-Bracchio-raidus	Fusion Monster	WATER	Dinosaur	6	2200	2000	"Two-Headed King Rex" + "Crawling Dragon #2"
-Laughing Flower	Normal Monster	EARTH	Plant	2	900	500	''A flower whose laugh can confuse the minds of enemies.''
-Brave Scizzar	Normal Monster	DARK	Machine	4	1300	1000	Armed with a mass of scissors, this monster can clip an enemy into any desired shape and size.
-Boulder Tortoise	Normal Monster	WATER	Aqua	6	1450	2200	''A stone turtle that is nearly indestructible.''
-Skullbird	Fusion Monster	WIND	Winged Beast	6	1900	1700	"Takuhee" + "Temple of Skulls"
-Monstrous Bird	Normal Monster	WIND	Winged Beast	6	2000	1900	''Few have set eyes on this dive-bombing bird and lived to tell the tale.''
-Eldeen	Normal Monster	LIGHT	Spellcaster	3	950	1000	''The cane of this monster is the source of many powerful spells.''
-Mystical Sand	Fusion Monster	EARTH	Rock	6	2100	1700	"Giant Soldier of Stone" + "Ancient Elf"
-Kamakiriman	Normal Monster	EARTH	Insect	4	1150	1400	''A man-shaped mantis with two razor-sharp scythes.''
-Mechaleon	Normal Monster	WATER	Reptile	2	800	600	''This monster can hide just about anywhere by adopting the colors of its surroundings.''
-Skelengel	Flip Effect Monster	LIGHT	Fairy	2	900	400	FLIP: Draw 1 card.
-Skelgon	Fusion Monster	DARK	Zombie	6	1700	1900	"The Snake Hair" + "Blackland Fire Dragon"
-Behegon	Normal Monster	WATER	Aqua	4	1350	1000	With an enormous maw and massive teeth, this monstrosity is one dangerous and strange serpent from the deep.
-The Wandering Doomed	Normal Monster	DARK	Zombie	2	800	600	''A monster that wanders the edges of the netherworld.''
-Invader from Another Dimension	Normal Monster	DARK	Fiend	4	950	1400	An extraterrestrial monster that came from a distant galaxy.
-Wretched Ghost of the Attic	Normal Monster	DARK	Fiend	2	550	400	A harmless monster found lurking in just about any attic.
-Great Mammoth of Goldfine	Fusion Monster	DARK	Zombie	6	2200	1800	"The Snake Hair" + "Dragon Zombie"
-Yormungarde	Normal Monster	EARTH	Reptile	3	1200	900	''An extremely long snake that dwells in the world of myth.''
-Anthrosaurus	Normal Monster	EARTH	Dinosaur	3	1000	850	Dis man-like dinosawz gotta high I.Q., even tho he's lackin' in da strength depawtment. (Kinda like yooz, if ya had a high I.Q.! Nyaah!)
-B. Dragon Jungle King	Normal Monster	EARTH	Dragon	6	2100	1800	''A jet-black dragon found in the deepest jungles who normally devours trees.''
-Little D	Normal Monster	EARTH	Dinosaur	3	1100	700	Yo, this tyrannosaurus tot's got a terrible temper.
-Giant Scorpion of the Tundra	Normal Monster	EARTH	Insect	3	1100	1000	''An extraordinary blue scorpion found in the tundra, not in the desert.''
-Abyss Flower	Normal Monster	EARTH	Plant	2	750	400	''A rarely seen flower that blossoms quietly on the edge of darkness.''
-Binding Chain	Normal Monster	LIGHT	Fairy	3	1000	1100	''The mystic links of this chain can rob enemies of their power.''
-Mon Larvas	Normal Monster	EARTH	Beast	4	1300	1400	''A further step in the evolutionary chain, it is much more powerful than "Larvas".''
-Living Vase	Normal Monster	EARTH	Plant	3	900	1100	''A living vase that bites enemies and blinds them with a blast of pollen from its flower.''
-Tentacle Plant	Normal Monster	WATER	Plant	2	500	600	''A carnivorous plant that has an outgrowth of tentacles. It attacks someone nearby by extending its tentacles.''
-Beaked Snake	Normal Monster	EARTH	Reptile	3	800	900	''This monster wraps itself around an opponent and pecks away with its huge beak.''
-Muse-A	Normal Monster	LIGHT	Fairy	3	850	900	''A fairy of the arts that is unbeatable on the harp.''
-Rose Spectre of Dunn	Fusion Monster	DARK	Plant	6	2000	1800	"Feral Imp" + "Snakeyashi"
-Fiend Reflection #1	Normal Monster	WIND	Winged Beast	4	1300	1400	This monster can draw its enemies into a mirror world that renders them helpless.
-Ghoul with an Appetite	Normal Monster	DARK	Zombie	4	1600	1200	''A monster with a heavy appetite that has never been satisfied.''
-Violent Rain	Normal Monster	WATER	Aqua	4	1550	800	This monster can call forth sudden torrents of battering rain.
-Key Mace #2	Normal Monster	DARK	Fiend	4	1050	1200	This fiend brings out the worst in everyone.
-Tenderness	Normal Monster	LIGHT	Fairy	3	700	1400	''An adorable fairy that celebrates the gift of love.''
-Fairy Dragon	Normal Monster	WIND	Dragon	4	1100	1200	This beautiful Dragon spirit harbors hidden strength.
-Obese Marmot of Nefariousness	Normal Monster	EARTH	Beast	3	750	800	An ill-mannered field varmint that will sink its teeth into anything.
-Great Bill	Normal Monster	EARTH	Beast	4	1250	1300	Nothing escapes from this beast's massive mouth.
-Marine Beast	Fusion Monster	WATER	Fish	5	1700	1600	"Water Magician" + "Behegon"
-Snakeyashi	Normal Monster	EARTH	Plant	4	1000	1200	This monster is formed by several serpents that break off to individually attack nearby enemies.
-The Thing That Hides in the Mud	Normal Monster	EARTH	Rock	4	1200	1300	''This monster melts its way underground to attack enemies from below.''
-Fairy of the Fountain	Normal Monster	WATER	Aqua	4	1600	1100	''This fairy protects a fountain from any who seek to muddy its waters.''
-Amazon of the Seas	Normal Monster	WATER	Fish	4	1300	1400	A mermaid who serves as a herald to the Ocean Lord. She protects the sacred domain of Atlantis.
-Armored Rat	Normal Monster	EARTH	Beast	3	950	1100	''The fur on this monster rat is tough enough to repel swords.''
-Night Lizard	Normal Monster	WATER	Aqua	4	1150	1300	''A lizard warrior protected by a hide of very tough emerald scales.''
-Amphibious Bugroth	Fusion Monster	WATER	Aqua	5	1850	1300	"Ground Attacker Bugroth" + "Defender of the Sea"
-Acid Crawler	Normal Monster	EARTH	Insect	3	900	700	''A giant caterpillar that secretes an acid mist that melts anything.''
-Flame Viper	Normal Monster	EARTH	Pyro	2	400	450	A fire-breathing snake whose speed makes it a difficult target.
-Royal Guard	Normal Monster	EARTH	Machine	6	1900	2200	''A mechanized soldier created to protect royalty.''
-Gruesome Goo	Normal Monster	WATER	Aqua	3	1300	700	A slime boss that is definitely tougher than it looks.
-Chakra	Ritual Monster	DARK	Fiend	7	2450	2000	You can Ritual Summon this card with "Resurrection of Chakra".
-Meteor Dragon	Normal Monster	EARTH	Dragon	6	1800	2000	This dragon appeared from the sky and crashed to the earth.
-Firewing Pegasus	Normal Monster	FIRE	Beast	6	2250	1800	A heavenly stallion soaring through the skies on crimson wings.
-Garma Sword	Ritual Monster	DARK	Warrior	7	2550	2150	This card can only be Ritual Summoned with the Ritual Spell Card, "Garma Sword Oath".
-Javelin Beetle	Ritual Monster	EARTH	Insect	8	2450	2550	This card can only be Ritual Summoned with the Ritual Spell Card, "Javelin Beetle Pact".
-Magician of Black Chaos	Ritual Monster	DARK	Spellcaster	8	2800	2600	You can Ritual Summon this card with "Black Magic Ritual".
-Blast Sphere	Effect Monster	DARK	Machine	4	1400	1400	If this face-down Defense Position card was attacked by an opponent's monster, before damage calculation: Equip this card to the attacking monster. Then, during your opponent's next Standby Phase: Destroy the monster this card is equipped to, and if you do, inflict damage to your opponent equal to the ATK the destroyed monster had on the field.
-Red-Eyes Black Metal Dragon	Effect Monster	DARK	Machine	8	2800	2400	Cannot be Normal Summoned/Set. Must first be Special Summoned (from your Deck) by Tributing "Red-Eyes B. Dragon" equipped with "Metalmorph".
-Red-Eyes Black Metal Dragon	Effect Monster	DARK	Machine	8	2800	2400	Cannot be Normal Summoned/Set. Must first be Special Summoned (from your Deck) by Tributing "Red-Eyes B. Dragon" equipped with "Metalmorph".
-Hannibal Necromancer	Effect Monster	DARK	Spellcaster	4	1400	1800	If this card is Normal Summoned: Place 1 Spell Counter on it (max. 1). You can remove 1 Spell Counter from this card, then target 1 face-up Trap Card on the field; destroy that target.
-Berfomet	Effect Monster	DARK	Fiend	5	1400	1800	When this card is Normal or Flip Summoned: You can add 1 "Gazelle the King of Mythical Beasts" from your Deck to your hand.
-Chimera the Flying Mythical Beast	Fusion Monster	WIND	Beast	6	2100	1800	"Gazelle the King of Mythical Beasts" + "Berfomet" (This card is always treated as a "Phantom Beast" card.) When this card is destroyed: You can target 1 "Berfomet" or 1 "Gazelle the King of Mythical Beasts" in your Graveyard; Special Summon that target.
-Alligator's Sword	Normal Monster	EARTH	Beast	4	1500	1200	ey, dis mighty lissard man can swing his sword so fast, dat it's more dan da speed a sound!
-Satellite Cannon	Effect Monster	LIGHT	Machine	5	0	0	This card cannot be destroyed by battle with a Level 7 or lower monster. During each of your End Phases: This card gains 1000 ATK. If this card attacks, this increased ATK returns to 0, after damage calculation.
-Dunames Dark Witch	Normal Monster	LIGHT	Fairy	4	1800	1050	Even when all odds are against this brave fairy, she will press onwards in battle and never retreat.
-Cyber-Tech Alligator	Normal Monster	WIND	Machine	5	2500	1600	Originally a pterodactyl, he was viciously attacked by a dragon. Using the newest technologies, his keeper saved him from near-fatal wounds and brought him back as a powerful Cyborg.
-Copycat	Effect Monster	LIGHT	Spellcaster	1	0	0	If this card is Summoned: Target 1 face-up monster your opponent controls; this card's ATK/DEF become equal to that monster's original ATK/DEF.
-Alligator's Sword Dragon	Fusion Monster	WIND	Dragon	5	1700	1500	"Baby Dragon" + "Alligator's Sword" This card can attack your opponent directly if the only face-up monsters they control are EARTH, WATER, or FIRE.
-Viser Des	Effect Monster	DARK	Fiend	4	500	1200	If this card is Normal Summoned: Target 1 monster your opponent controls; during your third Standby Phase after this effect's activation, destroy that monster. This card cannot be destroyed by battle while the targeted monster is on the field.
-Viser Des	Effect Monster	DARK	Fiend	4	500	1200	If this card is Normal Summoned: Target 1 monster your opponent controls; during your third Standby Phase after this effect's activation, destroy that monster. This card cannot be destroyed by battle while the targeted monster is on the field.
-Toon Dark Magician Girl	Toon Monster	DARK	Spellcaster	6	2000	1700	Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 monster, while you control "Toon World". If "Toon World" on the field is destroyed, destroy this card. Can attack your opponent directly, unless they control a Toon monster, in which case this card must target a Toon monster for its attacks. Gains 300 ATK for every "Dark Magician" or "Magician of Black Chaos" in either player's GY.
-Legendary Fiend	Effect Monster	DARK	Fiend	6	1500	1800	Once per turn, during your Standby Phase: This card gains 700 ATK.
-Puppet Master	Effect Monster	DARK	Fiend	6	0	0	When this card is Tribute Summoned: You can pay 2000 LP, then target 2 Fiend monsters in your GY; Special Summon those targets, but they cannot attack this turn.
-Gil Garth	Normal Monster	DARK	Fiend	4	1800	1200	This steel-armored terror machine ruthlessly strikes down enemies with its giant katana.
-Goblin Zombie	Effect Monster	DARK	Zombie	4	1100	1050	If this card inflicts battle damage to your opponent: Send the top card of their Deck to the GY. If this card is sent from the field to the GY: Add 1 Zombie monster with 1200 or less DEF from your Deck to your hand.
-Maximum Six	Effect Monster	EARTH	Warrior	6	1900	1600	When this card is Tribute Summoned: Roll a six-sided die, and this card gains ATK equal to the result x 200.
-Marshmallon	Effect Monster	LIGHT	Fairy	3	300	500	Cannot be destroyed by battle. After damage calculation, if this card was attacked, and was face-down at the start of the Damage Step: The attacking player takes 1000 damage.
-Return Zombie	Effect Monster	DARK	Zombie	4	1000	1600	During your Standby Phase: You can pay 500 Life Points; add this card from your Graveyard to your hand. You must have no cards in your hand to activate and to resolve this effect.
-The Tricky	Effect Monster	WIND	Spellcaster	5	2000	1200	You can Special Summon this card (from your hand) by discarding 1 card.
-Green Gadget	Effect Monster	EARTH	Machine	4	1400	600	When this card is Normal or Special Summoned: You can add 1 "Red Gadget" from your Deck to your hand.
-Red Gadget	Effect Monster	EARTH	Machine	4	1300	1500	When this card is Normal or Special Summoned: You can add 1 "Yellow Gadget" from your Deck to your hand.
-Yellow Gadget	Effect Monster	EARTH	Machine	4	1200	1200	When this card is Normal or Special Summoned: You can add 1 "Green Gadget" from your Deck to your hand.
-Castle Gate	Effect Monster	EARTH	Rock	6	0	2400	This card cannot be destroyed by battle. Once per turn, if this card is in face-up Attack Position, you can Tribute 1 Level 5 or lower monster to inflict damage to your opponent equal to that monster's original ATK.
-Blood Sucker	Effect Monster	DARK	Zombie	4	1300	1500	If this card inflicts battle damage to your opponent: Send the top card of their Deck to the GY.
-Axe Dragonute	Effect Monster	DARK	Dragon	4	2000	1200	If this card attacks, it is changed to Defense Position at the end of the Damage Step.
-Great Spirit	Effect Monster	EARTH	Rock	4	500	1500	Once per turn, during your Main Phase, you can flip this card into face-down Defense Position. When this card is Flip Summoned, you can switch the original ATK and DEF of 1 face-up EARTH monster on the field until the end of this turn.
-Dandylion	Effect Monster	EARTH	Plant	3	300	300	If this card is sent to the Graveyard: Special Summon 2 "Fluff Tokens" (Plant-Type/WIND/Level 1/ATK 0/DEF 0) in Defense Position. These Tokens cannot be Tributed for a Tribute Summon during the turn they are Special Summoned.
+Acid Trap Hole		Trap Card	None	Normal	0	0	0	Target 1 face-down Defense Position monster on the field; flip it face-up, then destroy it if its DEF is 2000 or less, or return it face-down if its DEF is more than 2000.
+Adhesion Trap Hole		Trap Card	None	Normal	0	0	0	When your opponent Summons a monster(s): Halve that monster(s)'s original ATK.
+Banishing Trap Hole		Trap Card	None	Normal	0	0	0	When your opponent Summons a monster(s) with 1500 or less ATK: Banish that monster(s) with 1500 or less ATK, face-down.
+Bottomless Trap Hole		Trap Card	None	Normal	0	0	0	When your opponent Summons a monster(s) with 1500 or more ATK: Destroy that monster(s) with 1500 or more ATK, and if you do, banish it.
+Break Off Trap Hole		Trap Card	None	Normal	0	0	0	When a Link Monster is Link Summoned: Destroy all monsters on the field that are not linked.
+D.D. Trap Hole		Trap Card	None	Normal	0	0	0	When your opponent Sets exactly 1 monster (and no other cards): Target that Set monster and 1 monster you control; destroy those targets, and if you do, banish them.
+Deep Dark Trap Hole		Trap Card	None	Normal	0	0	0	When a Level 5 or higher Effect Monster(s) is Special Summoned: Banish that Level 5 or higher Effect Monster(s).
+Double Trap Hole		Trap Card	None	Normal	0	0	0	If your opponent Special Summons a monster(s) in Defense Position: Banish those monster(s) that were Summoned in (and currently in) Defense Position.
+Floodgate Trap Hole		Trap Card	None	Normal	0	0	0	When your opponent Summons a monster(s): Change that monster(s) to face-down Defense Position. Monsters changed to face-down Defense Position by this effect cannot change their battle positions.
+Giant Trap Hole		Trap Card	None	Normal	0	0	0	When 2 or more monsters are Special Summoned at the same time: Destroy all monsters on the field.
+Network Trap Hole		Trap Card	None	Normal	0	0	0	When your opponent Special Summons a monster(s) from the Main Deck or GY: Banish it face-down.
+Terrifying Trap Hole Nightmare		Trap Card	None	Normal	0	0	0	If your opponent has Special Summoned a monster(s) this turn: Target 1 monster your opponent controls with 2000 or more ATK; destroy it, then if you have a "Hole" Normal Trap in your GY, you can banish 1 monster from your opponent's GY. You can only activate 1 "Terrifying Trap Hole Nightmare" per turn.
+Time-Space Trap Hole		Trap Card	None	Normal	0	0	0	When your opponent Special Summons a monster(s) from the hand or Extra Deck: Shuffle that monster(s) into the Deck, then you lose 1000 LP for each returned monster.
+Trap Hole		Trap Card	None	Normal	0	0	0	When your opponent Normal or Flip Summons 1 monster with 1000 or more ATK: Target that monster; destroy that target.
+Trap Hole of Spikes		Trap Card	None	Normal	0	0	0	When an opponent's monster that was Normal or Special Summoned this turn declares an attack: Destroy that attacking monster, and if you do, inflict damage to your opponent equal to half the original ATK of that monster.
+Traptrix Trap Hole Nightmare		Trap Card	None	Normal	0	0	0	When a monster that was Special Summoned this turn activates its effect on your opponent's field: Negate that effect, and if you do, destroy that card.
+Treacherous Trap Hole		Trap Card	None	Normal	0	0	0	If you have no Trap Cards in your Graveyard: Target 2 monsters on the field; destroy those targets.
+Void Trap Hole		Trap Card	None	Normal	0	0	0	When your opponent Special Summons a monster(s) with 2000 or more ATK: Negate the effects of 1 of those monsters with 2000 or more ATK, and if you do, destroy it.
+Terrifying Trap Hole Nightmare		Trap Card	None	Normal	0	0	0	If your opponent has Special Summoned a monster(s) this turn: Target 1 monster your opponent controls with 2000 or more ATK; destroy it, then if you have a "Hole" Normal Trap in your GY, you can banish 1 monster from your opponent's GY. You can only activate 1 "Terrifying Trap Hole Nightmare" per turn.
+Traptrix Arachnocampa		Effect Monster	EARTH	Insect	4	1300	1500	Unaffected by the effects of "Hole" Normal Traps. The first time each Set card in your Spell & Trap Zone would be destroyed by card effect each turn, it is not destroyed. During the Main Phase, if you control a "Traptrix" monster (Quick Effect): You can Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except Insect or Plant monsters. You can only use this effect of "Traptrix Arachnocampa" once per turn.
+Traptrix Atrax		Effect Monster	EARTH	Insect	4	1800	1000	This card is unaffected by the effects of "Hole" Normal Trap Cards. You can activate "Hole" Normal Trap Cards from your hand. The activation and effects of Normal Trap Cards activated on your side of the field cannot be negated.
+Traptrix Cularia		Link Monster	EARTH	Plant	None	1800	None	2 Insect and/or Plant monsters This Link Summoned card is unaffected by Trap effects. You can only use each of the following effects of "Traptrix Cularia" once per turn. After you activate a "Hole" Normal Trap Card, you can Set it instead of sending it to the GY. During your End Phase: You can target 1 "Traptrix" monster in your GY; Special Summon it in Defense Position.
+Traptrix Dionaea		Effect Monster	EARTH	Plant	4	1700	1100	This card is unaffected by the effects of "Hole" Normal Trap Cards. When this card is Normal Summoned: You can target 1 "Traptrix" monster in your Graveyard; Special Summon that target in Defense Position. When this card is Special Summoned: You can target 1 "Hole" Normal Trap Card in your Graveyard; Set that target, but banish it during the End Phase of your next turn if it is still on the field. You can only use this effect of "Traptrix Dionaea" once per turn.
+Traptrix Genlisea		Effect Monster	EARTH	Plant	4	1200	1600	Unaffected by the effects of "Hole" Normal Traps. You can Tribute this card; Set 2 "Hole" Normal Traps with different names, 1 from your Deck and 1 from your GY, but banish them when they leave the field. You can only use this effect of "Traptrix Genlisea" once per turn.
+Traptrix Myrmeleo		Effect Monster	EARTH	Insect	4	1600	1200	This card is unaffected by the effects of "Hole" Normal Trap Cards. When this card is Normal Summoned: You can add 1 "Hole" Normal Trap Card from your Deck to your hand. If this card is Special Summoned: Target 1 Spell/Trap Card your opponent controls; destroy that target.
+Traptrix Nepenthes		Effect Monster	EARTH	Plant	4	800	2000	This card is unaffected by the effects of "Hole" Normal Trap Cards. If you activate a "Hole" Normal Trap Card (except during the Damage Step): You can add to your hand, or Special Summon, 1 "Traptrix" monster from your Deck, except "Traptrix Nepenthes". You can only use this effect of "Traptrix Nepenthes" once per turn.
+Traptrix Pudica		Effect Monster	EARTH	Plant	4	900	1900	Unaffected by the effects of "Hole" Normal Traps. You can only use each of the following effects of "Traptrix Pudica" once per turn. When this card is Normal Summoned: You can add 1 "Traptrip Garden" from your Deck to your hand. If this card is Special Summoned: You can target 1 Special Summoned monster your opponent controls; banish it, also during the next Standby Phase, your opponent can Special Summon 1 of their banished monsters.
+Traptrix Rafflesia		XYZ Monster	EARTH	Plant	4	300	2500	2 Level 4 monsters This card is unaffected by Trap effects while it has Xyz Material. "Traptrix" monsters you control, except "Traptrix Rafflesia", cannot be destroyed by battle or card effects. Your opponent cannot target "Traptrix" monsters you control, except "Traptrix Rafflesia", with card effects. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card and send 1 "Hole" Normal Trap Card that meets its activation conditions from your Deck to the Graveyard; this effect becomes that Trap Card's effect when that card is activated.
+Traptrix Sera		Link Monster	EARTH	Plant	None	800	None	1 non-Link "Traptrix" monster This Link Summoned card is unaffected by Trap effects. You can only use each of the following effects of "Traptrix Sera" once per turn, and not during the Damage Step. ● If a Normal Trap Card is activated: You can Special Summon 1 "Traptrix" monster from your Deck with a different name than the cards you control. ● If your other "Traptrix" monster's effect is activated: You can Set 1 "Hole" Normal Trap directly from the Deck.
+Traptrix Vesiculo		Effect Monster	EARTH	Plant	4	1400	1400	Unaffected by the effects of "Hole" Normal Traps. You can only use 1 of the following effects of "Traptrix Vesiculo" per turn, and only once that turn. You can send 1 Set Trap you control to the GY; Special Summon this card from your hand. If you control no cards in your Spell & Trap Zone: You can banish this card from your GY, then target 1 "Hole" Normal Trap in your GY; Set it to your field.
+Goblin Pothole Squad		Effect Monster	EARTH	Warrior	4	1500	400	When this card is Normal Summoned, Trap Cards cannot be activated. Also, "Trap Hole" Trap Cards cannot be activated when a monster is Summoned, except "Dark Trap Hole".
+Traptrix Atrax		Effect Monster	EARTH	Insect	4	1800	1000	This card is unaffected by the effects of "Hole" Normal Trap Cards. You can activate "Hole" Normal Trap Cards from your hand. The activation and effects of Normal Trap Cards activated on your side of the field cannot be negated.
+Traptrix Dionaea		Effect Monster	EARTH	Plant	4	1700	1100	This card is unaffected by the effects of "Hole" Normal Trap Cards. When this card is Normal Summoned: You can target 1 "Traptrix" monster in your Graveyard; Special Summon that target in Defense Position. When this card is Special Summoned: You can target 1 "Hole" Normal Trap Card in your Graveyard; Set that target, but banish it during the End Phase of your next turn if it is still on the field. You can only use this effect of "Traptrix Dionaea" once per turn.
+Traptrix Genlisea		Effect Monster	EARTH	Plant	4	1200	1600	Unaffected by the effects of "Hole" Normal Traps. You can Tribute this card; Set 2 "Hole" Normal Traps with different names, 1 from your Deck and 1 from your GY, but banish them when they leave the field. You can only use this effect of "Traptrix Genlisea" once per turn.
+Traptrix Mantis		Effect Monster	EARTH	Insect	4	1500	1300	When this card is Normal Summoned: You can add 1 "Traptrix" monster from your Deck to your hand. Unaffected by the effects of "Hole" Normal Traps. Once per turn (Quick Effect): You can target 1 Set Spell/Trap you control; return that target to the hand, then you can Set 1 Spell/Trap from your hand.
+Traptrix Myrmeleo		Effect Monster	EARTH	Insect	4	1600	1200	This card is unaffected by the effects of "Hole" Normal Trap Cards. When this card is Normal Summoned: You can add 1 "Hole" Normal Trap Card from your Deck to your hand. If this card is Special Summoned: Target 1 Spell/Trap Card your opponent controls; destroy that target.
+Traptrix Nepenthes		Effect Monster	EARTH	Plant	4	800	2000	This card is unaffected by the effects of "Hole" Normal Trap Cards. If you activate a "Hole" Normal Trap Card (except during the Damage Step): You can add to your hand, or Special Summon, 1 "Traptrix" monster from your Deck, except "Traptrix Nepenthes". You can only use this effect of "Traptrix Nepenthes" once per turn.
