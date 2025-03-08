@@ -4704,12 +4704,18 @@ f2.close()
 #         output.write('\n')
 # output.close()
 
-# offset = 0x08510640
-# pal_offset = 0x084C76C0
-# for card_index in range(len(data.cards.stats)):
-#     output.write('gCardGraphics' + re.sub(r'\W+', '', data.cards.stats[card_index].card) + ' ' + hex(offset).replace('0x', '') + ' ' + hex(pal_offset).replace('0x', '') + ' 0x12C0 1\n')
-#     offset += 4800
-#     pal_offset += 128
+offset = 0x08510640
+pal_offset = 0x084C76C0
+for card_index in range(len(data.cards.stats)):
+    # output.write('gCardGraphics' + re.sub(r'\W+', '', data.cards.stats[card_index].card) + ' ' + hex(offset).replace('0x', '') + ' ' + hex(pal_offset).replace('0x', '') + ' 0x12C0 1\n')
+    output.write('	"graphics/Resize/gCardGraphics' + re.sub(r'\W+', '', data.cards.stats[card_index].card) + '.6bpp",\n')
+    offset += 4800
+    pal_offset += 128
+    if data.cards.stats[card_index].editedartwork == 'Yes':
+        # output.write('gCardGraphics' + re.sub(r'\W+', '', data.cards.stats[card_index].card) + 'Edited ' + hex(offset).replace('0x', '') + ' ' + hex(pal_offset).replace('0x', '') + ' 0x12C0 1\n')
+        output.write('	"graphics/Resize/gCardGraphics' + re.sub(r'\W+', '', data.cards.stats[card_index].card) + 'Edited.6bpp",\n')
+        offset += 4800
+        pal_offset += 128
 
 # count = 0
 # for card_index in range(len(data.cards.stats)):
