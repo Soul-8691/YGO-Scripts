@@ -4645,7 +4645,7 @@ retro_c2a = [
 
 output = open('output.txt', 'w', encoding='utf8')
 
-for card in retro_c2a:
+for card in card_info:
     # count = 0
     # for set in data2[card]:
     #     try:
@@ -4691,3 +4691,14 @@ for card in retro_c2a:
 
 f.close()
 f2.close()
+
+# output = open('output.txt', 'w', encoding='utf8')
+# offset = 0x15BF724
+# rom = open('Ultimate_Masters_English.gba', 'rb')
+# for card_index in range(len(data.cards.descriptions.pointers)):
+#     try:
+#         rom.seek(offset + data.cards.descriptions.pointers[card_index].offset)
+#         output.write(rom.read(data.cards.descriptions.pointers[card_index + 1].offset - data.cards.descriptions.pointers[card_index].offset).decode('utf-8') + '\n')
+#     except:
+#         output.write('\n')
+# output.close()
