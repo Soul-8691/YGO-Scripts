@@ -3,6 +3,7 @@ from dateutil import parser
 from datetime import *
 import traceback
 import logging
+import struct
 
 f = open('YGOProDeck_Card_Info.json')
 f2 = open('Set_Chronology.json')
@@ -4609,43 +4610,86 @@ trap_hole = [
     "Traptrix Nepenthes"
 ]
 
-retro_c2a = [
+c2a = [
+    "Advanced Ritual Art",
     "Allure of Darkness",
     "Armageddon Knight",
+    "Bingo Machine, Go!!!",
+    "Blue-Eyes Abyss Dragon",
+    "Blue-Eyes Alternative White Dragon",
+    "Blue-Eyes Chaos Dragon",
+    "Blue-Eyes Jet Dragon",
+    "Blue-Eyes Shining Dragon",
+    "Blue-Eyes Twin Burst Dragon",
+    "Blue-Eyes Tyrant Dragon",
+    "Burst Stream of Destruction",
     "Caius the Shadow Monarch",
+    "Card Trooper",
+    "Chaos Form",
+    "Chimeratech Overdragon",
+    "Chronicle Sorceress",
     "Cipher Soldier",
     "Cyber Valley",
     "D.D. Crow",
+    "Dark Eruption",
     "Dark Grepher",
+    "Deep Diver",
     "Destiny Draw",
     "Destiny HERO - Dasher",
     "Destiny HERO - Disk Commander",
+    "Dictator of D.",
+    "Dimensional Fissure",
+    "Dragon Shrine",
     "Elemental HERO Prisma",
     "Elemental HERO Stratos",
     "Escape from the Dark Dimension",
+    "Fusion Reserve",
+    "Future Fusion",
     "Gladiator Beast Bestiari",
     "Gladiator Beast Darius",
+    "Gladiator Beast Gaiodiaz",
     "Gladiator Beast Gyzarus",
     "Gladiator Beast Heraklinos",
     "Gladiator Beast Laquari",
     "Gladiator Beast Murmillo",
     "Gladiator Beast Secutor",
+    "Gold Sarcophagus",
+    "Light and Darkness Dragon",
     "Light-Imprisoning Mirror",
     "Lightning Vortex",
     "Lyla, Lightsworn Sorceress",
     "Macro Cosmos",
+    "Maiden with Eyes of Blue",
+    "Majesty of the White Dragons",
+    "Majesty with Eyes of Blue",
+    "Malevolent Catastrophe",
+    "Master with Eyes of Blue",
+    "Neo Kaiser Sea Horse",
     "Neo-Spacian Dark Panther",
     "Prime Material Dragon",
     "Prometheus, King of the Shadows",
+    "Protector with Eyes of Blue",
     "Pulling the Rug",
+    "Rage with Eyes of Blue",
+    "Rider of the Storm Winds",
+    "Roar of the Blue-Eyed Dragons",
     "Royal Oppression",
     "Ryko, Lightsworn Hunter",
+    "Sage with Eyes of Blue",
     "Shadow-Imprisoning Mirror",
+    "Silver's Cry",
+    "Strength in Unity",
+    "The Melody of Awakening Dragon",
+    "The White Stone of Ancients",
+    "The White Stone of Legend",
+    "True Light",
+    "Ultimate Fusion",
+    "Vision with Eyes of Blue"
 ]
 
 output = open('output.txt', 'w', encoding='utf8')
 
-for card in reaper_:
+for card in c2a:
     # count = 0
     # for set in data2[card]:
     #     try:
@@ -4685,8 +4729,7 @@ for card in reaper_:
         passw = str(card_info[card]['id']).zfill(8)
         monster_type = card_info[card]['type'].replace(' Monster', '').replace(' Card', '')
         race = card_info[card]['race']
-        if card not in wct06:
-            output.write(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + desc.replace('\r\n', ' ').replace('\n', ' ') + '\n')
+        output.write(card + '\t' + card_info[card]['type'] + '\t' + attribute + '\t' + card_info[card]['race'] + '\t' + str(level) + '\t' + str(atk) + '\t' + str(defn) + '\t' + desc.replace('\r\n', ' ').replace('\n', ' ') + '\n')
     except:
         print(traceback.format_exc())
 
@@ -10967,10 +11010,9 @@ card_names_ = [
     "zombyra the dark",
     "zure, knight of dark world"
 ]
-for card_index in name_indexes:
-    print(card_index)
 
-import struct
+# for card_index in name_indexes:
+#     print(card_index)
 
 def to_little_endian(value, format_string):
     """Converts a value to its little-endian byte representation.
