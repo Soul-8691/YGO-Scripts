@@ -4,6 +4,7 @@ from datetime import *
 import traceback
 import logging
 import struct
+import re
 
 f = open('YGOProDeck_Card_Info.json')
 f2 = open('Set_Chronology.json')
@@ -11050,3 +11051,21 @@ for value in little_endian_values:
     # print(value.hex())
     pass
 # Expected output (platform dependent): [b'\x01\x00', b'\x02\x00', b'\x03\x00', b'\xff\x00', b'\xff\xff']
+
+# output = open('output.txt', 'w', encoding='utf8')
+# offset = 0x1326700
+# for card_index in range(len(data.cards.stats)):
+#   output.write("[[NamedAnchors]]\nName = '''graphics.icons.small.straight" + re.sub(r'\W+', '', data.cards.stats[card_index].card).lower() + "\nAddress = 0x" + hex(offset) + "\nFormat = '''`ucs8x4x6|graphics.icons.palette`'''\n\n")
+#   offset += 0x240
+#   output.write("[[NamedAnchors]]\nName = '''graphics.icons.small.side" + re.sub(r'\W+', '', data.cards.stats[card_index].card).lower() + "\nAddress = 0x" + hex(offset) + "\nFormat = '''`ucs8x4x6|graphics.icons.palette`'''\n\n")
+#   offset += 0x240
+# output.close()
+
+wct06mod = [
+
+]
+
+count = 1
+for card in wct06:
+   print('#define CARD_NUMBER_' + re.sub(r'\W+', '_', card.upper()) + ' ' + str(count))
+   count += 1
