@@ -11052,14 +11052,30 @@ for value in little_endian_values:
     pass
 # Expected output (platform dependent): [b'\x01\x00', b'\x02\x00', b'\x03\x00', b'\xff\x00', b'\xff\xff']
 
-# output = open('output.txt', 'w', encoding='utf8')
-# offset = 0x1326700
-# for card_index in range(len(data.cards.stats)):
-#   output.write("[[NamedAnchors]]\nName = '''graphics.icons.small.straight" + re.sub(r'\W+', '', data.cards.stats[card_index].card).lower() + "\nAddress = 0x" + hex(offset) + "\nFormat = '''`ucs8x4x6|graphics.icons.palette`'''\n\n")
-#   offset += 0x240
-#   output.write("[[NamedAnchors]]\nName = '''graphics.icons.small.side" + re.sub(r'\W+', '', data.cards.stats[card_index].card).lower() + "\nAddress = 0x" + hex(offset) + "\nFormat = '''`ucs8x4x6|graphics.icons.palette`'''\n\n")
-#   offset += 0x240
-# output.close()
+output = open('output.txt', 'w', encoding='utf8')
+offset = 0xFBC080
+for card_index in range(len(data.cards.stats)):
+  output.write("[[NamedAnchors]]\nName = '''graphics.icons.large." + re.sub(r'\W+', '', data.cards.stats[card_index].card).lower() + "\nAddress = " + hex(offset) + "\nFormat = '''`ucs8x4x6|graphics.icons.palette`'''\n\n")
+  offset += 0x600
+  if data.cards.stats[card_index].editedartwork == 'Yes':
+    output.write("[[NamedAnchors]]\nName = '''graphics.icons.large.edited." + re.sub(r'\W+', '', data.cards.stats[card_index].card).lower() + "\nAddress = " + hex(offset) + "\nFormat = '''`ucs8x4x6|graphics.icons.palette`'''\n\n")
+    offset += 0x600
+output.close()
+
+output = open('output.txt', 'w', encoding='utf8')
+offset = 0x1326280
+for card_index in range(len(data.cards.stats)):
+  output.write("[[NamedAnchors]]\nName = '''graphics.icons.small.straight." + re.sub(r'\W+', '', data.cards.stats[card_index].card).lower() + "\nAddress = " + hex(offset) + "\nFormat = '''`ucs8x3x3|graphics.icons.palette`'''\n\n")
+  offset += 0x240
+  if data.cards.stats[card_index].editedartwork == 'Yes':
+    output.write("[[NamedAnchors]]\nName = '''graphics.icons.small.edited.straight." + re.sub(r'\W+', '', data.cards.stats[card_index].card).lower() + "\nAddress = " + hex(offset) + "\nFormat = '''`ucs8x3x3|graphics.icons.palette`'''\n\n")
+    offset += 0x240
+  output.write("[[NamedAnchors]]\nName = '''graphics.icons.small.side." + re.sub(r'\W+', '', data.cards.stats[card_index].card).lower() + "\nAddress = " + hex(offset) + "\nFormat = '''`ucs8x3x3|graphics.icons.palette`'''\n\n")
+  offset += 0x240
+  if data.cards.stats[card_index].editedartwork == 'Yes':
+    output.write("[[NamedAnchors]]\nName = '''graphics.icons.small.edited.side." + re.sub(r'\W+', '', data.cards.stats[card_index].card).lower() + "\nAddress = " + hex(offset) + "\nFormat = '''`ucs8x3x3|graphics.icons.palette`'''\n\n")
+    offset += 0x240
+output.close()
 
 wct06mod = [
 
