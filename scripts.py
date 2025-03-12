@@ -11077,6 +11077,31 @@ for value in little_endian_values:
 #     offset += 0x240
 # output.close()
 
+for card_index in range(len(data.cards.effects3)):
+  if data.cards.effects3[card_index].effect1 != -134217728:
+      data.cards.effects3[card_index].effect1 = -134217728
+  if data.cards.effects3[card_index].effect2 != -134217728:
+      data.cards.effects3[card_index].effect2 = -134217728
+  if data.cards.effects3[card_index].effect3 != -134217728:
+      data.cards.effects3[card_index].effect3 = -134217728
+  if data.cards.effects3[card_index].effect4 != -134217728:
+      data.cards.effects3[card_index].effect4 = -134217728
+  if data.cards.effects3[card_index].effect5 != -134217728:
+      data.cards.effects3[card_index].effect5 = -134217728
+
+for card_index in range(len(data.cards.specialsummon)):
+  if data.cards.specialsummon[card_index].effect1 != -134217728:
+      data.cards.specialsummon[card_index].effect1 = -134217728
+  if data.cards.specialsummon[card_index].effect2 != -134217728:
+      data.cards.specialsummon[card_index].effect2 = -134217728
+
+for card_index in range(len(data.cards.searchers)):
+  if data.cards.searchers[card_index].effect != -134217728:
+      data.cards.searchers[card_index].effect = -134217728
+
+for card_index in range(len(data.cards.flip)):
+  data.cards.flip[card_index].card = 65535
+
 wct06mod = [
 
 ]
