@@ -4688,9 +4688,104 @@ c2a = [
     "Vision with Eyes of Blue"
 ]
 
+ninja = [
+    "Air Armor Ninja",
+    "Aqua Armor Ninja",
+    "Armed Ninja",
+    "Baku the Beast Ninja",
+    "Bat, the Forest Ninja",
+    "Black Dragon Ninja",
+    "Blade Armor Ninja",
+    "Blue Dragon Ninja",
+    "Crimson Ninja",
+    "Earth Armor Ninja",
+    "Flame Armor Ninja",
+    "Goe Goe the Gallant Ninja",
+    "Green Ninja",
+    "Jioh the Gravity Ninja",
+    "Kagero the Cannon Ninja",
+    'Karakuri Ninja mdl 339 "Sazank"',
+    'Karakuri Ninja mdl 7749 "Nanashick"',
+    'Karakuri Ninja mdl 919 "Kuick"',
+    "Lady Ninja Yae",
+    "Masked Ninja Ebisu",
+    "Meizen the Battle Ninja",
+    "Mitsu the Insect Ninja",
+    "Nazuki the Vaylantz Ninja",
+    "Ninja Grandmaster Hanzo",
+    "Ninja Grandmaster Saizo",
+    "Ninja Grandmaster Sasuke",
+    "Number 2: Ninja Shadow Mosquito",
+    "Number 12: Crimson Shadow Armor Ninja",
+    "Penguin Ninja",
+    "Red Dragon Ninja",
+    "Senior Silver Ninja",
+    "Strike Ninja",
+    "Superheavy Samurai Ninja Sarutobi",
+    "Superheavy Samurai Stealth Ninja",
+    "Tobari the Sky Ninja",
+    "Twilight Ninja Getsuga, the Shogun",
+    "Twilight Ninja Jogen",
+    "Twilight Ninja Kagen",
+    "Twilight Ninja Nichirin, the Chunin",
+    "Twilight Ninja Shingetsu",
+    "Upstart Golden Ninja",
+    "White Dragon Ninja",
+    "White Ninja",
+    "Yaguramaru the Armor Ninja",
+    "Yellow Dragon Ninja",
+    "Yellow Ninja",
+    "Air Armor Ninja",
+    "Aqua Armor Ninja",
+    "Armor Ninjitsu Art of Freezing",
+    "Armor Ninjitsu Art of Rust Mist",
+    "Baku the Beast Ninja",
+    "Black Dragon Ninja",
+    "Blade Armor Ninja",
+    "Blue Dragon Ninja",
+    "Flame Armor Ninja",
+    "Fuhma Shuriken",
+    "Hidden Village of Ninjitsu Arts",
+    "Kagero the Cannon Ninja",
+    "Masked Ninja Ebisu",
+    "Meizen the Battle Ninja",
+    "Mitsu the Insect Ninja",
+    "Ninja Grandmaster Hanzo",
+    "Ninja Grandmaster Saizo",
+    "Ninjitsu Art Notebook",
+    "Ninjitsu Art Notebook of Mystery",
+    "Ninjitsu Art of Dancing Leaves",
+    "Ninjitsu Art of Decoy",
+    "Ninjitsu Art of Duplication",
+    "Ninjitsu Art of Mirage-Transformation",
+    "Ninjitsu Art of Shadow Sealing",
+    "Ninjitsu Art of Super-Transformation",
+    "Ninjitsu Art of Transformation",
+    "Ninjitsu Art Tool - Iron Digger",
+    "Number 12: Crimson Shadow Armor Ninja",
+    "Red Dragon Ninja",
+    "Senior Silver Ninja",
+    "Tenchi Kaimei",
+    "Tobari the Sky Ninja",
+    "Twilight Ninja Getsuga, the Shogun",
+    "Twilight Ninja Jogen",
+    "Twilight Ninja Kagen",
+    "Twilight Ninja Nichirin, the Chunin",
+    "Twilight Ninja Shingetsu",
+    "Upstart Golden Ninja",
+    "Yaguramaru the Armor Ninja",
+    "Yellow Dragon Ninja",
+    "Yellow Ninja",
+    "Ninjitsu Art of Dancing Leaves",
+    "Armor Ninjitsu Art of Alchemy",
+    "Fairy Tale Prologue: Journey's Dawn",
+    "Nin-Ken Dog",
+    "Ninjitsu Art of Mosquito Marching"
+]
+
 output = open('output.txt', 'w', encoding='utf8')
 
-for card in c2a:
+for card in ninja:
     # count = 0
     # for set in data2[card]:
     #     try:
@@ -11077,30 +11172,30 @@ for value in little_endian_values:
 #     offset += 0x240
 # output.close()
 
-for card_index in range(len(data.cards.effects3)):
-  if data.cards.effects3[card_index].effect1 != -134217728:
-      data.cards.effects3[card_index].effect1 = -134217728
-  if data.cards.effects3[card_index].effect2 != -134217728:
-      data.cards.effects3[card_index].effect2 = -134217728
-  if data.cards.effects3[card_index].effect3 != -134217728:
-      data.cards.effects3[card_index].effect3 = -134217728
-  if data.cards.effects3[card_index].effect4 != -134217728:
-      data.cards.effects3[card_index].effect4 = -134217728
-  if data.cards.effects3[card_index].effect5 != -134217728:
-      data.cards.effects3[card_index].effect5 = -134217728
+# for card_index in range(len(data.cards.effects3)):
+#   if data.cards.effects3[card_index].effect1 != -134217728:
+#       data.cards.effects3[card_index].effect1 = -134217728
+#   if data.cards.effects3[card_index].effect2 != -134217728:
+#       data.cards.effects3[card_index].effect2 = -134217728
+#   if data.cards.effects3[card_index].effect3 != -134217728:
+#       data.cards.effects3[card_index].effect3 = -134217728
+#   if data.cards.effects3[card_index].effect4 != -134217728:
+#       data.cards.effects3[card_index].effect4 = -134217728
+#   if data.cards.effects3[card_index].effect5 != -134217728:
+#       data.cards.effects3[card_index].effect5 = -134217728
 
-for card_index in range(len(data.cards.specialsummon)):
-  if data.cards.specialsummon[card_index].effect1 != -134217728:
-      data.cards.specialsummon[card_index].effect1 = -134217728
-  if data.cards.specialsummon[card_index].effect2 != -134217728:
-      data.cards.specialsummon[card_index].effect2 = -134217728
+# for card_index in range(len(data.cards.specialsummon)):
+#   if data.cards.specialsummon[card_index].effect1 != -134217728:
+#       data.cards.specialsummon[card_index].effect1 = -134217728
+#   if data.cards.specialsummon[card_index].effect2 != -134217728:
+#       data.cards.specialsummon[card_index].effect2 = -134217728
 
-for card_index in range(len(data.cards.searchers)):
-  if data.cards.searchers[card_index].effect != -134217728:
-      data.cards.searchers[card_index].effect = -134217728
+# for card_index in range(len(data.cards.searchers)):
+#   if data.cards.searchers[card_index].effect != -134217728:
+#       data.cards.searchers[card_index].effect = -134217728
 
-for card_index in range(len(data.cards.flip)):
-  data.cards.flip[card_index].card = 65535
+# for card_index in range(len(data.cards.flip)):
+#   data.cards.flip[card_index].card = 65535
 
 wct06mod = [
 
