@@ -4613,80 +4613,39 @@ trap_hole = [
 ]
 
 c2a = [
-    "Advanced Ritual Art",
-    "Allure of Darkness",
-    "Armageddon Knight",
-    "Bingo Machine, Go!!!",
-    "Blue-Eyes Abyss Dragon",
-    "Blue-Eyes Alternative White Dragon",
-    "Blue-Eyes Chaos Dragon",
-    "Blue-Eyes Jet Dragon",
-    "Blue-Eyes Shining Dragon",
-    "Blue-Eyes Twin Burst Dragon",
-    "Blue-Eyes Tyrant Dragon",
-    "Burst Stream of Destruction",
-    "Caius the Shadow Monarch",
-    "Card Trooper",
+    "Dimension Conjurer",
+    "Magikuriboh",
+    "Magicians' Souls",
+    "Magician's Robe",
+    "Magician's Rod",
+    "Chronicle Magician",
+    "Dark Eradicator Warlock",
+    "Palladium Oracle Mahad",
+    "Magician of Dark Illusion",
+    "Timaeus the United Dragon",
+    "Dark Magician Girl the Dragon Knight",
+    "Dark Magician the Dragon Knight",
+    "Master of Chaos",
+    "Red-Eyes Dark Dragoon",
+    "Amulet Dragon",
+    "Dark Magician the Knight of Dragon Magic",
+    "Dark Cavalry",
+    "The Dark Magicians",
+    "Magician of Chaos",
+    "Illusion of Chaos",
     "Chaos Form",
-    "Chimeratech Overdragon",
-    "Chronicle Sorceress",
-    "Cipher Soldier",
-    "Cyber Valley",
-    "D.D. Crow",
-    "Dark Eruption",
-    "Dark Grepher",
-    "Deep Diver",
-    "Destiny Draw",
-    "Destiny HERO - Dasher",
-    "Destiny HERO - Disk Commander",
-    "Dictator of D.",
-    "Dimensional Fissure",
-    "Dragon Shrine",
-    "Elemental HERO Prisma",
-    "Elemental HERO Stratos",
-    "Escape from the Dark Dimension",
-    "Fusion Reserve",
-    "Future Fusion",
-    "Gladiator Beast Bestiari",
-    "Gladiator Beast Darius",
-    "Gladiator Beast Gaiodiaz",
-    "Gladiator Beast Gyzarus",
-    "Gladiator Beast Heraklinos",
-    "Gladiator Beast Laquari",
-    "Gladiator Beast Murmillo",
-    "Gladiator Beast Secutor",
-    "Gold Sarcophagus",
-    "Light and Darkness Dragon",
-    "Light-Imprisoning Mirror",
-    "Lightning Vortex",
-    "Lyla, Lightsworn Sorceress",
-    "Macro Cosmos",
-    "Maiden with Eyes of Blue",
-    "Majesty of the White Dragons",
-    "Majesty with Eyes of Blue",
-    "Malevolent Catastrophe",
-    "Master with Eyes of Blue",
-    "Neo Kaiser Sea Horse",
-    "Neo-Spacian Dark Panther",
-    "Prime Material Dragon",
-    "Prometheus, King of the Shadows",
-    "Protector with Eyes of Blue",
-    "Pulling the Rug",
-    "Rage with Eyes of Blue",
-    "Rider of the Storm Winds",
-    "Roar of the Blue-Eyed Dragons",
-    "Royal Oppression",
-    "Ryko, Lightsworn Hunter",
-    "Sage with Eyes of Blue",
-    "Shadow-Imprisoning Mirror",
-    "Silver's Cry",
-    "Strength in Unity",
-    "The Melody of Awakening Dragon",
-    "The White Stone of Ancients",
-    "The White Stone of Legend",
-    "True Light",
-    "Ultimate Fusion",
-    "Vision with Eyes of Blue"
+    "Dark Burning Magic",
+    "Dark Magic Attack",
+    "Dark Magic Expanded",
+    "Dark Magic Veil",
+    "Dark Magical Circle",
+    "Illusion Magic",
+    "Secrets of Dark Magic",
+    "Soul Servant",
+    "The Eye of Timaeus",
+    "Dark Renewal",
+    "Magician Navigation",
+    "Miracle Restoring"
 ]
 
 ninja = [
@@ -4786,7 +4745,7 @@ ninja = [
 
 output = open('output.txt', 'w', encoding='utf8')
 
-for card in ninja:
+for card in c2a:
     # count = 0
     # for set in data2[card]:
     #     try:
@@ -13309,16 +13268,16 @@ indexes_actual = [
     6638
 ]
 
-count = 1
-count_ = 1
-for card_index in range(len(data.cards.stats)):
-    if Counter(wct06)[data.cards.stats[card_index].card] == 1:
-        output.write('#define CARD_' + re.sub(r'\W+', '_', data.cards.stats[card_index].card.upper()) + ' ' + str(indexes[count]) + '\n')
-        count_ = 1
-    else:
-        output.write('#define CARD_' + re.sub(r'\W+', '_', data.cards.stats[card_index].card.upper()) + '_' + str(count_) + ' ' + str(indexes[count]) + '\n')
-        count_ += 1
-    count += 1
+# count = 1
+# count_ = 1
+# for card_index in range(len(data.cards.stats)):
+#     if Counter(wct06)[data.cards.stats[card_index].card] == 1:
+#         output.write('#define CARD_' + re.sub(r'\W+', '_', data.cards.stats[card_index].card.upper()) + ' ' + str(indexes[count]) + '\n')
+#         count_ = 1
+#     else:
+#         output.write('#define CARD_' + re.sub(r'\W+', '_', data.cards.stats[card_index].card.upper()) + '_' + str(count_) + ' ' + str(indexes[count]) + '\n')
+#         count_ += 1
+#     count += 1
 
 # count = 1
 # output = open('output.txt', 'w', encoding='utf8')
