@@ -14848,7 +14848,7 @@ card_list = [
     "Corpse of Yata-Garasu",
     "Marshmallon glasses",
     "Earthbound Spirit's Invitation",
-    "Future Fusion",
+    "Mokey Mokey",
     "Gigobyte",
     "Kozaky",
     "Fiend Scorpion",
@@ -14914,7 +14914,7 @@ card_list = [
     "Charcoal Inpachi",
     "Neo Aqua Madoor",
     "Skull Dog Marron",
-    "Advanced Ritual Art",
+    "Goblin Calligrapher",
     "Ultimate Insect LV1",
     "Horus the Black Flame Dragon LV4",
     "Horus the Black Flame Dragon LV6",
@@ -16963,7 +16963,7 @@ card_descriptions = [
     '''Select one of the following effects: @4 @7Draw one card from your Deck. @4 @7Draw 2 cards from your Deck. (This effect can only be activated when there is a Spirit Monster face-up on your opponent's Field.)''',
     '''While this card and @5"Marshmallon"@7 are face-up on your Field, your opponent cannot attack any card except @5"Marshmallon"@7.''',
     '''Can be activated when an opponent's Monster attacks. The owner of this card selects the target of the attacker.''',
-    '''During your 1st Standby Phase after this card's activation: Show 1 Fusion Monster in your Extra Deck and send the Fusion Materials listed on it from your Main Deck to the GY. During your 2nd Standby Phase after this card's activation: Fusion Summon 1 Fusion Monster from your Extra Deck with the same name as the monster you showed, and target it with this card. When this card leaves the field, destroy that target. When that target is destroyed, destroy this card.''',
+    '''An outcast angel. Nobody knows what he is thinking at all. Sometimes he gets mad and that is dreadful.''',
     '''He has a tranquil soul, but carries a destiny that one day his heart shall be tainted by evil..''',
     '''A workaholic fiend who devotes everything to his research into the languages of Dark World. His mind has collapsed because of working too hard.''',
     '''A huge scorpion inhabited by the soul of a fiend. Usually it holds back, but has untapped potential.''',
@@ -17029,7 +17029,7 @@ card_descriptions = [
     '''A wicked wooden spirit that has burned out. The barbecue grilled with this charcoal is so awesome that everybody thinks it's priceless.''',
     '''The true nature of this wizard, who rules all water. It defends itself with a vast, impenetrable wall of ice.''',
     '''A lost dog that wandered off 1000 years ago. He's still waiting for his master to come for him.''',
-    '''This card is used to Ritual Summon any 1 Ritual Monster. You must also send Normal Monsters from your Deck to the GY whose total Levels equal the Level of that Ritual Monster.''',
+    '''A Goblin who devotes himself to mastering perfect calligraphy of the word "False". He gives his all to each stroke.''',
     '''As long as this card remains face-up on your side of the field, it is unaffected by any Spell Cards. During your Standby Phase, send this face-up card to the Graveyard to Special Summon 1 @5"Ultimate Insect LV3"@7 from your hand or Deck. (You cannot activate this effect the turn this card is Normal Summoned, Special Summoned, or flipped face-up.)''',
     '''As long as this card remains face-up on your side of the field, control of this card cannot switch. During the End Phase of a turn that this card destroyed a monster as a result of battle, send this card to the Graveyard to Special Summon 1 @5"Horus the Black Flame Dragon LV6"@7 from your hand or Deck.''',
     '''As long as this card remains face-up on your side of the field, it is unaffected by any Spell Cards. During the End Phase of a turn that this card destroyed a monster as a result of battle, send this card to the Graveyard to Special Summon 1 @5"Horus the Black Flame Dragon LV8"@7 from your hand or Deck.''',
@@ -17499,7 +17499,7 @@ card_descriptions = [
     '''Special Summon with the effect of @5"Dandylion"@7. This Token cannot be used as a Tribute for a Tribute Summon during the turn it is Special Summoned.'''
 ]
 
-count = 35440
+count = 35438
 for card_description in card_descriptions:
     # output_.write(card_description + '�')
     output_.write(str(count) + '\n')
