@@ -4737,6 +4737,7 @@ ninja = [
 ]
 
 output = open('output.txt', 'w', encoding='utf8')
+output_ = open('output_.txt', 'w', encoding='utf8')
 
 for card in c2a:
     # count = 0
@@ -15386,16 +15387,16 @@ card_list = [
 # count = 2
 # for card in card_list:
 #     if count % 2 == 0:
-#         # output.write(card)
+#         # output_.write(card)
 #         pass
 #     elif len(card) >= 0x1A:
-#         # output.write('�' + card)
+#         # output_.write('�' + card)
 #         count += 1
 #     else:
-#         # output.write(card)
+#         # output_.write(card)
 #         pass
-#     # output.write('�')
-#     output.write(str(count) + '\n')
+#     # output_.write('�')
+#     output_.write(str(count) + '\n')
 #     count += len(card) + 1
 
 card_descriptions = [
@@ -17500,6 +17501,6 @@ card_descriptions = [
 
 count = 35440
 for card_description in card_descriptions:
-    # output.write(card_description + '�')
-    output.write(str(count) + '\n')
+    # output_.write(card_description + '�')
+    output_.write(str(count) + '\n')
     count += len(card_description) + 1
