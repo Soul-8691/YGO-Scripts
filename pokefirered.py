@@ -132,3 +132,9 @@ for card in card_info:
 # for card in card_info:
 #     output.write('#define ' + re.sub(r'\W+', '_', card_info[card]['name']).upper() + ' ' + str(count) + '\n')
 #     count += 1
+
+output_ = open('output.txt', 'w', encoding='utf8')
+count = 0
+for pack in list(set_chronology_tcg):
+    output_.write('#define PACK_TCG_' + re.sub(r'\W+', '_', set_chronology_tcg[pack][0].upper()) + ' ' + str(count) + '\n')
+    count += 1
