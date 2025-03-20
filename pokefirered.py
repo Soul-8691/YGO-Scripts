@@ -1,4 +1,5 @@
 import json
+import re
 from set_chronology import set_chronology_ocg, set_chronology_tcg
 
 f = open('YGOProDeck_Card_Info.json')
@@ -23,8 +24,7 @@ pack_types = [
     'Bundle',
     'Champion Pack',
     'Collector Box',
-    'Collector's Set',
-    'Collector's set',
+    "Collector's Set",
     'Collectors Pack',
     'Core Booster',
     'Deck',
@@ -65,7 +65,7 @@ pack_types = [
     'Speed Duel Sneak Peek',
     'Speed Duel Starter Deck',
     'Speed Duel Tournament Pack',
-    'Speed Duel collector's set',
+    "Speed Duel collector's set",
     'Speed Duel demo deck',
     'Speed Duel magazine promotion',
     'Speed Duel promotional card',
@@ -88,3 +88,47 @@ pack_types = [
     'Video Game promotion',
     'Video game promotion'
 ]
+
+output = open('output.c', 'w', encoding='utf8')
+
+# count = 0
+# for race in sorted(list(set(['TYPE_' + re.sub(r'\W+', '_', card_info[card]['type'].replace(" Monster", "").replace(" Card", "")).upper() for card in card_info]))):
+#     print('#define ' + race + ' ' + str(count))
+#     count += 1
+
+# count = 1
+# attributes = list()
+# for card in card_info:
+#     try:
+#         attributes.append('ATTRIBUTE_' + card_info[card]['attribute'].upper())
+#     except:
+#         pass
+
+# for attribute in sorted(list(set(attribute for attribute in attributes))):
+#     print('#define ' + attribute + ' ' + str(count))
+#     count += 1
+
+for card in card_info:
+    output.write("\t[" + re.sub(r'\W+', '_', card_info[card]['name']).upper() + "] =\n"
+                 + "\t{\n"
+                 + '\t\t.konamiID = "' + str(card_info[card]['id']) + '",\n'
+                 + '\t\t.cardName = "' + card_info[card]['name'].replace('"', '') + '",\n')
+    try:
+        output.write("\t\t.atk = " + str(card_info[card]['atk']) + ",\n"
+                    + "\t\t.defn = " + str(card_info[card]['def']) + ",\n"
+                    + "\t\t.level = " + str(card_info[card]['level']) + ",\n"
+                    + "\t\t.race = RACE_" + re.sub(r'\W+', '_', card_info[card]['race']).upper() + ",\n"
+                    + "\t\t.attribute = ATTRIBUTE_" + card_info[card]['attribute'] + ",\n")
+    except:
+        output.write("\t\t.atk = 0,\n"
+                    + "\t\t.defn = 0,\n"
+                    + "\t\t.level = 0,\n"
+                    + "\t\t.race = RACE_NONE,\n"
+                    + "\t\t.attribute = ATTRIBUTE_NONE,\n")
+    output.write("\t\t.type = TYPE_" + re.sub(r'\W+', '_', card_info[card]['type'].replace(" Monster", "").replace(" Card", "")).upper() + ",\n"
+                    + '\t},\n')
+
+# count = 0
+# for card in card_info:
+#     output.write('#define ' + re.sub(r'\W+', '_', card_info[card]['name']).upper() + ' ' + str(count) + '\n')
+#     count += 1
