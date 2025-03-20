@@ -2345,21 +2345,21 @@ set_chronology_tcg = {
     "DUAD": ["Duelist's Advance", "Core Booster", "4-Jul-25"],
 }
 
-f = open('YGOProDeck_Card_Info.json')
-data = json.load(f)
-card_info = {}
-for card_info_data in data['data']:
-    card_info[card_info_data['name']] = {}
-    try:
-        for card_set in card_info_data['card_sets']:
-            card_info[card_info_data['name']][card_set['set_name']] = card_set
-            try:
-                card_info[card_info_data['name']][card_set['set_name']]['set_chronology_tcg'] = set_chronology_tcg[card_set['set_name']]
-            except:
-                pass
-    except:
-        print(card_info_data['name'])
-json_object = json.dumps(card_info, indent=4)
-with open("Set_Chronology.json", "w") as outfile:
-    outfile.write(json_object)
-f.close()
+# f = open('YGOProDeck_Card_Info.json')
+# data = json.load(f)
+# card_info = {}
+# for card_info_data in data['data']:
+#     card_info[card_info_data['name']] = {}
+#     try:
+#         for card_set in card_info_data['card_sets']:
+#             card_info[card_info_data['name']][card_set['set_name']] = card_set
+#             try:
+#                 card_info[card_info_data['name']][card_set['set_name']]['set_chronology_tcg'] = set_chronology_tcg[card_set['set_name']]
+#             except:
+#                 pass
+#     except:
+#         print(card_info_data['name'])
+# json_object = json.dumps(card_info, indent=4)
+# with open("Set_Chronology.json", "w") as outfile:
+#     outfile.write(json_object)
+# f.close()
