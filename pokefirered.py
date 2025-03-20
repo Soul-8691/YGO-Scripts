@@ -111,11 +111,12 @@ output = open('output.c', 'w', encoding='utf8')
 for card in card_info:
     output.write("\t[" + re.sub(r'\W+', '_', card_info[card]['name']).upper() + "] =\n"
                  + "\t{\n"
-                 + '\t\t.konamiID = "' + str(card_info[card]['id']) + '",\n'
-                 + '\t\t.cardName = "' + card_info[card]['name'].replace('"', '') + '",\n')
+                 + '\t\t.konamiID = ' + str(card_info[card]['id']) + ',\n'
+                 + '\t\t.cardName = "' + card_info[card]['name'].replace('"', '') + '",\n'
+                 + '\t\t.cardDescription = "' + card_info[card]['desc'].replace('"', '').replace('\r\n', '').replace('\n', '') + '",\n')
     try:
-        output.write("\t\t.atk = " + str(card_info[card]['atk']) + ",\n"
-                    + "\t\t.defn = " + str(card_info[card]['def']) + ",\n"
+        output.write("\t\t.atk = " + str(int(card_info[card]['atk']/10)) + ",\n"
+                    + "\t\t.defn = " + str(int(card_info[card]['def']/10)) + ",\n"
                     + "\t\t.level = " + str(card_info[card]['level']) + ",\n"
                     + "\t\t.race = RACE_" + re.sub(r'\W+', '_', card_info[card]['race']).upper() + ",\n"
                     + "\t\t.attribute = ATTRIBUTE_" + card_info[card]['attribute'] + ",\n")
