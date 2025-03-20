@@ -805,7 +805,7 @@ set_chronology_ocg = {
     "20AP": ["20th Anniversary Pack 1st Wave", "Booster Pack", "17-Dec-16"],
     "PP19": ["Premium Pack 19", "Booster Pack", "17-Dec-16"],
     "VJMP": ["V Jump February 2017 promotional card", "Magazine promotion", "17-Dec-16"],
-    "SD31": ["Structure Deck: Pendulum Evolution", "structure Deck", "23-Dec-16"],
+    "SD31": ["Structure Deck: Pendulum Evolution", "Structure Deck", "23-Dec-16"],
     "AT17": ["Advanced Tournament Pack 2017 Vol.1", "Tournament Pack", "1-Jan-17"],
     "MACR": ["Maximum Crisis", "Core Booster", "14-Jan-17"],
     "VJMP": ["V Jump March 2017 promotional card", "Magazine promotion", "21-Jan-17"],
